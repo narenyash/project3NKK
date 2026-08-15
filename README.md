@@ -97,3 +97,14 @@ Open `http://localhost:5173`. Full API details in [`backend/README.md`](backend/
   comes from the trained logistic regression.
 - **Not perfect** — known weak spots are disclosed in [`EVALUATION.md`](EVALUATION.md),
   not hidden.
+
+## Contributors
+
+**[narenyash](https://github.com/narenyash)**
+Led Phase 1 dataset construction: normalized the three raw essay classes into a shared schema, built the sentence-level diffing pipeline for hybrid essays, ran quality/deduplication checks, and locked the stratified train/test split. Also drove the Phase 2 feature-extraction pipeline — GPT-2 perplexity and burstiness features, the n-gram repetition metric, and the corpus baseline/z-score normalization used to train the detection model.
+
+**[m-karthika14](https://github.com/m-karthika14)**
+Contributed to Phase 1 data collection and labeling — sourcing and organizing the human, AI, and hybrid essay sets and documenting known limitations honestly rather than papering over them. In Phase 2, worked on the sentence-segmentation fixes (junk-fragment filtering, apostrophe mis-split handling) that fed into the feature-extraction pipeline.
+
+**[KarthikKP2005](https://github.com/KarthikKP2005)**
+Contributed to Phase 1 topic-tagging and dataset balance checks, including the move to multi-model consensus tagging. In Phase 2, worked on the logistic regression model training and evaluation, including diagnosing the essay-wide vs. sentence-local feature limitations documented in `PHASE2_PROCESS.md`.
