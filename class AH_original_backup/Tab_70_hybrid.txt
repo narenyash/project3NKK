@@ -1,0 +1,41 @@
+Title: Efficiency-Driven Machine Learning: My Journey Towards Democratizing Research Artifacts
+
+A Passion for Efficient Machine Learning
+
+My academic pursuit is deeply rooted in the realm of efficient machine learning, a field that I believe holds immense potential to democratize access to research artifacts. The success of billion-parameter models in modeling vast data distributions scraped from the internet has been remarkable; however, often overlooked are the efficiency concerns that arise when scaling up these methods during training. Subsequently, models must be compressed for deployment, personalized towards end-users, and continuously updated to prevent distribution drift. The challenges within this pipeline, coupled with a growing trend away from open research, make it difficult for artifacts to be easily accessible. Therefore, my Ph.D. aims to address one or more of the following efficiency themes:
+
+1. Model and sample efficiency
+2. Model compression for inference efficiency
+3. Efficient model updates for distribution drift and personalization
+
+OLMo: A Journey into Low-Precision Training
+
+Fortunately, I am a part of OLMo, an open science effort at the Allen Institute for AI (AI2) dedicated to training a large language model (LLM). My involvement in modeling discussions, running experiments, and writing the online zero-shot evaluation suite has granted me valuable insights into model architectures, training dynamics and stability, and the nuances of NLP evaluation – all crucial in formulating thoughtful research questions.
+
+My objective within this project is to focus on stable and widely adopted low-precision training. Initial works [19, 12, 16] have already delved into this area with 8-bit precision training; however, numerous unanswered questions remain. One such question is the necessity of higher precision representation for specific training components like optimizer states or gradient synchronization when stochasticity has been shown to aid generalization [17]. To address this issue, I aim to analyze the signal-to-noise ratio in a low-bit gradient synchronization setting and develop methods to compensate if noise levels reach a point of training divergence [7].
+
+In the long term, my goal is to transition from low-bit floating point operations to low-precision training in the integer space. This shift will necessitate designing new optimizer update rules and gradient propagation methods. Once widely adopted, stable low-precision training will empower researchers to explore ideas currently beyond reach in a resource-limited setting, thereby pushing the boundaries of model efficiency research.
+
+Model Compression: Boosting Deployment Efficiency
+
+After pretraining, large models are deployed via APIs and thus require consideration for throughput and memory on inference servers. While existing compression literature primarily focuses on BERT-style encoder models trained on a limited token budget, the majority of available models today are autoregressive and trained on massive amounts of data. In Jha et al. [8], we present one of the first comprehensive studies of model compression for autoregressive models, analyzing trade-offs between compression and inference efficiency across different strategies for model pruning. Our broad scope opens up numerous research questions concerning compression efficiency, sample efficiency, and inference efficiency.
+
+We examine the balance between compression and inference efficiency across various pruning strategies, revealing unstructured pruning to be sample-efficient and structured pruning inference-efficient. Furthermore, recent compression results for smaller data regimes do not extend to the large data regime and the evaluation setup of modern LLMs, a gap our work aims to fill. As a next step, I intend to make structured pruning more sample-efficient via influence functions [6] or the Rho-loss [15]. In the long term, I aim to understand from a theoretical perspective why learning from data is superior to learning from a teacher via distillation when an abundance of data is available.
+
+Exploring Retrieval Models for Efficiency and Personalization
+
+Retrieval-augmented models have demonstrated potential in reducing hallucinations [1], improving performance in the long tail [11], and working with protected data [13]. However, their use for efficient generation, continuously updating models, and personalization remains under-explored. My research aims to create models that can retrieve long phrases per timestep from multiple data stores without explicitly training on their data distribution.
+
+I have recently embarked on developing an efficient retrieval-only causal text generator, expanding upon the ideas of retrieval-only infilling from NPM [14] and long-phrase retrieval-based generations from COG [9]. I plan to employ a suffix automaton [2] to enhance the quality of long-phrase generations per timestep compared to previous methods.
+
+In the future, I aspire to delve into research on retrieving from multiple data stores in parallel. This direction bridges language models with classical information retrieval concepts, offering efficiency through parallelized retrieval, end-user personalization via re-ranking of candidates from different data sources, and continuous model updates through hot-swapping of data stores.
+
+The Pursuit of a Ph.D.: Bridging Research and Engineering
+
+Before joining AI2, I worked at PyTorch Lightning, a startup specializing in open-source libraries to streamline model training. There, I co-authored TorchMetrics, an API for implementing distributed metrics aimed at fostering research reproducibility. My contributions to open science stemmed from an engineering perspective, making me a confident engineer. However, my experience at Lightning taught me that research and engineering are interdependent in deep learning. The predoctoral stint at AI2 provided me with an ideal platform to develop research ideas and cultivate scientific rigor. Now, I am motivated to pursue a Ph.D. to further hone my research skills and contribute to open and reproducible science from a research perspective.
+
+Open science is indispensable for ensuring democratic control over the community’s research direction by a diverse group of individuals for the benefit of all. However, many labs are veering towards proprietary research to cater to individual entities. Working on efficient machine learning ensures that academia remains at the forefront of research, a crucial step in achieving research democratization. A Ph.D. at UW is a stepping stone toward my goal to remain an academic voice advocating for open and democratic research. During my Ph.D., I am interested in collaborating with Noah Smith and Luke Zettlemoyer on model and sample efficiency, as well as Hannaneh Hajishirzi on retrieval models and personalization.
+
+The Future: Leading a Research Group and Advocating for Open Science
+
+After completing my Ph.D., I aspire to become a professor and lead a research group. As a PI, I aim to foster an environment that encourages diverse perspectives, asks insightful questions, and mentors individuals based on their unique needs. I want to establish a culture of scientific rigor and slow science, where claims are only made with substantial evidence, and minimum publishable units are avoided. In addition, I am committed to advocating for open science and promoting its importance within the academic community.

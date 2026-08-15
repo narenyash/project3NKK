@@ -1,0 +1,408 @@
+
+The first time I looked at an image of Earth taken from space, I was struck by how small it appeared.
+
+There were no borders.
+
+No roads.
+
+No buildings that could be individually recognized.
+
+Just a small sphere surrounded by darkness.
+
+I had seen pictures of Earth countless times before, but something about seeing it from that distance felt different. The image made the scale of human life seem almost impossible to comprehend. Billions of people live on the same planet, each with individual ambitions, conflicts, discoveries, and ordinary daily routines, yet from space all of those distinctions disappear.
+
+That image made me curious about scale.
+
+How large is the universe?
+
+How many worlds exist beyond Earth?
+
+How can something as small as a human mind understand objects separated by billions of kilometers?
+
+And perhaps most importantly, how can we know what we cannot directly see?
+
+These questions gradually became part of my interest in science and technology.
+
+I have always been drawn to subjects that contain unanswered questions. I enjoy learning facts, but I am more interested in the questions that remain after the facts are known.
+
+Space is full of them.
+
+We can measure the movement of planets, observe distant galaxies, detect radiation from objects we cannot visit, and calculate the trajectories of spacecraft. Yet even with these capabilities, much of the universe remains mysterious.
+
+That combination of knowledge and uncertainty fascinates me.
+
+It also influenced the way I think about learning.
+
+Science is sometimes presented as a collection of established answers.
+
+But the deeper I explore it, the more I see it as a process of asking better questions.
+
+We know that planets orbit stars, but that knowledge leads to questions about how planetary systems form.
+
+We know that stars evolve, but that leads to questions about the conditions under which they are born and how they eventually change.
+
+We know that galaxies contain enormous amounts of matter, but our observations continue to reveal phenomena that challenge existing models.
+
+Every answer seems to open another door.
+
+That is the kind of intellectual environment I want to be part of.
+
+My interest in space also introduced me to a different way of thinking about technology.
+
+When I learned about spacecraft, I was fascinated not only by the science but by the engineering required to make a machine operate millions of kilometers away from Earth.
+
+A spacecraft cannot simply be repaired by a technician when something goes wrong.
+
+Communication takes time.
+
+Computing resources are limited.
+
+Power must be carefully managed.
+
+Every component has to function under extreme conditions.
+
+The system must often make decisions with incomplete information.
+
+This made me appreciate engineering in a new way.
+
+A spacecraft represents a remarkable combination of mathematics, physics, computer science, electronics, materials science, and human planning.
+
+No single field is enough.
+
+The complexity of space exploration therefore reinforced my belief that the most interesting problems are interdisciplinary.
+
+This became particularly meaningful to me as I began studying computer science.
+
+Programming initially seemed like a world of logic that existed mostly inside computers.
+
+Space showed me how computation could interact with the physical world.
+
+Software can control instruments.
+
+Algorithms can process astronomical images.
+
+Machine learning can identify patterns in massive datasets.
+
+Simulation can help researchers understand systems that are impossible to reproduce experimentally.
+
+Communication systems allow information to travel across enormous distances.
+
+The more I learned, the more I realized that computer science is not isolated from science.
+
+It is one of the tools through which modern science is conducted.
+
+That realization strengthened my interest in artificial intelligence.
+
+Astronomy generates enormous quantities of data. Telescopes capture images across different wavelengths. Space missions produce measurements from instruments operating far from Earth. Researchers must identify patterns, classify objects, detect anomalies, and distinguish meaningful signals from noise.
+
+Humans cannot manually inspect every piece of information.
+
+Computational systems can help.
+
+Machine learning can identify patterns in astronomical observations that would otherwise take enormous amounts of time to analyze.
+
+This possibility excites me because it combines two areas I enjoy: understanding complex systems and building computational tools.
+
+I began experimenting with machine learning partly because of this broader curiosity.
+
+My early projects were much smaller than anything used in scientific research. I worked with datasets that could fit on a computer rather than data collected from space.
+
+But the underlying process fascinated me.
+
+I would provide examples to a model, train it, test its predictions, examine errors, and adjust the approach.
+
+The process reminded me of scientific investigation.
+
+You begin with an idea.
+
+You gather evidence.
+
+You test a hypothesis.
+
+The result may support your assumption or challenge it.
+
+If it fails, you revise the hypothesis.
+
+Then you test again.
+
+This similarity made me appreciate the scientific method more deeply.
+
+It also changed how I thought about certainty.
+
+In programming, I often want a deterministic answer.
+
+In science, uncertainty is unavoidable.
+
+Measurements have errors.
+
+Models have assumptions.
+
+Observations can be incomplete.
+
+A good scientist does not pretend that uncertainty does not exist.
+
+Instead, uncertainty is measured and communicated.
+
+That principle has influenced how I approach AI as well.
+
+A model should not simply produce an answer.
+
+We should understand how confident it is, what data supports it, and where it may fail.
+
+This perspective became particularly important as I learned more about machine learning.
+
+It is easy to become impressed by a model that produces accurate predictions.
+
+But accuracy alone does not explain everything.
+
+A model can perform well on one dataset and poorly on another.
+
+It can identify patterns without understanding their meaning.
+
+It can produce confident predictions that are wrong.
+
+The lesson is similar to what scientists encounter when interpreting observations: evidence must be examined carefully.
+
+This has made me more interested in the relationship between AI and scientific discovery.
+
+Could future AI systems help scientists identify patterns that humans would overlook?
+
+Could they generate hypotheses that researchers can test?
+
+Could intelligent systems help process data from environments that are too large, distant, or complex for humans to analyze directly?
+
+These questions are part of what motivates me to study computer science.
+
+But my fascination with space is not only about technology.
+
+It has also changed the way I think about perspective.
+
+When I look at the night sky, the distance between human concerns and cosmic scale becomes difficult to ignore.
+
+A problem that feels enormous in everyday life can become almost invisible when considered against the scale of the universe.
+
+That does not make human problems unimportant.
+
+In some ways, it makes them more meaningful.
+
+We have a limited amount of time and a single planet on which to live.
+
+Our ability to understand the universe is remarkable, but so is our responsibility toward the world immediately around us.
+
+This realization has influenced my interest in environmental problems as well.
+
+Space exploration has shown us Earth from a perspective that is difficult to experience otherwise. From orbit, the atmosphere appears thin. The planet appears connected. The boundaries humans create are invisible.
+
+This perspective reinforces the idea that Earth is not an unlimited resource.
+
+Understanding the universe has made me more aware of the importance of understanding our own planet.
+
+Technology can help with that understanding.
+
+Satellites can monitor forests, oceans, weather patterns, agricultural conditions, and changes in the Earth's surface.
+
+Machine learning can analyze these observations.
+
+Computer systems can identify trends that may help researchers respond more quickly to environmental changes.
+
+Once again, space technology leads back to problems on Earth.
+
+This connection fascinates me.
+
+The same scientific curiosity that pushes humanity to look outward can also help us understand the planet beneath us.
+
+That is one of the reasons I want my future work to remain connected to real-world problems.
+
+I am interested in artificial intelligence and computing, but I want to use these tools in ways that have meaningful consequences.
+
+Scientific discovery is one possibility.
+
+Environmental monitoring is another.
+
+Education and accessibility are others.
+
+I do not yet know which specific problem I will ultimately devote my career to.
+
+I am comfortable with that uncertainty.
+
+In fact, I think it is important.
+
+At this stage, I want to build the foundation that will allow me to explore several possibilities.
+
+I want to become strong in mathematics.
+
+I want to understand algorithms and data structures.
+
+I want to study machine learning.
+
+I want to learn how large-scale computational systems are designed.
+
+I want to understand how scientific data is collected and analyzed.
+
+And I want to work on projects where these skills are tested against real problems.
+
+College is particularly exciting to me because it represents a much larger intellectual environment than I have experienced so far.
+
+I want to encounter questions that are difficult enough that I cannot solve them alone.
+
+I want to work with researchers.
+
+I want to collaborate with students from physics, mathematics, biology, engineering, and other disciplines.
+
+I want to participate in projects where the final result is not known in advance.
+
+Research appeals to me for exactly that reason.
+
+A normal assignment usually begins with a problem that someone already knows how to solve.
+
+Research begins with a question whose answer is uncertain.
+
+That uncertainty requires patience.
+
+It requires reading what others have already discovered.
+
+It requires designing experiments carefully.
+
+It requires accepting negative results.
+
+It requires being willing to change direction.
+
+Those qualities are increasingly important to me.
+
+My own projects have taught me that the first approach is rarely the best one.
+
+A model may fail.
+
+A program may behave unexpectedly.
+
+A hypothesis may be wrong.
+
+A dataset may be inadequate.
+
+The correct response is not to become discouraged.
+
+It is to investigate.
+
+That mindset is one of the strongest connections I see between engineering and science.
+
+Both require curiosity combined with discipline.
+
+Curiosity asks, "What if?"
+
+Discipline asks, "How can we test it?"
+
+I want to develop both.
+
+One of the questions I find most fascinating about space is whether life exists elsewhere.
+
+I do not know the answer.
+
+But I love thinking about how we might find out.
+
+What would count as evidence?
+
+How could we distinguish a genuine biological signal from a natural phenomenon?
+
+How should we interpret ambiguous data?
+
+What instruments would we need?
+
+How could AI help analyze the information?
+
+These questions demonstrate something I value about science: even a question that seems almost impossible can be transformed into smaller, testable problems.
+
+That is how humanity has approached many discoveries.
+
+We do not solve the universe all at once.
+
+We measure one thing.
+
+Then another.
+
+We develop a model.
+
+We test it.
+
+We improve our instruments.
+
+We revise our understanding.
+
+The process continues.
+
+I want my education to place me inside that process.
+
+Perhaps I will eventually work directly in space technology.
+
+Perhaps I will develop AI systems used in scientific research.
+
+Perhaps I will work on a completely different problem that I cannot currently imagine.
+
+What I know is that I want my career to involve difficult questions.
+
+I want to work on problems that require more than memorizing established solutions.
+
+I want to build systems that extend human ability to observe, analyze, and understand.
+
+That is why I am drawn to computer science.
+
+A computer is not simply a machine for performing calculations.
+
+It can become an instrument for discovery.
+
+It can process information at a scale no individual person could manage.
+
+It can simulate environments we cannot physically reproduce.
+
+It can search through possibilities that would take humans enormous amounts of time.
+
+And with artificial intelligence, computational systems are becoming increasingly capable of identifying patterns and assisting with complex reasoning.
+
+The challenge is learning how to use those capabilities responsibly.
+
+That challenge excites me.
+
+I want to understand not only what technology can do but where its limitations lie.
+
+I want to know when an algorithm should be trusted and when it should be questioned.
+
+I want to understand how computational models can support scientific reasoning without replacing it.
+
+I want to build systems that help people explore questions rather than simply produce answers.
+
+Looking back, the image of Earth from space seems like a small event compared with everything I have learned since then.
+
+But it changed something fundamental in me.
+
+It made the world feel larger.
+
+It made questions feel more important.
+
+And it made me realize that knowledge has no obvious boundary.
+
+There will always be another problem to investigate, another phenomenon to understand, another assumption to question.
+
+That is not overwhelming to me.
+
+It is motivating.
+
+The universe is enormous, but our ability to learn is also remarkable.
+
+Human beings have built instruments capable of detecting objects unimaginably far away. We have sent machines beyond our planet. We have developed mathematical models that describe physical systems. We have created computers that can process enormous amounts of information.
+
+All of these achievements began with questions.
+
+Someone looked at something they did not understand and decided to investigate.
+
+That is the tradition I want to join.
+
+I want to remain curious enough to ask difficult questions and disciplined enough to pursue answers.
+
+I want to study computer science because it gives me a powerful set of tools for doing exactly that.
+
+And I want to keep looking beyond the horizon—not because I expect to find every answer, but because I know that every meaningful answer will reveal another question.
+
+The universe taught me something simple:
+
+There is always more to discover.
+
+I want my education to be the beginning of that discovery, not the end.

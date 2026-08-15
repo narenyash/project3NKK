@@ -1,0 +1,390 @@
+
+Curiosity has been one of the most consistent influences on my academic journey. Many of the subjects that interest me today began with simple questions rather than a planned career objective. I wanted to know how computers worked, how software could perform complex tasks, how machines could learn from data, and how technology could be applied to problems beyond the classroom. Each answer led to another question, and gradually this process transformed a general interest in technology into a serious aspiration to study computer science and artificial intelligence.
+
+I believe that curiosity is one of the most important qualities in education because it encourages a student to go beyond what is required. Academic syllabi provide structure, but curiosity provides direction. It motivates a student to explore a concept further, understand its applications, question its limitations, and discover connections with other fields.
+
+My interest in computers developed in this manner.
+
+In the beginning, I was fascinated by the visible results of technology. Applications could respond to commands, websites could display information, and programs could perform calculations almost instantly. I wanted to understand what happened behind the screen. This led me to programming.
+
+Learning programming changed my understanding of computers. I discovered that software was not simply a collection of instructions. It was a way of expressing logical ideas in a form that a machine could execute. A simple program could involve conditions, loops, functions, data structures, and algorithms, all working together to produce a result.
+
+The more I learned, the more questions appeared.
+
+Why is one algorithm more efficient than another?
+
+How does a computer store information?
+
+How do different applications communicate?
+
+How can software handle millions of users?
+
+How can machines learn patterns from data?
+
+These questions gradually expanded my interest beyond basic programming.
+
+I began exploring different areas of computer science and developing small projects to understand how theoretical concepts could be applied. Projects became an important part of my learning because they forced me to move from knowing a concept to using it.
+
+For example, understanding an API theoretically is different from integrating one into an application. Knowing that databases store information is different from designing a database that remains efficient as the amount of information increases. Learning about machine learning is different from preparing data, training a model, evaluating its performance, and investigating why it makes incorrect predictions.
+
+Practical implementation therefore became an extension of my academic learning.
+
+It also taught me that curiosity must be combined with discipline.
+
+It is easy to become interested in a new subject.
+
+It is much harder to study it consistently.
+
+Technology provides an enormous number of possible directions. A student can move from web development to mobile applications, cloud computing, cybersecurity, artificial intelligence, robotics, data science, and countless other fields within a short period of time.
+
+I have experienced this breadth myself.
+
+Exploring different areas helped me discover what interested me, but it also taught me that meaningful expertise requires depth. I cannot master every technology simultaneously. I therefore began distinguishing between exploring a subject and developing expertise in it.
+
+Exploration helps me discover possibilities.
+
+Focused study helps me develop competence.
+
+I want my higher education to provide the environment in which I can do both.
+
+Computer science interests me because it combines several forms of thinking. It requires mathematical reasoning, logical analysis, creativity, and practical problem solving. A programming problem may require a mathematical insight. A system design problem may require understanding human behaviour. An artificial intelligence problem may require statistics and domain knowledge.
+
+This interdisciplinary character makes computer science particularly appealing to me.
+
+Artificial intelligence has become an especially important area of my curiosity.
+
+The idea that machines can learn patterns from data raises fundamental questions about computation and intelligence. When I began learning about machine learning, I was initially focused on the technical process of training models. Over time, my questions became broader.
+
+What does a model actually learn?
+
+Why does it perform well on some examples and poorly on others?
+
+How much does the quality of the dataset influence the result?
+
+How should model performance be evaluated?
+
+What happens when the environment changes?
+
+Can a system recognise when it is uncertain?
+
+These questions have made AI more interesting to me than simply achieving a high accuracy score.
+
+I want to understand the principles behind intelligent systems.
+
+This is one reason I want a strong academic foundation in mathematics and computer science. Artificial intelligence cannot be understood completely through software libraries alone. Concepts from probability, statistics, linear algebra, optimisation, and algorithms provide the foundation for many modern AI methods.
+
+I want to study these subjects deeply because I believe strong fundamentals provide greater freedom later.
+
+Technology will continue to change.
+
+New models will be developed.
+
+New programming languages will appear.
+
+New frameworks will replace existing ones.
+
+New applications will emerge.
+
+However, mathematical reasoning, algorithmic thinking, and the ability to analyse problems will remain valuable.
+
+I therefore want my education to prepare me not merely for the technologies of today but for the technologies that I have not yet encountered.
+
+Curiosity also influences the way I respond to difficult problems.
+
+When I encounter something I do not understand, my first instinct is increasingly to investigate rather than avoid it.
+
+I try to break the problem into smaller parts.
+
+I identify what I already understand.
+
+I determine what is unfamiliar.
+
+I search for reliable information.
+
+I experiment.
+
+I test my assumptions.
+
+This process does not always produce an immediate solution, but it usually produces a better understanding.
+
+I have learned that confusion can be productive.
+
+When a concept seems confusing, it often indicates that there is a missing connection between ideas. Finding that connection can lead to a much deeper understanding than simply memorising an explanation.
+
+This has influenced my approach to academic learning.
+
+Instead of asking only, "What do I need to remember?", I increasingly ask, "Why does this work?"
+
+That question changes the learning process.
+
+If I understand why an algorithm works, I can often reconstruct it.
+
+If I understand why a mathematical relationship exists, I am less dependent on memorisation.
+
+If I understand why a system was designed in a particular way, I can adapt the principle to another situation.
+
+Understanding therefore becomes more valuable than memorisation.
+
+I also believe curiosity encourages independent learning.
+
+No university curriculum can teach a student everything they will need throughout an entire career. Technology changes too quickly. New research appears continuously. Professional responsibilities evolve.
+
+A successful engineer must therefore become a lifelong learner.
+
+I want to develop that ability during higher education.
+
+When I encounter a new technology, I want to be capable of learning it independently.
+
+When I discover a research area that interests me, I want to be capable of reading the relevant literature.
+
+When I encounter a problem outside my existing knowledge, I want to know how to approach it systematically.
+
+This independence will be particularly important in artificial intelligence.
+
+The field is advancing rapidly, and knowledge that is current today may become incomplete tomorrow. A student who learns only existing tools may struggle when those tools change.
+
+A student who learns how to learn can continue adapting.
+
+That is the kind of student I want to become.
+
+My curiosity has also encouraged me to explore the relationship between technology and society.
+
+At first, I was interested primarily in what technology could do.
+
+Over time, I became more interested in what technology should do.
+
+Artificial intelligence can automate tasks, generate information, identify patterns, and support decisions. But every capability raises questions about how it should be used.
+
+How should personal data be protected?
+
+How should AI-generated information be verified?
+
+What happens when an automated system makes a mistake?
+
+How should human oversight be maintained?
+
+How can technology remain accessible to people with different resources and abilities?
+
+These questions demonstrate that technological education cannot be separated completely from social responsibility.
+
+I want to study technology with an awareness of its broader impact.
+
+This is particularly important in India.
+
+India's technological landscape includes both highly advanced digital systems and communities that face challenges related to access, infrastructure, language, affordability, and digital literacy.
+
+This creates opportunities for engineers to design solutions that are not only technically advanced but also practical within local conditions.
+
+For example, an educational application designed for India may need to consider multiple languages, different levels of connectivity, and users with varying levels of technological familiarity.
+
+A healthcare system may need to operate in environments with limited resources.
+
+An agricultural application may need to function in conditions very different from those assumed by systems developed elsewhere.
+
+Understanding these differences requires more than programming.
+
+It requires curiosity about people and their environments.
+
+This has strengthened my interest in human-centred technology.
+
+I want to understand the problem before deciding on the solution.
+
+If technology is introduced without understanding the actual problem, even a technically sophisticated system can fail.
+
+Curiosity therefore becomes a practical engineering skill.
+
+It encourages observation.
+
+It encourages questions.
+
+It prevents premature assumptions.
+
+It creates opportunities for better solutions.
+
+My academic interests also extend toward research because research provides a structured environment for curiosity.
+
+Research begins with a question.
+
+What is already known?
+
+What remains uncertain?
+
+Why does the existing method have limitations?
+
+Can another approach improve the result?
+
+How can that improvement be demonstrated?
+
+These questions require patience because answers are rarely immediate.
+
+A research project may involve extensive reading before the first experiment is conducted.
+
+An experiment may fail.
+
+A hypothesis may prove incorrect.
+
+The data may reveal something unexpected.
+
+Rather than seeing these outcomes as discouraging, I find them intellectually valuable.
+
+An unexpected result can be the beginning of a better question.
+
+This is the kind of learning environment I want to experience in university.
+
+I want to work with professors and researchers who encourage students to investigate problems rather than simply reproduce known solutions.
+
+I want to participate in laboratories and research projects.
+
+I want to learn how scientific knowledge is created and evaluated.
+
+I want to understand how a broad question can be converted into a precise research problem.
+
+Most importantly, I want to develop the discipline to pursue a question long enough to discover something meaningful.
+
+Curiosity also affects how I work with other people.
+
+Everyone approaches a problem from a different perspective.
+
+A teammate may notice a technical issue I overlooked.
+
+Another may suggest an application I had not considered.
+
+Someone from a different academic background may question an assumption that seems obvious to me.
+
+Instead of seeing these differences as obstacles, I want to use them as opportunities to learn.
+
+Collaboration becomes more productive when people are genuinely curious about each other's perspectives.
+
+This is another quality I hope to strengthen in higher education.
+
+I want to interact with students from different backgrounds and disciplines.
+
+I want to participate in group projects where solutions emerge through discussion and experimentation.
+
+I want to learn how engineers, researchers, designers, entrepreneurs, and domain experts approach the same problem differently.
+
+Such interactions can expand the boundaries of one's thinking.
+
+My long-term ambition is to work in artificial intelligence and software engineering.
+
+I want to develop intelligent systems that address meaningful practical problems.
+
+I am particularly interested in areas where AI can support education, accessibility, automation, environmental applications, and other domains where better technology can improve existing processes.
+
+However, I do not want to define my future too narrowly.
+
+Curiosity has taught me that interests can evolve.
+
+A subject that I have not yet studied may eventually become one of my strongest interests.
+
+A research project may reveal a problem I have never considered.
+
+A professor may introduce me to a field that changes my academic direction.
+
+I want to remain open to these possibilities.
+
+Having a goal does not require having every step predetermined.
+
+My goal provides direction.
+
+Curiosity provides exploration.
+
+Education provides the foundation.
+
+Together, they create a path.
+
+I also understand that curiosity without discipline can remain only an interest.
+
+Therefore, I want to develop habits that turn curiosity into achievement.
+
+When a subject interests me, I want to study it systematically.
+
+When I have an idea, I want to test it.
+
+When I encounter a problem, I want to investigate it.
+
+When an experiment fails, I want to understand why.
+
+When I receive criticism, I want to consider it seriously.
+
+When I discover something new, I want to ask what it connects to.
+
+This process turns curiosity into learning.
+
+Learning, in turn, creates the ability to contribute.
+
+That is ultimately what I want from higher education.
+
+I do not want to graduate simply with a collection of completed courses.
+
+I want to graduate with the ability to approach unfamiliar problems confidently.
+
+I want to have the technical foundation required to understand complex systems.
+
+I want to have the research skills required to investigate unanswered questions.
+
+I want to have the communication skills required to explain my ideas.
+
+And I want to retain the curiosity that made me interested in technology in the first place.
+
+The world of technology will continue changing throughout my career.
+
+There will be new questions.
+
+There will be new problems.
+
+There will be new opportunities.
+
+I cannot predict all of them.
+
+But I can prepare myself to approach them.
+
+I can learn how to learn.
+
+I can develop strong fundamentals.
+
+I can remain open to new perspectives.
+
+I can question assumptions.
+
+I can test ideas.
+
+I can accept that I may sometimes be wrong.
+
+And I can continue asking questions.
+
+My academic journey has shown me that one question can lead to another, and another, until a simple curiosity develops into a field of study and eventually into a career aspiration.
+
+That process is what has led me toward computer science and artificial intelligence.
+
+I began by wanting to understand computers.
+
+Then I wanted to understand software.
+
+Then algorithms.
+
+Then machine learning.
+
+Then intelligent systems.
+
+Now I am increasingly interested in the relationship between technology, people, and society.
+
+I do not know exactly where the next question will lead me.
+
+That uncertainty does not concern me.
+
+It motivates me.
+
+Because education is not about reaching a point where there are no more questions.
+
+It is about developing the knowledge and confidence to ask better ones.
+
+I want my higher education to give me that opportunity.
+
+I want to learn deeply, explore widely, and contribute meaningfully.
+
+Above all, I want to remain curious.
+
+Because curiosity is what turns information into understanding, understanding into knowledge, and knowledge into the possibility of creating something new.
+
+That is the quality I hope to carry with me throughout my education and professional life.

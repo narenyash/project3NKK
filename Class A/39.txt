@@ -1,0 +1,766 @@
+
+Technology has always been associated with possibility. Every new invention expands what people are able to accomplish, and artificial intelligence has expanded that possibility further by allowing computers to analyse information, recognise patterns, generate content, and assist with increasingly complex tasks. My interest in artificial intelligence began with fascination about what machines could do. As I learned more about the field, however, another question became equally important to me: what should machines be allowed to do, and how should the people who build them take responsibility for their effects?
+
+This question has changed the way I think about becoming an engineer.
+
+I initially approached artificial intelligence primarily as a technical subject. I was interested in machine learning models, datasets, algorithms, neural networks, and the programming required to build intelligent systems. I enjoyed the process of taking data, training a model, evaluating its performance, and observing the results.
+
+But technical performance alone gradually seemed insufficient.
+
+A model can achieve a high accuracy score and still be inappropriate for a particular application.
+
+An automated system can be efficient and still create unfair outcomes.
+
+A powerful AI model can provide useful information while also producing incorrect information.
+
+A system can be convenient for one group of users while creating barriers for another.
+
+These possibilities made me realise that artificial intelligence is not only an engineering challenge.
+
+It is also a human responsibility.
+
+This understanding has become an important part of my academic interest in computer science.
+
+When building a software system, the developer makes decisions about how the system should behave. In ordinary applications, these decisions may seem relatively straightforward. A button should perform an action. A database should store information correctly. A webpage should display content accurately.
+
+AI systems introduce another layer of uncertainty.
+
+Instead of following only explicitly written rules, many AI systems learn patterns from data.
+
+This creates questions about where those patterns come from.
+
+What data was used?
+
+Who was represented in the data?
+
+Who was missing?
+
+Were the labels accurate?
+
+Could the data contain historical biases?
+
+Does the model perform equally well across different groups?
+
+These questions cannot always be answered simply by examining the final output.
+
+They require understanding the entire development process.
+
+This is one of the reasons I became interested in the relationship between data and AI.
+
+A machine learning model learns from the information provided to it.
+
+If the information is incomplete, the resulting model may also be incomplete.
+
+If the data contains systematic bias, the model may reproduce or even amplify that bias.
+
+Therefore, responsible AI development begins before the model is trained.
+
+It begins with the data.
+
+This changed the way I approached machine learning projects.
+
+Earlier, I focused heavily on model performance.
+
+I wanted to improve accuracy.
+
+I wanted to compare algorithms.
+
+I wanted to achieve better results.
+
+Eventually, I realised that a model's score is only meaningful when the evaluation process is reliable.
+
+Suppose a model performs extremely well on a dataset that is very similar to its training data.
+
+That does not necessarily mean it will perform well in a different environment.
+
+The model may have learned patterns that are specific to the original dataset.
+
+This can create a false sense of confidence.
+
+Therefore, proper evaluation is essential.
+
+Training data, validation data, and testing data serve different purposes.
+
+Performance should be examined under conditions that reflect how the system will actually be used.
+
+Different metrics may reveal different aspects of performance.
+
+And limitations should be communicated honestly.
+
+This way of thinking has strengthened my interest in research.
+
+I want to understand not simply whether an AI system works, but why it works and under what conditions it may fail.
+
+Reliability is particularly important when AI systems influence decisions.
+
+Consider an educational system that recommends learning material.
+
+An incorrect recommendation may simply waste a student's time.
+
+But consider a system used in a more sensitive environment.
+
+An incorrect prediction could have much more serious consequences.
+
+The higher the consequences, the more carefully the system must be evaluated.
+
+This leads to an important principle for me: not every task should be fully automated simply because automation is technically possible.
+
+Human judgment remains important.
+
+AI should assist people where appropriate, but the level of human oversight should depend on the context.
+
+This is particularly relevant in areas such as healthcare, finance, education, public services, and employment.
+
+A human professional can consider context, uncertainty, and circumstances that may not be represented in a dataset.
+
+AI can provide useful analysis.
+
+The final responsibility may still need to remain with people.
+
+I want to understand how engineers can design systems around this balance.
+
+This interest has also changed my understanding of innovation.
+
+Innovation is often associated with doing something that has never been done before.
+
+But an innovative system should also be useful and responsible.
+
+Creating a powerful model without considering how it will be used is incomplete engineering.
+
+A responsible engineer must think beyond the demonstration.
+
+What happens when the system leaves the laboratory?
+
+Who will use it?
+
+What decisions will depend on it?
+
+What happens when it makes a mistake?
+
+Can users recognise that it has made a mistake?
+
+Can the system be corrected?
+
+Can its behaviour be monitored?
+
+These questions should be part of development rather than being considered only after deployment.
+
+This is one of the reasons I am interested in the complete lifecycle of AI systems.
+
+Building the model is only one stage.
+
+Data collection comes before it.
+
+Testing follows it.
+
+Deployment introduces new conditions.
+
+Monitoring reveals real-world behaviour.
+
+Feedback may lead to further development.
+
+An AI system therefore needs continuous evaluation.
+
+This is particularly important because real-world environments change.
+
+User behaviour changes.
+
+Data distributions change.
+
+New situations appear.
+
+A model that performs well today may not perform equally well tomorrow.
+
+Responsible AI therefore requires monitoring and adaptation.
+
+This is an engineering problem that interests me.
+
+I want to learn how intelligent systems can remain reliable over time.
+
+I also want to understand transparency.
+
+Users do not always need to understand every mathematical detail of a model, but they should know important facts about the system.
+
+What is it designed to do?
+
+What information does it use?
+
+What are its limitations?
+
+How confident should users be?
+
+When should a human verify the result?
+
+These questions become particularly important when AI outputs influence decisions.
+
+A system that communicates uncertainty can help users make better judgments.
+
+A system that presents every output with complete confidence may encourage overreliance.
+
+This distinction is important in the design of AI interfaces.
+
+I want to study how technical systems can communicate their limitations effectively.
+
+My interest in education provides one example.
+
+Artificial intelligence could potentially help students by explaining concepts, generating practice questions, identifying areas of difficulty, and adapting educational material.
+
+These capabilities could provide useful support.
+
+However, students should not become completely dependent on automated systems.
+
+If an AI tool provides an answer instantly, a student may skip the process of thinking through the problem.
+
+This can reduce learning rather than improve it.
+
+Therefore, educational AI should ideally encourage understanding rather than simply provide answers.
+
+A system could provide hints.
+
+It could ask guiding questions.
+
+It could identify mistakes.
+
+It could adapt explanations.
+
+It could encourage students to try again.
+
+This approach would use AI to strengthen learning rather than replace it.
+
+This distinction illustrates a broader principle.
+
+Technology should be designed around human development, not merely human convenience.
+
+Convenience is valuable.
+
+But making every task effortless is not always beneficial.
+
+Education is one example where effort is part of the process.
+
+A good AI system should understand the purpose of the activity it is supporting.
+
+This is why I want to study human-centred AI.
+
+The objective is not simply to make machines more capable.
+
+It is to make systems that interact with people in useful and responsible ways.
+
+Privacy is another issue that has influenced my thinking.
+
+AI systems often depend on large amounts of data.
+
+Some data may contain sensitive or personal information.
+
+This creates responsibilities for developers.
+
+People should have appropriate control over their information.
+
+Systems should collect only what is necessary.
+
+Data should be protected.
+
+Developers should understand how information is stored and used.
+
+These principles become increasingly important as AI becomes integrated into everyday services.
+
+Convenience should not automatically justify unlimited data collection.
+
+An engineer must consider both functionality and privacy.
+
+This is an area I want to understand more deeply.
+
+Security is similarly important.
+
+An intelligent system can create new opportunities, but it can also introduce new risks.
+
+Models may be manipulated.
+
+Data may be compromised.
+
+Systems may be misused.
+
+AI-generated content can create confusion when people cannot easily distinguish between authentic and synthetic information.
+
+Therefore, AI development requires security considerations from the beginning.
+
+The question should not only be whether a system can perform a task.
+
+It should also be whether it can perform that task safely.
+
+This broader perspective has changed the way I think about engineering education.
+
+I want to study computer science deeply because responsible technology requires technical competence.
+
+An engineer cannot evaluate the reliability of a system without understanding how it works.
+
+I want to understand algorithms.
+
+I want to study machine learning.
+
+I want to strengthen my mathematics and statistics.
+
+I want to learn software engineering.
+
+I want to understand databases and computer systems.
+
+I want to study how AI models are trained, evaluated, deployed, and monitored.
+
+Technical knowledge will give me the ability to make informed decisions.
+
+At the same time, I want to learn about the broader social consequences of technology.
+
+This requires interdisciplinary education.
+
+Questions about privacy involve law and policy.
+
+Questions about fairness involve social science.
+
+Questions about human behaviour involve psychology.
+
+Questions about healthcare require medical knowledge.
+
+Questions about environmental systems require scientific expertise.
+
+A computer scientist cannot answer all these questions alone.
+
+Collaboration is therefore essential.
+
+I want to work with people from different academic backgrounds during university.
+
+Their perspectives can reveal issues that may not be obvious from a purely technical viewpoint.
+
+For example, an engineer may design a system that appears efficient.
+
+A social scientist may identify a potential social consequence.
+
+A domain expert may point out an important practical limitation.
+
+A designer may identify a usability problem.
+
+These contributions can make the final system stronger.
+
+I want to develop the ability to listen to such perspectives.
+
+This is also connected to my understanding of leadership.
+
+A technical leader should not assume that technical expertise gives them complete authority over every decision.
+
+Instead, leadership should involve bringing the right expertise together.
+
+If a project involves healthcare, medical professionals should influence the design.
+
+If it involves education, teachers and students should be consulted.
+
+If it involves environmental monitoring, scientists and local communities should contribute.
+
+The people affected by a system should have a voice in how it is developed.
+
+This is an important principle of human-centred engineering.
+
+My interest in India has strengthened this perspective.
+
+India's population is diverse in language, geography, education, income, infrastructure, and digital access.
+
+An AI system designed for one narrow environment may not perform equally well across the country.
+
+For example, a language model that works effectively in one language may perform differently in another.
+
+A computer vision system trained on one environmental condition may struggle in another.
+
+An application designed for high-speed connectivity may be difficult to use in areas with limited internet access.
+
+These challenges demonstrate why context matters.
+
+Indian technology solutions often need to consider diversity from the beginning.
+
+I want to contribute to systems that are designed with this diversity in mind.
+
+Multilingual AI is one area that interests me.
+
+Language is fundamental to access.
+
+If important information is available only in a limited number of languages, many people may be excluded.
+
+AI can potentially assist with translation, speech recognition, summarisation, and educational content across languages.
+
+However, multilingual AI is not simply a matter of translating individual words.
+
+Languages have different structures.
+
+Meaning depends on context.
+
+Regional variations exist.
+
+Cultural references can be difficult to translate accurately.
+
+Models may perform unevenly across languages.
+
+Therefore, building genuinely useful multilingual systems requires careful research and evaluation.
+
+I would like to explore this area further.
+
+Accessibility is another important application.
+
+Technology can reduce barriers for people with different abilities.
+
+Speech-based interfaces can provide alternative methods of interaction.
+
+Computer vision can assist with visual information.
+
+Adaptive interfaces can make applications easier to navigate.
+
+AI can potentially provide personalised assistance.
+
+But accessibility should not be treated as an optional feature added at the end of development.
+
+It should be considered from the beginning.
+
+Users with different needs should be included in testing.
+
+Their feedback should influence design.
+
+The system should be evaluated under realistic conditions.
+
+This approach can create better technology for everyone.
+
+I want to learn how to incorporate these principles into software and AI systems.
+
+Another important responsibility is environmental sustainability.
+
+AI systems require computing resources.
+
+Training and deploying large models can require significant energy and infrastructure.
+
+As AI adoption increases, efficiency becomes increasingly important.
+
+Engineers should therefore consider computational cost.
+
+Can a smaller model perform the task?
+
+Can the algorithm be optimised?
+
+Can unnecessary computation be reduced?
+
+Can hardware be used more efficiently?
+
+These questions connect AI research with sustainability.
+
+I find this relationship particularly interesting because it demonstrates that technical decisions can have consequences outside the software itself.
+
+A model architecture is not just a mathematical choice.
+
+It can also influence resource consumption.
+
+Responsible engineering requires considering these broader effects.
+
+I also believe AI should be developed with an awareness of its impact on employment.
+
+Automation can reduce repetitive work and create new opportunities, but it can also change existing roles.
+
+The appropriate response is not necessarily to reject automation.
+
+Instead, society needs to think about how workers can adapt.
+
+Education and reskilling become important.
+
+Engineers can contribute by developing systems that augment human capabilities rather than treating people as obstacles to efficiency.
+
+The goal should be to help people perform meaningful work more effectively.
+
+This perspective influences the kinds of AI applications I find most interesting.
+
+I am particularly interested in systems that assist people.
+
+An AI tool that helps a researcher analyse information can increase productivity.
+
+A system that helps a teacher prepare personalised material can provide additional support.
+
+A tool that helps a farmer interpret environmental data can improve decision-making.
+
+An accessibility system can help a user interact with technology more independently.
+
+These applications demonstrate AI as an amplifier of human capability.
+
+I believe this is one of the most valuable directions for the field.
+
+My long-term goal is to work at the intersection of artificial intelligence, software engineering, and responsible technology.
+
+I want to develop technically strong systems.
+
+I want to participate in research.
+
+I want to explore practical applications.
+
+But I also want to consider the people who will use those systems.
+
+I want to ask whether the technology is reliable.
+
+I want to ask whether it is accessible.
+
+I want to ask whether it respects privacy.
+
+I want to ask how it behaves when it fails.
+
+I want to ask whether users understand its limitations.
+
+These questions will influence how I approach future projects.
+
+I also want to develop the ability to recognise when a problem should not be solved through AI.
+
+Artificial intelligence is powerful, but it is not appropriate for every task.
+
+A simple rule-based system may sometimes be more reliable.
+
+A human decision may be more appropriate in a sensitive context.
+
+A process change may solve a problem without requiring any new technology.
+
+Responsible engineering means selecting the right tool.
+
+It does not mean using the most advanced tool.
+
+This is an important distinction in a rapidly changing technological environment.
+
+As new AI capabilities appear, there will be pressure to adopt them quickly.
+
+I want to remain curious without becoming careless.
+
+I want to experiment with new technologies while evaluating them critically.
+
+I want to understand both their capabilities and their limitations.
+
+This balance will be important throughout my career.
+
+Higher education will give me the opportunity to develop this perspective.
+
+I want to study advanced computer science.
+
+I want to work on research projects.
+
+I want to collaborate with professors and students.
+
+I want to participate in technical competitions and innovation initiatives.
+
+I want to explore interdisciplinary problems.
+
+I want to learn from people who challenge my assumptions.
+
+Most importantly, I want to develop the judgment required to build technology responsibly.
+
+I understand that this will require more than technical courses.
+
+I will need to develop communication skills.
+
+I will need to understand research methodology.
+
+I will need to learn how to evaluate evidence.
+
+I will need to become comfortable discussing ethical questions.
+
+I will need to understand the perspectives of people outside computer science.
+
+These are capabilities I want to develop throughout university.
+
+I also want to contribute to the academic community.
+
+I would like to participate in discussions about AI.
+
+I want to share what I learn.
+
+I want to help other students understand technical concepts.
+
+I want to work on projects that address practical problems.
+
+I want to encourage responsible use of AI tools.
+
+As AI becomes increasingly accessible to students, it is important that people learn how to use it thoughtfully.
+
+AI can help with learning.
+
+It can provide explanations.
+
+It can assist with brainstorming.
+
+It can help programmers understand unfamiliar concepts.
+
+But it should not replace independent thinking.
+
+Students need to verify information.
+
+They need to understand the material.
+
+They need to develop their own reasoning abilities.
+
+This principle reflects the broader responsibility I associate with AI.
+
+Powerful tools require responsible users.
+
+Engineers have a responsibility to create such tools carefully.
+
+Users have a responsibility to use them thoughtfully.
+
+Institutions have a responsibility to establish appropriate policies.
+
+Society has a responsibility to discuss their broader effects.
+
+AI governance therefore cannot be solved by engineers alone.
+
+It requires cooperation.
+
+I want to be part of that conversation while contributing my technical knowledge.
+
+My interest in ethics does not come from fear of technology.
+
+It comes from respect for its potential.
+
+The more powerful a technology becomes, the more important responsible development becomes.
+
+A simple software error may affect a single user.
+
+A widely deployed AI system can affect millions.
+
+Therefore, scale increases responsibility.
+
+This principle will remain important to me.
+
+I want to build systems that can be trusted because their limitations have been studied, their performance has been evaluated, and their design has considered the people affected by them.
+
+Trust should not come from marketing.
+
+It should come from evidence and responsible engineering.
+
+This is one of the qualities I hope to develop as a researcher and engineer.
+
+I want to become comfortable asking difficult questions about my own work.
+
+Could the dataset be biased?
+
+Could the model fail under different conditions?
+
+Could the system be misused?
+
+Could users misunderstand the output?
+
+Could the system create an unintended consequence?
+
+What safeguards are necessary?
+
+These questions may make development slower.
+
+But they can make technology better.
+
+Responsible engineering sometimes requires additional effort.
+
+I believe that effort is worthwhile.
+
+My academic journey has taught me that the best technical solution is not always the most complicated one.
+
+Similarly, the most impressive AI system is not necessarily the most useful.
+
+The right solution is the one that addresses the actual problem effectively and responsibly.
+
+This is the philosophy I want to carry into my future work.
+
+I want to combine curiosity with caution.
+
+I want to combine innovation with responsibility.
+
+I want to combine technical ability with empathy.
+
+I want to combine ambition with humility.
+
+These qualities can help me become a more complete engineer.
+
+I do not know exactly what artificial intelligence will look like when I have spent many years working in the field.
+
+The technology will change.
+
+New models will emerge.
+
+New applications will appear.
+
+Some current concerns may be solved.
+
+New concerns will arise.
+
+But the fundamental responsibility will remain.
+
+People will continue to build technologies that influence other people's lives.
+
+Therefore, engineers will continue to need judgment.
+
+I want to develop that judgment.
+
+My long-term ambition is to contribute to AI research and engineering while keeping human needs at the centre of my work.
+
+I want to build systems that help people learn, work, communicate, and solve problems.
+
+I want to explore applications in education, accessibility, environmental monitoring, and other areas where intelligent technology can create meaningful value.
+
+I want to contribute to research that improves reliability and efficiency.
+
+And I want to remain aware of the ethical responsibilities that accompany these developments.
+
+Ultimately, I believe the greatest challenge in artificial intelligence is not simply teaching machines to become more capable.
+
+It is learning how humans should use that capability responsibly.
+
+Technology gives us power.
+
+Engineering gives us the ability to apply that power.
+
+Ethics gives us a framework for deciding how it should be applied.
+
+Human understanding gives us the perspective necessary to recognise what truly matters.
+
+I want my education to help me develop all four.
+
+I began my interest in artificial intelligence because I was fascinated by what machines could learn.
+
+Today, I am equally interested in what humans must learn in order to build those machines responsibly.
+
+We must learn to question our assumptions.
+
+We must learn to evaluate evidence.
+
+We must learn to recognise limitations.
+
+We must learn to consider different perspectives.
+
+We must learn to design for people rather than merely for performance.
+
+And we must learn that technological progress is meaningful only when it contributes positively to society.
+
+This is the kind of engineer I want to become.
+
+I want to be technically capable.
+
+I want to be intellectually curious.
+
+I want to be willing to experiment.
+
+But I also want to be responsible for the consequences of what I create.
+
+Higher education will give me the opportunity to develop these qualities through study, research, collaboration, and practical experience.
+
+I want to use that opportunity fully.
+
+I want to learn how intelligent systems work.
+
+I want to investigate how they can be improved.
+
+I want to understand where they fail.
+
+I want to explore how they can serve diverse communities.
+
+And I want to contribute to a future in which artificial intelligence is developed not merely because it is possible, but because it is useful, responsible, and worthy of trust.
+
+For me, becoming an engineer means accepting both the excitement and the responsibility of creating technology.
+
+I want to build the future.
+
+But I also want to think carefully about what kind of future I am helping to build.
+
+That responsibility is not a limitation on innovation.
+
+It is what can make innovation meaningful.

@@ -1,0 +1,738 @@
+
+When people describe academic success, they often mention grades, examinations, projects, awards, and individual effort. These achievements are important, but they do not tell the complete story. Behind almost every student's development are people who provide guidance, encouragement, criticism, and opportunities. My own academic journey has taught me that personal growth is rarely an entirely individual process. The people who teach us, challenge us, support us, and sometimes simply encourage us to continue can influence the direction of our lives.
+
+This understanding has changed the way I view education.
+
+A teacher's influence does not always come from a particular lesson.
+
+Sometimes it comes from a question.
+
+Sometimes it comes from feedback.
+
+Sometimes it comes from expecting more from a student than the student expects from themselves.
+
+I have experienced how a small piece of guidance can change the way I approach a subject.
+
+When I first became interested in technology, I was primarily focused on learning how to use tools. I wanted to know how to write programs, build applications, and experiment with new technologies.
+
+The guidance I received gradually encouraged me to look beyond implementation.
+
+Instead of asking only how something worked, I began asking why it worked.
+
+Instead of asking only how to complete a project, I began asking whether the project solved a meaningful problem.
+
+Instead of focusing only on the final result, I began paying more attention to the process.
+
+These changes did not happen through one lesson.
+
+They developed through repeated conversations, feedback, and observation.
+
+This is one of the reasons I value mentorship.
+
+A mentor can sometimes identify a question that a student has not yet thought to ask.
+
+That question can open an entirely new direction.
+
+My interest in computer science developed in a similar way.
+
+At first, programming seemed like a technical skill.
+
+Over time, I began to understand it as a method of problem solving.
+
+Algorithms were no longer just sequences of instructions.
+
+They became ways of thinking about efficiency.
+
+Databases were not simply storage systems.
+
+They became methods of organising information.
+
+Artificial intelligence was not merely a collection of advanced models.
+
+It became a way of exploring how machines can learn from patterns.
+
+Mentorship helped me connect individual concepts to broader ideas.
+
+I believe this is one of the most valuable roles of a teacher.
+
+A textbook can provide information.
+
+A teacher can provide context.
+
+A tutorial can explain a technique.
+
+A mentor can help a student understand why that technique matters.
+
+This distinction has influenced the kind of education I hope to receive in higher studies.
+
+I do not want to learn only from materials.
+
+I want to learn from people.
+
+Professors who conduct research can introduce students to questions that are not yet fully answered.
+
+Peers can provide different perspectives.
+
+Industry professionals can explain how theoretical concepts operate in practical environments.
+
+Mentors can help students make better decisions about their development.
+
+I want to actively seek these interactions.
+
+At the same time, mentorship is not simply about receiving advice.
+
+The student has a responsibility.
+
+Advice is valuable only when it is acted upon.
+
+If a mentor identifies a weakness and the student ignores it, little changes.
+
+If a teacher recommends additional practice and the student follows through, improvement becomes possible.
+
+Therefore, mentorship requires effort from both sides.
+
+I want to approach mentorship with preparation, curiosity, and openness to criticism.
+
+I want to ask meaningful questions.
+
+I want to listen carefully.
+
+I want to return after trying the suggested approach.
+
+And I want to be willing to hear that something I have built or believed may need improvement.
+
+This last part can be difficult.
+
+Students often become emotionally attached to their work.
+
+A project may represent many hours of effort.
+
+Criticism can therefore feel personal.
+
+I have learned that separating effort from outcome is important.
+
+A project can require significant effort and still contain weaknesses.
+
+A mentor's criticism does not necessarily diminish the effort.
+
+It can help make that effort more effective.
+
+This perspective has improved the way I receive feedback.
+
+Instead of asking whether criticism feels positive or negative, I try to ask whether it is useful.
+
+If the criticism identifies a genuine problem, I should use it.
+
+If I disagree, I should understand why.
+
+If I need clarification, I should ask.
+
+This creates a more productive relationship between student and mentor.
+
+Teachers have also taught me the importance of fundamentals.
+
+In technology, it is tempting to focus on the newest tools.
+
+New programming frameworks appear constantly.
+
+Artificial intelligence models evolve rapidly.
+
+Software platforms change.
+
+It can be exciting to learn whatever is currently popular.
+
+But strong fundamentals remain important.
+
+Algorithms, mathematics, statistics, data structures, computer systems, and software engineering principles provide knowledge that can remain useful even when individual tools change.
+
+Good mentors can help students distinguish between what is temporary and what is foundational.
+
+This is particularly important for me because I want to build a career in artificial intelligence and software engineering.
+
+I know that the technologies I learn today may not be the technologies I use throughout my career.
+
+Therefore, I want to develop the ability to learn continuously.
+
+Mentorship can help develop that ability by teaching students how to approach unfamiliar subjects.
+
+A mentor does not need to provide every answer.
+
+Sometimes the better approach is to show a student how to find the answer independently.
+
+This is one of the most valuable lessons I have learned.
+
+When someone gives me a complete solution, I may solve one problem.
+
+When someone teaches me how to investigate a problem, I gain a skill that can be applied repeatedly.
+
+I want to become increasingly independent while still benefiting from guidance.
+
+This balance is important.
+
+I do not want to depend completely on mentors.
+
+But I also do not want to believe that I must figure everything out alone.
+
+Learning from experienced people can prevent unnecessary mistakes and expose me to perspectives that would take much longer to discover independently.
+
+This is one reason I want to participate in research during higher education.
+
+Research environments provide opportunities to learn directly from people who are deeply involved in their fields.
+
+A professor may have spent years investigating a particular problem.
+
+A research student may have developed specialised knowledge.
+
+A laboratory may provide access to tools and methods that I have never encountered.
+
+Being part of such an environment would challenge me.
+
+I want that challenge.
+
+I want to ask questions that reveal gaps in my understanding.
+
+I want to learn how experienced researchers think.
+
+I want to understand how they evaluate evidence.
+
+I want to observe how they respond when experiments fail.
+
+I believe these experiences can teach lessons that cannot be learned entirely from textbooks.
+
+Mentorship also taught me that different people can influence different aspects of development.
+
+One person may strengthen technical knowledge.
+
+Another may improve communication.
+
+Another may provide career guidance.
+
+Another may teach discipline.
+
+Another may encourage confidence.
+
+Therefore, I do not think a student needs only one mentor.
+
+Learning can come from many relationships.
+
+A professor may guide academic development.
+
+A senior student may provide practical advice.
+
+A professional may explain industry expectations.
+
+A teammate may teach collaboration.
+
+A friend may provide encouragement during difficult periods.
+
+Each relationship can contribute something different.
+
+Recognising this has made me more willing to learn from people around me.
+
+I also want to become someone who can provide guidance to others.
+
+Mentorship should not move only in one direction.
+
+As I gain knowledge and experience, I want to share it with students who are beginning their own journeys.
+
+I have already seen how difficult a technical subject can feel when someone has no idea where to begin.
+
+A beginner may look at a programming project and see a complicated system.
+
+A small amount of guidance can break that system into manageable pieces.
+
+What is the objective?
+
+What are the inputs?
+
+What should the output be?
+
+What components are required?
+
+What should be implemented first?
+
+These questions can transform confusion into a plan.
+
+I want to help other students experience that transition.
+
+Teaching can also strengthen the teacher.
+
+When I explain a concept to someone else, I am forced to understand it more clearly.
+
+I may discover that I know how to use a technique but cannot explain why it works.
+
+That realisation identifies a gap in my own understanding.
+
+Therefore, mentoring others can become another form of learning.
+
+I want to develop this habit throughout university.
+
+I believe a strong academic community is one in which students help one another.
+
+Competition can motivate excellence, but collaboration creates shared growth.
+
+If one student understands a difficult topic, helping another student does not reduce their own knowledge.
+
+It strengthens the community.
+
+A student who receives help today may help someone else tomorrow.
+
+This creates a cycle of learning.
+
+I want to contribute to such a culture.
+
+Mentorship is also important because academic journeys are not always straightforward.
+
+Students can experience uncertainty about their abilities or future direction.
+
+A mentor can provide perspective.
+
+They can explain that difficulty is normal.
+
+They can help distinguish between a temporary setback and a genuine change in interests.
+
+They can suggest opportunities that a student may not have considered.
+
+They can provide honest feedback when a plan needs to change.
+
+I believe this kind of guidance is particularly valuable during university, when students make important academic and career decisions.
+
+My own interests have changed as I have gained experience.
+
+I began with general curiosity about computers.
+
+I became interested in programming.
+
+Then I explored software development.
+
+Later, artificial intelligence and machine learning became particularly interesting to me.
+
+I do not know exactly where these interests will lead.
+
+I want to remain open to discovering new areas.
+
+Mentors can help students navigate such changes without feeling that every decision must be permanent.
+
+They can provide information without making the decision for the student.
+
+This distinction is important.
+
+A mentor should guide.
+
+The student should ultimately take responsibility.
+
+I want to make my own decisions while using experienced perspectives to make those decisions better informed.
+
+I also believe mentors can teach through example.
+
+Sometimes the most powerful lesson comes from observing how someone behaves.
+
+A professor who remains curious despite being highly knowledgeable demonstrates lifelong learning.
+
+A senior engineer who admits uncertainty demonstrates humility.
+
+A researcher who carefully documents failed experiments demonstrates scientific honesty.
+
+A teacher who treats every student respectfully demonstrates empathy.
+
+These behaviours can influence students more deeply than formal advice.
+
+I want to pay attention to such examples.
+
+They can help shape the professional I eventually become.
+
+This is particularly important to me because I want to work in technology.
+
+Technical careers often involve rapid change.
+
+Professionals need to remain learners.
+
+They need to collaborate.
+
+They need to communicate.
+
+They need to handle uncertainty.
+
+They need to accept feedback.
+
+They need to take responsibility.
+
+Seeing experienced professionals demonstrate these qualities can provide valuable models for my own development.
+
+Mentorship has also taught me the importance of asking questions without fear of appearing uninformed.
+
+There can be pressure in academic environments to appear knowledgeable.
+
+However, pretending to understand something can prevent learning.
+
+A genuine question can reveal a gap in understanding and create an opportunity to fill it.
+
+I want to become comfortable asking questions.
+
+Not careless questions that could be answered through minimal effort, but thoughtful questions that show I have attempted to understand the issue.
+
+Before asking for help, I want to investigate.
+
+Then I want to ask specifically about what remains unclear.
+
+This approach respects the mentor's time while making the interaction more productive.
+
+I also want to learn how to receive difficult answers.
+
+Sometimes a mentor may tell me that an idea is unrealistic.
+
+Sometimes they may say that my technical approach is weak.
+
+Sometimes they may recommend starting again.
+
+These comments may be difficult to hear.
+
+But if the purpose is improvement, I should value honesty over praise.
+
+A mentor who only tells me what I want to hear may make me feel confident temporarily but will not necessarily help me grow.
+
+I want constructive criticism.
+
+I want people who will challenge my assumptions.
+
+I want people who will tell me when I am wrong.
+
+And I want to develop enough maturity to appreciate that feedback.
+
+This attitude will be important in research.
+
+Research requires peer review and criticism.
+
+A researcher must be prepared for others to question their methods, assumptions, and conclusions.
+
+The objective is not to protect an idea from criticism.
+
+It is to improve the quality of the work.
+
+I want to develop that mindset.
+
+Mentorship can help create the intellectual humility required for research.
+
+I also believe mentors can encourage students to think beyond immediate goals.
+
+A student may focus on the next examination or project.
+
+A mentor may ask where the student wants to be several years later.
+
+This broader perspective can influence decisions.
+
+For example, choosing to understand fundamental concepts may require more effort now but create greater long-term value.
+
+Learning communication skills may not appear immediately useful for a programming assignment but can become important in professional life.
+
+Participating in research may not produce an immediate career benefit but can develop analytical thinking.
+
+Mentors can help students recognise these longer-term connections.
+
+I want to develop the ability to think in this way myself.
+
+My long-term goal is to become an engineer and researcher working in artificial intelligence and software development.
+
+I want to develop intelligent systems.
+
+I want to participate in meaningful projects.
+
+I want to explore research questions.
+
+I want to work with interdisciplinary teams.
+
+Eventually, I would also like to mentor students entering the field.
+
+I want to share the lessons I have learned from people who helped me.
+
+If someone helped me understand a difficult concept, I want to help another student understand theirs.
+
+If someone encouraged me to attempt a difficult project, I want to encourage someone else.
+
+If someone showed me how to recover from failure, I want to pass that lesson forward.
+
+In this way, mentorship becomes a chain.
+
+Knowledge moves from one person to another.
+
+Confidence moves from one person to another.
+
+Opportunities can move from one person to another.
+
+This is one of the most meaningful aspects of education.
+
+Education is not simply the transfer of information.
+
+It is the development of people.
+
+Teachers contribute knowledge.
+
+Mentors contribute perspective.
+
+Peers contribute collaboration.
+
+Students contribute curiosity.
+
+Together, these relationships create an academic community.
+
+I want to be an active part of that community.
+
+During higher education, I hope to seek mentors who challenge me academically and professionally.
+
+I want to participate in research groups.
+
+I want to speak with professors about areas that interest me.
+
+I want to learn from senior students.
+
+I want to interact with professionals through internships and technical events.
+
+I want to observe how different people approach problems.
+
+At the same time, I want to contribute what I already know.
+
+I may not have extensive experience, but I can still help others with concepts I understand.
+
+I can share resources.
+
+I can collaborate on projects.
+
+I can encourage peers.
+
+I can learn alongside them.
+
+This reciprocal approach can make university more meaningful.
+
+Mentorship also reinforces the importance of gratitude.
+
+Students often focus on what they achieve individually.
+
+But many achievements are supported by others.
+
+Someone may answer a question.
+
+Someone may provide an opportunity.
+
+Someone may review a project.
+
+Someone may offer encouragement after a disappointing result.
+
+These contributions may not appear on a résumé, but they matter.
+
+I want to recognise them.
+
+I want to remember the people who helped me grow.
+
+And when I have the opportunity, I want to help others in return.
+
+This does not mean trying to reproduce another person's journey.
+
+Every student has different circumstances and interests.
+
+The purpose of mentorship is not to create copies.
+
+It is to help individuals develop their own abilities.
+
+A good mentor does not tell a student exactly who to become.
+
+They help the student understand their strengths, weaknesses, interests, and possibilities.
+
+I want to experience this kind of mentorship.
+
+I also want to provide it.
+
+One of the most valuable lessons I have learned is that guidance should eventually lead to independence.
+
+A student should not need a mentor to make every decision.
+
+The mentor should gradually help the student develop the ability to make those decisions themselves.
+
+This is similar to good teaching.
+
+At the beginning, a teacher may provide detailed guidance.
+
+As the student becomes more capable, the guidance can become less direct.
+
+Eventually, the student can work independently.
+
+I want my education to follow this pattern.
+
+I want to learn from others while developing my own judgment.
+
+I want to ask for guidance without becoming dependent.
+
+I want to receive feedback without losing confidence.
+
+I want to accept criticism without losing curiosity.
+
+And I want to eventually provide the same support to others.
+
+My understanding of mentorship has also changed how I define academic success.
+
+Success is not simply reaching a destination.
+
+It is becoming capable enough to help someone else along the way.
+
+If I become a strong programmer, I should be able to explain programming to someone beginning.
+
+If I become a good researcher, I should be willing to guide students entering research.
+
+If I become an experienced engineer, I should be able to mentor younger professionals.
+
+Knowledge becomes more valuable when it is shared.
+
+This is particularly important in a rapidly developing field such as artificial intelligence.
+
+The technology is changing quickly.
+
+Students entering the field need guidance on how to navigate new tools, research areas, and career paths.
+
+Experienced professionals have an opportunity to help them avoid common mistakes and identify meaningful opportunities.
+
+Eventually, I want to contribute in that way.
+
+I want to become someone who not only builds technology but also helps build people.
+
+My academic future will undoubtedly involve challenges.
+
+There will be difficult subjects.
+
+There will be unfamiliar technologies.
+
+There will be research problems that do not have immediate answers.
+
+There will be decisions about career direction.
+
+Having mentors will not eliminate these challenges.
+
+But it can make the process more informed.
+
+A mentor can provide perspective when I am too close to a problem.
+
+A teacher can identify a conceptual weakness.
+
+A peer can provide an alternative approach.
+
+A professional can explain industry realities.
+
+I want to use these relationships wisely.
+
+I also want to remember that mentors are human.
+
+They may have different opinions.
+
+They may not always agree.
+
+Their advice may not always be correct for my circumstances.
+
+Ultimately, I must evaluate their guidance.
+
+This reinforces the importance of independent thinking.
+
+The best mentorship does not replace judgment.
+
+It strengthens it.
+
+I want to develop that balance.
+
+Looking toward the future, I hope my career will involve continuous learning.
+
+Technology will continue changing.
+
+New research will emerge.
+
+New challenges will appear.
+
+I will need people who can challenge my thinking.
+
+At the same time, there will eventually be people who look to me for guidance.
+
+I want to be prepared for both roles.
+
+I want to remain a learner even when I become experienced.
+
+And I want to remain willing to teach even when I become busy.
+
+These responsibilities can coexist.
+
+Teaching others can keep a professional connected to the fundamentals.
+
+Learning from others can prevent stagnation.
+
+Both contribute to growth.
+
+Ultimately, the people who influence us become part of how we approach the world.
+
+A teacher who encourages curiosity can create a lifelong learner.
+
+A mentor who encourages experimentation can create an innovator.
+
+A senior who shares knowledge can create a collaborator.
+
+A peer who provides support can create confidence.
+
+I want to recognise these influences in my own development.
+
+They remind me that no achievement exists entirely in isolation.
+
+Behind every skill is someone who taught it, demonstrated it, explained it, challenged it, or encouraged its development.
+
+My responsibility is to make good use of that knowledge.
+
+And eventually, to pass it forward.
+
+This is the kind of academic community I hope to find in higher education.
+
+I want to learn from people who know more than I do.
+
+I want to work alongside people who think differently.
+
+I want to challenge and be challenged.
+
+I want to contribute what I know.
+
+I want to seek feedback.
+
+I want to participate in research.
+
+I want to develop both technical and personal skills.
+
+And I want to become increasingly capable of guiding myself.
+
+Most importantly, I want to remember that education is a shared process.
+
+The people around us influence what we learn, how we think, and what we believe is possible.
+
+I am grateful for the teachers, mentors, peers, and others who have contributed to my development.
+
+Their influence has not simply helped me acquire knowledge.
+
+It has helped me develop a way of learning.
+
+It has taught me to ask questions.
+
+It has taught me to accept criticism.
+
+It has taught me to seek help.
+
+It has taught me to help others.
+
+And it has shown me that growth becomes more meaningful when it is shared.
+
+As I move toward higher education and eventually into a career in technology, I want to carry these lessons with me.
+
+I want to remain curious enough to learn from others.
+
+I want to remain humble enough to accept guidance.
+
+I want to remain independent enough to make my own decisions.
+
+And I want to become experienced enough to guide others.
+
+My goal is not simply to become a successful engineer.
+
+I want to become the kind of engineer whose knowledge creates opportunities for other people as well.
+
+Because the strongest legacy of education is not the information we keep.
+
+It is the knowledge, confidence, and opportunity we pass on.

@@ -1,0 +1,254 @@
+
+I am a student who believes that education is not limited to what is taught in the classroom. Academic subjects provide an important foundation, but I have also learned a lot through online resources, personal projects, technical events, teamwork, and independent exploration. These experiences have helped me understand my interests better and have influenced the way I approach my education and future career.
+
+As a computer science student, I have access to a large amount of information outside my academic syllabus. There are online courses, documentation, research papers, tutorials, coding platforms, developer communities, and technical discussions. I started using these resources because I wanted to understand topics that were not always covered in detail in my regular coursework.
+
+One of the main areas I explored outside the classroom was programming. I started learning different programming concepts through online tutorials and practical examples. Initially, I focused on understanding basic programming and web development. As I became more comfortable, I started exploring frameworks, databases, APIs, and other areas of software development.
+
+I found that independent learning was different from classroom learning. In a classroom, the syllabus and learning sequence are usually already defined. When learning independently, I have to decide what I want to learn, find suitable resources, and determine how to practise the concept.
+
+This gave me more responsibility for my own learning.
+
+I also realised that independent learning requires consistency. It is easy to start a new course or watch a tutorial, but understanding a subject properly requires practice. I usually try to apply what I learn by building a small project or experimenting with the concept. This helps me identify what I actually understand and what I need to study further.
+
+This approach became particularly useful when I started exploring artificial intelligence.
+
+AI was not an area I understood deeply when I first became interested in it. I started with basic concepts and gradually explored machine learning, computer vision, and AI-based applications. I used online resources to understand concepts such as datasets, model training, classification, evaluation, and neural networks.
+
+As I worked on projects, I realised that AI involves both theory and experimentation. Reading about a model can explain how it works, but implementing it gives a different understanding. Sometimes the model does not perform as expected, and I need to investigate the reason.
+
+This encouraged me to learn more about the mathematics and statistics behind machine learning.
+
+I began to understand that using an AI library is only one part of the process. To build reliable systems, it is important to understand how the data is prepared, how models are evaluated, and what the limitations of the results are.
+
+This is one of the areas I want to explore more deeply in higher education.
+
+Apart from AI, I have also learned full-stack development outside the classroom. I have worked with technologies such as React, Node.js, Express, MongoDB, and SQL. Working with these technologies helped me understand how different parts of a software application connect.
+
+When building a complete application, I need to think about the frontend, backend, database, authentication, APIs, error handling, and deployment. Learning these areas independently helped me understand how theoretical programming concepts are used in actual software systems.
+
+I also enjoy learning by solving problems that come up during development.
+
+For example, when an application does not behave as expected, I usually start by checking the error message, understanding which component is causing the issue, and testing possible solutions. Sometimes the answer can be found in documentation, while other times I need to experiment with different approaches.
+
+These experiences have improved my ability to learn independently.
+
+Another important part of my learning outside the classroom has been participating in hackathons and technical events. These events gave me opportunities to work on problems within a limited amount of time and collaborate with other students.
+
+Hackathons are different from normal academic assignments because the problem is often open-ended. The team has to decide what solution to build and how to implement it. There may also be technologies that some team members have never used before.
+
+This taught me to learn quickly.
+
+If a project required a technology I had not worked with before, I had to understand the basics and start using it instead of waiting until I became an expert. This helped me become more comfortable with unfamiliar tools.
+
+Hackathons also taught me the importance of teamwork.
+
+A project can have several technical components, and different team members may take responsibility for different parts. Communication becomes important because everyone's work needs to fit together.
+
+These experiences helped me understand that learning does not always happen individually. Sometimes I learn faster by discussing a problem with another person.
+
+I have also learned from other students.
+
+When working on a technical project, someone else may have a different approach to the same problem. Discussing these approaches can help me understand alternative ways of solving it.
+
+This has made me more open to feedback.
+
+I do not expect my first solution to always be the best one. If someone suggests a better approach, I want to understand why it works and consider whether I can improve my own solution.
+
+This is an important part of continuous learning.
+
+Another way I learn outside the classroom is by reading technical documentation. Documentation is often more useful than short tutorials when I need to understand how a technology actually works.
+
+It also teaches me to solve problems independently.
+
+Instead of looking for a complete solution every time, I can understand the available options and decide how to use them in my project.
+
+I want to become increasingly comfortable with documentation because professional software development requires it.
+
+Research papers are another area I want to explore more seriously.
+
+So far, most of my independent learning has focused on practical development. However, I understand that research requires a different approach. It involves understanding existing work, identifying gaps, developing questions, conducting experiments, and analysing results.
+
+I want to gain more experience in this area during college.
+
+I believe research can help me move from simply using existing technologies to understanding how new technologies and methods are developed.
+
+Learning outside the classroom has also helped me understand my own interests.
+
+When I first entered computer science, I was interested in many different areas. Through projects and independent exploration, I discovered that I particularly enjoy artificial intelligence, software development, and intelligent systems.
+
+At the same time, I have also explored areas that I may not want to specialise in.
+
+I believe this exploration is useful because students do not always know their exact career interests at the beginning of their education.
+
+Trying different areas helps identify what is genuinely interesting.
+
+This is one reason I want college to provide opportunities for exploration.
+
+I do not want my education to consist only of completing required subjects. I want to use the available environment to discover new areas of computer science.
+
+I would like to participate in technical clubs, research projects, workshops, competitions, internships, and collaborative projects.
+
+Each experience can provide a different form of learning.
+
+Classroom courses can provide theoretical foundations.
+
+Projects can provide practical experience.
+
+Research can develop analytical thinking.
+
+Internships can provide exposure to professional environments.
+
+Technical events can develop teamwork and adaptability.
+
+I want to learn from all of them.
+
+Another lesson I have learned is that independent learning requires knowing when to ask for help.
+
+Learning independently does not mean solving every problem alone.
+
+Sometimes I can spend too much time trying to understand a problem when someone with more experience can explain it quickly. Asking for help can save time and provide a better perspective.
+
+The important thing is to understand the explanation rather than simply copy the solution.
+
+I want to maintain this balance between independence and collaboration.
+
+I also believe that learning outside the classroom has improved my confidence.
+
+When I learn a new technology independently and successfully use it in a project, I gain confidence that I can approach unfamiliar subjects.
+
+This does not mean I expect new technologies to be easy.
+
+It means I am more comfortable starting.
+
+I know that I can read documentation, study examples, experiment, make mistakes, and gradually understand the technology.
+
+This is an important skill for a field like computer science.
+
+Technology changes constantly.
+
+A specific programming language or framework may become less important over time, while new tools emerge.
+
+The ability to learn new technologies is therefore more valuable than memorising one particular tool.
+
+I want to develop this ability throughout my career.
+
+Artificial intelligence makes continuous learning even more important.
+
+New models, techniques, and applications are being developed regularly. It would be difficult for any degree programme to cover everything that will become relevant during a student's career.
+
+A strong education should therefore teach students how to continue learning after graduation.
+
+This is one of the things I value most about independent learning.
+
+It has taught me how to search for information, evaluate resources, practise concepts, and apply knowledge.
+
+I want to strengthen these abilities during higher education.
+
+I also want to become better at managing my time.
+
+Learning outside the classroom requires balancing academics with personal projects and other responsibilities. It is easy to become interested in too many topics at once.
+
+I have learned that it is better to focus on a few meaningful goals rather than trying to learn everything simultaneously.
+
+For example, if I am working on an AI project, I may focus on the technologies directly related to that project instead of starting several unrelated courses.
+
+This helps me maintain consistency.
+
+It also makes learning more purposeful.
+
+Another benefit of learning beyond the classroom is that it allows me to connect different areas.
+
+My experience with full-stack development has helped me understand how AI models can be integrated into applications.
+
+My interest in AI has encouraged me to learn more about data and machine learning.
+
+My participation in hackathons has helped me combine technical skills with teamwork and problem-solving.
+
+These connections would be difficult to develop through isolated subjects alone.
+
+I enjoy this interdisciplinary aspect of technology.
+
+I am interested in understanding how different technologies can work together to create complete systems.
+
+In the future, I want to build intelligent applications rather than only experiment with individual models.
+
+For this, I need knowledge of AI, software engineering, databases, cloud systems, user interfaces, and system design.
+
+Independent learning has allowed me to begin exploring these areas.
+
+I hope higher education will help me develop them more systematically.
+
+I also want to learn from people with more experience.
+
+Online resources are useful, but interaction with professors, researchers, and experienced professionals can provide guidance that is difficult to obtain independently.
+
+I want to ask questions, discuss ideas, receive feedback, and understand how experienced people approach technical problems.
+
+This is one of the reasons I am looking forward to higher education.
+
+I believe a strong academic environment should encourage both structured learning and independent exploration.
+
+Students should have the fundamentals required to understand their field, but they should also have the freedom to explore questions beyond the syllabus.
+
+I want to make use of that opportunity.
+
+My long-term goal is to work in artificial intelligence and software engineering.
+
+I want to develop strong technical skills and eventually work on systems that solve practical problems.
+
+To achieve this, I know that my learning cannot stop when I complete a course or degree.
+
+I will need to continue learning throughout my career.
+
+New problems will require new knowledge.
+
+New technologies will require new skills.
+
+New research will change how existing systems are developed.
+
+I want to be prepared for this continuous change.
+
+Learning beyond the classroom has already given me a starting point.
+
+It has made me more independent, curious, and comfortable with unfamiliar technologies. It has also helped me identify my interests and understand how I learn best.
+
+I enjoy learning by doing.
+
+I enjoy exploring new technologies.
+
+I enjoy building projects.
+
+I enjoy solving technical problems.
+
+I enjoy discussing ideas with other people.
+
+I also enjoy the process of discovering that I do not understand something and then working until I do.
+
+These experiences have shaped my approach to education.
+
+I do not want to depend only on what is required.
+
+I want to learn because I am interested in the subject and because I want to use that knowledge in the future.
+
+I believe this attitude will be important as I continue studying computer science.
+
+There is still a lot that I do not know.
+
+I want to learn more about advanced machine learning, artificial intelligence, computer systems, algorithms, and research.
+
+I also want to improve my communication, teamwork, and leadership skills.
+
+College will provide an opportunity to develop all of these areas.
+
+My goal is to become a technology professional who can learn independently, work effectively with others, and apply technical knowledge to practical problems.
+
+I believe education should prepare a student not only for the first job after graduation but also for the many years of learning that follow.
+
+For me, learning beyond the classroom is an important part of that preparation.
+
+It has helped me become more curious about technology, more independent in my learning, and more willing to explore unfamiliar areas.
+
+I want to continue this approach throughout college and my professional career.
+
+I know that there will always be something new to learn, and I see that as one of the most interesting parts of being a computer science student.

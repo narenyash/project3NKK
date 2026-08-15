@@ -1,0 +1,32 @@
+Tab 7
+"...a Seattle teenager managed to compile coronavirus data faster than the agency itself..." said a mortified CDC staffer - The New York Times.
+
+
+If you had told me a year ago that Dr. Fauci would be presenting me a Webby Award for coding one of the most significant websites of the year, I never would have believed you. In fact, I didn't even know who Dr. Fauci was.
+
+
+I got my first computer when I was 6. Within a year, I could already type faster than my dad. By middle school, I coded my own video games and sold them online, driven by the way I could share my games with the entire world. I branched out from just games to being paid for creating mobile apps, websites, and computer software by early high school. As a 10th grader and the youngest competitor, I won $30,000 in a major hackathon where I developed software for the US government.
+
+
+That brings me to January 2020, when I got a text from a friend living in China. He told me that his city was going into lockdown as a result of some highly infectious virus.
+
+
+As the child of a physician and a biochemist, this caught my interest. As I asked my parents about it, they became concerned about the potential, yet nobody around me talked about it. When I tried to find out more information, the only place I could go was to Chinese government websites or outdated news articles riddled with ads.
+
+
+There had to be a better way, so I coded a website that would automatically grab the most up-to-date information from Chinese health departments and display it on a user-friendly dashboard. As the virus spread, my web scrapers did too, combing every public health department worldwide. What started as a fun project turned into a 24/7 obligation. I had to work fast to code new web scrapers to keep my site up to date, eventually leading me to drop out of school.
+
+
+For most, COVID has brought boredom and stillness; but for me, my past year has been a whirlwind of events, sleepless nights, international speaking engagements, and early morning video calls with the United Nations.
+
+
+Within a few months of launching the site, the virus had become a global pandemic, and I was on CNN (in my pajamas) talking to millions of people. My site now had more than 30 million visitors a day, mostly from people who had no idea it was being operated solely by a teenager from Seattle.
+
+
+Looking back, all the stress and sleepless nights were worth it. Having had such a strong impact as an individual has given me the motivation and confidence I needed to continue working on even more ambitious projects. Every day I am on the lookout for the next opportunity to create something that helps others. I spend my time thinking about how cybernetics could help paralyzed people walk again or how vertical farming could drastically reduce our growing planet's climate impact.
+
+
+In college, I want to develop the skills I need to turn these theoretical ideas into reality. I will be an active member of the university community and look forward to contributing and collaborating. Being surrounded by a diverse and interesting cast of people will teach me new ways of thinking and challenge me to more effective solutions. The future will be fascinating. Perhaps also terrifying. But it will be built by people like me and my cohort, exploring the art of the possible, and pushing past it.
+
+
+Steve Jobs, my inspiration, said, "The people who are crazy enough to think they can change the world, are the ones who do." I know that my high school transcripts are not ideal, but I hope that my track record is crazy enough for your university to take a gamble on changing the world with me.

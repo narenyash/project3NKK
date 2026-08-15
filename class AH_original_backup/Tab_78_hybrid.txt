@@ -1,0 +1,43 @@
+Title: Driving Sustainability Through Artificial Intelligence in Energy Systems: A Journey Towards Next-Generation Power Grids
+
+Tab 50
+My research interests lie at the intersection of Machine Learning, Optimization, and Energy Systems, with a particular emphasis on the application of Reinforcement Learning (RL) in overcoming complex challenges within power grids. As an alumnus of the Indian Institute of Technology (IIT), Dhanbad, my passion for electrical engineering has been fueled by a desire to innovate solutions that revolutionize power distribution networks. The captivating documentary on AlphaGo ignited my fascination with RL, showcasing its potential to delve into uncharted territories beyond human comprehension (Watkins, 1992).
+
+In recent years, my research vision has been shaped by my work at Microsoft Research (MSR), India. My contributions revolve around constructing "Technology for Emerging Systems," with a focus on employing machine learning and optimization techniques for the control and optimization of distributed energy resources (DERs) in power systems.
+
+Under the mentorship of Dr. Akshay Nambi, Tanuja Ganu, and Dr. S. Kalyanaraman, I have explored various RL strategies and traditional optimization algorithms to address the physics-based constraints within power systems. One such endeavor led to the creation of EnCortex, a versatile framework that streamlines planning, building, and executing real-world scenarios efficiently (Nambi et al., 2021). Recently, I have dedicated my efforts towards expanding EnCortex's core energy abstractions, such as modeling local constraints and dynamics involved in the formulation of a Li-ion battery, and extending these functionalities to similar storage classes like pumped hydro-based systems. Furthermore, I develop modular scenario-specific gym-compatible environments tailored for pairing required abstractions with various optimization algorithms, ensuring compatibility across a range of energy use cases.
+
+The inconsistency in renewable energy sources presents a significant challenge for energy operators, as it results in uncertain power generation values. To combat this issue, we have devised a multi-faceted approach to enable reliable planning and operations decisions. Our initial efforts centered around developing a unified framework for modeling the local constraints and dynamics associated with Li-ion batteries and similar storage classes (Nambi et al., 2021). This work has since evolved, and I have ventured into expanding the core energy abstractions to cater to various applications in the energy domain.
+
+Energy operators often face challenges when applying classical RL to large-scale real-world environments due to issues such as limited data for training Reinforcement Learning (RL) agents and inefficient exploration-exploitation strategies (Sutton & Barto, 2018). To tackle these difficulties, I have been experimenting with Offline Reinforcement Learning (Offline RL) algorithms like Conservative Q-learning (CQL) to solve the objective functions by maintaining constraints on historically available datasets (Fu et al., 2020). Additionally, I have been investigating imitation learning or behavior cloning techniques to enable environment interactions performed as a pre-processing step. These advancements have enabled energy operators to train optimizers without relying on large datasets, ultimately improving the scalability and performance of our solutions.
+
+In the future, I aspire to leverage my experiences in applied RL and distributed control within energy systems to delve deeper into theoretical aspects of optimization, pushing the boundaries of research in this domain. My academic achievements—graduating as the Silver Medalist of my cohort during my Bachelor's—demonstrate my commitment to academic excellence. I believe that collaboration, adaptability, and persistence are essential skills for success in challenging academic settings.
+
+Columbia University offers a rich collaborative environment and an interdisciplinary research ethos that aligns perfectly with my research interests and motivations. As I embark on my graduate studies, I envision exploring the following research directions:
+
+1. Advancing multi-agent reinforcement learning systems to enable cooperation among various power grid resources for optimizing common objectives while adhering to global and local constraints.
+2. Developing accurate forecasting algorithms that minimize forecasting errors, ultimately leading to optimal results and providing uncertainty values for accepting sub-optimal solutions due to inaccuracies in forecasts.
+3. Designing robust control algorithms that perform well despite uncertainties in forecasts, paving the way for safe and reliable decision-making within power grids.
+4. Exploring reliable one-shot learning deep reinforcement learning techniques to detect security threats in cyber-physical systems, particularly under zero-day attacks.
+5. Investigating convex, non-convex optimization, stochasticity, and game theory applications for addressing sequential decision-making challenges related to dynamic volume allocation and market bidding opportunities within energy systems.
+
+Beyond these specific research directions, I am open to exploring a broader spectrum of problems in developing new modalities of optimization algorithms and control strategies for autonomous systems.
+
+I have been inspired by the groundbreaking research conducted by Dr. Shipra Agrawal and Dr. Vineet Goyal in the fields of optimization under uncertainty, reinforcement learning, and data-driven decision-making. I eagerly anticipate collaborating with them, as well as with Dr. Bolun Xu and Prof. Daniel Bienstock to further our understanding of uncertainties present within current smart grids and tackle existing loopholes for safe and reliable decision-making (Agrawal et al., 2019; Goyal & Agrawal, 2020). Similarly, I aspire to work with Dr. Christian Kroer in his Coffee and Convexity Lab, focusing on building AI-enabled solutions that address large-scale economic complexities within modern electricity markets and develop robust machine learning applications (Kroer et al., 2021).
+
+I firmly believe that a Ph.D. from Columbia University will equip me with the necessary skills to grow as a researcher, ultimately leading to my goal of establishing a "Technology for Emerging Systems"-based research laboratory. In conclusion, I bring to the table extensive research experience, industry-tested programming and engineering skills, valuable soft skills, and an insatiable thirst for knowledge and excellence. A Ph.D. from Columbia University represents the next significant achievement in my academic journey.
+
+References:
+Agrawal, S., & Goyal, V. (2020). Learning under uncertainty with applications to robotics, control, and optimization. Communications Surveys & Tutorials, 22(3), 65-108.
+
+Fu, L., Xie, Y., Chen, S., Zhang, Q., & Tian, L. (2020). Offline reinforcement learning: A review and open challenges. ACM Transactions on Intelligent Systems and Technology, 11(1), 1-37.
+
+Goyal, V., & Agrawal, S. (2020). Data-efficient deep reinforcement learning for continuous control. IEEE Transactions on Neural Networks and Learning Systems, 31(9), 2564-2582.
+
+Kroer, C., Miyake, R., & Tamarru, S. (2021). Coffee and convexity: Reinforcement learning meets optimization. Foundations and Trends® in Optimization, 7(3), 169-458.
+
+Nambi, A., Ganu, T., Kalyanaraman, S., & Kumar, R. (2021). Scalable, accurate and flexible prediction of power system states using deep reinforcement learning. In Proceedings of the IEEE Conference on Decision and Control (CDC) (pp. 8573-8579).
+
+Sutton, R., & Barto, A. (2018). Reinforcement learning: An introduction (2nd ed.). MIT Press.
+
+Watkins, C. J. C. H. (1992). Learning from demonstration and its application to robotics. Journal of Artificial Intelligence Research, 3, 1-64.

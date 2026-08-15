@@ -1,0 +1,545 @@
+# Essay A083 — My Interest in Human-Computer Interaction
+
+I am a student with a strong interest in computer science, artificial intelligence, and software development. Along with learning how to build software, I have become interested in how people interact with technology. This has led me to explore human-computer interaction, an area that focuses on designing technology in a way that is understandable, useful, and comfortable for people to use.
+
+My interest in human-computer interaction developed while working on software projects. When I started programming, I mainly focused on whether the application worked correctly. If a button performed the required function or the backend returned the correct information, I considered the feature successful.
+
+As I built more applications, I realised that technical functionality is only one part of a good product.
+
+An application can work correctly and still be difficult to use.
+
+A user may not understand what a button does.
+
+A form may contain unnecessary fields.
+
+Important information may be difficult to find.
+
+A process may require too many steps.
+
+These experiences made me more interested in the relationship between software and its users.
+
+I started paying more attention to user interface design.
+
+The arrangement of information can affect how easily users understand an application.
+
+Colours, spacing, typography, navigation, buttons, and feedback can all influence the user experience.
+
+I realised that these decisions should not be made only based on personal preference.
+
+They should be based on the needs of the people using the application.
+
+This changed the way I approach frontend development.
+
+When I build a web application, I now try to think about what the user is trying to accomplish.
+
+If the user needs to complete a particular task, the interface should make that task clear.
+
+Unnecessary features can create confusion.
+
+A simple interface can sometimes be more effective than a complicated one.
+
+I find this principle useful in software development.
+
+Another important concept I have learned is usability.
+
+An application should allow users to complete tasks without unnecessary difficulty.
+
+For example, if a user wants to find an order in an application, the information should be easy to locate.
+
+If a user needs to submit a form, the fields should be clearly labelled.
+
+If an error occurs, the application should explain what went wrong and what the user can do next.
+
+These details may seem small, but they can significantly affect the experience.
+
+This made me interested in how usability can be evaluated.
+
+I also became interested in user feedback.
+
+As developers, we can make assumptions about how people will use an application.
+
+However, users may behave differently from what we expect.
+
+When I have shown projects to other students, they sometimes identify problems that I did not notice.
+
+This taught me that feedback is an important part of development.
+
+Instead of assuming that my design is correct, I should test it with actual users.
+
+This is one of the main ideas I want to learn more about.
+
+Another area that interests me is accessibility.
+
+Technology should be usable by people with different abilities and needs.
+
+For example, some users may have difficulty using a mouse.
+
+Others may have visual or hearing limitations.
+
+Some users may rely on keyboards, screen readers, voice commands, or other assistive technologies.
+
+Designing applications with these users in mind can make technology more inclusive.
+
+I find accessibility particularly meaningful because it shows that good design is not only about appearance.
+
+It is about making sure that people can actually use the system.
+
+My interest in accessibility has also influenced my interest in AI.
+
+Artificial intelligence can provide alternative ways of interacting with technology.
+
+Speech recognition can allow users to control applications through voice.
+
+Computer vision can help interpret visual information.
+
+Natural language processing can allow users to communicate with systems using ordinary language.
+
+These technologies can create new forms of interaction.
+
+I want to explore how AI and human-computer interaction can work together.
+
+Another area I find interesting is conversational interfaces.
+
+Traditional applications require users to navigate menus and buttons.
+
+Conversational systems allow users to describe what they want using natural language.
+
+For example, instead of searching through several menus, a user could ask an AI system to find a particular piece of information.
+
+This can make certain tasks easier.
+
+However, conversational systems also create new usability challenges.
+
+Users may not know what the system can do.
+
+The system may misunderstand a request.
+
+The response may be too long or unclear.
+
+Therefore, conversational interfaces need to communicate their capabilities and limitations clearly.
+
+I want to understand how these systems can be designed effectively.
+
+My interest in natural language processing has helped me explore these ideas.
+
+Language models can process user requests and generate responses, but the quality of the interaction depends on more than the model itself.
+
+The application needs to provide appropriate context.
+
+It needs to handle errors.
+
+It needs to present information clearly.
+
+It needs to allow users to correct mistakes.
+
+This shows that AI interface design is an important area.
+
+I want to explore it further.
+
+Another concept I find interesting is user research.
+
+Before designing an application, developers can learn about the people who will use it.
+
+They can conduct interviews, surveys, usability tests, and other forms of research.
+
+The goal is to understand users' needs and problems.
+
+I want to develop these skills because technical development should begin with understanding the problem.
+
+For example, if I am designing an application for students, I should understand how students currently manage their work.
+
+They may use notebooks, messaging groups, calendars, spreadsheets, or other tools.
+
+The new application should solve an actual problem rather than simply add another tool.
+
+This approach has influenced my project ideas.
+
+Another important aspect is information architecture.
+
+Applications often contain a large amount of information.
+
+The information needs to be organised in a way that makes sense to users.
+
+Menus, categories, search systems, filters, and navigation all contribute to this organisation.
+
+I find it interesting because it connects software structure with human thinking.
+
+A technically well-organised database does not automatically mean that the information will be easy for users to understand.
+
+The user interface needs to present the information appropriately.
+
+This is an important distinction.
+
+I also find search interfaces interesting.
+
+When an application contains many documents, products, or records, users need a way to find what they are looking for quickly.
+
+Search systems can use keywords, filters, recommendations, or semantic understanding.
+
+AI can potentially improve search by understanding the meaning behind a user's query rather than only matching exact words.
+
+This connects human-computer interaction with natural language processing and information retrieval.
+
+I want to learn more about intelligent search systems.
+
+Another area I am interested in is personalisation.
+
+Different users may have different preferences and needs.
+
+An application can potentially adapt its interface or recommendations based on user behaviour.
+
+For example, a learning platform may recommend different resources to different students.
+
+A shopping application may display products based on previous interactions.
+
+However, personalisation also creates privacy concerns.
+
+Users should understand how their information is being used.
+
+The system should not make assumptions that unfairly limit their choices.
+
+I want to understand how personalisation can be designed responsibly.
+
+My interest in cybersecurity has also influenced my thinking about user interfaces.
+
+Security features should be understandable to users.
+
+For example, authentication systems should clearly explain what is required.
+
+If a user receives an unusual security warning, the message should be clear enough to help them make an informed decision.
+
+Poor security interfaces can sometimes lead users to ignore important warnings.
+
+This shows that security and usability are connected.
+
+I want to explore secure and user-friendly design.
+
+Another area that interests me is error handling.
+
+Errors are unavoidable in software.
+
+A user may enter invalid information.
+
+A network connection may fail.
+
+A server may become unavailable.
+
+An external service may return an error.
+
+The application needs to communicate these problems clearly.
+
+A message such as "Something went wrong" may not provide enough information.
+
+A better message can explain what happened and what the user can do next.
+
+I find this small but important aspect of interface design interesting.
+
+My experience with debugging software has also helped me understand that developers and users experience errors differently.
+
+A developer may see a technical error message and immediately understand the problem.
+
+A normal user may not understand technical terminology.
+
+Therefore, user-facing error messages should be written for the user rather than the developer.
+
+This is an important lesson I want to continue applying.
+
+Another important part of human-computer interaction is feedback.
+
+When users perform an action, the system should provide some indication that the action was received.
+
+For example, a button may show a loading state after being clicked.
+
+A successful form submission may display a confirmation.
+
+An error may be shown if something fails.
+
+Without feedback, users may not know whether the application is working.
+
+This can lead to repeated actions or confusion.
+
+I have become more aware of these details while building applications.
+
+I also find mobile interface design interesting.
+
+Mobile devices have smaller screens and different interaction methods compared with desktop computers.
+
+Users may interact using touch instead of a mouse and keyboard.
+
+This requires different design considerations.
+
+Buttons need to be large enough to use comfortably.
+
+Important information needs to fit within limited space.
+
+Navigation needs to be simple.
+
+Performance also matters because mobile devices may have limited resources.
+
+I want to improve my understanding of responsive and mobile-first design.
+
+Another area I want to explore is multimodal interaction.
+
+Users can interact with technology through text, voice, images, gestures, and other forms of input.
+
+AI makes it increasingly possible to combine these methods.
+
+For example, a user could upload an image and ask a question about it using voice.
+
+The system could process both the visual and spoken information.
+
+This creates new possibilities for applications.
+
+I find multimodal AI particularly interesting because it combines several of my interests.
+
+Computer vision can process images.
+
+NLP can process language.
+
+Speech recognition can process audio.
+
+Software engineering can connect all these components.
+
+This is an area I would like to explore through future projects.
+
+Another topic I want to understand is the difference between designing for beginners and experienced users.
+
+A beginner may need more guidance.
+
+An experienced user may want shortcuts and faster navigation.
+
+A good application may need to support both.
+
+This can involve progressive disclosure, customisation, keyboard shortcuts, or other features.
+
+I find this interesting because it shows that there is no single interface that is perfect for every user.
+
+Design needs to consider the intended audience.
+
+My interest in HCI has also made me think about simplicity.
+
+Developers often want to add more features because they can demonstrate technical capability.
+
+However, more features can sometimes make an application harder to understand.
+
+I have learned that every feature should have a reason.
+
+If a feature does not provide meaningful value, it may not be necessary.
+
+This is a principle I want to apply to future projects.
+
+Another important area is consistency.
+
+Users learn how an application works through repeated interaction.
+
+If similar actions behave differently in different parts of the application, users may become confused.
+
+Consistent navigation, terminology, buttons, and interactions can make software easier to learn.
+
+I want to pay more attention to consistency when developing interfaces.
+
+I also want to understand how design decisions can be tested.
+
+Instead of assuming that one interface is better, developers can compare different versions.
+
+Usability testing can reveal where users struggle.
+
+Analytics can show where users leave a process.
+
+Feedback can identify features that are confusing.
+
+These methods can help improve a design based on evidence.
+
+I find this connection between data and design interesting.
+
+My interest in data science can therefore support my interest in HCI.
+
+User interaction data can provide useful information, but it needs to be interpreted carefully.
+
+For example, if users spend a long time on a page, it does not necessarily mean they like the page.
+
+They may be confused.
+
+Therefore, data should be combined with qualitative feedback.
+
+This is another example of why understanding the context is important.
+
+I also want to explore the role of psychology in interface design.
+
+People have limits on how much information they can process at one time.
+
+Interfaces can either reduce or increase cognitive load.
+
+Clear organisation and simple interactions can make complex tasks easier.
+
+I want to learn more about these principles.
+
+This would help me design applications that are not only functional but also easier to understand.
+
+My long-term goal is to work in artificial intelligence and software engineering.
+
+Human-computer interaction is relevant to both fields because technology ultimately needs to be used by people.
+
+An AI model can be highly accurate, but if users cannot understand or interact with it effectively, its practical value may be limited.
+
+Therefore, I want to develop both technical and user-centred skills.
+
+I believe this combination will help me build better systems.
+
+Higher education will provide opportunities to study software engineering, AI, human-computer interaction, user experience, and related subjects.
+
+I want to participate in projects where I can design, implement, and test applications.
+
+I also want to learn from faculty members and other students who have different perspectives.
+
+Working with people from design, psychology, business, and other fields could help me understand HCI more broadly.
+
+I also want to gain practical experience through internships.
+
+Professional products involve real users and real constraints.
+
+There may be business requirements, technical limitations, accessibility standards, security requirements, and deadlines.
+
+Learning how teams balance these factors would be valuable.
+
+I want to understand how user-centred development works in real organisations.
+
+Another goal is to continue building applications.
+
+I learn well by creating things and testing them.
+
+I want to take the ideas I learn in HCI and apply them to real projects.
+
+For example, I could redesign an existing application based on user feedback or develop an AI interface that supports multiple interaction methods.
+
+These projects would help me understand the difference between theoretical principles and practical implementation.
+
+I also want to learn from users.
+
+A design may look good to me but still be confusing to someone else.
+
+User testing can reveal these differences.
+
+I want to become comfortable receiving criticism and changing my design based on evidence.
+
+This is similar to the way I approach debugging software.
+
+If something does not work, the goal should be to understand why and improve it.
+
+I believe the same principle applies to user experience.
+
+My interest in HCI has also made me think about inclusivity.
+
+People have different levels of technical experience, language abilities, physical abilities, and access to devices.
+
+A good interface should consider this diversity.
+
+Accessibility should not be treated as an optional feature.
+
+It should be considered from the beginning of the design process.
+
+I want to learn more about accessibility standards and assistive technologies.
+
+This is particularly important as AI systems become more common.
+
+AI can potentially make interfaces more accessible through voice, language, image understanding, and personalised interaction.
+
+However, these systems also need to work reliably for different users.
+
+I want to explore these challenges.
+
+Another area I find interesting is trust in AI systems.
+
+Users may be more likely to trust an AI system if they understand how it behaves.
+
+If an AI gives a recommendation, the interface may need to explain what the recommendation means.
+
+If the system is uncertain, users may need to be informed.
+
+If an AI makes a mistake, users should be able to correct it.
+
+These interaction patterns can affect whether people use the system appropriately.
+
+I want to understand how interfaces can help users develop an accurate understanding of AI capabilities.
+
+This is becoming increasingly important as AI is integrated into everyday applications.
+
+I also want to explore human-AI collaboration.
+
+Instead of designing AI systems that simply provide answers, developers can design systems that allow people to review, modify, and guide AI outputs.
+
+This can combine human judgement with machine capabilities.
+
+I find this approach particularly useful for complex tasks.
+
+It also provides a way to keep humans involved in important decisions.
+
+I would like to explore human-AI collaboration through future projects.
+
+I know that human-computer interaction is a broad field.
+
+It includes interface design, usability, accessibility, user research, psychology, interaction design, AI interfaces, and many other areas.
+
+I have only explored some of these concepts so far.
+
+I want to learn them more systematically.
+
+I also want to strengthen my technical skills so that I can implement the systems I design.
+
+My background in full-stack development gives me a useful foundation.
+
+I can build frontend interfaces and connect them to backend systems.
+
+My AI experience allows me to integrate intelligent features.
+
+I now want to improve my understanding of how users interact with these systems.
+
+My long-term goal is to become a technology professional who can build systems that are technically strong and easy to use.
+
+I want to combine software engineering and AI with human-centred design.
+
+I believe this will help me create applications that are not only functional but also useful to real people.
+
+Higher education will help me develop this combination of skills.
+
+I want to study computer science fundamentals while exploring HCI, AI, and software engineering.
+
+I also want to participate in research and practical projects.
+
+Working on real problems will help me understand how design decisions affect users.
+
+I want to learn how to evaluate systems using both technical and user-focused measures.
+
+For me, human-computer interaction is interesting because it reminds me that technology is ultimately created for people.
+
+A program can be technically correct, but that does not automatically make it a good product.
+
+Users need to understand it.
+
+They need to be able to interact with it.
+
+They need to trust it appropriately.
+
+They need to be able to access it.
+
+These considerations are an important part of software development.
+
+My interest in HCI has therefore changed the way I think about building technology.
+
+I no longer focus only on whether a feature works.
+
+I also think about whether the feature is useful and understandable.
+
+I want to continue developing this mindset throughout my education and career.
+
+I know there is still a lot for me to learn.
+
+I want to study user research, accessibility, interaction design, AI interfaces, and usability testing.
+
+I also want to improve my frontend development and system design skills.
+
+Through projects, research, and internships, I hope to gain practical experience.
+
+Ultimately, I want to contribute to technology that is intelligent, accessible, reliable, and easy to use.
+
+That is why I am interested in human-computer interaction and why I want to explore the field further alongside my studies in computer science and artificial intelligence.

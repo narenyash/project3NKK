@@ -1,0 +1,526 @@
+
+I have never been particularly good at ignoring things that seem slightly out of place.
+
+A process that takes longer than it should.
+
+A button that is difficult to find.
+
+A queue that moves slowly even though only a few people are waiting.
+
+A repeated task that everyone performs manually.
+
+A pattern that appears again and again without anyone asking why.
+
+Most people learn to accept these things as part of everyday life.
+
+I tend to question them.
+
+Why does it work this way?
+
+Could it be simpler?
+
+Is there a reason it has always been done like this?
+
+And, sometimes, could I build something to improve it?
+
+This habit of noticing has become one of the most important parts of who I am as a student.
+
+It did not begin as a deliberate skill.
+
+I simply became curious about how things worked.
+
+When I was younger, I would take apart simple ideas mentally even when I had no idea how to explain what I was doing. I wanted to know why a machine responded to one action but not another. I wanted to understand why some systems felt easy to use while others felt unnecessarily complicated.
+
+Eventually, computers gave me a way to investigate those questions.
+
+Programming turned observation into experimentation.
+
+If I noticed a problem, I could try to reproduce it.
+
+If I had an idea for a solution, I could build a small prototype.
+
+If the prototype failed, I could change it.
+
+The process gave my curiosity a practical direction.
+
+One of the first things I learned was that not every problem needs a complicated solution.
+
+This sounds obvious, but it is surprisingly difficult to remember when you are interested in technology.
+
+When you know about machine learning, databases, APIs, cloud platforms, and modern frameworks, it is tempting to use them everywhere.
+
+A simple problem can suddenly become an opportunity to build an enormous system.
+
+But complexity is not automatically sophistication.
+
+Sometimes the best solution is a small change to an existing process.
+
+Sometimes a clear interface is more valuable than an intelligent one.
+
+Sometimes automation is unnecessary.
+
+The important question is not what technology can be used.
+
+It is what technology is actually needed.
+
+That lesson has influenced the way I approach projects.
+
+Before building, I try to understand the process.
+
+Who performs the task?
+
+How often?
+
+What information do they need?
+
+Where does the process become slow?
+
+What mistakes occur?
+
+What happens when something goes wrong?
+
+These questions often reveal that the obvious problem is not the real problem.
+
+A user might say that they need a faster application.
+
+After observing them, I might discover that the real issue is that they have to enter the same information repeatedly.
+
+Someone might ask for a new feature when what they actually need is a simpler workflow.
+
+A business might want a sophisticated dashboard when what it really needs is reliable access to three pieces of information.
+
+Observation changes the problem.
+
+This became particularly important when I started building software for practical use.
+
+As a developer, I naturally think in terms of systems.
+
+I see screens, components, APIs, databases, authentication, and logic.
+
+Users do not.
+
+They see tasks.
+
+They see information.
+
+They see whether something is easy or difficult.
+
+This difference between the developer's perspective and the user's perspective has taught me to pay closer attention.
+
+I began watching how people actually interact with technology rather than assuming they would use it the way I intended.
+
+Sometimes the most valuable feedback is not something a person says.
+
+It is what they do.
+
+If someone repeatedly clicks the wrong button, the interface may be unclear.
+
+If they stop halfway through a process, the task may be too complicated.
+
+If they ask the same question repeatedly, the information may not be presented clearly.
+
+These observations taught me that design is a form of listening.
+
+You do not always need someone to tell you what is wrong.
+
+Sometimes their behavior tells you.
+
+This way of thinking has also influenced my interest in artificial intelligence.
+
+AI systems are often evaluated using numbers.
+
+Accuracy.
+
+Precision.
+
+Recall.
+
+Latency.
+
+Benchmark scores.
+
+These measurements are important.
+
+But I have learned that numbers do not automatically explain usefulness.
+
+A model can perform well on a benchmark and still fail in the environment where it is supposed to operate.
+
+A chatbot can produce fluent responses and still misunderstand a user's real intention.
+
+A recommendation system can make accurate predictions but recommend things the user does not actually want.
+
+The gap between performance and usefulness interests me.
+
+It reminds me of the difference between a system that technically works and one that actually helps.
+
+This is why I have become interested in evaluation.
+
+How do we know that an AI system is doing what we think it is doing?
+
+What should we measure?
+
+What kinds of errors matter most?
+
+How should performance change across different groups of users?
+
+What happens when the system encounters something outside its training distribution?
+
+These questions are more interesting to me than simply asking whether a model is powerful.
+
+Power without understanding can create problems.
+
+Evaluation gives us a way to understand what the system is actually doing.
+
+My habit of noticing patterns has also influenced the way I study.
+
+I pay attention to the moments when I become confused.
+
+If I repeatedly make the same mistake, I ask why.
+
+Maybe I have misunderstood a foundational concept.
+
+Maybe I am applying a rule without understanding its conditions.
+
+Maybe I am solving the problem in a more complicated way than necessary.
+
+This approach has helped me identify weaknesses in my own learning.
+
+Instead of treating mistakes as isolated incidents, I look for patterns.
+
+One mistake may be random.
+
+Ten similar mistakes probably mean something.
+
+This is another reason I enjoy computer science.
+
+Computers are built around patterns.
+
+Algorithms search for structure.
+
+Machine learning models identify patterns in data.
+
+Databases organize relationships.
+
+Networks reveal connections.
+
+Even debugging often involves finding a pattern in failures.
+
+My natural curiosity therefore fits naturally with the subject.
+
+I like asking what repeats.
+
+I like asking what changes.
+
+I like asking what causes the difference.
+
+And I like asking whether a pattern can be used to make a prediction or improve a system.
+
+This way of thinking extends beyond technology.
+
+I have become more attentive to patterns in the world around me.
+
+A routine that always creates unnecessary work.
+
+A problem that affects many people but receives little attention.
+
+A behavior that changes when circumstances change.
+
+A small environmental difference that produces a larger result.
+
+Observation creates questions.
+
+Questions create investigation.
+
+Investigation creates understanding.
+
+That cycle has become central to how I learn.
+
+It has also taught me that curiosity requires humility.
+
+Noticing a pattern does not mean understanding its cause.
+
+Two events can happen together without one causing the other.
+
+A small sample can create a misleading impression.
+
+An assumption can make a pattern look obvious when it is not.
+
+This is where scientific thinking becomes important.
+
+Observation should lead to hypotheses, not immediate conclusions.
+
+A good question is often more valuable than a confident answer.
+
+This lesson has become especially important in AI and data science.
+
+Data can reveal patterns, but patterns need interpretation.
+
+A model can identify correlation without establishing causation.
+
+A dataset can represent only a small portion of reality.
+
+A prediction can be useful without being universally correct.
+
+Understanding these limitations makes me more careful when working with data.
+
+I want to become the kind of engineer who does not simply ask whether a system produces a result, but whether the result should be trusted.
+
+That distinction will matter increasingly as AI systems become more capable.
+
+Technology is moving into areas where mistakes can have meaningful consequences.
+
+AI may help people make decisions about education, finance, employment, healthcare, and other important aspects of life.
+
+The systems therefore need to be evaluated not only for technical performance but for how they behave in the real world.
+
+This is one reason I am interested in responsible AI.
+
+I want to understand how systems can be made more transparent, reliable, and adaptable.
+
+I want to study how models fail.
+
+I want to investigate how data influences behavior.
+
+And I want to explore ways of designing systems that can communicate uncertainty rather than pretending to know everything.
+
+This interest connects with my broader approach to engineering.
+
+I am not satisfied when something simply produces an answer.
+
+I want to understand why.
+
+If a program succeeds, I want to know which assumptions made it succeed.
+
+If a model performs well, I want to know whether the result generalizes.
+
+If an interface feels intuitive, I want to understand what makes it intuitive.
+
+If a process becomes faster, I want to know whether the improvement actually matters to the people using it.
+
+This curiosity sometimes makes me slower.
+
+I can spend a long time investigating something that another person might simply accept.
+
+But I have learned that this is not necessarily wasted time.
+
+Understanding the system can reveal opportunities for improvement.
+
+It can also prevent mistakes.
+
+Some of the most important discoveries in engineering begin with someone asking a question that seems unnecessary.
+
+Why is this done this way?
+
+What happens if we change this assumption?
+
+Why does this work under one condition but fail under another?
+
+Can we remove this step?
+
+Can we measure this differently?
+
+These questions challenge the status quo.
+
+They are also the beginning of innovation.
+
+Innovation is often described as inventing something completely new.
+
+Sometimes it is.
+
+But often, innovation begins by looking at something ordinary and seeing it differently.
+
+A familiar process can be redesigned.
+
+An old assumption can be questioned.
+
+Two existing ideas can be connected in a new way.
+
+A problem everyone accepts can finally be treated as solvable.
+
+That is the kind of innovation that interests me.
+
+I do not need every project to be revolutionary.
+
+I want my work to be thoughtful.
+
+I want to identify problems that matter.
+
+I want to understand them deeply.
+
+I want to test ideas rather than assume they will work.
+
+And I want to build solutions that are appropriate to the situation.
+
+This is also why I enjoy working on multidisciplinary problems.
+
+When two fields meet, there are often patterns that neither field notices alone.
+
+Computer science can provide tools for analyzing data.
+
+Biology can provide examples of complex systems.
+
+Environmental science can provide real-world problems.
+
+Education can reveal questions about human learning.
+
+Design can reveal how people interact with technology.
+
+The intersection is often more interesting than any one field by itself.
+
+I want college to expose me to those intersections.
+
+I want to study computer science deeply while remaining curious about other disciplines.
+
+I want to work with students who see problems differently.
+
+I want professors to challenge my assumptions.
+
+I want research opportunities that require observation before implementation.
+
+And I want to develop the ability to turn a vague observation into a precise research question.
+
+That ability may be one of the most valuable skills I can develop.
+
+There is a major difference between saying:
+
+"Something seems inefficient."
+
+and asking:
+
+"Which part of the process creates the greatest delay, under what conditions, and why?"
+
+The second question can be investigated.
+
+It can be measured.
+
+It can be tested.
+
+It can lead to a solution.
+
+That transformation—from vague curiosity to precise inquiry—is something I want to become better at.
+
+My long-term goal is to work in artificial intelligence and software engineering, developing systems that solve meaningful real-world problems.
+
+But I want to approach those problems with observation before implementation.
+
+I do not want to start by choosing a technology.
+
+I want to start by understanding the situation.
+
+Then I can decide whether AI is appropriate.
+
+Maybe the solution will be machine learning.
+
+Maybe it will be a database.
+
+Maybe it will be automation.
+
+Maybe it will be a redesigned interface.
+
+Maybe it will require no software at all.
+
+The important thing is choosing based on the problem rather than the popularity of the technology.
+
+This principle has become one of the strongest parts of my engineering identity.
+
+I like technology.
+
+I enjoy learning new tools.
+
+I am fascinated by artificial intelligence.
+
+But I am more interested in problems than in tools.
+
+Tools change.
+
+Problems remain.
+
+People continue to struggle with inefficient processes.
+
+Organizations continue to deal with complexity.
+
+Students continue to encounter barriers to learning.
+
+Communities continue to face environmental and social challenges.
+
+Technology can help, but only when we understand what kind of help is actually needed.
+
+That understanding begins with paying attention.
+
+Perhaps that is why I notice things.
+
+I notice the extra step.
+
+The repeated task.
+
+The confusing instruction.
+
+The unexpected result.
+
+The pattern that does not quite make sense.
+
+The question that nobody seems to be asking.
+
+I do not always know what these observations mean.
+
+But I have learned not to ignore them.
+
+Instead, I write them down.
+
+I investigate.
+
+I test.
+
+Sometimes I discover that there is a simple explanation.
+
+Sometimes I discover that my original assumption was wrong.
+
+And sometimes I discover a problem worth solving.
+
+That process has become one of the most rewarding parts of learning for me.
+
+It has taught me that curiosity is not simply wondering about things.
+
+Curiosity becomes powerful when it leads to investigation.
+
+Observation gives you something to notice.
+
+Questions give you something to investigate.
+
+Evidence gives you something to learn from.
+
+And building gives you a way to turn that learning into action.
+
+That is the cycle I want to continue in college.
+
+I want to notice more.
+
+Question more carefully.
+
+Investigate more rigorously.
+
+Build more thoughtfully.
+
+And learn from what happens.
+
+There will always be things that seem ordinary.
+
+A slow process.
+
+A confusing interface.
+
+A repeated task.
+
+A strange pattern.
+
+A problem that everyone has accepted as normal.
+
+I do not know which of these observations will eventually lead to my most important work.
+
+But I know that I want to keep noticing them.
+
+Because sometimes innovation does not begin with a spectacular idea.
+
+Sometimes it begins with a very ordinary question:
+
+"Why does it have to be this way?"

@@ -1,0 +1,484 @@
+
+For a long time, I thought achievement was something that could be measured.
+
+Marks could be measured.
+
+Competition rankings could be measured.
+
+Certificates could be counted.
+
+Projects could be listed.
+
+Skills could be added to a resume.
+
+This made the path through school and college seem straightforward. Study hard, perform well, collect experiences, and eventually those experiences would tell the story of who I was.
+
+But as I became more involved in technology, I began to question that idea.
+
+A resume can tell someone what I have done.
+
+It cannot fully explain why I did it.
+
+It cannot show the hours spent trying to understand something that initially made no sense. It cannot show the curiosity that led me from one question to another. It cannot show the difference between a project built because it was required and one built because I could not stop wondering whether an idea would work.
+
+I began to realize that the most important parts of my education were often the ones that could not be listed as achievements.
+
+They were changes in how I thought.
+
+That realization has become increasingly important to me as I prepare for the next stage of my education.
+
+My interest in technology did not begin with a clear career plan.
+
+I did not wake up one day knowing that I wanted to become an artificial intelligence engineer.
+
+It developed gradually.
+
+I became curious about computers.
+
+Then I learned programming.
+
+Programming led me to software development.
+
+Software development led me to machine learning.
+
+Machine learning led me to questions about intelligence, data, and human behavior.
+
+Each answer created another question.
+
+That pattern is one of the defining characteristics of how I learn.
+
+I rarely stop at the first explanation.
+
+If I learn how something works, I want to know why it works that way.
+
+If I understand an algorithm, I want to know what assumptions it makes.
+
+If a machine learning model produces a prediction, I want to understand what information influenced it.
+
+If an application works, I want to know whether it could be designed better.
+
+Curiosity has therefore been more important to my development than any individual technology.
+
+Programming simply gave that curiosity a place to go.
+
+When I first started writing code, I was fascinated by the immediate connection between an instruction and a result.
+
+A few lines of code could create a webpage.
+
+A function could transform data.
+
+A program could automate a repetitive task.
+
+An interface could respond to a user.
+
+There was something satisfying about turning an abstract idea into something concrete.
+
+But eventually, I realized that building software was not only about creating things.
+
+It was about making choices.
+
+Every application represents decisions.
+
+What information should be collected?
+
+What should happen when the user makes a mistake?
+
+Which features matter?
+
+Which features should be removed?
+
+What assumptions are being made?
+
+Who is the system designed for?
+
+Those decisions revealed something about the person building the system.
+
+They certainly revealed things about me.
+
+I tend to be ambitious with projects.
+
+When I imagine an application, I often imagine everything it could eventually become.
+
+A simple idea quickly expands.
+
+A basic application becomes an intelligent system.
+
+A small prototype becomes a platform.
+
+A single feature becomes several possible integrations.
+
+This imagination can be useful because it allows me to see possibilities.
+
+But it can also make me lose sight of the first problem.
+
+I have learned that having a big vision is valuable only when I can translate it into small, achievable steps.
+
+That has been one of my most important lessons as a student.
+
+Dreaming about the final result is easy.
+
+Building the first working version is harder.
+
+Building the second version after discovering that the first one was flawed is harder still.
+
+This process has taught me patience.
+
+It has also taught me that progress is rarely linear.
+
+There are periods when I learn quickly.
+
+There are periods when I feel stuck.
+
+Sometimes a difficult concept suddenly becomes clear after days of confusion.
+
+Sometimes a project that seemed simple becomes unexpectedly complicated.
+
+Sometimes I feel confident about what I know.
+
+Sometimes I discover how much I do not know.
+
+I used to see these fluctuations as signs that I was not progressing consistently.
+
+Now I understand them as part of learning.
+
+Knowledge does not grow at a constant rate.
+
+Sometimes the work happens quietly before the understanding becomes visible.
+
+This has changed the way I judge myself.
+
+I no longer want to measure my education only through outcomes.
+
+I also want to measure it through questions.
+
+What can I understand now that I could not understand a year ago?
+
+What problems can I approach independently?
+
+What assumptions have I learned to question?
+
+What kinds of mistakes do I recognize faster?
+
+What questions am I asking now that I did not know existed before?
+
+These measurements feel more meaningful to me.
+
+They capture growth rather than simply achievement.
+
+My experience with artificial intelligence reinforced this perspective.
+
+When I first encountered AI, I was impressed by what models could accomplish.
+
+They could recognize images.
+
+They could generate language.
+
+They could make predictions.
+
+They could interact with users.
+
+It was tempting to focus entirely on capability.
+
+But as I learned more, I became interested in limitations.
+
+A model can produce an answer without understanding the world in the same way a person does.
+
+A prediction can be accurate without being reliable in every environment.
+
+A dataset can contain biases that influence the model.
+
+A system can appear intelligent while failing in unexpected situations.
+
+These observations made me more cautious about the way I think about technology.
+
+I still find AI incredibly exciting.
+
+But I no longer think that greater capability automatically means greater value.
+
+A powerful system that solves the wrong problem is still the wrong solution.
+
+A highly accurate model that cannot be used reliably is not necessarily useful.
+
+A sophisticated application that people cannot understand may be less effective than a simple one.
+
+This has changed what I want from my education.
+
+I do not want to become someone who can merely use the newest tools.
+
+I want to understand the principles behind them.
+
+I want to know what happens underneath the interface.
+
+I want to understand algorithms rather than simply call libraries.
+
+I want to understand machine learning mathematically rather than treating models as black boxes.
+
+I want to understand system architecture rather than assembling components without understanding their relationships.
+
+The deeper my knowledge becomes, the more freedom I will have to create.
+
+That is the kind of freedom I value.
+
+There is another part of my education that cannot be represented easily on a resume: learning how to work with other people.
+
+Technology can make individual work feel very powerful.
+
+A person with a laptop can write code, train models, deploy applications, and access enormous amounts of information.
+
+It is easy to become convinced that everything can be accomplished alone.
+
+My experiences have taught me otherwise.
+
+Some of the best ideas I have encountered came from conversations.
+
+Someone asks a question I had not considered.
+
+Someone points out a flaw I had overlooked.
+
+Someone suggests a simpler solution.
+
+Someone approaches the problem from a completely different background.
+
+These interactions can change a project more than hours of individual work.
+
+That is why I want college to be a community, not simply a place where I attend classes.
+
+I want to be surrounded by people who challenge my thinking.
+
+I want to work with students from different disciplines.
+
+I want to learn from professors whose research goes beyond what I currently understand.
+
+I want to participate in environments where disagreement is productive.
+
+Most importantly, I want to become comfortable being wrong.
+
+That may sound strange as a goal for a student.
+
+But I think it is essential.
+
+If I am always trying to protect the appearance of being knowledgeable, I will avoid difficult questions.
+
+If I am willing to admit that I do not know something, I can investigate it.
+
+The second approach produces better learning.
+
+This attitude has also changed the way I approach competition.
+
+I enjoy competitions and hackathons because they create pressure to solve problems quickly.
+
+They are exciting.
+
+They can also make success feel like the only thing that matters.
+
+But I have learned that a project does not become meaningless simply because it does not win.
+
+Sometimes the most valuable result is a skill learned under pressure.
+
+Sometimes it is a new connection.
+
+Sometimes it is a better understanding of what users actually need.
+
+Sometimes it is discovering a technology I want to study more deeply.
+
+Achievement is useful.
+
+But it should not become the only reason to build.
+
+I want to remain curious even when nobody is judging the result.
+
+That distinction matters to me.
+
+Some of my most meaningful learning has happened while working on projects that had no certificate at the end.
+
+There was simply a question I wanted to answer.
+
+Could I build this?
+
+Could I make this faster?
+
+Could a model recognize this pattern?
+
+Could I design this interface more simply?
+
+Could I automate this repetitive process?
+
+The satisfaction came from discovering the answer.
+
+That is the kind of motivation I want to preserve.
+
+It is easy to become focused on external validation.
+
+Grades.
+
+Rankings.
+
+Awards.
+
+Internships.
+
+Job titles.
+
+These things can be important, but they are temporary measurements.
+
+Curiosity is more durable.
+
+If I continue asking questions, I will continue learning.
+
+If I continue learning, I will continue changing.
+
+And if I continue changing, my future will not be limited by the person I am today.
+
+This is important because I do not know exactly what I will become.
+
+I know that I want to work in technology.
+
+I know that artificial intelligence interests me.
+
+I know that I enjoy software engineering.
+
+I know that I want to build systems that solve meaningful problems.
+
+But I do not know exactly which problem I will spend my life solving.
+
+I am comfortable with that.
+
+The world of technology changes rapidly.
+
+The tools available five years from now may be very different from today's tools.
+
+New research will create possibilities that are difficult to predict.
+
+Some technologies that seem important today may become less relevant.
+
+A flexible education is therefore more valuable than training for one specific technology.
+
+I want strong fundamentals.
+
+I want mathematical reasoning.
+
+I want algorithmic thinking.
+
+I want engineering discipline.
+
+I want the ability to read unfamiliar technical material and understand it.
+
+I want to learn how to conduct research.
+
+Those skills will remain useful even when the technologies change.
+
+I also want to retain something less technical: curiosity.
+
+Curiosity is what made me open my first programming tutorial.
+
+It is what made me build projects instead of only reading about them.
+
+It is what made me experiment with AI.
+
+It is what made me question whether a system could be improved.
+
+And it is what continues to make difficult problems interesting rather than frightening.
+
+When I think about my future, I therefore do not want to define myself by a list of technologies.
+
+I do not want to be simply the person who knows a particular programming language or framework.
+
+I want to be known as someone who can learn.
+
+Someone who can enter an unfamiliar problem and begin making sense of it.
+
+Someone who can collaborate.
+
+Someone who can communicate technical ideas clearly.
+
+Someone who can recognize when an assumption is wrong.
+
+Someone who can build a solution and then question whether it is actually the right solution.
+
+Those qualities are harder to measure.
+
+They are also harder to lose.
+
+My admission to college would therefore represent more than the next academic credential.
+
+It would give me an environment in which I can become a more capable version of myself.
+
+I want to be challenged intellectually.
+
+I want to encounter subjects that initially seem beyond my ability.
+
+I want to participate in research.
+
+I want to build systems with other students.
+
+I want to make mistakes in environments where mistakes can become learning opportunities.
+
+And I want to discover interests that I do not currently know I have.
+
+That last possibility excites me the most.
+
+There are fields I have not encountered yet.
+
+There are questions I have never thought to ask.
+
+There are people I have not met whose perspectives may completely change mine.
+
+I do not want to enter college believing that I already know exactly who I will become.
+
+I want to enter with enough confidence to contribute and enough humility to change.
+
+That is perhaps the biggest difference between the student I was and the student I am becoming.
+
+I used to think education was about collecting knowledge.
+
+Now I think it is about becoming someone capable of using knowledge well.
+
+I used to think achievement was the final result.
+
+Now I think the process matters just as much.
+
+I used to think my resume represented me.
+
+Now I understand that it represents only a small part of me.
+
+Behind every project is a question.
+
+Behind every achievement is a period of work.
+
+Behind every skill is a period when I did not have that skill.
+
+Behind every successful result are experiments, revisions, mistakes, and decisions that cannot fit into a bullet point.
+
+Those invisible parts are where much of my growth has happened.
+
+I want to keep growing in that way.
+
+I want to remain curious.
+
+I want to keep building.
+
+I want to keep asking difficult questions.
+
+I want to keep learning from people who know more than I do.
+
+And I want to remain willing to change my mind when new evidence demands it.
+
+A resume can tell someone what I have accomplished.
+
+It cannot tell them everything I hope to become.
+
+That part of the story is still being written.
+
+And perhaps that is the most exciting part.
+
+I am not finished becoming the person I will eventually be.
+
+I am still learning.
+
+Still building.
+
+Still questioning.
+
+Still discovering.
+
+And I intend to keep it that way.

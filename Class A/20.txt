@@ -1,0 +1,670 @@
+
+One of the first things I noticed about software is how strange its existence can be.
+
+A program can be created by one person and eventually used by thousands.
+
+An idea can begin as a small experiment and become part of someone else's work.
+
+A piece of code written late at night can solve a problem for someone the developer will never meet.
+
+A research paper can be read years after its authors have moved on to other questions.
+
+This made me think about a question that has become increasingly important to me:
+
+**What do we leave behind when we build something?**
+
+At first, I thought building was primarily about the moment of creation.
+
+You have an idea.
+
+You write the code.
+
+You solve the bugs.
+
+You deploy the application.
+
+You see it working.
+
+The project feels complete.
+
+But software rarely ends when the developer stops writing code.
+
+Someone has to use it.
+
+Someone has to maintain it.
+
+Someone has to understand it.
+
+Someone may eventually modify it.
+
+Sometimes someone else will build something new on top of it.
+
+That means every system has a life beyond its creator.
+
+This realization changed the way I think about engineering.
+
+I began to understand that writing software is also writing for the future.
+
+A function I create today may be read by another developer months later.
+
+A database structure may influence how an application evolves.
+
+An API may become a dependency for another system.
+
+A technical decision that seems minor during development can become difficult to change later.
+
+This makes software engineering feel less like writing instructions and more like building infrastructure.
+
+The decisions we make today can shape what becomes possible tomorrow.
+
+That idea has influenced how I approach my projects.
+
+Earlier, I focused primarily on making the application work.
+
+If the feature functioned, I was satisfied.
+
+Over time, I began asking additional questions.
+
+Can someone else understand this code?
+
+What happens if I am not available to fix it?
+
+What happens when the data grows?
+
+What happens when the requirements change?
+
+What happens when another developer needs to add a feature?
+
+What happens if a dependency becomes unavailable?
+
+These questions forced me to think beyond the immediate result.
+
+A working system is only the beginning.
+
+A maintainable system is a different achievement.
+
+This became particularly clear when I returned to older projects.
+
+Code that seemed obvious when I wrote it could become surprisingly difficult to understand later.
+
+I would look at a function and remember what I intended to do.
+
+But the code itself did not always communicate that intention clearly.
+
+That experience taught me something important.
+
+Code is read far more often than it is written.
+
+The few minutes saved by writing something quickly can create hours of difficulty later.
+
+I began paying more attention to structure, naming, documentation, and simplicity.
+
+Not because those things make a project look professional.
+
+Because someone else may eventually need to understand what I built.
+
+That "someone else" could even be me.
+
+This realization extended beyond code.
+
+I began thinking about documentation as a form of respect.
+
+When I document a project clearly, I am making it easier for another person to learn from my work.
+
+When I explain an architecture, I am reducing the amount of time someone else needs to spend reconstructing my decisions.
+
+When I record why a particular approach was chosen, I preserve reasoning that might otherwise disappear.
+
+Documentation therefore became more than an administrative task.
+
+It became part of the contribution.
+
+This idea connects strongly with my interest in research.
+
+Research is one of humanity's most powerful ways of building on previous work.
+
+A researcher studies what others have discovered.
+
+They identify what remains uncertain.
+
+They conduct experiments.
+
+They publish their findings.
+
+Another researcher reads the work.
+
+Perhaps they challenge it.
+
+Perhaps they reproduce it.
+
+Perhaps they extend it.
+
+Eventually, knowledge grows through this accumulation.
+
+No single researcher owns the entire process.
+
+Each person contributes a piece.
+
+That model of progress appeals to me.
+
+I do not expect to solve the biggest problems in computer science alone.
+
+I want to contribute something useful to the larger body of knowledge.
+
+That contribution might be a research finding.
+
+It might be an algorithm.
+
+It might be an open-source tool.
+
+It might be a dataset.
+
+It might be a system that other people can build upon.
+
+The scale is less important to me than the usefulness.
+
+This perspective has influenced my interest in open source.
+
+Open-source software demonstrates an unusual idea about creation.
+
+A person can release something publicly and allow other people to inspect it, modify it, improve it, and redistribute it.
+
+The creator does not control every future use.
+
+Instead, the work becomes part of a larger ecosystem.
+
+That can be both exciting and uncomfortable.
+
+Once something is released, other people may use it in ways the creator did not expect.
+
+They may discover bugs.
+
+They may propose changes.
+
+They may disagree with design decisions.
+
+They may create versions that look completely different.
+
+The creator has to accept that the work no longer belongs entirely to them.
+
+I find that idea valuable because it challenges the idea of individual achievement.
+
+Technology is often presented through individual stories.
+
+The brilliant programmer.
+
+The visionary founder.
+
+The researcher who made the breakthrough.
+
+But almost every important technological achievement rests on thousands of previous contributions.
+
+Programming languages exist because other people created them.
+
+Libraries exist because developers shared tools.
+
+Research exists because previous researchers published findings.
+
+Infrastructure exists because engineers maintained it.
+
+Knowledge is cumulative.
+
+That means my own education is cumulative as well.
+
+Everything I know is connected to something someone else taught, documented, discovered, or built.
+
+Recognizing this makes me want to contribute rather than simply consume.
+
+If I benefit from other people's knowledge, I want my own work to eventually become useful to someone else.
+
+That does not mean every project needs to become famous.
+
+Most contributions will not.
+
+That is fine.
+
+A small improvement can still matter.
+
+A clear tutorial can help a beginner.
+
+A useful library can save another developer time.
+
+A well-designed dataset can help a researcher.
+
+A carefully documented experiment can prevent someone else from repeating a mistake.
+
+These contributions may be invisible.
+
+But invisible does not mean insignificant.
+
+This idea has changed how I define impact.
+
+I used to associate impact with scale.
+
+If something affected millions of people, it must be important.
+
+Now I think impact can also be measured through depth.
+
+Helping one person solve a problem they have struggled with for years can be significant.
+
+Giving one student the confidence to continue learning can be significant.
+
+Helping another developer understand a difficult concept can be significant.
+
+Impact is not always visible in numbers.
+
+Sometimes it exists in what another person is able to do because of something you created.
+
+That idea motivates me.
+
+I want to build things that increase other people's capabilities.
+
+This is one reason I am interested in educational technology.
+
+A good educational tool does not simply provide information.
+
+It can help someone become capable of doing something independently.
+
+If a student uses an application to understand a difficult concept and eventually no longer needs the application, that can be a success.
+
+The goal is not dependence.
+
+The goal is growth.
+
+I want the systems I build to have that kind of effect.
+
+I also think about this in relation to artificial intelligence.
+
+AI systems can generate information quickly.
+
+But the long-term value of AI may depend on whether it helps people become more capable or simply more dependent on automated answers.
+
+I am interested in systems that support learning, decision-making, and creativity.
+
+An AI assistant could help a researcher explore possibilities.
+
+An educational system could adapt explanations to a student's needs.
+
+A software tool could help developers understand complex code.
+
+These systems can extend human capability.
+
+But they should not remove the opportunity to understand.
+
+That principle matters to me because knowledge becomes more valuable when it can be transferred.
+
+If I solve a problem and nobody else can understand how I solved it, the solution has limited long-term value.
+
+If I can explain the reasoning, another person can build upon it.
+
+Teaching therefore became another form of engineering for me.
+
+When I help someone understand a programming concept, I am not simply transferring information.
+
+I am helping them develop a mental model.
+
+If they later solve a different problem using that model, the original explanation has become something larger.
+
+The knowledge continues.
+
+This is one of the most satisfying parts of teaching.
+
+You do not necessarily see the final outcome.
+
+You may only see the first moment when something becomes clear.
+
+But that moment can change what someone is capable of doing afterward.
+
+I want to create more of those moments.
+
+This also explains why I value communication.
+
+A technical idea that cannot be communicated clearly is difficult to share.
+
+A research result that cannot be reproduced is difficult to build upon.
+
+A software system that cannot be understood is difficult to maintain.
+
+A discovery that remains inaccessible may have less impact than it could have had.
+
+Communication extends the life of an idea.
+
+That is why I want to become a better technical writer, presenter, and teacher alongside becoming a better engineer.
+
+I want to be able to explain complex systems without removing the important details.
+
+I want to write documentation that another developer can actually follow.
+
+I want to present research clearly.
+
+I want to communicate limitations honestly.
+
+And I want people to understand not only what I built but why I built it.
+
+These skills will become increasingly important as technology becomes more complex.
+
+The systems of the future will likely involve many people and many layers.
+
+No individual will understand every component.
+
+Collaboration will therefore depend on shared knowledge.
+
+Good documentation and communication will become infrastructure themselves.
+
+This is one reason I am attracted to software engineering as a career.
+
+It combines individual creativity with collective progress.
+
+I can work on a problem independently.
+
+But the result becomes more valuable when others can use it.
+
+I can design an architecture.
+
+But it becomes stronger when other engineers can understand and improve it.
+
+I can build a prototype.
+
+But it becomes meaningful when someone uses it to solve a real problem.
+
+That relationship between individual effort and collective progress is something I want to experience throughout my career.
+
+My interest in research has a similar foundation.
+
+Research rewards people who are willing to work on questions whose answers may not be immediately visible.
+
+The final publication may contain only a few pages.
+
+Behind those pages may be months of reading, experimentation, failed approaches, debugging, and revision.
+
+The final result can appear clean.
+
+The process is not.
+
+I find that process meaningful because it creates something that can outlive the experiment itself.
+
+A result becomes part of the scientific record.
+
+Someone else can examine it.
+
+They can challenge it.
+
+They can extend it.
+
+They can learn from it.
+
+That is a powerful form of continuity.
+
+It means that the work of one person can become the starting point for another.
+
+This is how I want to think about my education.
+
+I am not studying only for an examination.
+
+I am building a foundation for future work.
+
+The concepts I learn today may become tools for solving problems years from now.
+
+The habits I develop now may influence the way I approach research later.
+
+The projects I build now may teach me principles that become useful in much larger systems.
+
+Education is therefore an investment in future possibilities.
+
+I want to make that investment seriously.
+
+I want strong foundations in computer science.
+
+I want to understand algorithms, artificial intelligence, machine learning, systems, databases, and software engineering.
+
+I want to develop mathematical reasoning.
+
+I want to learn how to conduct research.
+
+I want to become a better communicator.
+
+And I want to develop the discipline required to build systems that other people can rely on.
+
+But I also want to preserve something less technical.
+
+I want to preserve the desire to make things that matter.
+
+It is easy to build for the sake of building.
+
+Technology gives us endless possibilities.
+
+But I want to be selective.
+
+I want to ask whether the work deserves to exist.
+
+Does it solve a real problem?
+
+Does it make something easier?
+
+Does it help someone learn?
+
+Does it enable something that was previously difficult?
+
+Does it contribute knowledge?
+
+Does it create a foundation for someone else's work?
+
+These questions help me decide what kind of projects are worth pursuing.
+
+They also help me think about legacy.
+
+Legacy is a word that can sound overly ambitious when used by a student.
+
+I am not talking about becoming famous.
+
+I am talking about leaving something useful behind.
+
+A piece of knowledge.
+
+A tool.
+
+A method.
+
+A system.
+
+A lesson.
+
+A contribution.
+
+Something that remains valuable after I have moved on to another problem.
+
+That idea gives me a different perspective on engineering.
+
+I am not simply writing code for the present.
+
+I am making decisions that may affect the future of the system.
+
+I am not simply studying concepts for an examination.
+
+I am developing tools that may shape the way I think later.
+
+I am not simply participating in research.
+
+I am contributing to a chain of knowledge that began before me and will continue after me.
+
+That continuity is motivating.
+
+It makes ordinary work feel more meaningful.
+
+A well-written function may seem insignificant.
+
+But if it makes another developer's work easier, it matters.
+
+A clear explanation may seem small.
+
+But if it helps someone understand a difficult concept, it matters.
+
+A carefully designed experiment may seem narrow.
+
+But if another researcher can build upon it, it matters.
+
+Impact often begins with small contributions.
+
+I want to become someone who makes those contributions consistently.
+
+College will be an important part of that journey.
+
+I want to learn from professors who are creating knowledge.
+
+I want to work with students who bring different perspectives.
+
+I want to participate in research and technical projects.
+
+I want to contribute to open-source communities.
+
+I want to build systems that can be tested in real environments.
+
+And I want to learn how to take an idea from an initial question to something that other people can use.
+
+I know that many of the things I build will eventually become outdated.
+
+That is inevitable.
+
+Technology changes.
+
+Applications are replaced.
+
+Frameworks disappear.
+
+Systems are redesigned.
+
+Even successful projects eventually reach the end of their useful life.
+
+But the knowledge gained from building them does not have to disappear.
+
+The lessons remain.
+
+The mistakes remain as experience.
+
+The design decisions become understanding.
+
+The technical skills become foundations for future work.
+
+And sometimes, something survives longer than expected.
+
+A concept becomes a method.
+
+A method becomes a tool.
+
+A tool becomes part of another system.
+
+A student who learned from that tool becomes a developer.
+
+The chain continues.
+
+That is the kind of impact I find meaningful.
+
+Not necessarily being remembered.
+
+Being useful.
+
+I want my work to make someone else's work slightly easier.
+
+I want my ideas to give someone else a starting point.
+
+I want my mistakes to become lessons rather than repeated mistakes.
+
+I want the things I build to create possibilities for people I may never meet.
+
+That is one of the reasons I love technology.
+
+It can travel.
+
+An idea does not need to remain where it was created.
+
+Code can cross borders.
+
+Research can cross disciplines.
+
+Knowledge can cross generations.
+
+A small contribution can become part of something much larger.
+
+I want to participate in that process.
+
+When I think about my future, I therefore do not only ask what I want to achieve.
+
+I ask what I want to contribute.
+
+I want to contribute to artificial intelligence that is useful and responsible.
+
+I want to contribute to software that people can understand and rely on.
+
+I want to contribute to research that answers meaningful questions.
+
+I want to contribute to educational tools that help people become more capable.
+
+And I want to contribute to communities where knowledge is shared rather than kept isolated.
+
+I know I am still at the beginning.
+
+There are technologies I have not learned.
+
+There are problems I have not encountered.
+
+There are research questions I have not yet discovered.
+
+There are mistakes I have not yet made.
+
+But that is exactly what makes the future exciting.
+
+I have many things left to build.
+
+And every project gives me an opportunity to learn something that can become part of the next one.
+
+Perhaps the most meaningful way to think about engineering is not as the creation of finished objects.
+
+It is the creation of starting points.
+
+A system becomes the starting point for an improvement.
+
+A research result becomes the starting point for another question.
+
+A lesson becomes the starting point for another person's understanding.
+
+A piece of code becomes the starting point for a larger application.
+
+An idea becomes the starting point for something neither the original creator nor anyone else could have predicted.
+
+That is what I want my work to do.
+
+I want it to continue.
+
+Not because I need my name attached to everything I create.
+
+But because I want to know that something useful came from the time I spent learning and building.
+
+Years from now, I hope I can look back and see a chain of contributions rather than a collection of achievements.
+
+Some may have succeeded.
+
+Some may have failed.
+
+Some may have been replaced.
+
+Some may have become the foundation for something better.
+
+That is enough.
+
+Because the most meaningful work does not always remain visible.
+
+Sometimes it survives as knowledge.
+
+Sometimes as a method.
+
+Sometimes as a tool.
+
+Sometimes as a person who learned something because you taught them.
+
+And sometimes as an idea that continues growing after you have moved on.
+
+That is what I want to build.
+
+Not just things that work today.
+
+Things that give someone else a better starting point tomorrow.

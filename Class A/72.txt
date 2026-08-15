@@ -1,0 +1,352 @@
+
+I am a student with a strong interest in computer science and artificial intelligence, and one of the areas I find particularly interesting is Natural Language Processing, or NLP. I became interested in NLP because it focuses on how computers can process, understand, and generate human language. Since language is an important part of how people communicate, I find it interesting to explore how technology can work with text and speech.
+
+My interest in NLP developed as I started learning about artificial intelligence and machine learning. Initially, most of my experience was with programming and computer vision. I worked with images and explored how machine learning models could identify patterns in visual data. Later, I became interested in how similar ideas could be applied to language.
+
+I started learning about basic NLP concepts such as text preprocessing, tokenisation, classification, sentiment analysis, and text generation. These concepts helped me understand that computers do not understand language in exactly the same way humans do. They process text as data and use patterns learned from examples.
+
+This made NLP an interesting area for me.
+
+One of the first things I learned was how text can be converted into a form that machine learning models can process. Words and sentences need to be represented in a numerical format. Traditional methods can use techniques such as word counts or other forms of text representation, while modern systems use embeddings and transformer-based models.
+
+Learning about these methods helped me understand how NLP has developed over time.
+
+I found the transition from traditional approaches to modern language models particularly interesting. Earlier systems often relied heavily on manually designed rules and statistical methods. Modern models can learn much more complex patterns from large amounts of text.
+
+This has changed what is possible with language-based applications.
+
+I have explored applications such as text classification, question answering, summarisation, and conversational systems. These applications showed me that NLP can be used for many different purposes.
+
+For example, text classification can be used to organise documents.
+
+Sentiment analysis can identify patterns in opinions.
+
+Summarisation can reduce long documents into shorter versions.
+
+Question-answering systems can help users find information.
+
+Conversational systems can allow users to interact with software using natural language.
+
+I find these applications useful because they connect AI with everyday communication.
+
+My interest in NLP increased further with the development of large language models. These systems can generate text, answer questions, summarise information, and assist with different tasks.
+
+I wanted to understand how these systems work rather than only using them.
+
+I started learning about concepts such as transformers, attention mechanisms, tokens, embeddings, training data, and language model inference.
+
+Some of these concepts were initially difficult, but learning them through examples and small experiments helped me understand them better.
+
+The transformer architecture particularly interested me because it changed how language models process relationships between words and parts of a sentence.
+
+I learned that attention mechanisms allow models to consider different parts of the input when processing information.
+
+This helped me understand why modern language models can handle longer and more complex text than many earlier approaches.
+
+I also became interested in prompt engineering and the way instructions can affect the output of language models.
+
+I experimented with different prompts and noticed that the structure and clarity of an instruction can influence the response.
+
+This showed me that interacting with AI systems is itself an area that requires understanding.
+
+At the same time, I learned that language models have limitations.
+
+They can generate incorrect information.
+
+They can misunderstand a question.
+
+They can produce biased or incomplete responses.
+
+They may also be unreliable when asked about information they do not know.
+
+This made me realise that developing useful NLP systems requires more than generating fluent text.
+
+The system needs to be evaluated and its limitations need to be understood.
+
+This is an area I want to explore further.
+
+I have also explored integrating language models into applications.
+
+A language model can be connected to a backend service and provided with information from a database or other source.
+
+This can allow an application to provide more useful responses based on specific information.
+
+I find this combination of NLP and software development interesting.
+
+It connects my interests in AI and full-stack development.
+
+For example, a web application can provide a conversational interface while the backend manages requests and the language model processes the user's input.
+
+A database can store relevant information.
+
+Additional services can provide authentication, logging, and other functionality.
+
+This shows how NLP can become part of a complete software system.
+
+My experience with full-stack development has therefore been useful while exploring NLP.
+
+I understand how frontend and backend components communicate, which helps me understand how AI models can be integrated into applications.
+
+I have worked with technologies such as React, Node.js, Express, MongoDB, and SQL, and I want to continue combining these skills with AI.
+
+Another area that interests me is retrieval-based AI systems.
+
+A language model may not have access to specific information required for a particular task.
+
+Instead of relying only on the model's internal knowledge, an application can retrieve relevant information from documents or databases and provide it to the model.
+
+This can make responses more useful for specific domains.
+
+I find this approach interesting because it combines information retrieval, databases, and language models.
+
+It also shows that building an AI application is often about combining several technologies rather than using a single model.
+
+I want to learn more about this area.
+
+NLP also has many applications in education.
+
+Students can interact with educational systems using natural language.
+
+AI tools can provide explanations, generate practice questions, summarise information, or help students organise their learning.
+
+However, I believe these systems should support students rather than replace teachers.
+
+Teachers provide context, guidance, and human interaction that AI systems cannot fully reproduce.
+
+I am interested in exploring how NLP can be used responsibly to support education.
+
+Another area that interests me is accessibility.
+
+Natural language interfaces can make technology easier to use for people who may find traditional interfaces difficult.
+
+Speech and text-based systems can provide alternative methods of interacting with applications.
+
+I find this particularly interesting because it connects AI with practical accessibility needs.
+
+I would like to explore such applications through future projects.
+
+NLP can also be useful in areas such as customer service, document processing, business automation, research, and information retrieval.
+
+Many organisations work with large amounts of text.
+
+AI systems can potentially help organise and analyse this information.
+
+However, reliability and privacy are important considerations.
+
+If a system processes sensitive information, developers need to think carefully about how the data is stored and used.
+
+This has made me more interested in responsible AI development.
+
+Another important part of NLP is data.
+
+Language models require large amounts of text for training.
+
+The quality of the training data can influence the quality of the model.
+
+If the data contains errors or biases, the model may learn some of those patterns.
+
+This makes dataset selection and evaluation important.
+
+I want to learn more about how language datasets are created, cleaned, evaluated, and used for training.
+
+I am also interested in multilingual NLP.
+
+India has many languages, and language technologies do not necessarily perform equally well across all of them.
+
+A system that works well for English may not perform as effectively for an Indian regional language.
+
+This creates interesting research and engineering challenges.
+
+Developing language technologies that support more Indian languages could make AI systems more accessible to a larger population.
+
+I would like to explore this area in the future.
+
+Another challenge is that language can be highly dependent on context.
+
+The same word can have different meanings in different situations.
+
+People also use informal language, abbreviations, regional expressions, and mixed languages.
+
+These factors can make language processing difficult.
+
+I find this interesting because it shows how complex human communication is.
+
+It also explains why language models require large amounts of data and advanced architectures.
+
+My interest in NLP has encouraged me to learn more about machine learning fundamentals.
+
+Concepts such as probability, statistics, optimisation, and neural networks are important for understanding language models.
+
+I want to strengthen my mathematical foundation so that I can understand these systems more deeply.
+
+I do not want to use AI tools without understanding the principles behind them.
+
+This is one of my main academic goals.
+
+I also want to learn more about model evaluation.
+
+A language model can produce fluent text that is still incorrect.
+
+Therefore, evaluating NLP systems can be more complicated than simply checking whether the output looks good.
+
+Depending on the application, different metrics and human evaluation methods may be required.
+
+I want to understand these methods better.
+
+This is particularly important for applications where incorrect information could create problems.
+
+I also want to explore smaller and more efficient language models.
+
+Large models can require significant computing resources.
+
+For many applications, a smaller model that can run efficiently may be more practical.
+
+This is particularly relevant when systems need to run on local devices or in environments with limited resources.
+
+I find model efficiency an interesting engineering problem.
+
+It requires balancing accuracy, speed, memory usage, and cost.
+
+I would like to explore techniques such as model compression and efficient inference in the future.
+
+My participation in hackathons has also given me opportunities to experiment with AI applications.
+
+Hackathons encourage teams to build prototypes quickly, which can be useful for exploring new AI ideas.
+
+At the same time, they teach an important lesson: a working prototype is not the same as a production-ready system.
+
+An AI application may need better testing, data protection, error handling, monitoring, and evaluation before it can be used widely.
+
+I want to learn how to move from experimental systems to reliable applications.
+
+This is one of the reasons I want to study software engineering alongside AI.
+
+I also want to learn more about AI agents and systems that can use language models to perform multiple steps.
+
+These systems can potentially combine reasoning, tools, databases, APIs, and external information.
+
+I find this area interesting because it moves beyond simple question-and-answer applications.
+
+However, such systems also create new challenges related to reliability, security, and control.
+
+I want to understand these challenges as I explore the field.
+
+Another important area is responsible use of language models.
+
+AI systems can influence the information people receive.
+
+If a system produces incorrect or biased information, users may make decisions based on it.
+
+Therefore, developers need to think about evaluation, transparency, and appropriate use.
+
+I want to develop a responsible approach to AI rather than focusing only on what the technology can do.
+
+My long-term goal is to work in artificial intelligence and software engineering.
+
+I am particularly interested in intelligent applications and language-based systems.
+
+I want to build systems that can help people access information, automate repetitive tasks, communicate with software more easily, or support learning.
+
+At the same time, I want to remain open to other areas of AI as I continue my education.
+
+I am still learning and exploring.
+
+Higher education will give me the opportunity to study NLP and machine learning more systematically.
+
+I want to learn from faculty members and researchers.
+
+I want to read research papers and understand current developments.
+
+I want to work on projects where I can experiment with language models.
+
+I also want to gain practical experience through internships and technical activities.
+
+I believe these experiences will help me understand the field from both academic and practical perspectives.
+
+Another goal is to improve my programming and system design skills.
+
+An NLP model is only one part of an application.
+
+A complete system may require APIs, databases, interfaces, cloud infrastructure, and monitoring.
+
+I want to become comfortable developing these components.
+
+This is why my interest in NLP is connected to my broader interest in software engineering.
+
+I also want to improve my communication skills.
+
+Ironically, working with language technology has made me more aware of the importance of human communication.
+
+Technical systems need to understand what users want.
+
+Developers need to understand user requirements.
+
+AI outputs need to be explained clearly.
+
+Good communication is therefore important at every stage.
+
+I want to continue improving this skill.
+
+I know that there is still a lot for me to learn about NLP.
+
+I want to understand advanced transformer architectures.
+
+I want to learn more about multilingual models.
+
+I want to explore retrieval-based systems.
+
+I want to understand model evaluation.
+
+I want to learn about efficient deployment.
+
+I also want to understand the ethical and practical limitations of language models.
+
+These areas give me many opportunities for future learning.
+
+For me, NLP is interesting because it connects technology with one of the most basic parts of human interaction: language.
+
+People communicate through language every day.
+
+Making computers work with language creates many possibilities for education, accessibility, information retrieval, productivity, and communication.
+
+At the same time, language is complex, so building reliable systems is challenging.
+
+I enjoy this combination of practical value and technical difficulty.
+
+My interest in NLP has also changed the way I think about artificial intelligence.
+
+Earlier, I mainly thought about AI as systems that could classify images or make predictions.
+
+Now I see AI as a broader field that can work with different types of information, including text, images, and other data.
+
+NLP has helped me understand the possibilities of multimodal AI and intelligent applications.
+
+I want to explore these areas further.
+
+My goal is to become a skilled AI engineer who understands the fundamentals of machine learning and can build useful applications around modern AI models.
+
+I want to continue learning, building projects, participating in technical events, and gaining research experience.
+
+I also want to understand the limitations of the systems I develop and make sure that they are used responsibly.
+
+I believe my current experience with programming, full-stack development, machine learning, and AI provides a useful foundation.
+
+However, I know that higher education will be important for developing deeper knowledge.
+
+I want to strengthen my mathematics and computer science fundamentals and gain more experience with research.
+
+I also want to work with other students and learn from people with different perspectives.
+
+My interest in Natural Language Processing is still developing, and I expect it to change as I learn more.
+
+That is one of the things I find exciting about the field.
+
+There are new models, research areas, and applications appearing regularly.
+
+I want to remain curious and continue exploring.
+
+For me, NLP is not only about making computers generate or process text.
+
+It is about understanding how technology can interact with human language and how these systems can be used to solve practical problems.
+
+I want to learn more about this field, develop stronger technical skills, and eventually contribute to useful AI systems through my education and future career.

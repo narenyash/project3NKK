@@ -1,0 +1,732 @@
+
+Failure is often viewed as an undesirable outcome. Students are encouraged to succeed in examinations, competitions, projects, and other academic activities. However, some of the most important lessons in my education have come from situations in which my original approach did not work. These experiences taught me that failure is not necessarily the opposite of success. When examined honestly, it can become one of the most effective forms of learning.
+
+My understanding of failure developed gradually through my experiences with programming and technology.
+
+When I first began building software, I expected my ideas to work once I had written the necessary code. I assumed that if I understood the concept correctly, the implementation would naturally follow.
+
+Reality was different.
+
+Programs failed for reasons I did not anticipate.
+
+Features behaved differently from what I expected.
+
+Interfaces that appeared simple to me confused other users.
+
+Machine learning models produced results that were weaker than expected.
+
+Projects sometimes took much longer than planned.
+
+At first, these situations were frustrating.
+
+I wanted the solution to work.
+
+I wanted to complete the project.
+
+I wanted the final result to look successful.
+
+Over time, however, I began to realise that the most useful part of these experiences was not the final result.
+
+It was understanding why the result was different from what I expected.
+
+This changed the way I approached mistakes.
+
+Instead of immediately asking how to hide or correct a failure, I began asking what it could teach me.
+
+If a program crashed, where did the problem originate?
+
+If a model performed poorly, was the issue with the algorithm, the data, or the evaluation?
+
+If users struggled with an interface, which assumption had I made incorrectly?
+
+If a project was delayed, was the problem unrealistic planning, technical complexity, or communication?
+
+These questions transformed failure from an emotional experience into an analytical one.
+
+This is one of the most important lessons I have learned as an engineering student.
+
+A failure is an observation.
+
+It tells us that reality is different from our expectation.
+
+The useful response is to investigate the difference.
+
+This way of thinking is closely connected to the scientific method.
+
+Researchers form hypotheses.
+
+They conduct experiments.
+
+They observe results.
+
+They compare the results with their expectations.
+
+If the evidence contradicts the hypothesis, they revise their understanding.
+
+Engineering follows a similar process.
+
+A design is created based on assumptions.
+
+The system is implemented.
+
+Testing reveals how it behaves.
+
+The design is then improved.
+
+In both cases, unexpected results provide information.
+
+This is why I have become more comfortable with experimentation.
+
+When I began exploring artificial intelligence, I encountered this principle repeatedly.
+
+Machine learning models can appear impressive when demonstrated on carefully selected examples. However, real datasets are rarely perfect.
+
+Data can be incomplete.
+
+Labels can be inconsistent.
+
+Examples can be unbalanced.
+
+Different environments can produce different patterns.
+
+A model can therefore perform well during initial testing and then behave differently under new conditions.
+
+My first reaction to poor performance was often to search for a better model.
+
+Eventually, I realised that changing the model was not always the correct solution.
+
+Sometimes the problem was the data.
+
+Sometimes the preprocessing was inadequate.
+
+Sometimes the evaluation method was inappropriate.
+
+Sometimes the problem itself had not been defined clearly.
+
+This taught me not to treat every failure as a technical failure.
+
+The solution may require reconsidering the assumptions behind the entire approach.
+
+This is an important engineering habit.
+
+When something does not work, the most advanced tool is not necessarily the answer.
+
+The first step is understanding the problem.
+
+My experiences with software projects taught me a similar lesson.
+
+A developer may spend considerable time implementing a feature only to discover that users do not actually need it.
+
+It can be tempting to continue developing the feature because so much effort has already been invested.
+
+However, that effort should not determine the future direction of the project.
+
+If the feature does not solve a meaningful problem, it may be better to change it.
+
+This taught me that persistence does not mean refusing to change.
+
+True persistence means remaining committed to the objective while being willing to change the method.
+
+This distinction is important.
+
+There is a difference between determination and stubbornness.
+
+Determination says:
+
+"The goal matters, so I will keep searching for a better approach."
+
+Stubbornness says:
+
+"My original approach must work, so I will continue using it."
+
+I want to develop the first quality.
+
+Failure has also taught me to become more comfortable asking for help.
+
+When I began learning technical subjects, I sometimes believed that solving everything independently was a sign of ability.
+
+Experience changed this view.
+
+Some problems can be solved faster when another person provides a different perspective.
+
+A teammate may notice an error I have overlooked.
+
+A teacher may explain a concept in a way that makes it easier to understand.
+
+A more experienced developer may recognise a problem immediately.
+
+Asking for help does not eliminate independent learning.
+
+It can accelerate it.
+
+The important thing is to understand the explanation rather than simply accept the solution.
+
+This has made collaboration an important part of my learning process.
+
+I have also learned that admitting a mistake is a form of responsibility.
+
+If a technical decision causes a problem, hiding it can make the situation worse.
+
+Communicating the issue allows the team to respond.
+
+This principle is particularly important in software engineering because one mistake can affect multiple components.
+
+Transparency helps teams solve problems faster.
+
+I want to carry this habit into my professional life.
+
+If I make an error, I want to acknowledge it.
+
+If I do not understand something, I want to ask.
+
+If I discover a problem in my work, I want to communicate it.
+
+Professional reliability is not the absence of mistakes.
+
+It is the ability to respond responsibly when mistakes occur.
+
+This understanding has reduced my fear of trying difficult things.
+
+Earlier, I sometimes avoided unfamiliar technologies because I was concerned about not understanding them immediately.
+
+Now I recognise that confusion is a normal stage of learning.
+
+A beginner is expected not to know.
+
+The important question is whether the beginner is willing to learn.
+
+This has encouraged me to explore areas outside my comfort zone.
+
+When I encounter a new programming framework, I expect an initial learning curve.
+
+When I study a mathematical topic that is unfamiliar, I expect to need practice.
+
+When I read a difficult research paper, I expect to reread sections and investigate unfamiliar concepts.
+
+The expectation of difficulty makes the process less intimidating.
+
+I no longer interpret initial difficulty as evidence that I cannot learn something.
+
+Instead, I see it as evidence that I have entered a new area.
+
+This mindset will be valuable in higher education.
+
+University will introduce me to subjects that may initially seem beyond my current abilities.
+
+Some courses will require stronger mathematical reasoning.
+
+Some projects will involve unfamiliar technical systems.
+
+Research may introduce questions that do not have straightforward answers.
+
+I expect to struggle.
+
+I also expect that struggle to teach me.
+
+This is one of the reasons I want to pursue challenging academic environments.
+
+A comfortable environment may provide confidence.
+
+A challenging environment can provide growth.
+
+I want opportunities to discover what I am capable of learning.
+
+Failure is also an important part of research.
+
+A researcher cannot know the result of an experiment in advance.
+
+If every experiment produced exactly the expected result, research would become unnecessary.
+
+Unexpected outcomes can reveal new information.
+
+A hypothesis may be rejected.
+
+A method may perform worse than expected.
+
+A dataset may reveal an unexpected pattern.
+
+A limitation may become visible.
+
+These results can lead to better questions.
+
+I want to develop the patience required for this process.
+
+Research is not a competition to avoid mistakes.
+
+It is an investigation in which mistakes and unexpected results can provide evidence.
+
+This perspective has strengthened my interest in pursuing research in artificial intelligence.
+
+AI research presents many questions that remain open.
+
+How can models generalise better?
+
+How can they become more efficient?
+
+How can their limitations be identified?
+
+How can they become more reliable?
+
+How can they be evaluated under real-world conditions?
+
+There may be many unsuccessful approaches before a useful one is discovered.
+
+I want to be prepared for that reality.
+
+I also want to learn how to distinguish between productive failure and careless failure.
+
+Not every mistake is automatically valuable.
+
+If a problem occurs because I did not test the system when testing was clearly necessary, the lesson is different from discovering an unexpected limitation despite careful testing.
+
+Learning from failure requires reflection.
+
+What caused the failure?
+
+Was it avoidable?
+
+What assumption was incorrect?
+
+What process should change?
+
+What can be done differently next time?
+
+These questions turn experience into improvement.
+
+I want to develop the habit of asking them.
+
+Failure has also taught me the importance of documentation.
+
+When a technical problem is not recorded, it can easily be repeated.
+
+When an experiment is not documented, it becomes difficult to understand why a result occurred.
+
+When a project decision is not explained, future team members may repeat the same mistake.
+
+Documentation therefore helps transform individual experience into collective knowledge.
+
+This is particularly important in professional environments.
+
+Teams change.
+
+Projects continue.
+
+New developers join.
+
+People may not remember why a particular decision was made.
+
+Good documentation preserves the reasoning.
+
+I want to develop this discipline as I progress through my education.
+
+Another lesson failure has taught me is the importance of realistic expectations.
+
+When beginning a project, it is easy to imagine a perfect final product.
+
+The reality may involve limited time, incomplete data, technical constraints, and unexpected problems.
+
+If expectations are unrealistic, disappointment becomes inevitable.
+
+I have learned to divide ambitious goals into achievable stages.
+
+Instead of expecting a complete system immediately, I can first build a basic prototype.
+
+Then I can test it.
+
+Then I can improve it.
+
+This approach reduces the emotional pressure associated with failure.
+
+A small prototype is not expected to be perfect.
+
+Its purpose is to provide information.
+
+This is particularly useful in innovation and research.
+
+Early versions should answer questions rather than prove perfection.
+
+Failure therefore becomes part of iteration.
+
+Build.
+
+Test.
+
+Observe.
+
+Learn.
+
+Improve.
+
+Repeat.
+
+This cycle has become one of the most useful frameworks in my technical education.
+
+It also applies beyond technology.
+
+Academic learning follows a similar pattern.
+
+Study a concept.
+
+Attempt a problem.
+
+Make mistakes.
+
+Review the solution.
+
+Understand the error.
+
+Try again.
+
+Over time, the mistake becomes less likely to recur.
+
+This is why I believe errors should be examined rather than simply corrected.
+
+If I memorise the correct answer without understanding why my original answer was wrong, I may repeat the same mistake later.
+
+Understanding the error creates deeper learning.
+
+This principle has influenced my approach to examinations as well.
+
+An incorrect answer is not only a lost mark.
+
+It can identify a gap in understanding.
+
+Reviewing those gaps can improve future performance.
+
+This does not mean that marks are unimportant.
+
+Academic performance matters.
+
+But the purpose of evaluation should ultimately be improvement.
+
+I want to use feedback in that way.
+
+Failure has also changed my understanding of confidence.
+
+Confidence is sometimes presented as certainty that one will succeed.
+
+I now see confidence differently.
+
+Real confidence can mean being willing to attempt something even when success is uncertain.
+
+It means believing that failure will not prevent learning.
+
+This kind of confidence encourages experimentation.
+
+It also encourages intellectual risk-taking.
+
+A student who is afraid of being wrong may avoid asking questions.
+
+A researcher who is afraid of failed experiments may avoid ambitious hypotheses.
+
+An engineer who is afraid of criticism may avoid proposing new approaches.
+
+A healthy attitude toward failure creates space for creativity.
+
+This is one of the qualities I want to develop in higher education.
+
+I want to ask difficult questions.
+
+I want to propose ideas.
+
+I want to participate in research.
+
+I want to attempt projects that may be beyond my current ability.
+
+Some of these efforts will fail.
+
+I accept that.
+
+The important thing is that each attempt should leave me with greater understanding.
+
+I also believe that failure can develop empathy.
+
+When I struggle with a difficult concept, I become more aware of how other students may feel when they encounter the same difficulty.
+
+This has influenced how I explain technical subjects to others.
+
+Instead of assuming that a concept is obvious, I try to understand where the learner is getting stuck.
+
+I remember that what seems simple after learning it may have been confusing initially.
+
+This perspective makes teaching more patient.
+
+It also reminds me that everyone learns at a different pace.
+
+Failure can therefore improve not only technical ability but also communication.
+
+This is particularly important for leadership.
+
+A leader who has never experienced difficulty may underestimate the challenges faced by teammates.
+
+Someone who has experienced failure may be more willing to listen.
+
+They may understand that mistakes do not necessarily indicate lack of effort or ability.
+
+I want to become that kind of collaborator.
+
+I want to create environments where people can identify problems without fear of blame.
+
+If a teammate discovers an issue early, the team should be able to address it.
+
+If people are afraid to report mistakes, small problems can become major ones.
+
+Therefore, psychological safety and technical reliability are connected.
+
+Teams need honest communication.
+
+I want to contribute to such environments in my future professional life.
+
+My long-term ambition is to work in artificial intelligence and software engineering.
+
+These fields will require continuous experimentation.
+
+New systems will need to be tested.
+
+New models will need to be evaluated.
+
+New applications will need to be improved.
+
+Not every attempt will succeed.
+
+The ability to respond constructively to failure will therefore be essential.
+
+I want to develop that ability now.
+
+I want to become comfortable with debugging.
+
+I want to become comfortable with criticism.
+
+I want to become comfortable revising ideas.
+
+I want to become comfortable admitting when I do not know something.
+
+These habits will make me a better learner and eventually a better engineer.
+
+Failure has also made me more realistic about innovation.
+
+The successful final product is only one part of the story.
+
+Behind it may be dozens of prototypes that did not work.
+
+Behind a research result may be many experiments that produced inconclusive outcomes.
+
+Behind a successful startup may be several ideas that were abandoned.
+
+This does not diminish success.
+
+It explains it.
+
+Innovation requires the willingness to try.
+
+Trying creates the possibility of failure.
+
+Failure creates information.
+
+Information creates improvement.
+
+Improvement creates the possibility of success.
+
+This sequence is not guaranteed.
+
+But without the willingness to try, meaningful innovation becomes difficult.
+
+I want to maintain that willingness throughout my career.
+
+At the same time, I do not want to romanticise failure.
+
+Failure can have real consequences.
+
+A poorly designed system can affect users.
+
+A research mistake can lead to incorrect conclusions.
+
+A professional error can create financial or operational problems.
+
+Therefore, learning from failure must be combined with responsibility.
+
+The goal is not to make careless mistakes.
+
+The goal is to experiment carefully, test thoroughly, and respond honestly when unexpected outcomes occur.
+
+Good engineering reduces preventable failures while learning from unavoidable ones.
+
+This distinction is important to me.
+
+I want to develop strong testing and evaluation habits.
+
+I want to identify risks before deployment.
+
+I want to use evidence rather than assumptions.
+
+And when something still goes wrong, I want to investigate it properly.
+
+My academic goals reflect this mindset.
+
+I want to study computer science deeply.
+
+I want to strengthen my understanding of algorithms, systems, mathematics, and artificial intelligence.
+
+I want to participate in research and practical projects.
+
+I want to work with teams.
+
+I want to solve difficult problems.
+
+All of these experiences will involve mistakes.
+
+I see that as part of the education I am seeking.
+
+A university should not simply teach students how to succeed under ideal conditions.
+
+It should teach them how to respond when conditions are difficult.
+
+That is where resilience develops.
+
+That is where judgment develops.
+
+That is where deeper understanding develops.
+
+My experience with failure has therefore changed what I expect from myself.
+
+I no longer expect perfection.
+
+I expect effort.
+
+I expect honesty.
+
+I expect reflection.
+
+I expect improvement.
+
+If I make a mistake, I want to understand it.
+
+If I fail at something, I want to determine what I can learn.
+
+If my first approach does not work, I want to find another.
+
+If someone provides criticism, I want to consider it.
+
+This does not mean that failure should become comfortable.
+
+It means that failure should not become paralyzing.
+
+I want to remain willing to attempt difficult things.
+
+That willingness will be important throughout my career.
+
+Technology will continue changing.
+
+Research questions will continue evolving.
+
+Professional responsibilities will increase.
+
+Some decisions will have significant consequences.
+
+I will inevitably encounter situations in which I do not immediately know what to do.
+
+My previous experiences have taught me that the first step is not panic.
+
+It is analysis.
+
+What happened?
+
+What do I know?
+
+What do I not know?
+
+What caused the problem?
+
+What can be controlled?
+
+What can be changed?
+
+What should be tried next?
+
+This process provides a way forward.
+
+It transforms uncertainty into a problem that can be investigated.
+
+That is the mindset I want to carry into higher education and beyond.
+
+Ultimately, failure has taught me something that success alone could not have taught me.
+
+Success can show that an approach worked.
+
+Failure can reveal why it did not.
+
+Success provides confidence.
+
+Failure can provide understanding.
+
+Success can validate an idea.
+
+Failure can challenge an assumption.
+
+Both are valuable.
+
+I no longer see my mistakes only as things I wish had not happened.
+
+Some of them have become important parts of my education.
+
+They have taught me patience.
+
+They have taught me humility.
+
+They have taught me persistence.
+
+They have taught me to ask better questions.
+
+They have taught me to listen.
+
+They have taught me to test assumptions.
+
+Most importantly, they have taught me that learning does not require avoiding every mistake.
+
+It requires responding to mistakes intelligently.
+
+As I move toward higher education, I want to carry this lesson with me.
+
+I want to challenge myself.
+
+I want to explore unfamiliar subjects.
+
+I want to conduct experiments.
+
+I want to build difficult projects.
+
+I want to participate in research.
+
+I know that not everything will succeed.
+
+That is acceptable.
+
+I am not entering higher education because I already know how to solve every problem.
+
+I am entering because I want to learn how to solve problems I cannot currently solve.
+
+Some of that learning will happen through success.
+
+Some will happen through failure.
+
+I value both.
+
+My ultimate goal is to become an engineer who is not afraid of difficult problems, not because I expect every attempt to succeed, but because I know that every carefully examined attempt can teach me something.
+
+I want to build responsibly.
+
+I want to research honestly.
+
+I want to collaborate openly.
+
+I want to accept criticism.
+
+I want to improve continuously.
+
+And when something does not work, I want to ask the most important question:
+
+"What can this teach me?"
+
+That question has changed the way I approach failure.
+
+I believe it will also shape the way I approach my education, my career, and the challenges I will face in the future.

@@ -1,0 +1,27 @@
+Title: Bridging the Gap: Advancing Equitable, Fair, and Inclusive Language Models through Research and Collaboration
+
+Motivation:
+
+The disparities inherent in language models can exacerbate the challenges faced by marginalized communities worldwide, particularly in India, where factors such as location, occupation, economic status, name, native language, among others, often serve as proxies for an individual's caste and religion [1]. The lack of transparency surrounding AI model threats to these communities, coupled with the exclusive control of these systems by privileged elites, is a pressing concern. My research seeks to address these issues by exploring and quantifying the harm caused by large language models (LLMs) and other aspects of natural language processing. By focusing on fairness, interpretability, privacy, and efficiency in LLMs, I aspire to build equitable systems that incorporate cultural context and address the intersection of these elements with privacy and efficiency.
+
+Problems of Interest:
+
+• Quantifying and mitigating harms due to allocational and representational biases – a perspective yet unexplored from an intersectional, multicultural, and multilingual standpoint.
+
+• Using interpretability methods to shed light on fairness issues in language models, modeling interpretability in various downstream tasks, and creating trustworthy LLMs from the perspective of privacy, efficiency, fairness, and interpretability.
+
+• Investigating the limitations and potential harms caused by language models, as well as their influence on user interaction.
+
+Fairness, Interpretability, Privacy, and Efficiency:
+
+Despite limited research opportunities and guidance in my college, I seized the chance to delve into NLP and discovered my passion for this field. Through online courses and virtual conferences, I was introduced to a vast array of topics, including fairness in NLP. In collaboration with a fellow student, we embarked on our first independent research project in this area, which involved a comprehensive review of bias in machine translation systems [2]. Our work evaluated bias in Hindi-English machine translation using both intrinsic and extrinsic methods. However, we found that existing methods for evaluating bias in machine translation rely solely on the mistranslation of binarized pronouns, neglecting information about a model's stereotypical tendencies in extrinsic outputs. To address these shortcomings, I am interested in developing an evaluation benchmark and datasets that account for non-binary genders and studying whether MT systems use gendered and racial stereotypes to generate their outputs.
+
+During my graduate studies, I aim to address problems in the Indic context from an intersectional lens, given that the additional dimension of caste has been almost entirely excluded from the fairness narrative thus far. My time at Microsoft Research India under the guidance of Dr. Sunayana Sitaram and Dr. Monojit Choudhury allowed me to work on bias in multilingual NLP and the effects of model compression on LLMs [3]. This research culminated in a critical overview of literature on fairness in multilingual settings and languages other than English, highlighting challenges and unaddressed problems from technical, cultural, and linguistic perspectives.
+
+I have since conducted a comprehensive survey and provided a critical analysis of the current state of research in this area, contributing significantly to the writing process [4]. A research direction that stands out to me is the development of parallel corpora for fairness evaluation. While automated methods have been developed and used to generate parallel corpora in other languages, recent research has demonstrated that this may be a flawed approach.
+
+The need to address these problems in deep learning from a practical standpoint propelled me toward research related to efficiency in LLMs. Compressed models are widely utilized due to resource constraints in real-world settings; however, most studies only consider the cost in terms of the drop in performance [5]. To gain a thorough understanding of model compression methods used in NLP and how they compare to one another, I have begun looking at the development of model compression techniques that minimize the resultant bias. This research is currently under review at EACL 2023.
+
+My work with Dr. Sumeet Kumar and Dr. Ashique KhudaBukhsh on related problems has further solidified my commitment to addressing societal issues through AI [6]. My initial foray aimed to quantify gender bias in videos for children, which quickly evolved into a critique of how SoTA ASR systems used by platforms like YouTube produce inappropriate, abusive transcriptions. Our ongoing extension of this work seeks to analyze these issues from a multilingual, multicultural standpoint and highlight points that must be considered when developing such tools.
+
+In conclusion, my passion for advancing equitable, fair, and inclusive language models is driven by the desire to address the disparities faced by marginalized communities worldwide. By focusing on fairness, interpretability, privacy, and efficiency in LLMs, I aim to create systems that are not only technologically superior but also socially responsible and culturally sensitive.

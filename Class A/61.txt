@@ -1,0 +1,52 @@
+
+I am a student with a strong interest in computer science, and over time I have become particularly interested in artificial intelligence and machine learning. I find AI interesting because it combines programming, mathematics, data, and problem-solving to create systems that can perform tasks that normally require human intelligence. My interest in this field developed gradually through academic learning, online resources, personal projects, and participation in technical events.
+
+I started my journey with programming and basic software development. Learning how to write programs helped me understand how computers follow instructions and how different components of a software system work together. As I became more comfortable with programming, I started exploring areas beyond basic application development. I became interested in how computers could process images, understand patterns, make predictions, and learn from data.
+
+This led me to explore machine learning.
+
+Initially, I learned about basic concepts such as datasets, features, training, testing, classification, and prediction. I used online resources and practical examples to understand these concepts. I found that learning through implementation was more useful for me than only reading theoretical explanations. When I built a small model and saw how changing the data or parameters affected the result, the concepts became easier to understand.
+
+I then started exploring computer vision because I was interested in how machines can analyse images. I worked on projects involving image classification and experimented with convolutional neural networks. These projects helped me understand that developing an AI system involves several steps, including collecting data, preprocessing it, training the model, evaluating its performance, and improving the results.
+
+One of the important lessons I learned from these projects is that having a machine learning model is not enough. The quality of the data and the way the problem is defined are also very important. A model can perform well on one dataset and still have difficulties when it is given different types of data. This made me more interested in understanding the fundamentals behind AI instead of only using ready-made libraries.
+
+Along with AI, I have also worked on full-stack development. I enjoy building complete applications because it helps me understand how different parts of a system connect. I have worked with technologies such as React, Node.js, Express, MongoDB, and SQL. Working on both frontend and backend development has helped me understand how an idea can be converted into a usable application.
+
+I find the combination of AI and software development particularly interesting. An AI model by itself may not be useful to an end user. It usually needs to be integrated into an application where people can interact with it. This made me interested in building complete AI-based systems rather than focusing only on individual models.
+
+I have also participated in hackathons and technical competitions. These experiences gave me opportunities to work on projects within limited time periods. Hackathons taught me how important it is to quickly understand a problem, divide responsibilities, learn unfamiliar technologies, and build a working prototype. They also helped me become more comfortable working in teams.
+
+Working under time limitations was sometimes challenging, but it helped me improve my ability to prioritise. In a normal project, there may be enough time to explore many alternatives. In a hackathon, it is important to identify the most important features and build them first. This taught me that a simple working solution can be more useful than a complicated idea that is never completed.
+
+My projects have also helped me understand the importance of continuous learning. Technology changes very quickly, especially in artificial intelligence. New models, frameworks, tools, and research papers are released regularly. A technology that is commonly used today may be replaced or improved in the future. Because of this, I do not want to depend only on what I learn in my academic syllabus.
+
+I regularly use online resources to learn new technologies and concepts. Sometimes I start with a small tutorial or documentation and then try to build something independently. This method helps me understand whether I have actually learned the concept. If I face an error, I investigate it and try different solutions. This process has improved my problem-solving skills.
+
+Another area I am interested in is generative AI and intelligent systems. I find it interesting how modern AI models can work with text, images, and other forms of information. I have explored different AI tools and frameworks and experimented with building applications around language models. These experiences have increased my interest in understanding how such systems work internally.
+
+At the same time, I understand that AI is not only about building powerful models. There are also important questions about accuracy, privacy, bias, security, and responsible use. An AI system can produce incorrect results, and users may not always understand its limitations. Therefore, I believe that future AI engineers need both technical knowledge and an understanding of how their systems affect users.
+
+This is one of the reasons I want to pursue higher education in computer science. I want to strengthen my understanding of algorithms, data structures, mathematics, statistics, machine learning, and computer systems. I want to move beyond simply using existing tools and understand the principles behind them.
+
+I am also interested in research. So far, most of my learning has been through projects and practical experimentation. I would like to gain more experience with reading research papers, designing experiments, analysing results, and working on problems where the solution is not already known. I believe research will help me develop a deeper understanding of AI.
+
+I also want to improve my communication and teamwork skills. Working on technical projects has shown me that software development is rarely an individual activity. Teams need to discuss requirements, divide work, solve disagreements, review each other's ideas, and communicate progress. A good engineer therefore needs to be able to work with people as well as technology.
+
+I believe college will provide an environment where I can develop these skills further. I want to interact with students who have different interests and backgrounds, participate in technical clubs and projects, and learn from faculty members with experience in different areas of computer science. I also hope to gain practical experience through research, internships, and collaborative projects.
+
+My long-term goal is to work in artificial intelligence and software engineering. I am interested in developing intelligent applications that can solve practical problems. I do not yet want to limit myself to one specific application area because I am still exploring different fields. However, I know that I want my work to involve technology that has a practical purpose.
+
+I am particularly interested in areas such as intelligent systems, computer vision, generative AI, and AI-based applications. As I gain more knowledge, I hope to identify the areas where I can contribute most effectively.
+
+I also want to continue building projects throughout my education. Projects help me connect theory with practice. They allow me to test what I have learned and understand the limitations of different approaches. I want to work on projects that are more complex over time and eventually contribute to research or products that can be used by real users.
+
+I understand that I still have a lot to learn. My current knowledge is only a starting point, and there are many areas of computer science that I have not explored deeply. I see this as a motivation rather than a limitation. One of the things I like most about technology is that there is always another concept, tool, or problem to learn about.
+
+My academic goal is therefore not only to obtain a degree but also to develop a strong foundation that will allow me to continue learning independently. I want to become comfortable with both theory and practical implementation.
+
+I believe my interest in artificial intelligence comes from this combination of curiosity and practical learning. I enjoy understanding how technology works, but I also enjoy seeing an idea become a working system. My projects, technical events, and independent learning have helped me develop this interest further.
+
+In the future, I hope to use my education and technical skills to work on useful AI-based solutions. I want to keep improving my programming, learn more about machine learning and intelligent systems, and gain experience working on larger problems.
+
+For me, artificial intelligence is not simply a growing technology. It is a field where I can combine my interests in programming, problem-solving, mathematics, and software development. I am looking forward to developing these interests further through higher education and eventually using them to make a practical contribution to the technology industry.

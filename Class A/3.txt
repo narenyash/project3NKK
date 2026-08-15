@@ -1,0 +1,370 @@
+s
+For most of my early life, technology was something I used without thinking much about how it worked.
+
+I opened websites, played games, watched videos, used search engines, and communicated through applications. Technology seemed almost invisible because it worked so naturally. I never wondered where the information was stored, how a button knew what to do, or how a message could travel from one phone to another in seconds.
+
+Then I became curious.
+
+I wanted to know what was behind the screen.
+
+That curiosity began with small questions. How does a website remember who I am? How does an application know what information to show me? How does a search engine find one answer among millions of possibilities? How can a computer recognize an image when it does not see the world the way humans do?
+
+At first, I searched for answers online.
+
+Then I started trying to build them myself.
+
+My first programming experiments were far from impressive. I wrote small scripts, changed existing examples, and followed tutorials. Sometimes I understood what I was doing; sometimes I was simply copying instructions and hoping the result would work.
+
+But even those small experiments changed my relationship with technology.
+
+A screen was no longer just a screen.
+
+It became the visible surface of a system.
+
+A button represented logic. A login page represented authentication. A search bar represented data processing. A website represented the interaction of a frontend, backend, database, and network.
+
+The more I learned, the more complicated the world behind ordinary applications became.
+
+That complexity did not discourage me.
+
+It made me more curious.
+
+I began learning web development because it gave me an immediate way to turn an idea into something visible. HTML and CSS allowed me to create interfaces. JavaScript allowed those interfaces to respond to users. Later, I learned React, Node.js, Express, databases, and APIs.
+
+Each technology answered one question and created several new ones.
+
+I learned how a frontend communicates with a backend, then wondered how the backend communicates with a database. I learned how APIs work, then wondered how authentication protects them. I learned how data can be stored, then became interested in how large systems handle millions of requests.
+
+Learning technology became a chain of questions.
+
+That process suited my personality.
+
+I have always been someone who wants to understand how things work rather than simply accept that they work.
+
+If I use a tool, I become curious about its design.
+
+If I see a system, I wonder what happens behind the scenes.
+
+If something behaves unexpectedly, I want to know why.
+
+Programming gave that curiosity a practical outlet.
+
+Instead of asking only questions, I could test them.
+
+If I wondered whether an application could automate a particular task, I could build a prototype.
+
+If I wondered whether users would understand an interface, I could create one and observe them using it.
+
+If I wondered whether a machine learning model could identify a pattern, I could train one and evaluate its results.
+
+This ability to turn questions into experiments became one of the main reasons I chose computer science.
+
+One of my earliest meaningful projects involved creating a website for a small business.
+
+Before that experience, I had thought about websites primarily from the perspective of a user. I cared about whether they loaded quickly, whether the design looked good, and whether navigation was convenient.
+
+Building one for someone else made me see the problem differently.
+
+A business owner does not simply need a beautiful website.
+
+They need customers to understand what the business offers.
+
+They need important information to be easy to find.
+
+They need the website to work reliably.
+
+They need it to appear on search engines.
+
+They need to be able to update information.
+
+They may need forms, databases, analytics, or integrations.
+
+Suddenly, web development was no longer just about writing code.
+
+It was about understanding a real organization.
+
+That project taught me something I continue to value: technology becomes meaningful when it is connected to an actual need.
+
+The same principle influenced my later projects.
+
+When I became interested in artificial intelligence, I initially approached it from a technical perspective. I wanted to understand neural networks, computer vision, language models, and machine learning.
+
+I experimented with image classification and other small machine learning projects.
+
+One project involved computer vision. I was fascinated by the possibility of teaching a computer to extract information from an image. Human vision feels effortless—we look at an object and immediately recognize it. For a computer, however, an image is ultimately represented as numerical information.
+
+The gap between those two perspectives fascinated me.
+
+I began learning about convolutional neural networks and how models can identify increasingly complex patterns through layers of computation.
+
+What interested me most was not simply the mathematics.
+
+It was the transformation.
+
+A collection of pixels could become information about an object.
+
+That idea expanded my understanding of what software could do.
+
+Traditional programming often involves explicitly describing rules.
+
+Machine learning introduced a different possibility: instead of specifying every rule manually, we could provide examples and allow a system to learn patterns from data.
+
+That shift felt profound.
+
+It also introduced new questions.
+
+How much data is enough?
+
+How do we know whether the model has actually learned the intended pattern?
+
+What happens when the data is biased?
+
+How can we explain a prediction?
+
+What should happen when the model is uncertain?
+
+These questions made artificial intelligence much more interesting to me than simply achieving a high accuracy score.
+
+As I continued experimenting, I became interested in combining AI with applications that people could actually use.
+
+This led me toward projects involving intelligent interfaces, automation, computer vision, and personal assistants.
+
+One of my projects explored the idea of a personal AI assistant. I experimented with speech interaction, face recognition, language models, and task automation.
+
+The project was exciting because it made AI feel less like an abstract research topic and more like an interface between humans and machines.
+
+But it also revealed how difficult that interaction really is.
+
+A human assistant can understand context, ambiguity, tone, and incomplete instructions naturally.
+
+A software system cannot assume these things.
+
+A user may phrase the same request in many different ways. They may change their mind halfway through a task. They may provide incomplete information. They may expect the system to remember something from an earlier interaction.
+
+Building even a simple assistant therefore required me to think about more than the AI model itself.
+
+I had to think about state, context, APIs, error handling, authentication, interfaces, and user expectations.
+
+Once again, the project expanded my understanding of what it meant to build technology.
+
+I began to see AI as one component inside a larger engineering system.
+
+This perspective has become important to me because I do not want to specialize in technology without understanding the systems around it.
+
+I want to understand how an AI model becomes a product.
+
+How does data enter the system?
+
+How is it processed?
+
+How is the model evaluated?
+
+How is the result presented?
+
+What happens when the model is wrong?
+
+How is the application monitored after deployment?
+
+What happens when thousands of users interact with it simultaneously?
+
+These questions have encouraged me to explore both artificial intelligence and full-stack engineering.
+
+I enjoy the contrast between the two.
+
+AI often involves experimentation and uncertainty. Full-stack development often requires precision and predictable behavior.
+
+A machine learning model may improve gradually through experimentation.
+
+An API either returns the expected response or it does not.
+
+A model may produce a probability.
+
+A database query may need to return an exact record.
+
+Working across these areas has taught me to appreciate different forms of engineering.
+
+It has also helped me understand what kind of problem solver I am.
+
+I enjoy moving between abstraction levels.
+
+Sometimes I want to understand the mathematical idea behind a model.
+
+Sometimes I want to understand how that model is implemented.
+
+Sometimes I want to build the interface through which a person interacts with it.
+
+And sometimes I want to step back and ask whether the entire system is solving the right problem.
+
+This broad curiosity is one reason I am attracted to computer science.
+
+Computer science is not one narrow subject.
+
+It connects mathematics, logic, engineering, design, language, data, and human behavior.
+
+The same fundamental ideas can lead to completely different applications.
+
+An algorithm can be used to optimize a delivery route, analyze medical images, recommend educational material, detect environmental changes, or coordinate distributed systems.
+
+That flexibility gives me room to explore.
+
+I do not want to decide too early that I will work on only one narrow problem for the rest of my life.
+
+Instead, I want to develop strong fundamentals and then use them to investigate problems that interest me.
+
+My experiences have also made me increasingly interested in entrepreneurship.
+
+Building projects has shown me how different an idea looks when it moves from imagination to implementation.
+
+An idea can sound perfect on paper.
+
+Once you start building, constraints appear.
+
+The technology may not be mature enough.
+
+The cost may be too high.
+
+Users may not want the feature.
+
+The system may be too complicated.
+
+Another solution may already exist.
+
+This process of transforming an idea into something real is exciting to me.
+
+It requires technical knowledge, but it also requires judgment.
+
+That is a skill I want to continue developing.
+
+I want to become someone who can identify a problem, understand its users, design a possible solution, build a prototype, test it, and improve it.
+
+Whether that eventually leads to a startup, research project, or engineering career, the process is the same.
+
+Start with a question.
+
+Build something.
+
+Learn from the result.
+
+Repeat.
+
+My education has also taught me that the ability to build creates a different kind of confidence.
+
+Before I learned programming, if I had an idea for an application, I would think about whether someone could create it.
+
+Now I think about how I could create a first version.
+
+The difference is subtle but important.
+
+Technology no longer feels like something that belongs only to large companies and professional engineers.
+
+With enough learning, experimentation, and persistence, an individual can turn an idea into a working prototype.
+
+That realization has changed what I consider possible.
+
+It has also changed the way I approach problems outside technology.
+
+Instead of assuming that something is fixed, I ask whether it can be redesigned.
+
+Instead of assuming that a process must remain the same, I ask why it was designed that way.
+
+Instead of waiting for someone else to create a solution, I wonder whether I can create a small version myself.
+
+This mindset is perhaps more important to me than any individual programming language.
+
+Languages will change.
+
+Frameworks will change.
+
+AI models will change.
+
+The tools I use today may not be the tools I use ten years from now.
+
+But the habit of asking questions and building experiments will remain useful.
+
+That is the habit I want to take into college.
+
+I want an education that strengthens my fundamentals while giving me the freedom to explore.
+
+I want to study algorithms and data structures, artificial intelligence, machine learning, databases, distributed systems, and software engineering.
+
+At the same time, I want to work on interdisciplinary projects and research.
+
+I want to meet students who are interested in fields very different from mine because I believe some of the best ideas emerge when different disciplines meet.
+
+A computer scientist working with a biologist may see a problem differently from either person working alone.
+
+A programmer working with a designer may create an interface that neither would have developed independently.
+
+An AI researcher working with an educator may identify problems that would be invisible from a purely technical perspective.
+
+I want to experience those collaborations.
+
+My long-term goal is to become an engineer and researcher capable of building intelligent systems that solve meaningful problems.
+
+I am particularly interested in artificial intelligence, but I do not want to treat AI as a solution to every problem.
+
+Sometimes the best solution is a simple program.
+
+Sometimes it is a better database.
+
+Sometimes it is a redesigned workflow.
+
+Sometimes it is not technology at all.
+
+Good engineering begins by understanding the problem rather than choosing a technology first.
+
+This is a lesson I learned by building.
+
+Every project forced me to confront the difference between what I imagined and what reality allowed.
+
+That difference is where engineering happens.
+
+Looking back, I realize that my most important transition was not from one programming language to another.
+
+It was from being a consumer of technology to becoming a creator of it.
+
+As a consumer, I saw the finished product.
+
+As a creator, I began seeing the decisions behind it.
+
+I began noticing architecture.
+
+I began noticing trade-offs.
+
+I began noticing limitations.
+
+I began noticing the enormous amount of work hidden behind simple experiences.
+
+And most importantly, I began understanding that technology is created by people who once knew much less than they know now.
+
+That realization makes difficult problems feel less intimidating.
+
+I do not need to know everything before I begin.
+
+I need to be willing to learn what I do not know.
+
+That is how my journey into technology began.
+
+It started with curiosity about what was behind the screen.
+
+It became programming.
+
+Programming became projects.
+
+Projects became questions.
+
+And those questions have become the reason I want to continue studying computer science.
+
+I still use technology every day.
+
+The difference is that now, when I look at a piece of technology, I do not only wonder how to use it.
+
+I wonder how it was built.
+
+I wonder why it was designed that way.
+
+I wonder how it could be improved.
+
+And sometimes, I wonder whether I could build something better myself.
+
+That is the curiosity I want to carry into college—and beyond it.

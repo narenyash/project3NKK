@@ -1,0 +1,390 @@
+
+I am a student with a strong interest in computer science and software development, and I have gradually become interested in cybersecurity. As I started building web applications and learning about networks, databases, and cloud systems, I realised that creating software is only one part of the process. It is also important to make sure that the software, data, and users are protected. This made me interested in understanding how cybersecurity works.
+
+My interest in cybersecurity developed mainly through software development. When I started building applications, I focused on making the features work correctly. I learned how to create user interfaces, develop backend services, connect databases, and build APIs. As I worked on more projects, I started thinking about what could happen if someone used the application in an unexpected or harmful way.
+
+This led me to learn about basic security concepts.
+
+I started exploring topics such as authentication, authorisation, passwords, input validation, secure APIs, encryption, and access control. These concepts helped me understand that security needs to be considered while designing an application rather than added only after development is complete.
+
+One of the first areas I became interested in was authentication.
+
+Many applications require users to create accounts and log in. At first, I mainly thought about the login interface and whether the correct user could access the application. Later, I understood that authentication involves several security considerations.
+
+Passwords should not be stored in plain text.
+
+User sessions need to be managed securely.
+
+Access to different resources needs to be controlled.
+
+Input from users needs to be validated.
+
+These concepts made me realise that even a simple login system involves important security decisions.
+
+I also became interested in authorisation.
+
+Authentication answers the question of who the user is, while authorisation determines what that user is allowed to do.
+
+For example, an application may have different types of users with different permissions. A normal user should not automatically have access to administrative functions.
+
+Understanding this distinction helped me think more carefully about access control in the applications I build.
+
+Another area I explored was input validation.
+
+Applications receive information from users, and that information cannot always be assumed to be correct.
+
+Users may accidentally enter invalid information.
+
+An application may also receive deliberately manipulated input.
+
+Therefore, input should be validated before it is processed.
+
+This is important for both application reliability and security.
+
+Learning about these concepts made me more careful when developing APIs and backend services.
+
+I also became interested in common web application vulnerabilities.
+
+I learned about concepts such as SQL injection, cross-site scripting, insecure authentication, and improper access control.
+
+Understanding these vulnerabilities helped me realise how small mistakes in application development can create larger security problems.
+
+For example, if user input is directly included in a database query without proper protection, an attacker may be able to manipulate the query.
+
+Similarly, if an application does not properly validate permissions, a user may be able to access information that should belong to someone else.
+
+These examples showed me why secure development practices are important.
+
+My experience with databases also influenced my interest in cybersecurity.
+
+Applications often store information such as user accounts, transactions, documents, and other data.
+
+If the database is not protected properly, this information can be exposed.
+
+I learned that database security involves access control, secure credentials, validation, backups, and other practices.
+
+This made me more interested in how data is protected throughout an application.
+
+Cloud computing also increased my interest in cybersecurity.
+
+As I learned how applications are deployed on cloud platforms, I realised that security is not limited to application code.
+
+Cloud infrastructure also needs to be configured correctly.
+
+Permissions need to be controlled.
+
+Storage needs to be protected.
+
+Network access needs to be managed.
+
+Sensitive credentials should not be exposed.
+
+This showed me that modern security requires understanding the entire system.
+
+My interest in artificial intelligence has also made me think about cybersecurity from another perspective.
+
+AI systems themselves need to be protected.
+
+They may process sensitive data.
+
+They may depend on external APIs.
+
+They may be connected to databases or other services.
+
+If an AI application is not designed securely, attackers may be able to manipulate inputs or access information they should not have.
+
+I want to learn more about the security challenges associated with AI systems.
+
+At the same time, AI can also be used to support cybersecurity.
+
+Machine learning models can analyse large amounts of information and identify unusual patterns.
+
+This could potentially help detect suspicious activity or identify anomalies.
+
+I find this combination of AI and cybersecurity interesting because it connects two areas of computer science that I enjoy.
+
+However, I also understand that AI-based security systems have limitations.
+
+An anomaly does not always mean that an attack has occurred.
+
+A model can produce false positives or false negatives.
+
+Therefore, such systems need proper evaluation and human oversight.
+
+I want to understand these limitations as I learn more.
+
+Another area of cybersecurity that interests me is network security.
+
+Modern applications communicate over networks, and information needs to be transmitted securely.
+
+I want to understand how protocols, firewalls, encryption, and other security mechanisms help protect communication.
+
+I have learned some basic networking concepts, but I want to study them in greater depth.
+
+Understanding networks will help me understand how attacks and defences work at different levels.
+
+Encryption is another topic I find interesting.
+
+Encryption allows information to be transformed so that it cannot be easily understood by unauthorised users.
+
+It is used in many areas of modern technology, including secure communication and data storage.
+
+I want to understand the basic mathematical ideas behind cryptography rather than only using encryption libraries.
+
+This is one reason I want to strengthen my mathematics and computer science fundamentals.
+
+I also want to understand public-key and symmetric-key encryption, hashing, digital signatures, and other cryptographic concepts.
+
+These topics are important for secure software systems.
+
+My interest in cybersecurity has also made me more aware of the importance of software updates.
+
+Applications depend on libraries and frameworks that may contain vulnerabilities.
+
+If these dependencies are not updated or managed properly, an application may become vulnerable.
+
+This has encouraged me to think about dependency management and secure development practices.
+
+I want to learn more about software supply-chain security as I gain experience.
+
+Another important area is security testing.
+
+Developers should not only test whether an application works.
+
+They should also consider how it behaves when it receives unexpected input or when someone tries to access restricted functionality.
+
+Security testing can help identify weaknesses before they are exploited.
+
+I want to gain practical experience with security testing in a controlled and ethical environment.
+
+I believe ethical behaviour is particularly important in cybersecurity.
+
+Security knowledge can be used to protect systems, but it can also be misused.
+
+I want to study cybersecurity from a defensive and responsible perspective.
+
+My goal is to understand how systems can be made more secure and how vulnerabilities can be identified so that they can be fixed.
+
+I also want to learn about responsible disclosure and the importance of reporting security issues appropriately.
+
+Another aspect of cybersecurity that interests me is human behaviour.
+
+Many security problems are not caused only by technical weaknesses.
+
+People may use weak passwords.
+
+They may click on suspicious links.
+
+They may share sensitive information without checking the source.
+
+They may accidentally expose credentials.
+
+This means cybersecurity also involves education and awareness.
+
+Technical systems can be designed securely, but users still need to understand basic security practices.
+
+I find this human side of cybersecurity interesting because it shows that security is not only a technical problem.
+
+It involves people, processes, and technology.
+
+My experience with software projects has helped me understand the importance of thinking about security from the beginning.
+
+When designing an application, I want to consider what information it collects, who should have access to it, how the information is stored, and how communication is protected.
+
+This is different from adding security after the application is complete.
+
+I want to develop secure-by-design thinking.
+
+I also want to learn more about threat modelling.
+
+Before building a system, developers can identify possible threats, assets that need protection, and potential attack paths.
+
+This can help them decide which security controls are necessary.
+
+I have not explored threat modelling deeply yet, but I would like to learn more about it during higher education.
+
+My participation in technical projects has also taught me that security needs to be balanced with usability.
+
+A system can be extremely restrictive but difficult for legitimate users to operate.
+
+Good security should protect users without creating unnecessary complexity.
+
+Finding this balance is an interesting engineering challenge.
+
+I want to learn more about secure user experience and authentication methods.
+
+I am also interested in modern approaches such as multi-factor authentication and passwordless authentication.
+
+These technologies show how security practices continue to evolve.
+
+Another area I would like to explore is identity and access management.
+
+As applications become larger, controlling access becomes more complicated.
+
+Different users, services, and systems may need different permissions.
+
+Cloud environments can have many resources that require carefully managed access.
+
+Understanding identity management will therefore be important for my interest in cloud computing and cybersecurity.
+
+My long-term goal is primarily to work in artificial intelligence and software engineering, but I believe cybersecurity knowledge will be useful regardless of my exact role.
+
+A software engineer should understand basic security principles.
+
+An AI engineer should understand how models and data can be protected.
+
+A cloud engineer should understand infrastructure security.
+
+Security affects almost every part of modern technology.
+
+Therefore, I want to develop a strong foundation in cybersecurity even if I do not eventually specialise entirely in the field.
+
+I also want to explore the relationship between AI and cybersecurity further.
+
+AI could potentially help identify unusual network behaviour, analyse large amounts of security information, and assist security teams.
+
+At the same time, AI systems can introduce new risks.
+
+Attackers may use AI to automate certain activities.
+
+AI-generated content can also make some types of deception more difficult to identify.
+
+This means cybersecurity will continue to evolve as AI becomes more widely used.
+
+I find this an important area for future research.
+
+Higher education will give me an opportunity to study these topics more systematically.
+
+I want to learn computer networks, operating systems, cryptography, secure software development, and cybersecurity fundamentals.
+
+I also want to gain practical experience through labs, projects, competitions, and internships.
+
+I believe hands-on experience is important because security concepts become clearer when they are applied to real systems in controlled environments.
+
+I would also like to participate in ethical cybersecurity competitions if I get the opportunity.
+
+Such activities can provide a practical way to understand vulnerabilities and defensive techniques while working within appropriate rules.
+
+Another goal is to improve my understanding of security in cloud environments.
+
+As I continue working with cloud-based applications, I want to understand how identity, networking, storage, and application security are managed.
+
+This will complement my existing interests in software development and cloud computing.
+
+I also want to understand secure deployment practices.
+
+Applications should be tested before deployment.
+
+Sensitive credentials should be stored securely.
+
+Access permissions should be limited.
+
+Logs should be monitored.
+
+Dependencies should be updated.
+
+These practices can reduce security risks.
+
+I want to develop these habits as part of my normal development process.
+
+My interest in cybersecurity has changed the way I look at software.
+
+Earlier, I mainly asked whether an application worked.
+
+Now I also think about whether it is secure.
+
+Can an unauthorised user access this information?
+
+What happens if someone sends unexpected input?
+
+Are sensitive credentials protected?
+
+Are permissions correctly implemented?
+
+What happens if a service becomes compromised?
+
+These questions help me think more carefully about system design.
+
+I want to continue developing this mindset.
+
+I also believe cybersecurity requires continuous learning.
+
+New vulnerabilities are discovered regularly.
+
+Attack methods change.
+
+Security tools evolve.
+
+New technologies create new risks.
+
+Therefore, cybersecurity professionals need to stay updated.
+
+Even if I work primarily in another area of technology, I want to maintain awareness of important security developments.
+
+Another skill I want to develop is documentation.
+
+Security-related decisions should be recorded clearly so that other developers understand how a system is protected.
+
+Documentation can also help teams respond more effectively when a security issue occurs.
+
+I want to improve this skill through larger projects and professional experience.
+
+I know that cybersecurity is a large field, and I have only explored some of its basic concepts.
+
+There are many areas I have not studied deeply, including penetration testing, digital forensics, security operations, advanced cryptography, malware analysis, and application security.
+
+I want to explore these areas gradually and understand which ones interest me most.
+
+I do not want to choose a specialisation without first gaining broader knowledge.
+
+My main academic goal remains developing a strong foundation in computer science.
+
+I want to study algorithms, data structures, operating systems, networks, databases, artificial intelligence, and software engineering.
+
+Cybersecurity can then become an additional area of knowledge that helps me build safer systems.
+
+I believe this combination will be valuable.
+
+Technology is becoming increasingly connected.
+
+Applications use cloud services.
+
+AI systems use APIs and databases.
+
+Mobile applications communicate with backend systems.
+
+Businesses depend on online infrastructure.
+
+As systems become more connected, security becomes more important.
+
+I want to understand how these systems can be designed responsibly.
+
+My long-term goal is to become a technology professional who can build useful applications while considering security and reliability from the beginning.
+
+I want to work in AI and software engineering, and I want cybersecurity to be an important part of my technical knowledge.
+
+I am interested in developing systems that are not only functional but also secure and trustworthy.
+
+I believe higher education will help me develop the theoretical knowledge and practical skills required for this.
+
+I want to learn from faculty members, work on technical projects, participate in research, and gain industry experience.
+
+I also want to continue learning independently because cybersecurity changes quickly.
+
+For me, cybersecurity is interesting because it combines programming, networks, systems, mathematics, and problem-solving.
+
+It requires understanding how technology works and also thinking about how it can fail.
+
+This way of thinking can make me a better engineer even if I eventually specialise in another area.
+
+I want to continue exploring cybersecurity alongside my interests in AI, software development, and cloud computing.
+
+I know that there is still a lot for me to learn, but I see that as an opportunity.
+
+My goal is to develop a strong understanding of secure software development and eventually contribute to systems that are useful, reliable, and responsible.
+
+For me, cybersecurity is not only about preventing attacks.
+
+It is about building technology that users can trust.
+
+That is the perspective I want to carry forward as I continue my education and develop my career in technology.

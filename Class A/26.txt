@@ -1,0 +1,414 @@
+
+India is a country where differences are part of everyday life. Different languages, cultures, traditions, economic backgrounds, educational experiences, and ways of thinking exist within the same society. Growing up in such an environment has influenced the way I understand learning and has made me increasingly aware that knowledge is not limited to one perspective.
+
+My interest in technology initially developed through individual curiosity. I wanted to understand computers, programming, and artificial intelligence. However, as I began working on projects and interacting with different people, I realised that technical knowledge alone does not determine the quality of a solution. The ability to understand different perspectives is equally important.
+
+This understanding has become an important part of my academic goals.
+
+Computer science is often presented as a highly technical discipline involving algorithms, programming languages, mathematics, and systems. These foundations are essential. However, the applications of computer science extend into almost every part of society. Technology is used by people with different needs, experiences, and expectations. Therefore, an engineer must understand not only how to build a system but also for whom the system is being built.
+
+My experiences with projects gradually taught me this lesson.
+
+When I developed applications, I initially approached problems from the perspective of a developer. I thought about functionality, implementation, and technical efficiency. When other people used those applications, however, they sometimes approached the same system very differently.
+
+A feature that appeared useful to me might not be important to another person.
+
+A process that seemed simple to me might require unnecessary effort for someone else.
+
+A technical term that I understood immediately might be unfamiliar to a first-time user.
+
+These experiences taught me that a developer's perspective is not universal.
+
+A good solution begins with understanding the people who will use it.
+
+This lesson became particularly meaningful because of the diversity of the environment in which I have grown up. In India, technology must often work across significant differences in language, infrastructure, education, and access.
+
+An application designed for a highly experienced technology user may not be appropriate for someone with limited digital experience.
+
+A system that assumes continuous high-speed internet may not be practical everywhere.
+
+A platform available only in one language may exclude users who are more comfortable communicating in another.
+
+A service that requires expensive hardware may not be accessible to people with limited resources.
+
+These are not simply technical limitations.
+
+They are design considerations.
+
+They have made me interested in the idea of inclusive technology.
+
+I believe technological progress is most meaningful when its benefits can reach a wide range of people.
+
+This does not mean that every application must solve a national-scale problem. Even a small improvement can be valuable when it addresses a genuine need. What matters is whether the developer understands the environment in which the technology will be used.
+
+This has changed the questions I ask when beginning a project.
+
+Who are the users?
+
+What problems do they currently face?
+
+What resources do they have?
+
+What limitations do they experience?
+
+What assumptions am I making?
+
+Could a different user understand the system as easily as I do?
+
+These questions help me move beyond the technical implementation.
+
+They also remind me that diversity is not an obstacle to engineering.
+
+It is a source of information.
+
+Different people can reveal problems that a single developer might never notice.
+
+A person from a different educational background may approach an application differently.
+
+Someone from another region may have different expectations.
+
+A user with different technological experience may identify usability problems.
+
+A teammate with a different academic background may suggest an alternative solution.
+
+Listening to these perspectives can make a system stronger.
+
+This is one reason I value collaborative learning.
+
+Working with others does not simply divide the workload. It expands the range of ideas available to the team.
+
+When everyone thinks in exactly the same way, a project may progress quickly but overlook important possibilities.
+
+When people bring different perspectives, discussions may take longer, but the final solution can become more thoughtful.
+
+I have experienced this through group projects and technical competitions.
+
+Different members naturally focus on different aspects of a problem.
+
+A developer may concentrate on implementation.
+
+A designer may focus on usability.
+
+A person with a business perspective may think about whether the solution is practical.
+
+A person with domain knowledge may identify requirements that the technical team did not consider.
+
+The strongest results often emerge when these perspectives are combined.
+
+This has influenced my understanding of leadership as well.
+
+A leader should not simply select people who agree with them.
+
+A leader should create an environment where different ideas can be expressed and evaluated.
+
+Disagreement does not necessarily indicate conflict.
+
+It can indicate that a problem is being examined from multiple directions.
+
+Learning to listen to disagreement has therefore become an important part of my development.
+
+There have been situations where I believed strongly in one technical approach and another person suggested an alternative. My initial reaction was sometimes to defend my idea. With experience, I have learned to ask why the alternative might be better.
+
+Sometimes it is not.
+
+Sometimes my original approach remains appropriate.
+
+But sometimes the other person notices something I overlooked.
+
+Being willing to change my mind when presented with better reasoning is a quality I want to strengthen throughout my education.
+
+I believe this is particularly important in research.
+
+Research depends on questioning assumptions.
+
+If a researcher is unwilling to consider alternative explanations, an experiment can become an attempt to prove an existing belief rather than an attempt to discover what is true.
+
+Different perspectives can therefore improve research.
+
+A researcher from one discipline may see a problem differently from a researcher in another.
+
+Computer science can provide computational methods.
+
+Mathematics can provide formal models.
+
+Biology can provide natural systems to study.
+
+Psychology can provide insight into human behaviour.
+
+Economics can provide models of incentives and resources.
+
+Environmental science can provide understanding of ecosystems.
+
+Some of the most interesting technological problems exist at the intersection of these fields.
+
+This interdisciplinary character is one of the reasons I want to pursue higher education.
+
+I do not want to study computer science in isolation.
+
+I want to understand how computational methods can be applied across different domains.
+
+Artificial intelligence particularly encourages this kind of interdisciplinary thinking.
+
+An AI system designed for education requires an understanding of learning.
+
+An AI system designed for healthcare requires an understanding of medical contexts.
+
+An AI system designed for agriculture requires an understanding of crops, weather, soil, and farming practices.
+
+An AI system designed for environmental monitoring requires knowledge of ecological systems.
+
+The algorithm may be similar in principle, but the application changes completely.
+
+Therefore, the engineer must be willing to learn beyond the boundaries of computer science.
+
+This is a quality I want to develop during university.
+
+I want to interact with students from different disciplines.
+
+I want to participate in interdisciplinary projects.
+
+I want to listen to perspectives that challenge my existing assumptions.
+
+I believe such experiences will make me a better engineer.
+
+Diversity also has a personal dimension.
+
+People do not enter classrooms with identical experiences.
+
+Some students may have had access to extensive educational resources.
+
+Others may have learned primarily through self-study.
+
+Some may have strong technical backgrounds.
+
+Others may be entering a subject for the first time.
+
+Some may be comfortable speaking in groups.
+
+Others may contribute more effectively through written work or individual discussions.
+
+Recognising these differences has made me more conscious of the importance of creating inclusive learning environments.
+
+I have benefited from people who were willing to explain concepts patiently.
+
+I therefore want to be willing to do the same for others.
+
+Helping another student understand a difficult concept can be a simple but meaningful form of contribution.
+
+It also reinforces my own understanding.
+
+When I explain a technical idea to someone with less experience, I cannot rely entirely on technical terminology.
+
+I need to understand the concept well enough to explain it clearly.
+
+This has improved both my communication and my understanding.
+
+In the future, I would like to participate in mentoring and peer-learning initiatives.
+
+I believe students can learn significantly from one another.
+
+Education should not be limited to a one-directional relationship between teacher and student.
+
+A strong academic community allows knowledge to move in many directions.
+
+Students teach students.
+
+Researchers learn from practitioners.
+
+Engineers learn from users.
+
+Teachers learn from students.
+
+Different perspectives create a stronger intellectual environment.
+
+This is the kind of environment I hope to find in higher education.
+
+My interest in India also influences my long-term aspirations.
+
+India has a large and diverse population, which means that technological solutions often need to work across very different contexts.
+
+A solution developed for one group may need substantial modification before it can be applied elsewhere.
+
+This creates challenges, but it also creates opportunities.
+
+A successful solution designed for a diverse environment can potentially have significant impact.
+
+I would like to contribute to that process.
+
+I am particularly interested in artificial intelligence and software systems that can improve accessibility, education, automation, and resource management.
+
+I believe AI can become more useful when it is designed with diverse users in mind.
+
+For example, language technologies should consider the linguistic diversity of India.
+
+Educational systems should consider differences in learning backgrounds.
+
+Digital services should consider users with varying levels of technological familiarity.
+
+Applications should be designed to function within realistic infrastructure constraints.
+
+These considerations can lead to better technology for everyone.
+
+My goal is therefore not simply to become an AI engineer who understands models.
+
+I want to become an engineer who understands context.
+
+I want to know how a system behaves technically, but also how it behaves in the environment where people use it.
+
+I want to understand the assumptions behind a model and the consequences of those assumptions.
+
+I want to be able to communicate with both technical and non-technical people.
+
+And I want to work with teams that bring different forms of expertise to the same problem.
+
+This requires humility.
+
+No individual can understand every perspective.
+
+No engineer can know every domain.
+
+No researcher can predict every consequence.
+
+The willingness to say "I do not know" is therefore important.
+
+It creates an opportunity to listen.
+
+It also prevents overconfidence.
+
+I want to develop the habit of asking questions before making assumptions.
+
+If I do not understand a user's problem, I should ask.
+
+If I do not understand a technical concept, I should study it.
+
+If I do not understand another person's perspective, I should listen.
+
+If evidence contradicts my assumption, I should reconsider it.
+
+This approach has become central to the way I want to learn.
+
+Diversity has also taught me that there is rarely one definition of success.
+
+For one person, success may mean academic achievement.
+
+For another, it may mean financial stability.
+
+For another, it may mean creating something useful for their community.
+
+For another, it may mean pursuing research.
+
+Understanding these different priorities helps me appreciate that technology should not impose one definition of value on everyone.
+
+Engineers should understand the goals of the people they serve.
+
+This is particularly important when designing systems that influence people's decisions.
+
+Artificial intelligence can recommend, classify, predict, and automate.
+
+But the people affected by these systems may have priorities that are not visible in the dataset.
+
+Human context must therefore remain important.
+
+I want to study these questions alongside the technical foundations of AI.
+
+I want to understand responsible technology, human-computer interaction, accessibility, and system design.
+
+I believe that a strong engineer should be technically capable and socially aware.
+
+My academic goals reflect this belief.
+
+I want to study algorithms and data structures to strengthen my problem-solving ability.
+
+I want to study machine learning to understand intelligent systems.
+
+I want to study mathematics and statistics to understand the foundations of AI.
+
+I want to study systems and software engineering to understand how applications operate at scale.
+
+And I want opportunities to work with people from different backgrounds so that I can understand how technology is experienced outside my own perspective.
+
+My long-term goal is to contribute to technology that is useful, responsible, and accessible.
+
+I would like to work on systems that address practical problems and have measurable value.
+
+Whether the application is in education, environmental monitoring, automation, or another domain, I want to begin with the needs of people rather than the capabilities of technology alone.
+
+I believe this approach will become increasingly important as AI becomes more powerful.
+
+The more capable technology becomes, the more important it is to understand who benefits from it and who may be excluded.
+
+Engineers will have to think about accessibility, fairness, privacy, and usability alongside performance.
+
+These are not separate concerns.
+
+They are part of creating good technology.
+
+My experiences have therefore changed my understanding of what it means to be a successful student.
+
+It is not enough to know more.
+
+I want to understand better.
+
+It is not enough to build faster.
+
+I want to build thoughtfully.
+
+It is not enough to have my own ideas.
+
+I want to understand other people's ideas.
+
+It is not enough to solve problems for myself.
+
+I want to learn how to solve problems that matter to others.
+
+This is the kind of growth I hope higher education will provide.
+
+I want to enter university with curiosity and leave with a broader understanding of both technology and society.
+
+I want to learn from professors.
+
+I want to learn from classmates.
+
+I want to learn from researchers.
+
+I want to learn from users.
+
+And I want to contribute what I learn to others.
+
+India's diversity has shown me that there is no single way of thinking, learning, or solving a problem.
+
+Rather than seeing this as complexity that must be eliminated, I see it as a strength.
+
+Different perspectives can reveal different possibilities.
+
+Different experiences can identify different problems.
+
+Different forms of knowledge can produce better solutions.
+
+As an aspiring engineer, I want to embrace that diversity.
+
+I want to become someone who can enter a room where people disagree and help turn those differences into constructive ideas.
+
+I want to design technology that considers people who may not think like me, live like me, or use technology in the same way I do.
+
+And I want to continue learning from perspectives beyond my own.
+
+Ultimately, education should expand not only what we know but also how we see the world.
+
+My interest in computer science has given me a technical direction.
+
+My experiences with different people have given me a broader purpose.
+
+I want to use technology not simply to demonstrate what machines can do, but to create solutions that respond to the needs of real communities.
+
+I believe that the future of engineering will depend on both technical excellence and the ability to understand diversity.
+
+I want to develop both.
+
+My goal is to become an engineer who can think deeply, collaborate openly, design inclusively, and build responsibly.
+
+For me, diversity is not simply something to acknowledge.
+
+It is something to learn from.
+
+And I believe that every different perspective I encounter can teach me to become not only a better engineer, but a better contributor to society.

@@ -1,0 +1,42 @@
+Navigating the Frontier of Artificial Intelligence: A Journey through Language and Multimodality
+
+My Vision for AI Research
+
+In a world where language models are rapidly advancing in their ability to generate coherent text and mimic human-like responses, it's evident that these models often fall short when it comes to grasping the underlying knowledge and understanding complex reasoning, causality, and common sense. This limitation hinders their efficiency in generalizing to new tasks and especially in a multilingual setting. The key lies in developing AI agents capable of not only processing but truly comprehending real-world data, emulating the human capacity for systematic reasoning, explanation, and generalization with commonsense intelligence. As I embark on my Ph.D. journey at Rutgers University, this is the vision that drives me.
+
+Research Questions to Pursue
+
+To achieve this goal, I am guided by the following research questions:
+
+1. How can we integrate causal inference and knowledge representation into language models to enable enhanced reasoning capabilities grounded in real-world causality?
+2. How can we scale multiple modalities and languages into a single, extensible framework that is robust to adversaries and capable of continual learning?
+3. How can we enhance contextual understanding and compositional generalization capabilities in models for better performance on diverse tasks?
+4. How can we evaluate the reasoning capabilities of AI models beyond standard benchmarks to ensure they meet the demands of the real world?
+5. What approaches can be adopted to ensure explainability, reliability, and trustworthiness in language models, especially in understanding semantics and discerning causality?
+6. How can we equip models with commonsense intelligence to enable them to reason effectively in a multilingual, multimodal environment?
+7. How can we fortify models against malicious inputs, misinformation, and bias while maintaining their integrity and objectivity?
+8. What are the computational and data challenges in building such integrated models, and how can they be surmounted to ensure optimal efficiency and accuracy?
+
+My Academic Journey: Roots in Low-Resource Languages and Multimodal Learning
+
+My curiosity about bridging the gap between human and machine intelligence led me to join the CUET NLP Lab. My research focused on developing large-scale corpora and devising language frameworks for advancement in low-resource languages, particularly Bangla. This included a comparative analysis of 16 POS tagging models for Bangla, culminating in a publication at ICO 2020. My undergraduate thesis involved creating a hierarchical classification system for Bangla news using an MLP-based framework, achieving high accuracy rates (98.18% and 90.63% for primary and subcategories) and producing a dataset of 76,343 news articles, with partial findings published at ICO 2021.
+
+Building on these foundations, I ventured into multimodal learning by working on developing a sequential multimodal framework for real-time sign language detection for Bangla. In collaboration with a classmate, we constructed a comprehensive dataset comprising 12.5k images spanning 49 classes and manually annotated the frames (images and videos). Utilizing YOLOv4 to develop a real-time object detection model and a multimodal framework, I focused on two key aspects: firstly, the development of a comprehensive dataset, and secondly, the implementation and integration of language and speech components with visual data. This project ranked among the top 25 in AI for Bangla 1.0, an initiative organized by the Bangladesh Computer Council.
+
+Bridging Academia and Industry: Insights from Language Models at Workera.ai
+
+My work at Workera.ai provided valuable insights into the integration of language models (LLMs) into the assessment pipeline. It highlighted the need for robust, accurate LLMs that avoid hallucination and generate objective, analytical test questions. I observed significant issues with existing models, including repetitive patterns and a lack of fidelity to instructions, which resulted in an imbalance between creativity and precision. This experience deepened my understanding of language model performance nuances and reinforced my commitment to creating robust, adaptable, and context-aware LLMs capable of generating plausible and faithful outputs.
+
+Advancing Multimodal and Multilingual Understanding: A Future with Vision Language Models
+
+Being awarded the Fatima Al-Fihri Predoctoral Fellowship, I am collaborating with the UC Santa Barbara NLP Group to explore multilingual concept coverage in text-to-image (T2I) models. Our work aims to address a crucial gap in existing evaluation methods that often fail to capture intricacies and potential inaccuracies, leading to inconsistent or unfaithful scores. To address this, we have introduced a metametric to evaluate existing evaluation metrics and a meta-benchmark, T2IScoreScore, containing natural and synthetic images generated using prompts with varying faithfulness. The work aims to develop a consistent and faithful metric for evaluating action and attribute binding in synthetic images.
+
+Preparing the Next Generation of Scholars: A Commitment to Teaching and Mentorship
+
+After completing my Ph.D., I aspire to be a professor, fostering a new generation of scholars who think critically and contribute meaningfully to the field of computer science. I believe in teaching students not just what to think but how to think, echoing Margaret Mead's wisdom on education. The Computer Science Ph.D. program at Rutgers University offers an excellent environment for me to achieve this goal by providing a blend of courses and research labs (RuCCs, CBIM) that align with my research interests.
+
+Joining Forces with Rutgers University: A Shared Vision for the Future of AI
+
+My unique background in computer science, coupled with extensive hands-on experience in NLP, machine learning, and AI, makes me a strong fit for the Computer Science Ph.D. program at Rutgers University. I plan to utilize my mentorship capabilities to engage actively with undergraduate and fellow graduate students, sharing my academic and professional experience to foster a collaborative learning environment. Furthermore, I am eager to participate in outreach initiatives, organize workshops, and volunteer to inspire young minds and promote diversity in STEM fields.
+
+With unwavering determination, resilience, self-discipline, diligent effort, and the right academic environment provided by Rutgers University, I am confident that my research will make a lasting impact on the forefront of computer science and leave an indelible mark on the university's academic and research landscape.

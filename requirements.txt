@@ -1,0 +1,29 @@
+# Python 3.12. Install with: pip install -r requirements.txt
+# Then separately (not pip-installable as a normal package): python -m spacy download en_core_web_sm
+#
+# torch note: CPU-only is sufficient - nothing in this project requires a GPU. If a plain
+# `pip install torch==2.5.1` has trouble resolving on your platform, use the CPU wheel index
+# directly: pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+# (PHASE2_PROCESS.md Step 0 documents a real, unrelated torch/torchgen packaging bug hit
+# during this project's own setup - if you see `ModuleNotFoundError: No module named
+# 'torchgen.model'`, that's it; the fix was deleting the broken torch/torchgen/functorch
+# folders from site-packages and reinstalling the pinned version below.)
+
+# --- Core: required to run the backend (backend/main.py) and the feature pipeline it
+# imports from (scripts/features.py, scripts/text_utils.py, etc.) ---
+fastapi==0.136.3
+uvicorn==0.49.0
+pydantic==2.13.4
+transformers==5.15.0
+torch==2.5.1
+scikit-learn==1.9.0
+spacy==3.8.15
+joblib==1.5.3
+numpy==2.5.2
+
+# --- Optional: only needed for the data-generation/rebuild scripts (regenerate_hybrids.py,
+# generate_ai_essays.py, topic_tagger.py - all require a local Ollama installation/service,
+# see https://ollama.ai) and the standalone backend test scripts (integration_test.py) -
+# not needed to run the live app itself. ---
+ollama==0.6.2
+requests==2.34.2

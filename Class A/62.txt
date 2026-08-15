@@ -1,0 +1,174 @@
+
+I am a student who prefers learning through practical work. While academic subjects give me the basic concepts and theoretical understanding, I feel that working on projects helps me understand how those concepts are applied in real situations. My interest in project-based learning developed as I started working on programming, artificial intelligence, and full-stack development projects outside my regular academic work.
+
+When I first started learning programming, most of my learning came from tutorials and simple exercises. These were useful for understanding syntax and basic concepts, but I wanted to know how these concepts could be used to build something complete. This encouraged me to start working on small projects.
+
+My first projects were relatively simple, but they helped me understand the difference between learning a concept and actually implementing it. When working on a project, I had to make decisions about the structure of the application, the technologies to use, how different components should communicate, and how to handle errors. These were things that were not always obvious from a tutorial.
+
+One of the main advantages of project-based learning for me is that it gives me a reason to learn a new concept. Instead of studying a technology only because it is part of a course, I often learn it because I need it for a project. For example, if I need to store information, I need to understand databases. If I need to create an interactive interface, I need to understand frontend development. If I need to connect different components, I need to understand APIs and backend development.
+
+This makes learning more practical for me.
+
+I have worked with technologies such as HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and SQL while developing different applications. Working with these technologies helped me understand how frontend, backend, and database components work together.
+
+I also became interested in artificial intelligence and started applying machine learning concepts to projects. I explored areas such as computer vision, image classification, and AI-based applications. These projects introduced me to a different type of development because AI projects involve data and experimentation in addition to programming.
+
+For example, when working with a machine learning model, I cannot simply write the code and expect the result to be correct. I need to consider the dataset, preprocessing, model selection, training, testing, and evaluation. If the results are not satisfactory, I need to understand why and decide what should be changed.
+
+This taught me to be more patient with technical problems.
+
+Sometimes a project does not work even when the code appears correct. There may be a problem with the data, configuration, dependencies, or the way different components interact. Finding the actual cause requires testing different possibilities. These experiences improved my debugging and problem-solving skills.
+
+Project-based learning has also taught me that planning is important.
+
+When a project is small, it is possible to start coding immediately. However, as the project becomes larger, this approach can create problems. I have learned to first understand what the application needs to do, identify its main components, and then divide the work into smaller tasks.
+
+This makes development more organised.
+
+For team projects, planning becomes even more important. Different members may work on different parts of the application, so responsibilities need to be clear. The frontend and backend may need to follow common API structures. Changes made by one person may affect another person's work. Communication therefore becomes an important part of project development.
+
+I have learned this through participating in hackathons and technical events.
+
+Hackathons are different from normal academic projects because there is usually a limited amount of time to develop a working solution. The team has to understand the problem quickly and decide which features are most important. It is not possible to implement every possible idea.
+
+These experiences taught me to prioritise.
+
+A project does not need to contain every feature to be useful. It is more important to build the core functionality properly and then improve it if time allows. This has helped me understand the importance of creating a minimum working version before adding unnecessary complexity.
+
+Another important lesson from projects is that requirements can change.
+
+Sometimes an initial idea looks good, but after implementation it becomes clear that something needs to be changed. A feature may not be as useful as expected. A technical approach may be difficult to maintain. A user may provide feedback that suggests a different solution.
+
+I have learned to treat these situations as part of development rather than as problems that should be avoided.
+
+Project-based learning has also helped me become more comfortable with independent learning. When I work on a project, I cannot always expect someone to explain every step. I often need to read documentation, search for examples, understand error messages, and test different approaches.
+
+This has helped me develop the habit of finding answers independently.
+
+At the same time, I have learned that asking for help is also important. If I spend too much time on a problem without making progress, discussing it with another person can provide a different perspective. This is especially useful in team projects where people may have different areas of knowledge.
+
+I believe these experiences have prepared me for higher education.
+
+College will introduce me to more advanced concepts, but I want to continue learning through practical projects alongside classroom education. I want to apply what I learn in algorithms, data structures, machine learning, databases, and software engineering to real applications.
+
+I am particularly interested in projects involving artificial intelligence.
+
+I want to explore how AI models can be integrated into complete software systems. Instead of focusing only on model accuracy, I want to understand how a model can be deployed, how users can interact with it, and how its performance can be evaluated in real conditions.
+
+This requires knowledge from several areas of computer science.
+
+A good AI application may require a machine learning model, a backend service, a database, an interface, authentication, deployment, and monitoring. Working on such projects allows me to combine different technical skills.
+
+I find this combination interesting because it gives me a broader understanding of software development.
+
+Project-based learning has also helped me understand the importance of documentation. When working on a project, it is easy to remember why a particular decision was made. However, another person joining the project may not have the same context. Documentation helps explain the structure, setup process, technical decisions, and limitations.
+
+I want to improve this skill as I work on larger projects.
+
+Another area I want to develop is testing.
+
+Initially, I mainly tested whether my application worked under normal conditions. Over time, I realised that testing should also include unexpected inputs and unusual situations. A system that works in one situation may fail in another.
+
+This is especially important for AI systems because models may behave differently when the input data changes.
+
+I want to learn more about software testing, model evaluation, and system reliability during higher education.
+
+Projects have also taught me that technical knowledge is only one part of development.
+
+A successful project requires understanding the problem.
+
+If the problem is not clearly defined, even a technically advanced solution may not be useful. This has encouraged me to spend more time understanding the purpose of a project before deciding which technology to use.
+
+I believe this is an important habit for an engineer.
+
+Technology should support the solution rather than become the solution itself.
+
+For example, not every problem requires artificial intelligence. Sometimes a simple application or automation can solve a problem more efficiently. I want to develop the ability to choose technology based on the actual requirements.
+
+This practical mindset is one of the main things I have gained from project-based learning.
+
+It has also increased my interest in innovation.
+
+When I see a problem, I often start thinking about whether it could be solved differently. Sometimes the solution may already exist, but it could be improved. Other times, a new combination of technologies may provide a better approach.
+
+I enjoy exploring these possibilities.
+
+However, I have also learned that not every idea becomes a successful project. Some ideas remain prototypes. Some require more resources than expected. Some do not solve a sufficiently important problem.
+
+These experiences have taught me to evaluate ideas realistically.
+
+I now try to consider questions such as who would use the solution, what problem it solves, what resources are required, and whether the proposed technology is appropriate.
+
+This way of thinking will be useful in my future career.
+
+My long-term goal is to work in software engineering and artificial intelligence. I want to develop strong technical skills and gain experience working on real-world systems. I also want to continue building projects because I believe practical experience will help me understand the concepts I study more deeply.
+
+I am particularly interested in intelligent applications, computer vision, machine learning, and full-stack systems. I am still exploring different areas, so I do not want to restrict myself to one specific specialisation at this stage.
+
+I want to use college as an opportunity to explore.
+
+I would like to participate in research projects, technical clubs, hackathons, internships, and collaborative development. Each of these experiences can teach me something different.
+
+Research can help me understand how new knowledge is created.
+
+Projects can help me apply knowledge.
+
+Hackathons can improve my ability to work under time constraints.
+
+Internships can expose me to professional development practices.
+
+Team activities can improve my communication and collaboration skills.
+
+I want to make use of these opportunities during my education.
+
+Project-based learning has also changed the way I look at mistakes.
+
+When a project fails, the experience can be disappointing, but it can also reveal what I need to improve. A failed implementation may show that I misunderstood a requirement. A poor model result may show that the data needs improvement. A difficult deployment may reveal a gap in my understanding of infrastructure.
+
+These experiences are useful if I take the time to understand them.
+
+I want to continue developing this attitude.
+
+I also understand that projects cannot replace academic fundamentals.
+
+Practical development is useful, but strong computer science knowledge requires understanding algorithms, data structures, mathematics, operating systems, networks, databases, and other fundamentals.
+
+I want to combine both approaches.
+
+I want to understand the theory behind the tools I use and then apply that knowledge through projects.
+
+This combination will help me become a stronger engineer.
+
+In the future, I want to work on projects that address practical problems. I am interested in areas where technology can improve education, accessibility, productivity, healthcare, environmental monitoring, or other real-world applications.
+
+I believe that good technology begins with understanding a genuine problem.
+
+Project-based learning has helped me develop this perspective.
+
+Instead of asking only, "What can I build?", I increasingly ask, "What problem am I trying to solve?"
+
+That question changes the way a project is designed.
+
+It encourages me to think about users, requirements, limitations, and outcomes.
+
+I want to continue developing this approach in college.
+
+I know that my current projects are only a starting point. There are many technologies I have not explored and many areas where my understanding is still developing. I see this as a reason to continue learning.
+
+One of the things I enjoy most about project work is that every project introduces a new challenge.
+
+There is always another technology to understand, another problem to solve, another improvement to make, or another idea to explore.
+
+This keeps me interested in computer science.
+
+My goal is to become a skilled technology professional who can understand both the technical and practical sides of software development. I want to build systems that work reliably, solve useful problems, and provide value to their users.
+
+I believe project-based learning will remain an important part of that journey.
+
+It has helped me move from simply learning about technology to actually using it. It has improved my technical skills, problem-solving ability, teamwork, and independence. Most importantly, it has made me more curious about what I can build and what I can learn next.
+
+I want to carry this approach into higher education and beyond.
+
+For me, learning becomes most meaningful when I can take an idea, understand the concepts behind it, apply them to a project, learn from the problems I face, and gradually improve the result.
+
+That is the kind of learning I want to continue throughout my academic and professional journey.

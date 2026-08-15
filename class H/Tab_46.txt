@@ -1,0 +1,17 @@
+Tab 18
+I play on my computer. It's not video games that capture my imagination and time, though; instead, it is that most ethereal ability of software - to create whatever you can imagine, with only code standing in your way. For a moment, pretend you are an architect. Imagine if you could have the original blueprints for the greatest building in the world, then modify them to your hearts content and have those changes reflected in the actual building. That is the promise of open-source software; and one of the greatest open-source projects ever created is the Internet. It has been moving away from its open-source roots, however, toward a web of somewhat-interconnected, mostly-separate networks. This is a bad thing.
+
+
+Because the Internet is one of the greatest inventions ever created by man, it must be kept free and open, not controlled by any single entity or group. The last invention with this kind of an impact was Gutenberg's printing press, and that idea took far longer to spread. The Internet removes the middleman, allowing people from all over the world to interact, socialize, and correspond. They can find a new favorite musician and buy their music, with only a few clicks. They could write a book, then sell it to anyone who wanted to read it, while at the same time publicize it themselves! No longer do you need the music labels; no longer do the book publishers rule what makes the best-seller list.
+
+
+The Internet is the strongest democratizing force ever created by man, and it is even stronger because we all use it by choice. In order for this to work, however, the Internet Service Providers must not prioritize their own content over anybody else's. The mobile network providers must not lock down their networks, either; the Internet must not be broken into a mobile web and desktop web.
+
+
+There are a few different types of open-source projects: those that will only begrudgingly give you their code, those that gladly hand you their code but won't take back your changes, and those that will both give and receive code freely. Mozilla is about as open as an organization can be. Because of its distributed nature everything is done in the open. Meeting notes, chatrooms, mailing lists; everything is done in the open. Their projects range from Firefox to tools to make interactive videos, integrating identity into the browser, and applications that can run in any browser.
+
+
+The solution here? Standards. There are already standards, like HTML/CSS/Javascript/HTTP, but the way in which they are controlled leaves something to be desired. My problem is not with the standards, it's with the standards organizations. If you were a developer today, and the W3C released a new spec for CSS, you would not be able to use it for several years, at the very least.
+
+
+The promise of software is best met by open-source projects. The thing is, most programming languages are hard to learn. Not so with HTML and CSS, the building blocks of the current web; in part because they are not truly programming languages. HTML is actually a markup language, which makes it hard to write apps in; CSS, on the other hand, is slowly growing from a simplistic styling syntax into a true language. Therefore, I believe that the open web is the environment that best fulfills that elusive promise of software, one of endless flexibility, and a community of it's own: one where anyone can do anything and be anybody, a fact that can be both liberating and scary.

@@ -1,0 +1,818 @@
+
+I am a student with a strong interest in computer science, artificial intelligence, and software development. Along with learning programming and building applications, I have become interested in cloud computing. I find cloud computing interesting because it has changed the way software applications are developed, deployed, stored, and accessed. It allows individuals and organisations to use computing resources without having to manage all the physical infrastructure themselves.
+
+My interest in cloud computing developed through my experience with software development. When I first started building applications, I mainly focused on writing code and running it on my own computer. I understood the application as something that existed within the development environment.
+
+As I worked on larger projects, I realised that building an application is only one part of software development.
+
+The application also needs to be deployed.
+
+Users need to access it.
+
+Data needs to be stored.
+
+Servers need to handle requests.
+
+The system needs to remain available.
+
+Errors need to be monitored.
+
+As the number of users increases, the application may need additional computing resources.
+
+These requirements introduced me to cloud computing.
+
+One of the first concepts I learned was the idea of servers.
+
+A server is a computer system that provides resources or services to other computers.
+
+Web applications often run on servers that receive requests from users and return responses.
+
+Databases can also run on servers.
+
+When I understood this architecture, I became interested in how cloud platforms provide these resources.
+
+Instead of purchasing and maintaining physical servers, organisations can use computing infrastructure provided through cloud platforms.
+
+This makes it easier to start and scale applications.
+
+Another concept I find interesting is virtualisation.
+
+Virtualisation allows physical computing resources to be divided into virtual environments.
+
+Different virtual machines can run on the same physical hardware.
+
+This allows computing resources to be used more efficiently.
+
+Learning about virtualisation helped me understand how cloud providers can offer computing resources to many different customers.
+
+Another area I became interested in is infrastructure as a service.
+
+Instead of purchasing physical hardware, an organisation can rent computing, storage, and networking resources.
+
+The organisation can then configure these resources according to its requirements.
+
+This provides flexibility.
+
+A small project may require only limited resources.
+
+A larger application may require much more.
+
+The infrastructure can be adjusted according to demand.
+
+I find this flexibility one of the most useful aspects of cloud computing.
+
+Another concept I want to understand is scalability.
+
+An application may have a small number of users when it is first launched.
+
+If the application becomes popular, the number of requests can increase significantly.
+
+A system that worked well for a small number of users may not perform well under much higher demand.
+
+Cloud infrastructure can provide additional resources when required.
+
+This makes scalability an important part of cloud architecture.
+
+Another related concept is elasticity.
+
+Scalability refers to the ability to handle increased demand.
+
+Elasticity focuses on adjusting resources according to changing demand.
+
+For example, a system may require more resources during peak hours and fewer resources during periods of low activity.
+
+Using only the required resources can improve efficiency.
+
+I find this concept interesting because it connects infrastructure with real-world usage patterns.
+
+Another area I want to explore is load balancing.
+
+When many users access an application, requests may need to be distributed across multiple servers.
+
+A load balancer can help distribute these requests.
+
+This prevents one server from becoming overloaded while others remain underused.
+
+Load balancing can also improve availability.
+
+I find this useful because it shows how cloud systems can handle large numbers of users.
+
+Another important concept is availability.
+
+Users expect online applications to remain accessible.
+
+A server failure should ideally not make an entire service unavailable.
+
+Cloud architectures can use multiple instances, locations, or other mechanisms to reduce the impact of individual failures.
+
+This introduces me to the idea of designing systems for failure rather than assuming that every component will always work.
+
+I find this an important lesson for software engineering.
+
+Another area I find interesting is fault tolerance.
+
+Failures can occur in hardware, networks, software, or other components.
+
+A reliable system needs to handle these failures appropriately.
+
+For example, if one application server stops working, traffic can potentially be redirected to another server.
+
+If data is stored redundantly, a hardware failure may not result in permanent data loss.
+
+I want to learn more about how cloud systems achieve fault tolerance.
+
+Another concept I want to understand is redundancy.
+
+Important systems often maintain multiple copies or instances of critical components.
+
+This may increase resource usage, but it can improve reliability.
+
+The appropriate level of redundancy depends on the requirements of the application.
+
+I find this an interesting example of the trade-offs involved in system design.
+
+Another area I became interested in is cloud storage.
+
+Applications often need to store images, videos, documents, backups, and other files.
+
+Cloud storage can provide scalable storage without requiring organisations to maintain physical storage systems themselves.
+
+Different types of cloud storage can be used for different requirements.
+
+I want to understand how storage systems are designed and how data can be stored efficiently.
+
+Another important concept is object storage.
+
+Object storage is useful for storing large amounts of files and other unstructured data.
+
+It can be used for images, videos, backups, datasets, and many other types of information.
+
+I have become interested in object storage because many of my software projects involve handling files and datasets.
+
+Understanding how these files can be stored securely and efficiently is important for production applications.
+
+Another area I want to explore is cloud databases.
+
+Applications need databases to store information about users, products, transactions, and other data.
+
+Cloud platforms can provide managed database services.
+
+These services can handle some of the infrastructure and maintenance requirements.
+
+This allows developers to focus more on the application itself.
+
+I find managed services useful because they demonstrate how cloud computing can simplify infrastructure management.
+
+Another concept I find interesting is database scalability.
+
+As the amount of data and number of users increase, a database may need additional resources.
+
+Different scaling approaches can be used.
+
+A database can sometimes be scaled vertically by increasing the resources available to one machine.
+
+It can also be scaled horizontally by distributing data or workloads across multiple systems.
+
+I want to understand the advantages and limitations of these approaches.
+
+Another area I want to learn is caching.
+
+Applications often need to retrieve the same information repeatedly.
+
+Instead of calculating or retrieving the information from the main database every time, frequently used information can sometimes be stored in a faster cache.
+
+Caching can reduce database load and improve response times.
+
+I find this useful because performance is an important part of cloud applications.
+
+Another important concept is content delivery networks.
+
+Users may access applications from different geographic locations.
+
+A content delivery network can distribute certain content through locations closer to users.
+
+This can reduce latency and improve performance.
+
+I find this interesting because it shows how cloud infrastructure can improve the experience of users in different parts of the world.
+
+Another area I want to explore is serverless computing.
+
+Serverless platforms allow developers to run code without managing traditional servers directly.
+
+The cloud provider handles much of the underlying infrastructure.
+
+Developers can focus on individual functions or services.
+
+This can be useful for certain applications because resources can be allocated based on usage.
+
+I find serverless computing interesting because it represents another level of abstraction in software development.
+
+Instead of thinking about individual machines, developers can focus more directly on application logic.
+
+Another concept I want to understand is event-driven architecture.
+
+In an event-driven system, an action can trigger another process.
+
+For example, when a user uploads a file, an event can trigger a function that processes the file.
+
+This can allow different components of an application to operate independently.
+
+I find this architecture useful for applications involving data processing and automation.
+
+Another area I want to explore is microservices.
+
+A large application can sometimes be divided into smaller services.
+
+Each service can perform a particular function and communicate with other services through APIs.
+
+This can make some systems easier to scale and maintain.
+
+However, microservices also introduce additional complexity.
+
+There are more services to deploy, monitor, secure, and communicate between.
+
+I find this trade-off interesting.
+
+Another area I want to understand is containerisation.
+
+Containers allow applications and their dependencies to be packaged in a consistent environment.
+
+This can make it easier to move applications between development, testing, and production environments.
+
+Containers have become an important part of modern cloud development.
+
+I want to learn more about how containerised applications are deployed and managed.
+
+Another related technology is Kubernetes.
+
+Kubernetes can help manage containerised applications across multiple machines.
+
+It can handle tasks such as deployment, scaling, service discovery, and recovery.
+
+I find Kubernetes interesting because it demonstrates how complex cloud systems can be automated.
+
+At the same time, I understand that not every application requires such a complex architecture.
+
+I want to learn how engineers decide when such tools are appropriate.
+
+Another area I want to explore is infrastructure automation.
+
+Manually configuring large numbers of cloud resources can be slow and error-prone.
+
+Infrastructure as code allows infrastructure configurations to be described using files and managed systematically.
+
+This can make deployments more repeatable.
+
+It can also allow infrastructure changes to be reviewed and tracked.
+
+I find this approach useful because it applies software engineering principles to infrastructure.
+
+Another important area is continuous integration and continuous deployment.
+
+Software applications often need to be updated regularly.
+
+Automated pipelines can build, test, and deploy changes.
+
+This reduces the amount of manual work required.
+
+Cloud platforms can provide infrastructure for these workflows.
+
+I want to understand how CI/CD systems help organisations deliver software reliably.
+
+Another area I find interesting is monitoring.
+
+After an application is deployed, developers need to know whether it is working correctly.
+
+Monitoring systems can track metrics such as CPU usage, memory usage, request rates, response times, and errors.
+
+Logs can provide additional information about what is happening inside the application.
+
+This information can help developers identify problems.
+
+I have become more interested in monitoring because running an application is different from simply developing it.
+
+Another important concept is observability.
+
+Observability involves using information from a system to understand its internal behaviour.
+
+Metrics, logs, and traces can help identify where problems are occurring.
+
+For example, if an application becomes slow, traces can help determine whether the problem is in the frontend, API, database, or another service.
+
+I find observability important for large systems.
+
+Another area I want to explore is cloud security.
+
+Cloud applications can contain sensitive information.
+
+Users may provide personal data.
+
+Applications may store credentials, documents, financial information, or other important resources.
+
+Cloud resources therefore need appropriate access controls.
+
+Permissions should be limited to what is required.
+
+Sensitive data should be protected.
+
+I want to understand how secure cloud architectures are designed.
+
+Another important concept is identity and access management.
+
+Cloud platforms contain many different resources.
+
+Users and services need permissions to access those resources.
+
+Identity and access management systems allow organisations to control these permissions.
+
+I find this important because a configuration mistake can potentially expose resources that should remain private.
+
+This has strengthened my interest in cybersecurity.
+
+Another area I want to understand is secrets management.
+
+Cloud applications often require database credentials, API keys, certificates, and other sensitive information.
+
+These should not simply be stored inside source code.
+
+Secure systems need appropriate methods for storing and accessing secrets.
+
+I want to learn how production applications handle these requirements.
+
+Another important area is encryption.
+
+Data stored in cloud systems may need to be protected.
+
+Data transmitted between services may also need protection.
+
+Encryption can help reduce the risk of sensitive information being exposed.
+
+I want to understand how encryption is applied in cloud architectures.
+
+Another area I find interesting is network security.
+
+Cloud applications can contain different networks, services, and access points.
+
+Not every component should be directly accessible from the public internet.
+
+Network controls can help restrict communication.
+
+I want to learn how cloud networks are designed to separate public and private components.
+
+Another area I want to explore is virtual private networks and private connectivity.
+
+Applications may need to communicate securely with internal systems or other cloud resources.
+
+Private network connections can help keep certain traffic away from the public internet.
+
+I find this useful because it shows how network architecture affects application security.
+
+Another important topic is cloud cost management.
+
+Cloud resources are often charged based on usage.
+
+If an application uses more computing power, storage, or network traffic, costs can increase.
+
+A system that is technically successful may still be poorly designed if it is unnecessarily expensive.
+
+This made me realise that software architecture also has financial considerations.
+
+I want to learn how engineers balance performance, reliability, and cost.
+
+Another area I find interesting is autoscaling.
+
+An application can automatically increase or decrease its resources based on demand.
+
+This can help maintain performance during busy periods while reducing unnecessary resource usage during quieter periods.
+
+Autoscaling is an example of automation being used to manage infrastructure.
+
+I want to understand how autoscaling policies are designed.
+
+Another important concept is high availability.
+
+Critical applications may need to remain available even if some infrastructure components fail.
+
+Cloud systems can use multiple availability zones or other redundancy mechanisms.
+
+However, higher availability can increase complexity and cost.
+
+I find this trade-off important to understand.
+
+Another area I want to explore is disaster recovery.
+
+Organisations need plans for recovering from serious failures.
+
+Data may need to be restored from backups.
+
+Applications may need to be redeployed.
+
+Alternative infrastructure may need to be activated.
+
+A disaster recovery plan should consider how much data can potentially be lost and how quickly the service needs to be restored.
+
+I find this important because reliability is not only about preventing failures but also about recovering from them.
+
+Another area I want to understand is backup management.
+
+Important information should not depend on a single copy.
+
+Backups can protect against accidental deletion, hardware failure, or other problems.
+
+However, backups themselves need to be protected.
+
+If an attacker can access both the primary data and backups, recovery may become more difficult.
+
+I want to learn how secure backup systems are designed.
+
+Another area I find interesting is cloud architecture.
+
+Different applications have different requirements.
+
+A small application may need only a few services.
+
+A large platform may require databases, queues, storage systems, monitoring, caching, and multiple application services.
+
+The architecture needs to balance complexity and functionality.
+
+I want to become better at designing architectures according to actual requirements rather than simply using the largest number of available services.
+
+Another area I want to explore is message queues.
+
+Different components of an application do not always need to communicate directly.
+
+A message queue can allow one service to send a message that another service processes later.
+
+This can make systems more flexible and resilient.
+
+It can also help handle large numbers of requests.
+
+I find queues interesting because they provide another way of designing distributed applications.
+
+Another concept is asynchronous processing.
+
+Some tasks do not need to be completed immediately.
+
+For example, generating a report or processing a large uploaded file can happen in the background.
+
+The user can continue using the application while the task is processed.
+
+Cloud services can support these workflows.
+
+I find this useful because it can improve application performance and user experience.
+
+Another area I want to understand is distributed systems.
+
+Cloud applications often run across multiple machines.
+
+These machines need to communicate and coordinate.
+
+Failures and network delays can occur.
+
+The system needs to handle these conditions appropriately.
+
+I want to study distributed systems because they provide an important foundation for cloud computing.
+
+Another area I find interesting is data processing in the cloud.
+
+Large datasets can be stored and processed using cloud infrastructure.
+
+Machine learning models can also be trained using cloud computing resources.
+
+This is particularly useful when local computers do not have enough processing power.
+
+My interest in artificial intelligence has therefore increased my interest in cloud computing.
+
+AI models can require significant computing resources.
+
+Cloud platforms can provide GPUs and other specialised hardware.
+
+This makes it easier to experiment with larger models.
+
+However, cloud computing can also become expensive.
+
+Efficient resource management is therefore important.
+
+I want to understand how AI workloads can be deployed efficiently in the cloud.
+
+Another area I want to explore is machine learning deployment.
+
+Training a model is only one stage of an AI project.
+
+The model needs to be made available to applications.
+
+An API can provide predictions to a frontend or another service.
+
+The model may need monitoring.
+
+New versions may need to be deployed.
+
+Performance and cost need to be considered.
+
+This connects machine learning with cloud engineering.
+
+I find this connection particularly interesting.
+
+Another area I want to understand is model serving.
+
+A machine learning model can be deployed as a service that receives input and returns predictions.
+
+The service needs to handle multiple requests.
+
+It may also need scaling and monitoring.
+
+The model may require significant memory or GPU resources.
+
+I want to learn how production model-serving systems are designed.
+
+Another area I find interesting is edge computing.
+
+Not every application needs to process information in the cloud.
+
+Some systems can process information closer to where it is generated.
+
+This can reduce latency and network usage.
+
+It can also be useful for privacy-sensitive applications.
+
+I find the relationship between edge and cloud computing particularly interesting.
+
+For example, an IoT device may perform basic processing locally and send only important information to the cloud.
+
+The cloud can then perform more complex analysis.
+
+This creates a distributed architecture.
+
+Another area I want to explore is Internet of Things systems.
+
+IoT devices can generate large amounts of information.
+
+Cloud platforms can collect, store, and analyse this data.
+
+AI can then identify patterns or make predictions.
+
+This combination of IoT, cloud computing, and AI can support applications in agriculture, energy, healthcare, transportation, and manufacturing.
+
+I find this combination of technologies particularly useful.
+
+Another important area is cloud-native development.
+
+Cloud-native applications are designed around the capabilities of modern cloud infrastructure.
+
+They may use containers, managed services, microservices, automation, and other approaches.
+
+I want to understand when these patterns are useful and when a simpler architecture is better.
+
+Another area I want to study is hybrid cloud.
+
+Some organisations may use both private infrastructure and public cloud services.
+
+Certain information may need to remain within private systems, while other workloads can use public cloud resources.
+
+This creates architectural and networking challenges.
+
+I find hybrid environments interesting because real organisations often have existing infrastructure that cannot simply be replaced.
+
+Another related concept is multi-cloud.
+
+An organisation may use services from multiple cloud providers.
+
+This can provide flexibility but can also increase complexity.
+
+Different platforms have different tools, pricing models, and services.
+
+I want to understand the reasons organisations choose multi-cloud strategies.
+
+Another important topic is cloud migration.
+
+Moving an existing application to the cloud is not always as simple as copying the application to a new server.
+
+The architecture may need to change.
+
+Databases may need to be migrated.
+
+Security requirements need to be reviewed.
+
+Costs need to be estimated.
+
+The application may need to be redesigned to take advantage of cloud capabilities.
+
+I find cloud migration interesting because it combines technical planning with business requirements.
+
+Another area I want to explore is serverless application development.
+
+Functions can be triggered by events such as API requests, file uploads, or scheduled tasks.
+
+This can reduce the need to manage infrastructure directly.
+
+However, serverless applications also have limitations involving execution time, state management, and platform dependence.
+
+I want to understand when serverless architectures are appropriate.
+
+Another area I find interesting is cloud APIs.
+
+Modern cloud platforms expose many services through APIs.
+
+Applications can use these APIs to create resources, store information, send messages, or perform other operations.
+
+This makes cloud computing highly programmable.
+
+I find this useful because it connects infrastructure with software development.
+
+Another important concept is infrastructure automation.
+
+If a development team needs to create the same environment repeatedly, manual configuration can introduce inconsistencies.
+
+Automated infrastructure allows environments to be created in a repeatable way.
+
+This can improve reliability.
+
+I want to learn more about infrastructure automation and deployment pipelines.
+
+Another area I want to explore is cloud testing.
+
+Applications need to be tested under different conditions.
+
+Testing can include normal workloads, high traffic, failures, and security scenarios.
+
+Cloud environments can provide resources for creating test environments.
+
+I want to understand how cloud-based testing can support reliable software development.
+
+Another area I find interesting is performance optimisation.
+
+Cloud applications can become slow because of inefficient code, database queries, network communication, or resource limitations.
+
+Monitoring can help identify the source of the problem.
+
+Developers can then optimise the appropriate component.
+
+I want to improve my ability to analyse performance across an entire system.
+
+Another important concept is latency.
+
+The time required for a request to travel through a system can affect the user experience.
+
+Geographic distance, network conditions, database operations, and service dependencies can all contribute to latency.
+
+Cloud architecture needs to consider these factors.
+
+I find this interesting because it shows how physical distance can still matter in digital systems.
+
+Another area I want to understand is reliability engineering.
+
+Large software systems need processes for maintaining reliability over time.
+
+This can include monitoring, incident response, automated recovery, testing, and capacity planning.
+
+I want to learn how engineering teams maintain reliable services at scale.
+
+Another important area is DevOps.
+
+DevOps combines development and operations practices to improve the process of building and running software.
+
+Automation, CI/CD, monitoring, infrastructure as code, and collaboration are important parts of this approach.
+
+I find DevOps interesting because it connects software development with the operational side of technology.
+
+My experience deploying applications has helped me understand why this connection is important.
+
+Another area I want to explore is site reliability engineering.
+
+SRE focuses on applying software engineering principles to operating reliable systems.
+
+It involves concepts such as service-level objectives, monitoring, incident response, and automation.
+
+I want to understand how these practices are applied to large-scale applications.
+
+Another important lesson I have learned is that cloud computing does not automatically make an application better.
+
+Using more cloud services does not necessarily improve a system.
+
+The architecture should be based on actual requirements.
+
+A simple application may not need a complex distributed architecture.
+
+The goal should be to choose appropriate technology rather than using technology simply because it is available.
+
+This is a principle I want to follow in my future projects.
+
+Another lesson is that cloud computing involves trade-offs.
+
+Scalability can increase cost.
+
+Redundancy can improve reliability but require more resources.
+
+Managed services can reduce maintenance but may create dependence on a particular platform.
+
+Serverless systems can simplify deployment but have their own limitations.
+
+I want to understand these trade-offs rather than assuming that one approach is always best.
+
+My long-term goal is to work in artificial intelligence and software engineering, with strong knowledge of cloud computing.
+
+I want to build AI-powered applications that can operate reliably for real users.
+
+I am particularly interested in cloud-based AI, distributed systems, data platforms, and scalable software.
+
+I want to understand how a prototype can be transformed into a production system.
+
+Higher education will give me opportunities to study operating systems, computer networks, distributed systems, databases, cloud computing, software engineering, and artificial intelligence.
+
+I want to develop a strong foundation in these areas.
+
+I also want to work on projects that require real deployment rather than only local development.
+
+Deploying applications can teach lessons about performance, security, monitoring, and reliability that are difficult to understand through theory alone.
+
+Another goal is to gain industry experience.
+
+I want to work with professional engineering teams and understand how cloud applications are designed and operated at scale.
+
+I want to learn how engineers make decisions about architecture, cost, reliability, and security.
+
+I also want to participate in technical competitions and hackathons.
+
+These experiences can help me develop applications quickly and experiment with different technologies.
+
+However, I want to focus not only on building a prototype but also on thinking about how the system would work if many users depended on it.
+
+Another goal is to continue learning about AI infrastructure.
+
+Modern AI applications can require significant computing resources.
+
+I want to understand how GPUs, distributed systems, model-serving platforms, and cloud infrastructure work together.
+
+I also want to explore ways to reduce the cost and resource requirements of AI applications.
+
+Another area I want to explore is sustainable cloud computing.
+
+Data centres consume significant amounts of energy.
+
+As AI workloads increase, efficient computing becomes increasingly important.
+
+Efficient algorithms, better hardware utilisation, renewable energy, and intelligent workload management can help reduce resource consumption.
+
+This connects cloud computing with my interest in sustainable technology.
+
+I know that there is still a lot for me to learn.
+
+I want to strengthen my knowledge of networking.
+
+I want to understand distributed systems.
+
+I want to learn more about containers and orchestration.
+
+I want to improve my knowledge of cloud security.
+
+I also want to develop stronger DevOps and MLOps skills.
+
+These are areas I hope to develop through education, projects, research, and industry experience.
+
+For me, cloud computing is interesting because it connects software with the infrastructure required to make software available to real users.
+
+Writing an application is only the beginning.
+
+It needs to be deployed, secured, monitored, scaled, and maintained.
+
+Cloud computing provides tools and infrastructure that can help with these requirements.
+
+This has given me a broader understanding of software engineering.
+
+My interest in cloud computing has also changed how I think about projects.
+
+Earlier, I mainly considered whether the application worked on my computer.
+
+Now I think about how it would work for many users.
+
+Would the server handle the traffic?
+
+Would the database scale?
+
+What happens if a component fails?
+
+How would the system be monitored?
+
+How would sensitive information be protected?
+
+How much would it cost to operate?
+
+These questions help me think more like a software engineer.
+
+Ultimately, I want to become a technology professional who can build intelligent and scalable applications.
+
+I want to combine artificial intelligence, software engineering, cloud computing, and data systems to solve practical problems.
+
+I also want to understand the infrastructure behind the applications I build rather than treating it as something separate from development.
+
+I believe cloud computing will continue to play an important role as software and AI systems become more complex.
+
+Organisations will need reliable, scalable, secure, and cost-effective infrastructure.
+
+I want to develop the skills needed to contribute to these systems.
+
+My interest in cloud computing has shown me that successful technology involves much more than writing code.
+
+It requires understanding infrastructure, scalability, reliability, security, performance, and users.
+
+That is why I am interested in cloud computing and why I want to continue learning about distributed systems, cloud architecture, AI infrastructure, and software engineering throughout my education and future career.

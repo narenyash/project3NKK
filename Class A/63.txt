@@ -1,0 +1,340 @@
+
+I am a student who is interested in technology because of its ability to solve practical problems. I enjoy learning about computer science, artificial intelligence, and software development, but what interests me most is how these technologies can be applied to problems that people face in their everyday lives. This has influenced the projects I choose, the technologies I explore, and the kind of career I want to pursue.
+
+My interest in problem-solving developed alongside my interest in programming. When I started learning programming, I was mainly interested in understanding how code works. I enjoyed writing small programs and experimenting with different concepts. As I gained more experience, I started thinking more about what I could actually build with those skills.
+
+This changed the way I approached technology.
+
+Instead of learning a programming language only because it was popular, I started learning technologies based on the problems I wanted to solve. If I needed to create an interactive website, I explored frontend development. If I needed to store information, I learned about databases. If I wanted to process data or build an AI model, I explored Python and machine learning tools.
+
+This practical approach made computer science more interesting to me.
+
+I believe that one of the most important parts of solving a problem is understanding it correctly. A problem may look simple at first, but there can be several factors behind it. Before deciding on a solution, it is important to understand who is affected, what the actual difficulty is, what limitations exist, and what result would be considered useful.
+
+I have learned this through my projects.
+
+When developing an application, it is easy to focus on adding features. However, adding more features does not necessarily make an application better. A useful application should solve its main purpose clearly and should be easy for the intended users to understand.
+
+This has made me more interested in user requirements and practical design.
+
+I have also worked on projects involving artificial intelligence and computer vision. These projects helped me understand how AI can be used to approach problems that are difficult to solve using traditional programming alone.
+
+For example, machine learning can identify patterns in data and make predictions based on those patterns. Computer vision can be used to analyse images and identify useful information. These capabilities can be applied to areas such as healthcare, education, agriculture, accessibility, and environmental monitoring.
+
+At the same time, I have learned that AI is not automatically the best solution for every problem.
+
+A simple algorithm may sometimes be more effective.
+
+A rule-based system may be easier to maintain.
+
+A manual process may be appropriate when the number of cases is small.
+
+Therefore, I believe engineers should first understand the problem and then choose the technology.
+
+This is an important principle I want to carry into my future work.
+
+One area that interests me is accessibility. Technology can provide alternative ways for people to interact with computers and digital services. Computer vision, speech processing, and other AI technologies can potentially help people who face difficulties using conventional interfaces.
+
+I find these applications meaningful because they show that technology can be used not only for convenience but also for improving access.
+
+I am interested in exploring more projects in this area during my higher education.
+
+Another area I find interesting is education.
+
+Students have different learning styles, levels of prior knowledge, and difficulties. Technology can provide additional learning resources and personalised assistance. AI systems may be able to help students practise concepts, receive explanations, or identify areas where they need more support.
+
+However, I believe technology should support education rather than replace teachers.
+
+Teachers provide guidance, motivation, context, and human interaction that technology cannot fully reproduce. The role of technology should be to make learning more accessible and effective.
+
+Thinking about these applications has helped me understand that solving real-world problems requires more than technical skills.
+
+It requires understanding the people affected by the problem.
+
+This is why I am interested in human-centred technology.
+
+A technically successful system may still fail if it is difficult to use or does not fit the user's actual situation. Developers need to understand how people interact with technology and what limitations they face.
+
+This is something I want to learn more about.
+
+My participation in hackathons has also influenced my interest in practical problem-solving. Hackathons provide a limited amount of time to develop a solution to a given problem. Teams need to understand the problem quickly, decide what approach to take, divide the work, and create a working prototype.
+
+These experiences have taught me to focus on the most important part of an idea.
+
+It is tempting to try to build everything.
+
+However, limited time makes prioritisation necessary.
+
+A working core solution is more valuable than a large number of unfinished features.
+
+This lesson has helped me in other projects as well.
+
+I have also learned that real-world problems often have constraints.
+
+There may be limited computing resources.
+
+There may be limited data.
+
+Users may have different levels of technical knowledge.
+
+Internet connectivity may not always be reliable.
+
+The cost of implementation may matter.
+
+These factors influence whether a solution is practical.
+
+I want to become better at designing systems that consider such constraints.
+
+This is particularly important in the Indian context.
+
+India has a large and diverse population with different levels of access to technology. A solution designed for a high-resource environment may not always be appropriate for everyone.
+
+Applications may need to support multiple languages.
+
+Services may need to work on affordable devices.
+
+Systems may need to operate with limited connectivity.
+
+Interfaces may need to be simple enough for people with different levels of digital experience.
+
+These are interesting engineering challenges.
+
+I would like to explore them through projects and research.
+
+Another lesson I have learned is that a problem does not always require a completely new invention.
+
+Sometimes an existing technology can be combined with another technology to create a useful solution.
+
+For example, a software application can combine a database, an AI model, and a simple interface to automate a process that was previously handled manually.
+
+The innovation may come from how the technologies are combined rather than from inventing a completely new technology.
+
+I find this type of practical innovation interesting.
+
+I also enjoy the process of testing whether an idea actually works.
+
+An idea may sound useful when discussed, but building a prototype can reveal problems that were not obvious earlier.
+
+The prototype may be too slow.
+
+The interface may be confusing.
+
+The model may not perform well.
+
+The data may be insufficient.
+
+The solution may be too expensive.
+
+These problems provide information.
+
+They help determine what needs to change.
+
+This has made me more comfortable with iterative development.
+
+Build.
+
+Test.
+
+Learn.
+
+Improve.
+
+Repeat.
+
+I believe this process is an important part of engineering.
+
+It also requires patience.
+
+Some problems cannot be solved immediately.
+
+When I work on a difficult project, I may need to try several approaches before finding one that works. Sometimes I need to study a concept before I can continue.
+
+I have learned that spending time understanding a problem is often more useful than trying random solutions.
+
+This has improved my approach to debugging and development.
+
+I also understand the importance of asking for feedback.
+
+Developers can become too familiar with their own projects and may not notice usability problems. Another person using the application for the first time may immediately identify an issue.
+
+This is why I value feedback from classmates, teammates, and other users.
+
+Feedback helps me see the project from a different perspective.
+
+I want to continue using this approach in future projects.
+
+My interest in real-world problem-solving has also influenced my career goals.
+
+I want to work in software engineering and artificial intelligence, but I want my work to have a practical purpose.
+
+I am interested in developing systems that can be used by real people and organisations.
+
+I want to work on problems where technology can provide measurable improvements.
+
+This could involve reducing repetitive work, improving access to information, supporting education, assisting people with disabilities, analysing data, or helping organisations make better decisions.
+
+I am still exploring different areas, so I do not want to restrict myself to one particular application.
+
+My immediate goal is to develop a strong foundation.
+
+I want to study computer science fundamentals, algorithms, data structures, databases, software engineering, mathematics, statistics, and artificial intelligence.
+
+These subjects will give me the knowledge needed to understand and develop more advanced systems.
+
+I also want to continue practical learning alongside academics.
+
+Projects will allow me to apply what I learn.
+
+Research will help me understand how new solutions are developed.
+
+Internships will expose me to professional environments.
+
+Hackathons will allow me to work under time constraints.
+
+Team activities will improve my collaboration skills.
+
+I believe these experiences together will help me become a well-rounded engineer.
+
+Another skill I want to improve is communication.
+
+Solving real-world problems usually involves working with people who may not have a technical background. An engineer needs to understand their requirements and explain technical decisions clearly.
+
+A solution can only be useful if the people who need it understand how to use it.
+
+Therefore, communication is an important part of problem-solving.
+
+I also want to develop stronger teamwork skills.
+
+Large problems cannot always be solved by one person. Different people may have expertise in different areas. Working together allows a team to combine those strengths.
+
+My experiences in technical events have shown me that collaboration can produce better results than working independently.
+
+I want to continue developing this ability.
+
+I am also interested in the ethical side of technology.
+
+A solution can have unintended consequences.
+
+An AI model may produce incorrect results.
+
+A system may collect unnecessary personal information.
+
+An application may not be accessible to everyone.
+
+Automation may change how people work.
+
+These possibilities need to be considered when designing technology.
+
+I want to learn how to evaluate not only whether a system works, but also whether it should be used in a particular situation and how it can be made safer and more responsible.
+
+This is especially important for artificial intelligence.
+
+AI has many useful applications, but its limitations must be understood.
+
+A model should be tested properly.
+
+Its performance should be evaluated on appropriate data.
+
+Users should understand that AI systems can make mistakes.
+
+Human oversight may be necessary depending on the application.
+
+I want to develop this responsible approach to AI.
+
+I believe higher education will give me the opportunity to explore these areas in greater depth.
+
+I want to learn from professors and researchers who are working on current problems.
+
+I want to work with students who have different ideas.
+
+I want to participate in research and technical projects.
+
+I also want to learn from failures and improve through practical experience.
+
+My goal is not to know every technology.
+
+That would not be realistic.
+
+Technology changes too quickly.
+
+Instead, I want to develop the ability to learn new technologies when necessary.
+
+If a future project requires a technology I have never used, I want to be comfortable learning it.
+
+Strong fundamentals and independent learning will help me do this.
+
+I also want to remain curious.
+
+When I encounter a problem, I want to ask questions.
+
+Why does it happen?
+
+Can it be improved?
+
+What solutions already exist?
+
+What limitations do they have?
+
+Could technology help?
+
+What would make the solution practical?
+
+These questions encourage me to explore.
+
+I believe curiosity is one of the reasons I enjoy computer science.
+
+There is always another problem to investigate.
+
+There is always another system to understand.
+
+There is always another approach to test.
+
+This makes the field interesting to me.
+
+In the future, I hope to work on projects that combine technical knowledge with practical impact.
+
+I want to contribute to systems that are reliable, useful, and accessible.
+
+I want to learn from users and improve solutions based on their feedback.
+
+I want to work with people from different backgrounds and understand problems from different perspectives.
+
+Most importantly, I want to keep learning.
+
+My current experience has given me a starting point, but I know there is much more to explore.
+
+I want to deepen my knowledge of artificial intelligence.
+
+I want to improve my software engineering skills.
+
+I want to understand how large-scale systems are designed.
+
+I want to gain research experience.
+
+I want to become better at turning ideas into practical solutions.
+
+I believe that my interest in real-world problem-solving will continue to guide these goals.
+
+Technology is valuable to me because it provides tools for addressing problems.
+
+The most interesting part is not simply learning what a technology can do.
+
+It is understanding where it can actually help.
+
+That is the approach I want to take throughout my education and career.
+
+I want to continue learning computer science, developing projects, exploring artificial intelligence, and working on practical challenges.
+
+I know that I will encounter difficult problems and that not every idea will work.
+
+However, I see these experiences as opportunities to improve my understanding.
+
+My goal is to become an engineer who can understand a problem, choose an appropriate approach, build a solution, evaluate it, and improve it based on evidence.
+
+I believe that this combination of technical knowledge, practical thinking, and continuous learning will help me contribute meaningfully to the technology field.
+
+For me, computer science is not only about learning how computers work.
+
+It is about learning how to use technology effectively to solve problems.
+
+That is what makes the field interesting to me, and that is what I hope to continue exploring through higher education and my future career.

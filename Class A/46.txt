@@ -1,0 +1,830 @@
+
+Leadership is often associated with authority. A leader is imagined as someone who gives instructions, makes decisions, and directs other people toward a goal. My understanding of leadership has gradually become different. I believe leadership is less about having authority and more about accepting responsibility. A good leader does not simply ask others to work toward an objective. A good leader helps create the conditions in which people can work effectively, listens to different perspectives, accepts accountability when things go wrong, and makes sure that the success of the group is not limited to one individual.
+
+This understanding has developed through my experiences with academics, technical projects, teamwork, and learning from others.
+
+When I first participated in group projects, I assumed that leadership meant taking control of the project. I thought that the person who understood the technical work best should naturally make most of the decisions. With experience, I realised that this approach can create problems.
+
+A team contains people with different strengths.
+
+One person may be technically strong.
+
+Another may communicate well.
+
+Another may have strong design skills.
+
+Another may be good at organising work.
+
+Another may notice details that everyone else overlooks.
+
+If one person attempts to control every part of the project, the team may fail to use these strengths effectively.
+
+This changed my understanding of leadership.
+
+Leadership begins with recognising what other people can contribute.
+
+In a technical project, this might mean dividing responsibilities according to strengths while also ensuring that everyone understands the overall objective.
+
+The person working on the database should understand how their component connects with the rest of the system.
+
+The person designing the interface should understand the user's requirements.
+
+The person developing the backend should know what the frontend needs.
+
+The person handling testing should understand the expected behaviour.
+
+Good leadership creates coordination rather than simply assigning tasks.
+
+Communication is therefore central to leadership.
+
+A team can have talented individuals and still perform poorly if they do not communicate.
+
+If one member changes an interface without informing another, integration can become difficult.
+
+If requirements are unclear, different people may build different interpretations of the same feature.
+
+If problems are hidden, they may become more difficult to solve later.
+
+A leader should encourage communication early.
+
+I have learned that short discussions can prevent long periods of unnecessary work.
+
+This lesson has influenced the way I approach projects.
+
+Before beginning implementation, I want the team to understand what we are trying to achieve.
+
+What is the problem?
+
+Who is the user?
+
+What are the essential features?
+
+What constraints exist?
+
+Who is responsible for each component?
+
+When should different parts be completed?
+
+These questions create a shared direction.
+
+A team does not need a leader who knows every answer.
+
+It needs someone who can help the team find the answers.
+
+This is an important distinction.
+
+Leadership requires humility.
+
+A leader cannot know everything.
+
+In technology, this is particularly obvious because the field is too large for any one person to master completely.
+
+A software engineer may understand system design but know less about a particular machine learning method.
+
+A machine learning specialist may understand models deeply but need help with deployment.
+
+A designer may understand user experience better than the developers.
+
+A good leader should recognise these differences rather than pretending to be an expert in every area.
+
+I want to develop that humility.
+
+If another team member knows more about a particular subject, I should learn from them.
+
+My responsibility is not to prove that I know more.
+
+It is to help the team succeed.
+
+This perspective has also changed how I think about decision-making.
+
+A leader should make decisions when necessary, but decisions should be informed by evidence and perspectives.
+
+Before making an important technical choice, I want to hear from the people responsible for implementing it.
+
+They may identify practical problems that are not obvious initially.
+
+For example, a proposed architecture may appear efficient but create unnecessary complexity for the development team.
+
+A feature may seem useful but require significant maintenance.
+
+A deadline may appear realistic but fail to account for testing.
+
+Listening can reveal these issues.
+
+Leadership therefore includes asking for information before making decisions.
+
+At the same time, leaders sometimes need to make decisions under uncertainty.
+
+Waiting for complete information is not always possible.
+
+A project may have a deadline.
+
+A production issue may require immediate action.
+
+A team may be divided between two approaches.
+
+In these situations, someone must decide.
+
+I believe a leader should make the best decision possible using the available evidence and then remain willing to revise it if new information appears.
+
+This combines decisiveness with adaptability.
+
+I want to develop this balance.
+
+Another important aspect of leadership is accountability.
+
+When a project succeeds, it is easy to highlight individual contributions.
+
+When a project fails, people may look for someone to blame.
+
+I believe a leader should take responsibility for the overall outcome.
+
+If the team missed an important requirement, the leader should examine whether communication was inadequate.
+
+If a deadline was unrealistic, the planning process should be reviewed.
+
+If a technical problem was not identified early, the testing process may need improvement.
+
+Accountability does not mean taking personal blame for every mistake.
+
+It means accepting responsibility for improving the system.
+
+This creates trust.
+
+Team members are more likely to communicate problems when they believe they will be treated fairly.
+
+If people expect humiliation or blame, they may hide mistakes.
+
+Hidden mistakes can become larger failures.
+
+Therefore, a responsible leader should create an environment where problems can be reported honestly.
+
+This does not mean lowering standards.
+
+Accountability and psychological safety can exist together.
+
+A mistake should be acknowledged.
+
+Its consequences should be understood.
+
+The team should determine how to prevent repetition.
+
+The individual should learn.
+
+The system should improve.
+
+This is the kind of leadership culture I want to support.
+
+Leadership also means recognising the contributions of others.
+
+A project is rarely the result of one person's effort.
+
+Someone may write important code.
+
+Someone may discover a critical bug.
+
+Someone may improve the user interface.
+
+Someone may organise documentation.
+
+Someone may communicate with stakeholders.
+
+Some contributions may be less visible than others.
+
+A good leader notices them.
+
+Recognition is not merely about giving compliments.
+
+It communicates that people's efforts matter.
+
+This can strengthen motivation and trust.
+
+I want to develop the habit of acknowledging contributions honestly.
+
+I also believe leaders should help people grow.
+
+If a team member is interested in learning a new skill, a leader can provide opportunities.
+
+If someone is struggling, a leader can provide guidance.
+
+If someone demonstrates strength, a leader can give them greater responsibility.
+
+The goal is not simply to complete the current project.
+
+It is also to develop the people involved.
+
+This is why I see leadership as a form of service.
+
+The leader's role is partly to remove obstacles so that others can perform well.
+
+This may involve clarifying requirements.
+
+Providing resources.
+
+Resolving conflicts.
+
+Making decisions.
+
+Protecting the team's focus.
+
+Communicating with external stakeholders.
+
+And helping people develop confidence.
+
+Leadership therefore requires attention to other people's needs.
+
+This perspective has influenced my interest in mentoring.
+
+When I help someone understand a technical concept, I learn something myself.
+
+When I help someone debug a problem, I may notice a different way of approaching it.
+
+When I encourage someone to attempt a difficult task, I may also become more willing to challenge myself.
+
+Helping others does not reduce personal growth.
+
+It can increase it.
+
+I want to develop this approach throughout university.
+
+I would like to participate in technical communities where students can learn from one another.
+
+Senior students can help juniors understand subjects and opportunities.
+
+Juniors can bring new ideas and perspectives.
+
+Everyone can contribute.
+
+Such communities can create a culture of shared development.
+
+I believe this is a meaningful form of leadership.
+
+A leader does not always need a formal title.
+
+A student who organises a study group is exercising leadership.
+
+A teammate who helps resolve a disagreement is exercising leadership.
+
+Someone who takes responsibility for an unfinished task is exercising leadership.
+
+Someone who helps another person understand a difficult concept is exercising leadership.
+
+These actions demonstrate responsibility even without authority.
+
+This is the kind of leadership I want to practise.
+
+My interest in technology provides many opportunities to apply these principles.
+
+Technical projects often require coordination between multiple areas.
+
+A project may involve frontend development, backend development, databases, AI models, deployment, testing, and design.
+
+No single person may be equally strong in all of them.
+
+Effective leadership means connecting those parts.
+
+The leader must understand enough of each area to coordinate them while respecting the expertise of specialists.
+
+This requires both technical knowledge and communication.
+
+I want to develop both.
+
+Artificial intelligence projects make collaboration even more important.
+
+An AI system may require data collection, preprocessing, model development, evaluation, deployment, and monitoring.
+
+Different people may be responsible for different stages.
+
+If those stages are disconnected, the final system can fail.
+
+For example, a model developer may assume that the deployment environment can support a particular model.
+
+The deployment engineer may discover that it is too resource-intensive.
+
+A better leader would encourage these discussions earlier.
+
+Leadership therefore includes thinking about dependencies.
+
+What does each person need from the others?
+
+Which decisions affect multiple components?
+
+Where could delays occur?
+
+What information needs to be shared?
+
+These questions can help teams work more efficiently.
+
+I want to develop this systems-level perspective.
+
+Another aspect of leadership is managing disagreement.
+
+Teams will not always agree.
+
+Different people may prefer different technologies.
+
+They may have different interpretations of requirements.
+
+They may disagree about priorities.
+
+Conflict is not necessarily a sign that a team is failing.
+
+Different opinions can reveal important considerations.
+
+The problem arises when disagreement becomes personal.
+
+A leader should bring the discussion back to the objective.
+
+What are we trying to achieve?
+
+What evidence supports each approach?
+
+What are the trade-offs?
+
+What does the user need?
+
+Which option is most practical?
+
+This allows disagreement to become productive.
+
+I want to learn how to facilitate such discussions.
+
+I also believe leaders should be willing to change their minds.
+
+If another person's argument is stronger, changing my position should not feel like losing.
+
+The objective is to reach the best decision.
+
+This requires intellectual humility.
+
+It also encourages team members to contribute honestly.
+
+If people know that good arguments can change decisions, they are more likely to speak.
+
+I want to create that environment in teams I work with.
+
+Leadership also requires handling difficult situations.
+
+A project may fall behind.
+
+A team member may become unavailable.
+
+A technical approach may fail.
+
+A client may change requirements.
+
+An unexpected problem may appear near a deadline.
+
+During these moments, panic can make the situation worse.
+
+A leader should help the team understand the immediate priorities.
+
+What must be fixed first?
+
+What can be postponed?
+
+What resources are available?
+
+Who can help?
+
+What should stakeholders be told?
+
+Clear decisions can reduce uncertainty.
+
+I want to develop the ability to remain calm and analytical during such situations.
+
+This does not mean ignoring emotions.
+
+Team members may be frustrated or stressed.
+
+A leader should recognise that.
+
+But the response should still move toward action.
+
+Leadership therefore requires both empathy and decisiveness.
+
+I want to develop both qualities.
+
+My understanding of leadership has also been influenced by failure.
+
+A leader cannot guarantee that every decision will be correct.
+
+Sometimes an approach will fail.
+
+The important question is how the leader responds.
+
+Do they blame others?
+
+Do they hide the failure?
+
+Do they pretend the plan was correct?
+
+Or do they acknowledge the problem and help the team learn?
+
+I want to choose the last approach.
+
+A failure can reveal weaknesses in planning.
+
+It can expose communication problems.
+
+It can reveal unrealistic assumptions.
+
+The team can use that information to improve.
+
+This approach creates resilience.
+
+Leadership is not about creating an environment where nothing goes wrong.
+
+It is about creating an environment where people can respond effectively when something does.
+
+This is particularly important in innovation.
+
+If people are afraid of failure, they may avoid experimentation.
+
+But experimentation is necessary for research and development.
+
+A team should be able to test an idea without assuming that every experiment must succeed.
+
+The leader's responsibility is to maintain a balance between experimentation and accountability.
+
+People should be encouraged to try new approaches.
+
+At the same time, decisions should be based on evidence.
+
+Resources should be used responsibly.
+
+Failures should be analysed.
+
+This creates productive innovation.
+
+I want to develop this kind of leadership in technical environments.
+
+My long-term goal is to work in artificial intelligence and software engineering.
+
+Eventually, I may lead technical projects or teams.
+
+If that happens, I want my leadership to be based on competence, trust, communication, and responsibility.
+
+I do not want people to follow instructions simply because I have a title.
+
+I want them to trust my decisions because I listen, understand the problem, communicate clearly, and accept responsibility.
+
+I also want to create opportunities for team members to become leaders themselves.
+
+A strong team should not depend entirely on one person.
+
+Knowledge should be distributed.
+
+Responsibilities should be shared.
+
+People should be encouraged to take ownership.
+
+This creates resilience and develops future leaders.
+
+I want to contribute to such teams.
+
+Leadership also extends beyond professional environments.
+
+Communities need people who are willing to organise, volunteer, educate, and support others.
+
+Technology students can contribute by teaching digital skills, helping organisations adopt useful tools, or developing solutions for local problems.
+
+I believe service is one of the most meaningful expressions of leadership.
+
+It focuses attention on impact rather than status.
+
+This is particularly important to me because I want my technical abilities to have practical value.
+
+If I develop strong skills in software and AI, I want to use them not only for personal advancement but also to contribute to broader problems.
+
+A small application that helps a community organise information may not receive widespread attention.
+
+But if it genuinely solves a problem, it has value.
+
+A student workshop may not produce a major achievement.
+
+But if it helps someone become interested in technology, it can have lasting effects.
+
+Leadership can therefore happen through small actions.
+
+I want to remain aware of that.
+
+My academic goals also involve becoming a better listener.
+
+Listening is often overlooked when leadership is discussed.
+
+People may focus on speaking confidently and making decisions.
+
+But leaders need information.
+
+The people closest to a problem often understand it best.
+
+A developer may know why a feature is difficult to implement.
+
+A user may know why an application is frustrating.
+
+A junior team member may notice a problem that senior members overlook.
+
+If leaders do not listen, these insights are lost.
+
+I want to develop the habit of listening before deciding.
+
+This will also make me a better engineer.
+
+Understanding user needs is essential for building useful technology.
+
+Understanding teammate concerns is essential for building reliable projects.
+
+Understanding research feedback is essential for improving scientific work.
+
+Listening connects all three.
+
+I also want to learn how to communicate difficult information respectfully.
+
+A leader sometimes needs to say no.
+
+A feature may not be feasible.
+
+A deadline may need to change.
+
+A project may need to be redesigned.
+
+A person's approach may need improvement.
+
+These conversations can be uncomfortable.
+
+Avoiding them does not solve the problem.
+
+They need to be handled honestly and respectfully.
+
+I want to develop that communication skill.
+
+Leadership requires courage, but not unnecessary harshness.
+
+The goal should be improvement.
+
+Another quality I want to develop is consistency.
+
+People need to know what they can expect from a leader.
+
+If expectations change unpredictably, trust decreases.
+
+If decisions are based on personal preferences rather than principles, teams become uncertain.
+
+I want my decisions to be guided by clear criteria.
+
+What does the project require?
+
+What does the evidence show?
+
+What does the team need?
+
+What is fair?
+
+What is practical?
+
+These questions can provide consistency.
+
+I also want to acknowledge when I am uncertain.
+
+Pretending to know the answer to every question can be dangerous.
+
+A leader who says, "I do not know yet, but I will find out," can still maintain credibility.
+
+Honesty about uncertainty can encourage others to contribute information.
+
+This is especially important in technology because no individual can know everything.
+
+I want to lead with confidence when I have evidence and humility when I do not.
+
+These qualities will be valuable if I eventually become involved in research.
+
+Research teams depend on collaboration.
+
+A research leader must coordinate ideas, methods, data, experiments, and publications.
+
+They must also create an environment where researchers can challenge one another intellectually.
+
+Good science requires disagreement when evidence demands it.
+
+Leadership in research therefore involves protecting the quality of the work rather than protecting individual egos.
+
+I want to experience this environment during higher education.
+
+I hope to work with professors and students on research projects.
+
+I want to learn how research teams operate.
+
+I want to observe how experienced researchers make decisions.
+
+I want to contribute to discussions.
+
+I want to learn how to present ideas.
+
+And eventually, I want to take responsibility for projects of my own.
+
+University will also provide opportunities to develop leadership outside formal coursework.
+
+Student organisations, technical clubs, hackathons, competitions, and community initiatives can all create situations where people need to coordinate.
+
+I want to participate actively.
+
+I do not need to lead every activity.
+
+Sometimes being a good team member is more important.
+
+Leadership should not become an obsession with titles.
+
+A person can learn leadership by following effectively.
+
+Following requires listening, reliability, and cooperation.
+
+These qualities make leadership stronger later.
+
+I want to learn both roles.
+
+I also want to remember that leadership is a continuous learning process.
+
+There is no point at which a person becomes a perfect leader.
+
+Every team is different.
+
+Every problem is different.
+
+Every person responds differently.
+
+A leadership approach that works in one environment may fail in another.
+
+Therefore, leaders must adapt.
+
+They must observe.
+
+They must ask for feedback.
+
+They must reflect.
+
+They must improve.
+
+This connects leadership with lifelong learning.
+
+I want to remain open to criticism from the people I work with.
+
+If someone tells me that I communicated poorly, I should examine it.
+
+If a team member says that responsibilities were unclear, I should improve the process.
+
+If a decision created unnecessary difficulty, I should learn from it.
+
+Leadership should become better through feedback.
+
+I also want to measure leadership through outcomes.
+
+Did the team understand the objective?
+
+Did people have the resources they needed?
+
+Were problems communicated early?
+
+Did the project improve?
+
+Did team members develop?
+
+Did the work create value?
+
+These questions are more meaningful to me than simply asking whether I was considered the leader.
+
+The title matters less than the impact.
+
+Ultimately, I want to become a leader who makes other people more capable.
+
+If I lead a project, I want team members to leave with stronger skills.
+
+If I mentor someone, I want them to become independent.
+
+If I organise an initiative, I want others to feel confident taking responsibility.
+
+If I build a technical team, I want knowledge to be shared.
+
+This is leadership through service.
+
+It is not about standing above others.
+
+It is about helping people move forward together.
+
+My experiences in technology have taught me that no important project is created entirely by one person.
+
+Even individual projects depend on teachers, documentation, open-source communities, users, testers, and people who provide feedback.
+
+Recognising this makes collaboration feel natural.
+
+I want to build on that understanding.
+
+I want to become a strong individual contributor.
+
+I want to become a reliable teammate.
+
+And eventually, I want to become a responsible leader.
+
+These stages are connected.
+
+Technical competence creates credibility.
+
+Reliability creates trust.
+
+Communication creates coordination.
+
+Empathy creates stronger relationships.
+
+Accountability creates responsibility.
+
+Together, these qualities create leadership.
+
+As I prepare for higher education, I want to use every opportunity to develop them.
+
+I want to take responsibility for projects.
+
+I want to help classmates.
+
+I want to participate in research.
+
+I want to learn from experienced mentors.
+
+I want to practise communication.
+
+I want to listen to different perspectives.
+
+I want to learn from failure.
+
+And I want to remain willing to change my approach when circumstances require it.
+
+My long-term ambition is to contribute to artificial intelligence and software engineering.
+
+But I do not want my career to be defined only by technical achievements.
+
+I want to be remembered as someone who helped teams work better.
+
+Someone who encouraged others.
+
+Someone who accepted responsibility.
+
+Someone who listened.
+
+Someone who shared knowledge.
+
+Someone who made difficult decisions when necessary.
+
+And someone who used technology in ways that created meaningful value.
+
+I believe this is a more complete definition of leadership.
+
+Leadership is not simply being the person at the front.
+
+Sometimes it is being the person who stays behind to help someone catch up.
+
+Sometimes it is asking a question that allows the team to reconsider an assumption.
+
+Sometimes it is admitting a mistake before it becomes larger.
+
+Sometimes it is giving someone else the opportunity to take responsibility.
+
+Sometimes it is simply making sure that everyone understands where the team is going.
+
+These actions may not always be visible.
+
+But they create strong teams.
+
+I want to practise them.
+
+My education will give me technical knowledge.
+
+My projects will give me experience.
+
+My mentors will give me perspective.
+
+My teammates will teach me collaboration.
+
+Challenges will teach me resilience.
+
+And leadership experiences will teach me responsibility.
+
+I want to approach all of them with humility and curiosity.
+
+Ultimately, I do not want leadership to be something I claim.
+
+I want it to be something demonstrated through my actions.
+
+If people can trust me with responsibility, listen to me because I listen to them, and become stronger because I worked with them, then I will consider myself successful as a leader.
+
+The kind of leader I want to become is therefore simple to describe.
+
+I want to lead by serving.
+
+I want to decide by listening.
+
+I want to act by taking responsibility.
+
+I want to succeed by helping others succeed.
+
+And I want whatever authority I eventually receive to be used not to place myself above others, but to create opportunities for people to move forward together.
+
+That is the kind of leadership I hope to develop through higher education, engineering, and the work that follows.

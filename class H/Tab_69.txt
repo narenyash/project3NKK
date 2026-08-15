@@ -1,0 +1,70 @@
+Tab 41
+The strongest modern general-purpose AI systems are unable to reason faithfully [Valmeekam et al., 2023, Arora et al., 2023a]. My research goal is to build general purpose AI models which are capable of reasoning and planning.
+
+
+Learning to reason is hard. I believe there are multiple factors which contribute to this:
+
+
+1. “Predicting the next token from a corpus of text allows Language Models to learn a world model”. But which world model? This corpus is just a projection of the world model. Can neural networks discover the real “Chain-of-Thoughts” from learning through a supervised dataset? Research shows that neural methods can fail to discover the true generative process Zhang et al. [2022] behind reasoning.
+
+
+2. The capabilities of transformer based models seem to be limited, exhibiting a variability in capacities of learning different types of algorithms/structures [Dziri et al., 2023, Zhou et al., 2023]. What would be an architecture which allows true generalization to tasks requiring exact computations?
+
+
+3. LLMs have not been taught to explore. Exploration forms the basis of mathematical creativity and is necessary for a lot of tasks such as planning and proof generation. A feedback mechanism to LLMs from self-verification along with guided exploration is necessary in order to make them strong and creative reasoners which could, one day, help humans in research.
+
+
+My interest in this field has been a result of my past research experience in varied subjects, which I describe in the following section. I believe that my previous learnings will help me in my future endeavours.
+
+
+Research in Generalized Planning: My journey with ML research started during my third year of study at IIT Delhi with a project on Generalized Planning with Dr. Mausam and Dr. Parag Singla. The project’s goal was: given small training instances of a relational MDP from a particular domain, generalize to larger instances. A relational MDP is a first-order representation of a class of MDPs with varying number of objects, but a shared transition and reward function. We focused on learning a generalized policy which would give good rewards for all instantiations of the RMDP. The SymNet architecture, introduced previously, consisted of learning a GNN (Graph Neural Network) based policy on an instance graph, which was a graph representation of an MDP. Since the policy was parameterized by a GNN, it was size invariant.
+
+
+When I began working on SymNet, I noticed that training using Reinforcement Learning was unstable which made it hard to make any improvements to the underlying architecture. Pivoting to a more stable Imitation Learning approach unearthed a treasure trove of tractable problems. Representational inadequacy of the SymNet graph formulation was clear from our experiments. We decided to fix these by creating a new method of converting a relational MDP to a graph which alleviated the lack of representability in SymNet, and we came with the second version. Our experiments surprisingly revealed that SymNet2.0, unlike SymNet was able to beat its teacher on larger instances. This work got published in UAI 2022 [Sharma et al., 2022].
+
+
+However, SymNet2.0’s architecture was severely limited by the depth of the GNN used for learning. However, there existed a large class of problems which required “long-range dependencies”. The notion of distance in a relational MDP wasn’t well defined at that time. Coming up with a useful definition using Dynamic Bayesian Networks, we decided to implement a novel GNN architecture called SymNet3.0 which could incorporate these distances using intermediate GNN layers having all-pair attention using distances as edge features. In addition to our empirically grounded work, I was able to get theoretical guarantees on SymNet3.0 which added to its utility. This work got published at UAI 2023, [Sharma et al., 2023] with me as a co-first author.
+
+
+Research in Reasoning and Planning using LLMs: After my stint with Generalized planning, I decided to diversify. The field of “generative AI” was booming with GPT-3.5 coming out to the general public, and its inability to plan piqued my interest. I collaborated with Dr. Subbarao Kambhampati from ASU on this subject. I was curious if LLMs could even simulate a PDDL domain, let alone plan. My intuition was that maybe LLMs can plan if fine-tuned, unlike previous works which had tried prompting LLMs to generate plans. My experience with a small LM (GPT-2) revealed that even with fine-tuning, LMs hallucinate and generate invalid actions. How could we improve plans without resorting to external feedback? This was a question which bothered me and for this, I came up with a simple solution of learning verifiers from the same fine-tuning data on which the plan generation is trained by sampling negative data by choosing random actions. Surprisingly, this simple idea worked very well in practice, and we published a workshop paper [Arora and Kambhampati, 2023] in the ICML Workshop on Knowledge and Logical Reasoning in the Era of Data-driven Learning.
+
+
+Concurrently, I was also interested in more ‘tacit’ problem solving skills such as those present in mathematics and engineering. The JEE Advanced exam seemed like a perfect test-bench to evaluate GPT-4. We were pleasantly surprised by our initial results which showed that GPT-4’s performance was highly non-trivial. I decided to take the initiative to consolidate this research and approached Dr. Mausam with the research proposal. We curated the JEEBench dataset consisting of questions from past 8 years’ question papers and evaluated various LLMs on the dataset. I believed that more than the dataset, insights would be far more important for the research community. Significant human evaluation efforts were made to mine actionable insights, both qualitative and quantitative. We worked on a simple method to make the best out of an LLM under uncertainty posed by thresholding on confidence levels generated using self-consistency responses. In our work, we were probably the first to demonstrate that the “too-good-to-be-true” idea that LLMs can self-improve does not work. A lot of works in the near future came up with similar results! Our work got accepted at EMNLP 2023 [Arora et al., 2023a] and received generous reviews from reviewers and was covered by a national news paper (Hindustan Times).
+
+
+Research in Information Retrieval: At Microsoft Research, I’m currently working on an experimental approach of utilizing feedback from a retrieval system’s result to improve retrieval quality. In our recent work, with my mentor Nagarajan Natarajan we proposed a approach which merges GAR (Generation Augmented Retrieval) and RAG (Retrieval Augmented Generation) [Arora et al., 2023b]. We utilize an LLM as a meta-controller of a retriever which attempts to rewrite queries in order to adapt it to the retriever’s strengths.
+
+
+Future research goals: I find myself deeply intrigued by these areas of research and the PhD program at CMU would help me in exploring these hard problems. I want to (i) build a strong theoretical basis of the limits of machines which reason via learning, (ii) find better learners than Transformer based architectures, (iii) integrate curiosity and exploration into the fundamental learning cycle of LLMs and finally, (iv) build AI for collaborating with humans for research. My experience with generalized planning and planning using LLMs has given me important insights into the limits of reasoning via learning. Additionally, working on the JEEBench dataset has given me great intuition of the state-of-the-art of ML.
+
+
+At CMU, I would like to work with Prof. Yuanzhi Li, Prof. Aviral Kumar and Prof. Albert Gu. I am inspired by Prof. Li’s work on building small specialized models like Phi-1.5 [Li et al., 2023], the study of generalization properties in transformer type models [Jelassi et al., 2023] and the theoretical study of generalization in RL [Malik et al., 2021]. Prof Kumar’s work on offline RL [Kumar et al., 2022] and generalization in RL [Ghosh et al., 2021] is something I have followed and employed in my work on generalized planning. Prof. Gu’s work on Mamba [Gu and Dao, 2023] is very exciting because of the architecture’s improved performance and higher theoretical representability (Transformers v. RNNs).
+
+
+I hope my PhD program would be the most satisfying and fruitful endeavor of my career. Research gets me the most excited. I believe that exploratory research is thrilling and has transformatory potential. After my PhD, I wish to stay in academia since I believe universities have a more open-ended research agenda which allows more space for creativity. I am also excited about mentoring and teaching other students which I personally feel is invaluable.
+
+
+References
+Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, and Subbarao Kambhampati. Large language models still can’t plan (a benchmark for llms on planning and reasoning about change), 2023.
+Daman Arora, Himanshu Gaurav Singh, and Mausam. Have llms advanced enough? a challenging problem solving benchmark for large language models, 2023a.
+Honghua Zhang, Liunian Harold Li, Tao Meng, Kai-Wei Chang, and Guy Van den Broeck. On the paradox of learning to reason from data, 2022.
+
+
+Nouha Dziri, Ximing Lu, Melanie Sclar, Xiang Lorraine Li, Liwei Jiang, Bill Yuchen Lin, Peter West, Chandra Bhagavatula, Ronan Le Bras, Jena D. Hwang, Soumya Sanyal, Sean Welleck, Xiang Ren, Allyson Ettinger, Zaid Harchaoui, and Yejin Choi. Faith and fate: Limits of transformers on compositionality, 2023.
+Hattie Zhou, Arwen Bradley, Etai Littwin, Noam Razin, Omid Saremi, Josh Susskind, Samy Bengio, and Preetum Nakkiran. What algorithms can transformers learn? a study in length generalization, 2023.
+Vishal Sharma, Daman Arora, Florian Geißer, Mausam, and Parag Singla. Symnet 2.0: Effectively handling non-fluents and actions in generalized neural policies for rddl relational mdps. In James Cussens and Kun Zhang, editors, Proceedings of the Thirty-Eighth Conference on Uncertainty in Artificial Intelligence, volume 180 of Proceedings of Machine Learning Research, pages 1771–1781. PMLR, 01–05 Aug 2022. URL https://proceedings.mlr.press/v180/sharma22a.html.
+Vishal Sharma, Daman Arora, Mausam, and Parag Singla. SymNet 3.0: Exploiting long-range influences in learning generalized neural policies for relational MDPs. In Robin J. Evans and Ilya Shpitser, editors, Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, volume 216 of Proceedings of Machine Learning Research, pages 1921–1931. PMLR, 31 Jul–04 Aug 2023. URL https://proceedings.mlr.press/v216/sharma23c.html.
+
+
+Daman Arora and Subbarao Kambhampati. Learning and leveraging verifiers to improve planning capabilities of pre-trained language models, 2023.
+
+
+Daman Arora, Anush Kini, Sayak Ray Chowdhury, Nagarajan Natarajan, Gaurav Sinha, and Amit Sharma. Gar-meets-rag paradigm for zero-shot information retrieval, 2023b.
+Yuanzhi Li, Sébastien Bubeck, Ronen Eldan, Allie Del Giorno, Suriya Gunasekar, and Yin Tat Lee. Textbooks are all you need ii: phi-1.5 technical report, 2023.
+Samy Jelassi, Stéphane d’Ascoli, Carles Domingo-Enrich, Yuhuai Wu, Yuanzhi Li, and François Charton. Length generalization in arithmetic transformers, 2023.
+Dhruv Malik, Yuanzhi Li, and Pradeep Ravikumar. When is generalizable reinforcement learning tractable? In M. Ranzato, A. Beygelzimer, Y. Dauphin, P.S. Liang, and J. Wortman Vaughan, editors, Advances in Neural Information Processing Systems, volume 34, pages 8032–8045. Curran Associates, Inc., 2021. URL https://proceedings.neurips.cc/paper_files/paper/2021/file/437d46a857214c997956eaf0e3b21a55-Paper.pdf.
+Aviral Kumar, Joey Hong, Anikait Singh, and Sergey Levine. When should we prefer offline reinforcement learning over behavioral cloning?, 2022.
+
+
+Dibya Ghosh, Jad Rahme, Aviral Kumar, Amy Zhang, Ryan P Adams, and Sergey Levine. Why generalization in rl is difficult: Epistemic pomdps and implicit partial observability. In M. Ranzato, A. Beygelzimer, Y. Dauphin, P.S. Liang, and J. Wortman Vaughan, editors, Advances in Neural Information Processing Systems, volume 34, pages 25502–25515. Curran Associates, Inc., 2021. URL https://proceedings.neurips.cc/paper_files/paper/2021/file/d5ff135377d39f1de7372c95c74dd962-Paper.pdf.
+Albert Gu and Tri Dao. Mamba: Linear-time sequence modeling with selective state spaces, 2023.

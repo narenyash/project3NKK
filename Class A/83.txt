@@ -1,0 +1,574 @@
+
+I am a student with a strong interest in computer science, artificial intelligence, and software development. As I started building more applications and learning about modern software systems, I became interested in cloud computing. I find cloud computing useful because it allows applications, data, and computing resources to be accessed through the internet without requiring all the infrastructure to be managed locally.
+
+My interest in cloud computing developed through my experience with software projects. Initially, I mainly worked on applications that ran on my local computer. I could build the frontend, backend, and database and test everything in my development environment.
+
+However, when I wanted other people to access my applications, I realised that building the application was only one part of the process.
+
+The application also needed to be deployed.
+
+The backend needed to run on a server.
+
+The database needed to be accessible securely.
+
+The frontend needed to communicate with the backend.
+
+The system needed to remain available even when I was not running it from my own computer.
+
+This introduced me to cloud computing.
+
+I started learning about different types of cloud services and how applications can be deployed using cloud infrastructure.
+
+I found it interesting that developers do not always need to purchase and maintain physical servers themselves.
+
+Instead, they can use computing resources provided by cloud platforms.
+
+This makes it easier to develop and deploy applications.
+
+One of the first concepts I explored was cloud-based hosting.
+
+A web application can have its frontend hosted separately from its backend.
+
+The backend can run on a cloud server and communicate with a database.
+
+Users can then access the application through the internet.
+
+This helped me understand how the different parts of a software system communicate in a production environment.
+
+It also made me more interested in system architecture.
+
+When developing an application locally, everything can appear simple.
+
+The frontend communicates with the backend.
+
+The backend communicates with the database.
+
+However, a production application needs to consider many additional factors.
+
+It needs authentication.
+
+It needs security.
+
+It needs monitoring.
+
+It needs error handling.
+
+It needs scalability.
+
+It may need backups.
+
+It may also need to handle many users at the same time.
+
+Cloud computing provides tools that can help manage these requirements.
+
+I find this practical side of software engineering interesting.
+
+Another concept that interests me is scalability.
+
+A small application may only have a few users initially.
+
+As the number of users increases, the application may require more computing resources.
+
+Cloud platforms allow resources to be increased when necessary.
+
+This makes it possible for applications to grow without requiring the developer to purchase new physical infrastructure immediately.
+
+I want to understand how applications are designed to scale effectively.
+
+Scalability is not only about adding more servers.
+
+The application architecture also needs to support increased traffic.
+
+Databases may need optimisation.
+
+Caching may be required.
+
+Requests may need to be distributed across multiple servers.
+
+These concepts have made me interested in distributed systems.
+
+A distributed system consists of multiple components that work together.
+
+These components may be located on different servers or in different geographical regions.
+
+The system needs to communicate reliably even when individual components experience problems.
+
+I find this challenging because it requires thinking about failure.
+
+A server can stop working.
+
+A network connection can fail.
+
+A database can become unavailable.
+
+A request can take too long.
+
+A good system needs to handle these situations.
+
+This has changed the way I think about software development.
+
+Earlier, I mainly focused on whether my application worked when everything was functioning normally.
+
+Now I also think about what happens when something fails.
+
+Another area I find interesting is cloud storage.
+
+Applications often need to store files such as images, documents, videos, and other information.
+
+Cloud storage services allow these files to be stored remotely and accessed when required.
+
+This can be useful for applications that handle large amounts of media.
+
+I have worked with storage systems in projects and became interested in how files can be uploaded, stored, retrieved, and secured.
+
+Access control is particularly important.
+
+A file should not automatically become publicly accessible simply because it is stored in the cloud.
+
+Applications need appropriate permissions.
+
+This connects my interest in cloud computing with cybersecurity.
+
+Cloud security is another area I want to explore.
+
+Cloud infrastructure provides flexibility, but developers are still responsible for configuring many security settings correctly.
+
+Access permissions need to be controlled.
+
+Sensitive credentials need to be protected.
+
+Network access needs to be restricted appropriately.
+
+Data needs to be encrypted where necessary.
+
+Logs and monitoring can help identify unusual activity.
+
+A small configuration mistake can potentially create a serious security problem.
+
+This has taught me that cloud computing and cybersecurity are closely connected.
+
+Another concept I find interesting is virtualisation.
+
+Cloud platforms can provide virtual machines that behave like separate computers even though the underlying physical hardware may be shared.
+
+This allows computing resources to be used more efficiently.
+
+Learning about virtualisation helped me understand how cloud providers can support many customers using large data centres.
+
+It also introduced me to the idea that software can abstract away physical hardware.
+
+I find this concept interesting because it connects operating systems, networking, and cloud infrastructure.
+
+Containers are another technology that interests me.
+
+Containers allow applications and their dependencies to be packaged in a consistent environment.
+
+This can make it easier to move applications between development and production environments.
+
+It also helps teams maintain consistency.
+
+I have explored container-based development and want to learn more about how containers are used in large-scale systems.
+
+Another area I want to understand is container orchestration.
+
+When an application has many containers, manually managing each one can become difficult.
+
+Orchestration platforms can help deploy, scale, monitor, and manage containers.
+
+I want to learn more about these systems because they are important in modern cloud-native development.
+
+My interest in DevOps also developed from this.
+
+Software development and deployment are increasingly connected.
+
+Developers need to think about testing, deployment, monitoring, and maintenance rather than only writing code.
+
+Automation can help teams deploy changes more efficiently.
+
+Continuous integration and continuous deployment practices can reduce manual work and make development more reliable.
+
+I want to improve my understanding of these practices.
+
+Another important concept is infrastructure as code.
+
+Instead of configuring infrastructure manually, developers can define infrastructure using configuration files.
+
+This allows environments to be created consistently and changes to be tracked.
+
+I find this useful because it brings software engineering principles into infrastructure management.
+
+Version control, testing, and automation can all be applied to infrastructure.
+
+I want to explore this area further.
+
+Cloud computing is also closely connected to databases.
+
+Applications may use cloud-based databases to store information.
+
+Depending on the application, developers may choose relational or NoSQL databases.
+
+The choice depends on factors such as data structure, consistency requirements, scalability, and workload.
+
+My experience with SQL and MongoDB has given me a starting point for understanding these differences.
+
+I want to learn how databases are designed for larger production systems.
+
+Another area I want to explore is database availability.
+
+If a database becomes unavailable, an application may also stop functioning.
+
+Cloud systems can provide replication and backup mechanisms to improve availability.
+
+Understanding these systems can help developers design more reliable applications.
+
+I find reliability particularly important.
+
+An application may work perfectly during development but still fail when exposed to real-world conditions.
+
+Production systems need to handle unexpected problems.
+
+This is one of the reasons I want to learn more about cloud architecture.
+
+Another concept that interests me is load balancing.
+
+If many users access an application at the same time, sending every request to a single server may create a bottleneck.
+
+Load balancing can distribute requests across multiple servers.
+
+This can improve performance and availability.
+
+I want to understand how load balancing works and how it fits into larger application architectures.
+
+Caching is another technique that interests me.
+
+Some information is requested frequently and does not need to be generated or retrieved from the database every time.
+
+Caching can reduce repeated work and improve response times.
+
+However, cached information can become outdated.
+
+This creates a trade-off between performance and freshness.
+
+I find these types of engineering decisions interesting because there is rarely one solution that is best for every situation.
+
+Another area I want to learn about is serverless computing.
+
+Serverless platforms allow developers to run code without directly managing the underlying servers.
+
+The platform handles much of the infrastructure management.
+
+This can be useful for applications where workloads vary.
+
+However, serverless systems also have limitations and different architectural considerations.
+
+I want to understand when serverless computing is appropriate and when traditional server-based systems may be better.
+
+My interest in AI has also increased my interest in cloud computing.
+
+Modern AI models can require significant computing resources.
+
+Training large models may require specialised hardware such as GPUs.
+
+Cloud platforms can provide access to such resources without requiring individuals to purchase expensive hardware.
+
+This makes cloud computing useful for AI research and development.
+
+I have used cloud-based environments for machine learning experiments and found them useful for accessing additional computing resources.
+
+I want to learn more about cloud-based AI infrastructure.
+
+Another area that interests me is model deployment.
+
+Training a machine learning model is only one part of an AI application.
+
+The model needs to be integrated into a system where users can send inputs and receive predictions.
+
+This may involve an API, backend service, model server, database, and frontend.
+
+Cloud infrastructure can support these components.
+
+I want to learn how machine learning models are deployed efficiently and reliably.
+
+This connects with my interest in MLOps.
+
+MLOps combines machine learning with software engineering and operational practices.
+
+Models need to be versioned.
+
+Data pipelines need to be managed.
+
+Model performance needs to be monitored.
+
+New models may need to be deployed.
+
+Previous versions may need to be restored if problems occur.
+
+I find this area interesting because it connects AI with production engineering.
+
+Another important issue is cost.
+
+Cloud resources are convenient, but they are not unlimited or automatically free.
+
+Computing, storage, networking, and specialised hardware can all create costs.
+
+A poorly designed application may use more resources than necessary.
+
+Therefore, developers need to consider efficiency.
+
+I want to understand how cloud systems can be designed to balance performance and cost.
+
+This is especially important for startups and smaller organisations.
+
+Another area I want to explore is monitoring.
+
+A production application needs information about its performance and health.
+
+Monitoring systems can track CPU usage, memory, response times, errors, network activity, and other metrics.
+
+Logs can provide information about individual events.
+
+Together, these tools can help developers identify problems.
+
+I find monitoring interesting because it allows developers to understand what is happening inside a system after deployment.
+
+Observability is another concept I want to learn more about.
+
+A complex system can contain many services.
+
+When something goes wrong, developers need to determine where the problem occurred.
+
+Good observability can make this process easier.
+
+It can reduce the time required to identify and fix problems.
+
+I want to understand how modern cloud applications are designed with observability in mind.
+
+Another important area is reliability.
+
+Cloud applications should be designed to continue operating even when individual components fail.
+
+This may involve redundancy, backups, health checks, automatic recovery, and other techniques.
+
+I find reliability engineering interesting because it requires developers to think about failure before it occurs.
+
+This is a different mindset from simply building features.
+
+I want to develop this mindset.
+
+My interest in cloud computing has also made me more interested in networking.
+
+Applications running in the cloud communicate through networks.
+
+Understanding IP addresses, DNS, HTTP, routing, firewalls, and other concepts can help developers understand how their applications operate.
+
+I want to strengthen my networking knowledge because it provides an important foundation for cloud architecture.
+
+Another area I want to explore is content delivery.
+
+Applications used by people in different geographical locations may benefit from distributing content closer to users.
+
+Content delivery networks can help improve performance by serving static content from locations closer to the user.
+
+This is another example of how infrastructure can influence the user experience.
+
+I find this connection between backend architecture and frontend performance interesting.
+
+My experience with web development has made me particularly interested in this area.
+
+Another important topic is disaster recovery.
+
+Systems can experience major failures.
+
+Data centres can have problems.
+
+Software updates can introduce unexpected issues.
+
+Natural disasters or other events can affect infrastructure.
+
+Organisations therefore need strategies for recovering systems and data.
+
+Backups, redundancy, and recovery plans are important.
+
+I want to understand how large systems prepare for these situations.
+
+My interest in cloud computing has also made me think about environmental impact.
+
+Data centres require electricity and cooling.
+
+As cloud usage increases, energy efficiency becomes important.
+
+Efficient computing can reduce both costs and environmental impact.
+
+This connects cloud computing with my interest in renewable energy and environmental technology.
+
+I find this connection interesting because digital systems depend on physical infrastructure.
+
+Cloud computing may feel virtual to users, but it ultimately runs on real computers in real data centres.
+
+Understanding this helps me think more realistically about technology.
+
+Another area I want to explore is edge computing.
+
+Cloud computing provides centralised resources, but some applications may need processing closer to the user or device.
+
+This can reduce latency and bandwidth requirements.
+
+Edge computing can be particularly useful for IoT systems, autonomous systems, and real-time applications.
+
+I want to understand how cloud and edge computing can work together.
+
+My interest in IoT also connects with cloud platforms.
+
+Sensors can generate large amounts of data.
+
+Cloud systems can store and analyse this information.
+
+AI models can identify patterns.
+
+Applications can display the results.
+
+This creates a complete pipeline from physical data collection to intelligent decision-making.
+
+I find this type of system interesting because it combines several areas of technology I enjoy.
+
+Another important consideration is data privacy.
+
+Cloud services often store information on remote infrastructure.
+
+Organisations need to understand where their data is stored and who can access it.
+
+Appropriate security controls and policies are therefore important.
+
+This connects cloud computing with my interest in cybersecurity.
+
+I want to understand how cloud systems can be designed to protect sensitive information.
+
+My long-term goal is to work in AI and software engineering, and cloud computing is an important skill for these careers.
+
+Modern AI applications often depend on cloud infrastructure.
+
+Full-stack applications are commonly deployed using cloud services.
+
+Data science projects may require cloud-based storage and computing.
+
+Understanding cloud systems can therefore help me work across different areas of technology.
+
+I want to develop a strong foundation in this field.
+
+Higher education will provide opportunities to study computer networks, distributed systems, operating systems, databases, cloud computing, and software engineering.
+
+I also want to work on projects that involve deploying applications rather than only developing them locally.
+
+This practical experience would help me understand production systems better.
+
+I want to gain experience with cloud platforms and deployment tools.
+
+I also want to learn more about containers, infrastructure as code, CI/CD, monitoring, and cloud security.
+
+These skills are important for modern software development.
+
+Another goal is to gain industry experience through internships.
+
+Working with professional engineering teams would help me understand how cloud infrastructure is managed at scale.
+
+I want to learn how teams balance performance, cost, security, reliability, and development speed.
+
+These decisions are difficult to understand completely through theory alone.
+
+Practical experience would be valuable.
+
+I also want to continue participating in hackathons and technical projects.
+
+Deploying a working application during a hackathon can teach useful lessons.
+
+A project may work locally but fail during deployment.
+
+An API may become slow when multiple users access it.
+
+A database may need optimisation.
+
+These experiences help identify real engineering problems.
+
+I enjoy learning through such practical challenges.
+
+My interest in cloud computing has also changed how I think about software architecture.
+
+I now understand that an application is more than its code.
+
+The infrastructure supporting the application is also important.
+
+A complete system includes the application logic, databases, networks, storage, authentication, monitoring, deployment processes, and security controls.
+
+Understanding these components helps create more reliable systems.
+
+I want to continue developing this broader perspective.
+
+I know that cloud computing is a large field.
+
+There are many services, architectures, and technologies.
+
+I do not want to learn them only as a list of tools.
+
+I want to understand the underlying principles so that I can adapt to different platforms.
+
+Cloud providers and technologies can change over time.
+
+Strong fundamentals will help me continue learning new systems.
+
+This is an approach I want to follow throughout my career.
+
+My interest in cloud computing also connects with my goal of becoming a strong AI engineer.
+
+An AI application needs more than a model.
+
+It needs infrastructure.
+
+Data needs to be stored.
+
+Models need to be served.
+
+APIs need to be available.
+
+Users need secure access.
+
+Performance needs to be monitored.
+
+Costs need to be controlled.
+
+Cloud computing provides many of the tools required for this.
+
+I want to understand the complete process.
+
+For me, cloud computing is interesting because it connects software development with real-world infrastructure.
+
+It explains how applications that are developed by individuals or small teams can eventually serve large numbers of users.
+
+It also introduces challenges involving scalability, reliability, security, and cost.
+
+I enjoy solving these kinds of engineering problems.
+
+My long-term goal is to become a technology professional who can design and build complete systems.
+
+I want to combine software engineering, artificial intelligence, cloud computing, and cybersecurity.
+
+I believe this combination will help me create applications that are not only functional but also scalable and reliable.
+
+Higher education will give me an opportunity to strengthen these skills.
+
+I want to learn from faculty, collaborate with students, participate in technical projects, and gain practical experience.
+
+I also want to continue learning independently because cloud technology changes rapidly.
+
+New architectures and tools are introduced regularly.
+
+I want to understand these developments while maintaining a strong foundation in computer science.
+
+Ultimately, I want to use cloud computing as a foundation for building intelligent and reliable applications.
+
+I want to understand how systems are deployed, scaled, secured, and maintained.
+
+My interest in cloud computing has shown me that developing software does not end when the code is written.
+
+A successful application also requires reliable infrastructure and responsible engineering.
+
+That is why I want to continue learning about cloud computing and develop the skills required to build modern software systems.

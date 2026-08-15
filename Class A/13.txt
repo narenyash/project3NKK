@@ -1,0 +1,536 @@
+
+The first thing technology taught me was that nothing stays still for very long.
+
+A programming language that seems essential today can become less important tomorrow. A framework that everyone is excited about can be replaced by another. A tool that once required hours of work can eventually become automated.
+
+At first, this made me uncomfortable.
+
+I wanted to know what I should learn.
+
+I wanted a clear list.
+
+Learn these languages.
+
+Master these tools.
+
+Build these projects.
+
+Follow this path.
+
+The more I explored technology, however, the more I realized that there is no permanent list.
+
+The field keeps changing.
+
+Eventually, I understood that the goal of my education could not be to memorize a fixed set of technologies.
+
+It had to be learning how to adapt.
+
+That realization has become one of the most important parts of my development as a student.
+
+My first experiences with programming were relatively structured.
+
+I followed tutorials.
+
+I learned syntax.
+
+I completed small exercises.
+
+When I encountered a problem, I searched for an example that looked similar.
+
+This worked for a while.
+
+Then I started building projects that did not have step-by-step instructions.
+
+Suddenly, there was no tutorial for exactly what I wanted to do.
+
+I had to figure things out.
+
+That was uncomfortable at first.
+
+I would spend hours searching for an answer and find several contradictory explanations.
+
+One solution would work with one version of a library but fail with another.
+
+A tutorial might use an approach that was no longer recommended.
+
+Documentation might assume knowledge I did not yet have.
+
+I initially saw this as a problem with learning technology.
+
+Eventually, I realized that it was the nature of technology.
+
+There will always be unfamiliar systems.
+
+There will always be incomplete documentation.
+
+There will always be changing tools.
+
+The ability to adapt is therefore more valuable than knowing one specific tool perfectly.
+
+This changed the way I learn.
+
+Instead of trying to memorize every command, I began focusing on concepts.
+
+If I understood what an API was doing, I could learn a new framework more easily.
+
+If I understood how databases worked, I could adapt to different database technologies.
+
+If I understood the principles behind machine learning, I could experiment with different libraries.
+
+If I understood algorithms, I could learn new programming languages without starting from zero.
+
+Fundamentals became my anchor.
+
+Tools became replaceable.
+
+That distinction gave me more confidence.
+
+I no longer felt that learning something new meant starting over.
+
+It meant connecting the new information to what I already understood.
+
+This became particularly important when I started working across different areas of technology.
+
+I moved between frontend development, backend systems, databases, mobile applications, cloud services, and artificial intelligence.
+
+Each area had its own terminology and assumptions.
+
+Sometimes the transition was difficult.
+
+The way I thought about a frontend problem was different from the way I thought about a machine learning problem.
+
+A user interface required attention to interaction and design.
+
+A backend required attention to data and system behavior.
+
+A machine learning model required attention to datasets, training, evaluation, and uncertainty.
+
+At first, these differences felt like separate worlds.
+
+Eventually, I began seeing the connections.
+
+Every system still had inputs and outputs.
+
+Every system had constraints.
+
+Every system had failure modes.
+
+Every system needed testing.
+
+Every system existed to serve some purpose.
+
+The details changed.
+
+The underlying problem-solving process remained surprisingly similar.
+
+This helped me become more comfortable moving between disciplines.
+
+It also taught me that adaptability does not mean constantly changing direction.
+
+It means being able to change direction without losing the foundation.
+
+That distinction matters.
+
+A person who constantly abandons one subject for another may appear flexible but may never develop depth.
+
+A person who refuses to change may develop depth in something that is no longer useful.
+
+I want to find the balance.
+
+I want strong foundations combined with intellectual flexibility.
+
+This became particularly important as artificial intelligence began changing software development.
+
+Tools that could generate code, explain concepts, summarize documentation, and assist with debugging became increasingly accessible.
+
+At first, I wondered whether these tools would make programming less valuable.
+
+If a machine can generate code, why should someone learn to program?
+
+The more I used these tools, the more complicated the answer became.
+
+AI can generate code quickly.
+
+But generating code is not the same as understanding a system.
+
+A developer still needs to know whether the generated code is correct.
+
+They need to understand security implications.
+
+They need to recognize inefficient approaches.
+
+They need to test the result.
+
+They need to understand how the code fits into the larger architecture.
+
+AI changed the tools available to me.
+
+It did not eliminate the need for judgment.
+
+In some ways, it made judgment more important.
+
+When information becomes easier to generate, knowing how to evaluate information becomes more valuable.
+
+When code becomes easier to produce, knowing what code should be written becomes more important.
+
+When technology becomes easier to access, deciding where it should be used becomes more important.
+
+This experience changed the way I think about the future.
+
+I no longer want to prepare for one specific technological environment.
+
+I want to prepare for change itself.
+
+That means developing skills that remain useful even when tools evolve.
+
+Critical thinking.
+
+Problem solving.
+
+Communication.
+
+Mathematical reasoning.
+
+System design.
+
+Research.
+
+Adaptability.
+
+These skills are less likely to become obsolete.
+
+Another important lesson about adaptation came from working on projects with other people.
+
+A plan that looks perfect on paper often changes once development begins.
+
+A teammate may discover a problem.
+
+A feature may take longer than expected.
+
+A technology may not work as anticipated.
+
+A user may request something different.
+
+A deadline may move.
+
+The ability to continue working effectively under those conditions is a form of adaptability.
+
+I have learned that changing a plan does not necessarily mean the original plan was a failure.
+
+Sometimes the new information simply makes a better plan possible.
+
+This changed my relationship with planning.
+
+I still believe planning is important.
+
+But I no longer expect a plan to predict everything.
+
+A good plan provides direction.
+
+It does not eliminate uncertainty.
+
+This is particularly true in research.
+
+Research begins with incomplete knowledge.
+
+You may have a hypothesis.
+
+You may have a method.
+
+You may have an expected result.
+
+Then the experiment produces something unexpected.
+
+If you are unwilling to change your approach, the experiment becomes an obstacle.
+
+If you are willing to investigate the unexpected result, it can become the most interesting part of the work.
+
+I want to develop that ability.
+
+I want to be comfortable when reality does not match my prediction.
+
+Instead of immediately trying to force reality back into my original model, I want to ask why the difference exists.
+
+That attitude requires humility.
+
+It means accepting that my first interpretation may be wrong.
+
+It means being willing to learn from evidence.
+
+This has influenced how I think about artificial intelligence research.
+
+AI systems operate in environments that are often more complicated than their training data.
+
+A model may perform well under one set of conditions and poorly under another.
+
+A system may encounter inputs that its designers did not anticipate.
+
+A language model may encounter a cultural expression that it interprets incorrectly.
+
+A computer vision system may perform differently under unfamiliar lighting.
+
+These situations demonstrate why adaptability matters in intelligent systems as well as in the people who build them.
+
+I am particularly interested in systems that can recognize uncertainty and respond appropriately.
+
+An intelligent system should not always behave as if it is certain.
+
+Sometimes the best action is to ask for clarification.
+
+Sometimes it should request additional information.
+
+Sometimes it should defer to a human.
+
+Sometimes it should recognize that it is outside its intended operating conditions.
+
+This idea has influenced my view of what "intelligence" should mean.
+
+Being intelligent is not simply producing an answer.
+
+It is knowing when the answer may be unreliable.
+
+It is recognizing when circumstances have changed.
+
+It is adjusting behavior when new information becomes available.
+
+That is the kind of intelligence I find interesting.
+
+It is also the kind of adaptability I want to develop in myself.
+
+College will inevitably challenge many of my assumptions.
+
+I will encounter subjects that are harder than I expect.
+
+I will meet people with perspectives very different from mine.
+
+I will work on problems that require knowledge I do not yet have.
+
+I may change my interests.
+
+I may discover that a field I thought I wanted is not right for me.
+
+I may become passionate about something I have never studied before.
+
+I do not want to treat these possibilities as threats.
+
+I want to treat them as opportunities.
+
+The purpose of education is not to confirm everything I already believe.
+
+It is to expose me to ideas that can change what I believe.
+
+That is why adaptability matters to me.
+
+I want to enter college with direction but not rigidity.
+
+I know that I am interested in computer science.
+
+I know that artificial intelligence fascinates me.
+
+I know that I enjoy building systems.
+
+I know that I want to work on meaningful problems.
+
+But I do not want to decide that these interests can never evolve.
+
+Perhaps I will discover a research area that changes my plans.
+
+Perhaps I will become interested in a scientific field I have never considered.
+
+Perhaps I will find that the problem I want to solve requires knowledge from several disciplines.
+
+I want to be ready for that.
+
+My interest in technology has also taught me that change can be uncomfortable even when it is positive.
+
+When a familiar tool disappears, learning the replacement takes effort.
+
+When a project changes direction, previous work may become less useful.
+
+When expectations change, the first reaction can be frustration.
+
+I have experienced all of these things.
+
+But I have also learned that adapting quickly reduces the amount of time spent resisting reality.
+
+If a technology has changed, I can spend my energy complaining about the change or learning the new system.
+
+If a project needs to change, I can focus on what remains useful.
+
+If I discover that I am missing a skill, I can treat that gap as a learning target.
+
+This is not about pretending that change is always easy.
+
+It is about deciding what to do after change happens.
+
+That decision is where adaptability becomes a skill.
+
+One of the most useful habits I have developed is asking:
+
+"What remains true?"
+
+When technology changes, the underlying problem may remain the same.
+
+When a tool changes, the underlying concept may remain the same.
+
+When a project changes direction, the original goal may still matter.
+
+When a research result surprises me, the question may still be valuable.
+
+Finding what remains true gives me something stable to build on.
+
+This habit has helped me navigate unfamiliar situations.
+
+It also gives me a different perspective on uncertainty.
+
+Uncertainty used to make me want more information before beginning.
+
+Now I recognize that sometimes the only way to obtain the necessary information is to begin.
+
+You cannot always know which approach will work until you test it.
+
+You cannot always know what users need until you talk to them.
+
+You cannot always know what a dataset contains until you analyze it.
+
+You cannot always know whether a research idea is promising until you investigate it.
+
+Action creates information.
+
+That is one of the most useful lessons I have learned from building things.
+
+Start small.
+
+Observe.
+
+Adapt.
+
+Repeat.
+
+This approach has also made me more comfortable with experimentation.
+
+A prototype does not need to be perfect.
+
+Its purpose is to teach you something.
+
+If the prototype works, you learn what is possible.
+
+If it fails, you learn what needs to change.
+
+Either result can move the project forward.
+
+This mindset is something I want to carry into university research and future engineering work.
+
+I want to be someone who can work effectively when the answer is unclear.
+
+I want to be comfortable exploring several approaches.
+
+I want to know how to recognize when an idea should be improved and when it should be abandoned.
+
+I want to develop enough technical depth to understand complex systems and enough flexibility to learn new ones.
+
+My long-term goal is to work in artificial intelligence and software engineering.
+
+But I know that the exact technologies I will use are impossible to predict.
+
+The AI systems of the future may look very different from today's models.
+
+The interfaces we use may change.
+
+Computing architectures may evolve.
+
+New problems may become important.
+
+The best preparation is therefore not predicting the future perfectly.
+
+It is becoming capable of learning the future when it arrives.
+
+That is the kind of education I want.
+
+I want to understand principles deeply enough that I can adapt their application.
+
+I want to become comfortable entering unfamiliar technical environments.
+
+I want to learn how to teach myself.
+
+I want to collaborate with people who know things I do not.
+
+And I want to remain curious enough to see change as an invitation to learn rather than simply a disruption.
+
+Looking back, I realize that my journey through technology has been a series of adaptations.
+
+I learned one tool and then encountered another.
+
+I built one kind of application and then moved into another.
+
+I studied traditional programming and then explored machine learning.
+
+I learned to build interfaces and then became interested in the systems behind them.
+
+Each transition required me to let go of some assumptions and develop new ones.
+
+None of those changes erased what I had learned before.
+
+They expanded it.
+
+That is how I now think about education.
+
+Learning is not replacing old knowledge every time something new appears.
+
+It is building a structure that can support new knowledge.
+
+The stronger the foundation, the more confidently I can explore unfamiliar territory.
+
+That is why I want to study computer science deeply.
+
+I want the fundamentals that allow me to adapt.
+
+I want the mathematical foundation to understand new algorithms.
+
+I want the systems knowledge to understand new architectures.
+
+I want the research skills to evaluate new ideas.
+
+I want the communication skills to work with people from different disciplines.
+
+And I want the curiosity to keep asking questions.
+
+The future will change whether I am prepared for it or not.
+
+I cannot control which technologies emerge.
+
+I cannot predict every challenge I will encounter.
+
+I cannot know exactly what my career will look like years from now.
+
+But I can control how I respond.
+
+I can keep learning.
+
+I can remain open to evidence.
+
+I can question my assumptions.
+
+I can build new skills when old ones are no longer enough.
+
+I can change direction without losing sight of my values.
+
+That is what adaptability means to me.
+
+It is not constantly chasing what is new.
+
+It is having a strong enough foundation to remain useful when the world changes.
+
+I began learning technology because I wanted to understand how computers worked.
+
+Over time, technology taught me something much broader:
+
+The goal is not to know everything that exists today.
+
+The goal is to become capable of learning what exists tomorrow.
+
+That is the mindset I want to carry into college, into research, and eventually into my career.
+
+I do not know exactly what the future will require from me.
+
+But I want to be ready to learn it.

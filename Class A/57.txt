@@ -1,0 +1,814 @@
+
+Technology has become so deeply integrated into everyday life that it is easy to forget how quickly this transformation has occurred. A smartphone can provide access to information, communication, education, banking, entertainment, and services within seconds. Artificial intelligence can analyse large amounts of information, generate content, assist programmers, and support decision-making. Digital platforms connect people who may never meet physically.
+
+These developments represent remarkable progress. At the same time, they raise an important question: how should society use increasingly powerful technology responsibly?
+
+My interest in computer science began with curiosity about how technology works. As I have learned more about artificial intelligence and software engineering, my interest has expanded toward understanding what technology does to the people and systems around it. I have realised that creating a technically successful system is only one part of innovation. We also need to consider how it will be used, who will benefit, who may be excluded, and what unintended consequences it could create.
+
+This broader perspective has become an important part of how I think about my future as an engineer.
+
+When I first started learning programming, I primarily focused on functionality.
+
+Could I build the application?
+
+Could I make the feature work?
+
+Could I connect the database?
+
+Could I train the model?
+
+These were natural questions for someone learning technology.
+
+But eventually, I began asking additional questions.
+
+Who will use this system?
+
+Will it actually make their lives easier?
+
+What happens if it fails?
+
+What information does it collect?
+
+Can everyone access it?
+
+Does the system make assumptions about its users?
+
+These questions changed my understanding of engineering.
+
+A technology can be technically impressive and still be poorly designed for society.
+
+This is particularly relevant to artificial intelligence.
+
+AI systems are becoming increasingly capable. They can process information at a scale that would be difficult for individuals to manage. They can identify patterns, assist with decisions, translate languages, analyse images, and generate text.
+
+These capabilities create opportunities.
+
+AI can support education by providing personalised assistance.
+
+It can help businesses analyse information.
+
+It can support scientific research.
+
+It can assist people with disabilities.
+
+It can help automate repetitive tasks.
+
+It can contribute to healthcare and environmental monitoring.
+
+The potential is enormous.
+
+However, capability also creates responsibility.
+
+An AI system can produce an incorrect answer.
+
+A model can reflect limitations in its training data.
+
+A prediction can be misunderstood.
+
+An automated decision can affect someone unfairly.
+
+A system can be used in ways its developers did not anticipate.
+
+Therefore, responsible AI requires more than building accurate models.
+
+It requires understanding context.
+
+This is one of the reasons I want to study computer science deeply.
+
+I want to understand not only how intelligent systems are created, but also how they should be evaluated and deployed.
+
+Technology should be designed with its consequences in mind.
+
+One of the most important issues is access.
+
+Technological progress does not automatically benefit everyone equally.
+
+A powerful digital service may require a modern smartphone.
+
+An advanced application may depend on reliable internet access.
+
+A sophisticated AI tool may require expensive computing resources.
+
+A platform may only be available in a limited number of languages.
+
+These requirements can create barriers.
+
+India provides a particularly interesting context because of its diversity.
+
+The country contains highly connected urban centres as well as communities with different levels of digital access.
+
+People use many languages.
+
+Educational opportunities vary.
+
+Infrastructure differs between regions.
+
+Economic circumstances are not identical.
+
+A technology designed for one group cannot automatically be assumed to work equally well for everyone.
+
+This has made me interested in inclusive engineering.
+
+A system should consider the environment in which it will be used.
+
+If connectivity is unreliable, perhaps the application should support offline functionality.
+
+If users have limited technical experience, the interface should be simple.
+
+If language is a barrier, multilingual support may be necessary.
+
+If hardware is expensive, lightweight software may be more appropriate.
+
+These decisions may appear to be design details.
+
+They can determine whether technology is genuinely accessible.
+
+I want to understand these challenges through my education.
+
+Technology also affects education itself.
+
+Students today can access information more easily than previous generations.
+
+Online courses, digital libraries, educational platforms, and AI-based learning tools can provide opportunities beyond the traditional classroom.
+
+This can be transformative.
+
+A student in a location with limited educational resources may be able to access lectures from universities around the world.
+
+A learner struggling with a concept may find additional explanations online.
+
+A student can practise programming through interactive platforms.
+
+AI can potentially provide personalised assistance.
+
+However, technology cannot automatically replace good education.
+
+Information availability is not the same as understanding.
+
+Students still need guidance.
+
+They need critical thinking.
+
+They need opportunities to discuss ideas.
+
+They need feedback.
+
+They need motivation.
+
+They need to learn how to evaluate information.
+
+This distinction is important as AI becomes more common in education.
+
+An AI system can provide an answer immediately.
+
+But if a student simply copies the answer without understanding the reasoning, learning may actually decrease.
+
+The goal should not be to eliminate thinking.
+
+Technology should support thinking.
+
+I want to explore how AI can be used in education without weakening independent reasoning.
+
+This is an area where technology and human responsibility intersect.
+
+Another major issue is privacy.
+
+Digital systems often depend on data.
+
+Applications may collect information about users.
+
+Websites may track behaviour.
+
+AI systems may require large datasets.
+
+Personalisation can depend on understanding user preferences.
+
+These capabilities can provide useful services, but they also create responsibility.
+
+Users should understand what information is being collected and why.
+
+Data should be handled carefully.
+
+Security should be considered from the beginning rather than after a problem occurs.
+
+Engineers therefore have an important role in protecting privacy.
+
+This is one area where technical knowledge and ethics must work together.
+
+An engineer may know how to collect and process data.
+
+But they should also ask whether collecting it is necessary.
+
+Just because data can be collected does not mean it should be.
+
+This principle has influenced my understanding of responsible software development.
+
+I want to think about data minimisation, security, transparency, and user control when designing systems.
+
+Technology also changes employment.
+
+Automation can make organisations more efficient.
+
+Software can reduce repetitive manual work.
+
+AI can assist with tasks that previously required significant human effort.
+
+These developments can create new opportunities.
+
+They can also change existing jobs.
+
+Some tasks may disappear.
+
+Other tasks may evolve.
+
+New roles may emerge.
+
+This creates uncertainty.
+
+I do not think the appropriate response is to reject technological progress.
+
+Instead, society needs to prepare people for changing work.
+
+Education and reskilling become increasingly important.
+
+Workers need opportunities to develop new abilities.
+
+Organisations need to think about how technology affects employees.
+
+Technology should be introduced thoughtfully rather than treated only as a mechanism for reducing costs.
+
+As a future engineer, I want to understand this broader context.
+
+I want to contribute to technologies that augment human abilities rather than simply treating humans as obstacles to efficiency.
+
+There are many tasks where humans and machines can complement each other.
+
+Machines can process large datasets quickly.
+
+Humans can provide context and judgment.
+
+AI can identify patterns.
+
+Humans can evaluate whether those patterns matter.
+
+Automation can handle repetitive processes.
+
+Humans can focus on creative and interpersonal tasks.
+
+The most useful systems may combine these strengths.
+
+This is one reason human-centred AI interests me.
+
+Technology should support people.
+
+Another issue is trust.
+
+People are more likely to use systems they understand and trust.
+
+An AI model that produces unexplained recommendations may be difficult to accept in sensitive situations.
+
+A system that communicates its limitations clearly may be easier to use responsibly.
+
+This does not mean every AI model needs to explain every mathematical detail to every user.
+
+It means users should have appropriate information about what the system does, how reliable it is, and when human judgment is necessary.
+
+Communication becomes part of responsible engineering.
+
+This connects with my belief that engineers must be able to explain their work clearly.
+
+A technically sophisticated system can still cause problems if users misunderstand it.
+
+Therefore, transparency is important.
+
+Technology also affects how people communicate.
+
+Social media, messaging platforms, and video calls allow people to interact across distances.
+
+This has created opportunities for connection.
+
+Students can collaborate remotely.
+
+Families can stay in contact.
+
+Businesses can operate across regions.
+
+People can share knowledge quickly.
+
+But digital communication also creates challenges.
+
+Information can spread rapidly without being verified.
+
+People may misunderstand messages without context.
+
+Online interactions can influence social behaviour.
+
+Technology therefore changes not only what people can do, but also how they interact.
+
+Engineers who design communication platforms should recognise this responsibility.
+
+The design of a system can influence behaviour.
+
+Notifications can encourage repeated engagement.
+
+Recommendation algorithms can influence what users see.
+
+Interface choices can shape attention.
+
+These effects may not always be obvious.
+
+Therefore, engineers should consider behavioural consequences.
+
+This is another reason I want to study beyond pure implementation.
+
+Computer science increasingly intersects with psychology, sociology, economics, and ethics.
+
+The more powerful technology becomes, the more important these connections become.
+
+Environmental impact is another area where technology and society intersect.
+
+Digital systems require physical infrastructure.
+
+Data centres consume electricity.
+
+Electronic devices require materials.
+
+Manufacturing creates environmental costs.
+
+Artificial intelligence can require significant computational resources.
+
+Therefore, technological progress should also consider sustainability.
+
+Efficiency is not only about speed.
+
+It can also mean using fewer resources.
+
+An algorithm that requires less computation can reduce energy consumption.
+
+A system designed for longer hardware lifetimes can reduce waste.
+
+Cloud infrastructure can be optimised for efficiency.
+
+These are engineering decisions with environmental consequences.
+
+I want to learn how to consider such factors.
+
+Technology can also help address environmental challenges.
+
+Sensors can monitor pollution.
+
+Satellite imagery can support environmental analysis.
+
+AI can help identify patterns in climate and ecological data.
+
+Digital systems can support energy management.
+
+Technology is therefore both part of the environmental challenge and part of the potential solution.
+
+This complexity interests me.
+
+It demonstrates why technology cannot be considered in isolation.
+
+Another important issue is misinformation.
+
+The ability to generate realistic text, images, audio, and video is becoming increasingly accessible.
+
+These tools can support creativity.
+
+They can also make it easier to create misleading information.
+
+As AI-generated content becomes more common, people may need stronger digital literacy.
+
+They may need to ask where information came from.
+
+They may need to verify claims.
+
+They may need to recognise that realistic appearance does not guarantee authenticity.
+
+Technology companies and engineers also have responsibilities in this area.
+
+Systems can be designed with safeguards.
+
+Platforms can provide provenance information where appropriate.
+
+Users can be given tools to identify manipulated content.
+
+Education can help people evaluate information.
+
+Again, technical and social solutions need to work together.
+
+This reinforces my belief that engineers should understand the broader impact of their work.
+
+Technology can solve problems, but it can also introduce new ones.
+
+The goal is not to eliminate technology because it carries risks.
+
+The goal is to identify risks early and design responsibly.
+
+This is similar to software testing.
+
+A developer does not assume a system is reliable simply because it works under ideal conditions.
+
+They test unusual inputs.
+
+They look for failure cases.
+
+They evaluate security.
+
+They examine performance.
+
+Responsible technology development requires a similar mindset at the societal level.
+
+What could go wrong?
+
+Who could be affected?
+
+What assumptions are we making?
+
+What safeguards are necessary?
+
+What happens if the system is misused?
+
+These questions should be asked before deployment.
+
+I want to develop this mindset through my education.
+
+This is one reason I am interested in research.
+
+Research encourages systematic investigation.
+
+Instead of assuming that a technology will have a particular effect, researchers can study it.
+
+They can collect evidence.
+
+They can compare outcomes.
+
+They can identify limitations.
+
+They can revise their understanding.
+
+I want to learn how to approach technology with this evidence-based perspective.
+
+I also want to understand the role of policy.
+
+Engineers create technology, but society determines how technology is governed.
+
+Questions about data protection, AI safety, intellectual property, cybersecurity, and digital access cannot be answered through code alone.
+
+They require laws, standards, institutions, and public discussion.
+
+Engineers should understand these frameworks even if they are not policymakers.
+
+A developer working with sensitive data should know relevant obligations.
+
+A company deploying AI should understand regulatory expectations.
+
+A researcher should consider ethical requirements.
+
+Technical decisions exist within larger systems.
+
+I want to understand those systems.
+
+This does not mean that every engineer must become an expert in law or public policy.
+
+It means engineers should recognise when technical decisions have broader implications.
+
+They should collaborate with experts when necessary.
+
+This is another form of responsible leadership.
+
+My interest in technology has therefore expanded from "How can I build this?" to a larger set of questions.
+
+"Why should it be built?"
+
+"Who is it for?"
+
+"What could go wrong?"
+
+"Who might be excluded?"
+
+"What evidence supports its usefulness?"
+
+"How should it be evaluated?"
+
+"What responsibilities remain after deployment?"
+
+These questions have made engineering more meaningful to me.
+
+They have also made it more challenging.
+
+A purely technical problem can sometimes have a clear answer.
+
+A societal problem often has trade-offs.
+
+Improving convenience may create privacy concerns.
+
+Increasing automation may change employment.
+
+Increasing personalisation may require more data.
+
+Increasing AI capability may create new risks.
+
+There may not be one perfect solution.
+
+Engineers must therefore make informed decisions.
+
+This requires communication and collaboration.
+
+It also requires humility.
+
+An engineer should recognise the limits of their expertise.
+
+If a project affects health, they should consult healthcare professionals.
+
+If it affects education, they should understand educational contexts.
+
+If it affects environmental systems, they should work with domain experts.
+
+Technology should not replace domain knowledge.
+
+It should complement it.
+
+I want to develop this interdisciplinary approach.
+
+Higher education can provide an excellent environment for it.
+
+I want to study technical subjects deeply while also exploring the social implications of technology.
+
+I want to participate in research.
+
+I want to work on interdisciplinary projects.
+
+I want to learn from people in different fields.
+
+I want to understand how technical systems operate within real organisations and communities.
+
+These experiences can help me become a more responsible engineer.
+
+My long-term goal is to work in artificial intelligence and software engineering.
+
+I want to build intelligent systems that solve meaningful problems.
+
+But I do not want to measure success only through technical performance.
+
+A system can be fast and accurate while still being difficult to access.
+
+It can be innovative while creating unnecessary risks.
+
+It can be profitable while producing harmful side effects.
+
+Therefore, success should include usefulness, reliability, accessibility, and responsible deployment.
+
+This is the standard I want to work toward.
+
+I also want to contribute to technology that addresses practical challenges in India.
+
+The country has enormous opportunities for technology-driven innovation.
+
+Agriculture, education, healthcare, transportation, environmental monitoring, financial services, and public infrastructure all contain complex problems.
+
+AI and software can contribute to solutions.
+
+But solutions must be designed for actual conditions.
+
+A system that requires assumptions unrealistic for its users will not create meaningful impact.
+
+Understanding the local context is therefore essential.
+
+I want to learn how to combine global technological developments with local realities.
+
+This can produce more practical innovation.
+
+Technology should not simply be imported.
+
+It can be adapted.
+
+It can be redesigned.
+
+It can be developed locally.
+
+India's growing technology ecosystem provides opportunities for this kind of work.
+
+As a student, I want to contribute to it through learning, projects, research, and eventually professional work.
+
+I also believe students have a role in discussions about technology.
+
+We are not only future engineers.
+
+We are current users of technology.
+
+Our experiences can reveal problems.
+
+Students interact with educational platforms, digital services, AI tools, and communication systems every day.
+
+We can identify what works and what does not.
+
+This makes student perspectives valuable.
+
+I want to remain attentive to these experiences.
+
+At the same time, I want to avoid assuming that my personal experience represents everyone.
+
+Listening to different users is necessary.
+
+This is another reason human-centred design matters.
+
+Technology should be informed by diverse experiences.
+
+The future of technology will involve increasingly powerful systems.
+
+The question is not whether technology will continue advancing.
+
+It almost certainly will.
+
+The more important question is how society chooses to use that progress.
+
+Engineers will play a significant role.
+
+They will design systems.
+
+They will decide what data is collected.
+
+They will choose how models are evaluated.
+
+They will determine how interfaces behave.
+
+They will make decisions about security, reliability, and accessibility.
+
+These decisions may appear technical, but they can have social consequences.
+
+Therefore, technical competence should be accompanied by responsibility.
+
+This is the kind of education I want.
+
+I want to become technically strong.
+
+I want to understand algorithms and systems.
+
+I want to study AI and machine learning.
+
+I want to develop software.
+
+I want to conduct research.
+
+But I also want to understand the people affected by these technologies.
+
+I want to ask difficult questions.
+
+I want to evaluate evidence.
+
+I want to recognise limitations.
+
+I want to communicate responsibly.
+
+I want to design with accessibility and sustainability in mind.
+
+I want to understand when collaboration with experts is necessary.
+
+These goals will shape my academic development.
+
+Technology should ultimately improve human capability.
+
+The best systems do not simply demonstrate what machines can do.
+
+They help people do something better.
+
+They make information more accessible.
+
+They reduce unnecessary effort.
+
+They support decision-making.
+
+They connect people.
+
+They create opportunities.
+
+They help solve problems.
+
+This is the kind of technology I want to contribute to.
+
+I am optimistic about the future of technology.
+
+But I do not believe optimism should mean ignoring risks.
+
+Responsible optimism means recognising both possibilities and limitations.
+
+AI can create enormous benefits.
+
+It can also create new challenges.
+
+Digital systems can expand access.
+
+They can also create exclusion.
+
+Automation can increase productivity.
+
+It can also disrupt work.
+
+Data can enable personalisation.
+
+It can also create privacy risks.
+
+Technology can connect people.
+
+It can also influence behaviour in unintended ways.
+
+Understanding these contradictions is essential.
+
+I want to approach them with curiosity rather than fear.
+
+The role of an engineer is not to predict every consequence perfectly.
+
+That would be impossible.
+
+The role is to think carefully, test responsibly, listen to stakeholders, and improve systems when problems are identified.
+
+This is a process of continuous responsibility.
+
+I want to participate in it.
+
+As I look toward higher education, I see an opportunity to develop both technical ability and judgment.
+
+I want to learn from professors who can challenge my assumptions.
+
+I want to work with peers who have different perspectives.
+
+I want to participate in projects where technology meets real problems.
+
+I want to explore research questions.
+
+I want to learn how responsible systems are designed.
+
+I want to develop the ability to move from an idea to a tested solution while considering its broader consequences.
+
+This will prepare me not simply for a job, but for a career in which my decisions can affect other people.
+
+Ultimately, technology is created by people and used by people.
+
+It reflects the decisions, assumptions, values, and priorities of its creators.
+
+That means engineers have a responsibility to think beyond the code.
+
+A line of code can affect a user.
+
+A dataset can influence a model.
+
+A design decision can affect accessibility.
+
+A security decision can affect privacy.
+
+A deployment decision can affect trust.
+
+Small technical choices can have larger consequences.
+
+I want to develop the awareness necessary to recognise this.
+
+My ambition is to become an engineer who combines technical capability with social responsibility.
+
+I want to build systems that are useful.
+
+I want to understand their limitations.
+
+I want to evaluate their impact.
+
+I want to listen to the people who use them.
+
+I want to improve them when they fail.
+
+And I want to remain aware that technology is a means rather than an end.
+
+The purpose of engineering should ultimately be to create value for people.
+
+That value may come through education, healthcare, accessibility, productivity, scientific discovery, environmental protection, or other areas.
+
+The exact application may change.
+
+The principle remains.
+
+Technology should serve meaningful human needs.
+
+That is the kind of progress I believe is worth pursuing.
+
+As I continue my education, I want to keep asking not only what technology can do, but what it should do.
+
+I want to understand both its possibilities and its limitations.
+
+I want to build with curiosity.
+
+I want to test with discipline.
+
+I want to communicate with honesty.
+
+I want to design with empathy.
+
+And I want to take responsibility for the systems I help create.
+
+Technology will continue changing society.
+
+I hope to be part of that change.
+
+But I do not want to contribute simply because something is technically possible.
+
+I want to contribute because it is useful, responsible, and meaningful.
+
+For me, that is the difference between creating technology and creating progress.

@@ -1,0 +1,50 @@
+Tab 23
+Growing up bilingual in Basque and Spanish, I was always aware of the challenges and opportunities posed by low-resource languages (LRLs). These languages stand at the intersection of my passions: linguistics and technology. During my undergraduate degree, I discovered computational linguistics (CL) and natural language processing (NLP). As I became increasingly interested in the field, I participated in NLP seminars offered by the University of the Basque Country, where I worked on numerous downstream tasks. I saw how language study did not have to be an isolated endeavor but rather a dynamic discipline to work on the problems I envisioned. To reduce language barriers that prevent the technological representativeness of minority languages, a Ph.D. will allow me to tackle this interdisciplinary area and uncover my true potential as a researcher.
+
+
+A Multidisciplinary Approach. My initial interests revolved around semantics, pragmatics, and syntax. Yet, technology was always present, leading me to computational linguistics. As I observed the poor performance of language technologies for Basque, I was absorbed by the challenge of crafting methodologies that could uplift LRLs. I realized that developing an effective model training strategy for an isolated language such as Basque would be a personal victory and a new paradigm for many other LRLs. To do this, incorporating cognitive science can unveil more efficient solutions that increase the effectiveness of smaller datasets, a common limitation for LRLs. A Ph.D. integrating linguistics, CL, and cognitive science will help me acquire multidisciplinary skills that are critical for achieving my objectives.
+
+
+My Research. Thanks to working on projects that involved LRLs, I learned valuable techniques to address my original goal: give those languages a voice. In my first study, I used language models’ (LM) code-switching reproduction to assess their low-resource multilingual capabilities using Basque-English as a benchmark [4]. I evaluated models focusing on output naturalness, code-switching aptitude, and hallucination frequency. This study, which I will present at EMNLP WiNLP 2023, showed that some LMs coherently mixed Basque and English syntax and morphology. They also code-switched with Spanish and French when asked to reproduce conversations between native Basque speakers, languages not mentioned in the prompts. This reflected their cross-lingual capabilities and knowledge about language location in the real world.
+
+
+That sparked in me a fundamental curiosity about the hidden linguistic competencies of LMs. My discovery that models have accurate information on language in contact led me to work on how prompting can influence model responses. To do so, I compared the perplexity, ROGUE scores, length, lexical diversity (MTLD), human evaluations, and self-attention maps of role-playing and standard prompts [5]. My results showed that role-playing enhances the quality of generated text across several dimensions. With this project, (i) I got deep technical insights analyzing attention distributions of LMs and (ii) I reminded the importance of creativity to overcome dead-ends such as the ones faced by underrepresented languages.
+
+
+This trajectory led me to exciting new research questions that highlight the role of LRLs in AI safety: how are LRLs and prompting techniques connected? My preliminary results indicate that combining role-play prompting and LRLs (e.g., Haitian Creole or Quechua) can jailbreak state-of-the-art LMs (e.g., generate hate speech). I also found a correlation between the degree of representativeness and attack success rates. I will submit this study to NAACL 2024.
+
+
+In parallel to my academic path, I am working with Cohere for AI, a non-profit research lab led by Dr. Sara Hooker [3]. Here, I am the leader of the Basque group in a project aiming to build a state-of-the-art, open-source, multilingual dataset. At Cohere, I have had the opportunity to engage with NLP experts, sharpening my skills. This experience has enabled me to pursue my objective of LRL representativeness while expanding my network, allowing exchanges of ideas and collaboration opportunities. Furthermore, I have become adept at data curation and realized the importance of data quality. A fruit of my time at the lab has been the Visibility Project [6], a site I have founded designed to spotlight underrepresented languages by offering insights into their linguistic features and presence in NLP research.
+
+
+Collaborating with native LRL speakers in my research has deepened my understanding of linguistic diversity and its importance. Each of my experiences has contributed to my maturation as a researcher and improved my understanding of the research process. Collectively, these projects represent my commitment to advancing the field of CL, particularly for languages marginalized in technology.
+
+
+Future Projects and Broader Impact. Understanding language processing in the brain can open new research lines for efficient modeling approaches for underrepresented languages. Incorporating generative adversarial networks (GANs) presents a transformative advantage. GANs excel in generating high-quality, interpretable data from limited datasets [1], a pivotal capability for advancing language models in low-resource contexts. This interest leads me towards collaboration with Dr. Gašper Beguš. Building on his research, I aim to investigate these architectures, assessing their potential applications for LRL contexts. I would like to explore the similarities between predictive coding in speech perception [8] and the workings of GANs. Using an extension of the method proposed by Beguš and Zhao (2022) [2], I want to follow a comparative framework that maps EEG patterns to convolutional neural network feature maps. This study could reveal the extent to which GANs mimic human speech processing and how these models might be improved based on the brain’s approach to predictive coding.
+
+
+I am also interested in exploring how neural models can help us learn more about language. As a linguist, I have always been fascinated with Universal Grammar and the Poverty of the Stimulus (PoS) argument. With Dr. Terry Regier [7], I want to investigate how LMs learn as linguistic inductive biases are increased. This could offer new perspectives on the PoS argument and inform us whether some grammatical features are more readily learned. In this framework, I am excited about experimenting with artificial languages [9].
+
+
+Focusing on the dynamic intersection of linguistic representativeness, cognition, and computation, the projects I aim to develop at UC Berkeley articulate through technological justice. I see my research interests as different pieces that aim to achieve a fair linguistic representation in language technologies.
+
+
+Why UC Berkeley? Because UC Berkeley is at the vanguard of computational and traditional linguistics, it is an ideal place to continue my education. At UC Berkeley, I am able to explore the intersection of linguistics and cognitive science while continuing to explore low-resource languages. This integration aligns with my academic pursuits and provides multidisciplinary expertise, essential to adopt a comprehensive focus to tackle the problems I aim to solve. Doing research in separate subfields ensures rigorous training and allows me to explore the implications of my research in multiple fields, preparing me for a successful career in academia.
+
+
+My work has amply prepared me for doctoral studies, not only in my research abilities but also in my excitement to contribute to UC Berkeley’s forward-thinking and innovative academic environment.
+
+
+Grounded on my connection to low-resource languages, I aim to make a lasting contribution to computational linguistics, a field that has essential links to my lifelong goals and is strongly tied to my journey as a native Basque-Spanish bilingual.
+
+
+References
+[1] Beguš, G. (2022). Local and non-local dependency learning and emergence of rule-like representations in speech data by deep convolutional generative adversarial networks. Computer Speech & Language, 71:101244.
+[2] Beguš, G. and Zhou, A. (2022). Interpreting intermediate convolutional layers of generative cnns trained on waveforms. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 30:3214–3229.
+[3] Cohere (2023). Introducing aya: An open science initiative to accelerate multilingual ai progress. https://txt.cohere.com/aya-multilingual/.
+[4] Parra, I. (2023a). Do you speak basquenglish? assessing low-resource multilingual proficiency of pre-trained language models. In EMNLP The Seventh Widening Natural Language Processing Workshop (WiNLP).
+[5] Parra, I. (2023b). The turing test meets dungeons & dragons: A comparative study of role-playing and standard prompts in language models. Under Review in Transactions of the Association of Computational Linguistics.
+[6] Parra, I. (2023c). The visibility project. https://iparramartin.github.io/visibilityproject/.
+[7] Perfors, A., Tenenbaum, J. B., and Regier, T. (2011). The learnability of abstract syntactic principles. Cognition, 118(3):306–338.
+[8] Poeppel, D. and Monahan, P. J. (2011). Feedforward and feedback in speech perception: Revisiting analysis by synthesis. Language and cognitive processes, 26(7):935–951.
+[9] White, J. C. and Cotterell, R. (2021). Examining the inductive bias of neural language models with artificial languages.

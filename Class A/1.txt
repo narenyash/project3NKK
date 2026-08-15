@@ -1,0 +1,399 @@
+
+
+The most useful things I have built are not the ones that worked perfectly.
+
+Some of them crashed minutes before a demonstration. Some produced results that looked convincing until I tested them properly. Some solved a problem I later realized nobody actually had. Others were abandoned halfway through because the idea was stronger than my ability to implement it at the time.
+
+For a long time, I considered these projects failures.
+
+I wanted the clean version of engineering: an idea, a plan, an implementation, and a successful result. I thought good students were supposed to know what they were doing before they began. When something broke, I assumed it meant I had made a mistake.
+
+Programming gradually taught me something different.
+
+A mistake is not necessarily evidence that an idea was bad. Sometimes it is evidence that the idea has finally been tested.
+
+My relationship with failure began with a small program that should have been easy.
+
+I was trying to build a simple application that accepted information from a user, processed it, and displayed the result. I had followed tutorials, understood the basic logic, and was confident that the application would work.
+
+It did not.
+
+The program produced an error that I did not understand. I read the error message several times and still could not identify the problem. I changed one line, ran the program again, and received a different error. I changed another line and somehow created two new problems.
+
+For several hours, I felt as though I was fighting the computer.
+
+Eventually, I stopped trying random fixes and began tracing the program from the beginning. I examined what data entered the system, how it changed at each stage, and where the actual behavior differed from what I expected.
+
+The problem turned out to be embarrassingly small.
+
+But finding it changed something important.
+
+I realized that debugging was not about guessing what might be wrong. It was about developing a method for discovering what was wrong.
+
+That distinction became one of the most important lessons of my education.
+
+As my projects became more ambitious, the failures became more complicated.
+
+I began experimenting with machine learning. Unlike conventional programs, where I could often trace a sequence of instructions, machine learning systems introduced a different kind of uncertainty. I could provide data, select a model, train it, and receive a result without immediately understanding why the model behaved as it did.
+
+That was both exciting and frustrating.
+
+One of my early experiments involved training a model to classify images. The initial accuracy looked surprisingly good. I was excited by the number and immediately wanted to improve it further.
+
+Then I tested the model on images that were slightly different from the training examples.
+
+The performance dropped.
+
+At first, I thought the solution was obvious: use a more sophisticated model.
+
+So I did.
+
+The result improved somewhat, but the fundamental problem remained.
+
+I eventually realized that I had been asking the wrong question.
+
+I was asking, "How can I make the model more accurate?"
+
+I should have been asking, "Why is the model failing?"
+
+That change in perspective led me to examine my dataset. I looked at the examples I had collected, how they were distributed, how similar they were to one another, and whether they actually represented the conditions in which the model would eventually be used.
+
+I discovered that the data was much more limited than I had assumed.
+
+The model was not necessarily learning the concept I cared about. It was learning patterns that happened to correlate with the labels in my dataset.
+
+This was my first serious encounter with a problem that appears repeatedly in artificial intelligence: a system can perform well according to a measurement while still failing at the underlying task.
+
+That realization made me more careful.
+
+I began separating training data from validation and test data. I learned to examine errors rather than looking only at overall accuracy. I experimented with preprocessing and augmentation. I started asking whether my evaluation actually represented the real-world situation I cared about.
+
+Most importantly, I became less impressed by a successful number.
+
+A high accuracy score is useful.
+
+But understanding why the number is high is more useful.
+
+This lesson extended beyond machine learning.
+
+When I began developing full-stack applications, I encountered another kind of failure: the difference between something being technically functional and something being usable.
+
+A feature can work perfectly according to its code and still frustrate the person using it.
+
+I experienced this when developing an application that required users to navigate through several screens to complete what I thought was a straightforward task. From a developer's perspective, the flow made sense. Each screen had a purpose. Each API call worked.
+
+When someone unfamiliar with the application tried it, they hesitated.
+
+They did not know where to go next.
+
+Nothing was technically broken.
+
+Yet the application was failing.
+
+This was a different kind of debugging.
+
+I had to debug the experience rather than the code.
+
+I began watching how people interacted with the interface instead of explaining to them how I expected them to use it. I noticed where they paused, what they clicked first, and which instructions they ignored.
+
+This taught me something that technical courses cannot teach completely: the developer is not always the best judge of the product.
+
+When you build something yourself, you know its structure. You know what every button means. You know which sequence you intended.
+
+The user does not.
+
+That gap between intention and experience became something I started looking for in my projects.
+
+It also changed the way I respond to criticism.
+
+Earlier, when someone suggested that something I had built was confusing, my instinct was to explain why I had designed it that way.
+
+Now my first question is different:
+
+"What made it confusing?"
+
+The answer is usually more useful than defending the original decision.
+
+This change has also affected how I work with teams.
+
+During hackathons, there is rarely enough time to build everything. Teams have to decide what matters, what can be simplified, and what should be abandoned.
+
+I have learned that one of the hardest engineering decisions is deciding what not to build.
+
+It is tempting to keep adding features because a longer feature list feels like progress. But every additional feature introduces complexity. Complexity creates more possibilities for bugs, more interfaces to maintain, and more things that users must understand.
+
+A smaller system that solves one problem well can be more valuable than a complicated system that attempts to solve ten problems badly.
+
+I learned this through experience rather than theory.
+
+During one project, our initial plan included several advanced features. We imagined an impressive final demonstration with multiple integrations and automated processes.
+
+As development progressed, we realized that the foundational system was not stable enough to support all of them.
+
+We had two choices.
+
+We could continue adding features and hope the system would eventually come together.
+
+Or we could remove some of our ambitions and make the core experience reliable.
+
+We chose the second option.
+
+It was difficult because abandoning work feels like losing progress.
+
+But the final system was stronger because of it.
+
+That experience taught me that engineering is not the art of implementing every idea.
+
+It is the discipline of making decisions under constraints.
+
+Time is a constraint.
+
+Computing resources are constraints.
+
+Data is a constraint.
+
+Human attention is a constraint.
+
+Even a brilliant idea must operate within reality.
+
+This understanding became especially important as I worked with artificial intelligence.
+
+AI can make almost any project sound more impressive.
+
+It is easy to say that an application will use an intelligent model, automatically understand users, make predictions, generate recommendations, and coordinate multiple tasks.
+
+Building those capabilities reliably is much harder.
+
+The gap between an impressive demonstration and a dependable system is enormous.
+
+I became increasingly interested in that gap.
+
+What happens when an AI system receives unexpected input?
+
+What happens when the model is uncertain?
+
+What happens when an external service fails?
+
+What happens when the data changes?
+
+What happens when a user behaves differently from what the developer expected?
+
+These questions led me to think more like an engineer and less like someone simply trying to make a demonstration work.
+
+Reliability became interesting to me.
+
+I started considering error handling, validation, monitoring, fallbacks, logging, and testing as important parts of a project rather than boring details that came after the exciting part.
+
+This was another lesson that came from failure.
+
+A system that works only under ideal conditions is not truly finished.
+
+The more projects I built, the more comfortable I became with uncertainty.
+
+I began to understand that there are two different kinds of confidence.
+
+The first is the confidence that comes from believing you are right.
+
+The second is the confidence that comes from knowing how to proceed when you discover you are wrong.
+
+The second is much more valuable.
+
+I do not want an education that only rewards me for knowing the correct answer.
+
+I want an education that teaches me how to approach questions for which the correct answer is not yet known.
+
+This is one of the reasons I am drawn to engineering and research.
+
+In a textbook, the problem usually has an answer.
+
+In a real project, the problem itself may be unclear.
+
+You may not know which data matters.
+
+You may not know whether your approach will work.
+
+You may not know whether the user's actual needs match your assumptions.
+
+You may not even know whether the original problem has a technological solution.
+
+That uncertainty is not something I want to avoid.
+
+It is what makes the work meaningful.
+
+My academic journey has also taught me that failure can reveal gaps in knowledge that success hides.
+
+When I successfully complete a familiar programming task, I may not discover anything new about my abilities.
+
+When I attempt something beyond my current knowledge and fail, I immediately learn where I need to improve.
+
+This has changed the way I learn.
+
+Instead of waiting until I feel completely prepared before starting a difficult project, I increasingly prefer to begin with what I know and learn the missing pieces along the way.
+
+This approach has sometimes been uncomfortable.
+
+There have been projects where I had to learn a framework while simultaneously trying to build something with it. There have been technical concepts that initially seemed completely unfamiliar. There have been situations where documentation, tutorials, and examples did not directly solve the problem I was facing.
+
+But those experiences have given me a stronger sense of independence.
+
+I have learned how to break unfamiliar problems into smaller questions.
+
+Instead of asking, "How do I build this entire system?" I ask:
+
+"What is the smallest part I can make work?"
+
+Then:
+
+"What does that tell me?"
+
+Then:
+
+"What is failing now?"
+
+This process has become almost instinctive.
+
+It is also how I approach subjects outside programming.
+
+When something seems overwhelming, I try to reduce it to a problem that can be investigated.
+
+If I do not understand a mathematical concept, I look for the simplest example.
+
+If I do not understand a technical system, I trace its components.
+
+If I disagree with a result, I examine the assumptions behind it.
+
+If a project is not working, I try to identify the earliest point at which reality diverges from expectation.
+
+This habit of investigation is perhaps the most valuable thing I have gained from technology.
+
+It has made me more patient.
+
+It has also made me more comfortable saying, "I don't know."
+
+I used to associate not knowing something with weakness.
+
+Now I see it as the beginning of learning.
+
+There is a difference between not knowing and refusing to learn.
+
+The first is temporary.
+
+The second is a choice.
+
+I want to remain someone who chooses to learn.
+
+That attitude will matter in college because I know I will encounter subjects that are much more difficult than anything I have studied so far.
+
+I expect there will be algorithms I cannot immediately understand, mathematical proofs that take several attempts, research papers that seem inaccessible on the first reading, and projects that fail despite careful preparation.
+
+I do not expect college to be easy.
+
+I want it to be difficult in the right ways.
+
+I want to be surrounded by people who are better than me at things I have not yet mastered. I want professors to challenge conclusions that I have reached too quickly. I want teammates who will tell me when an idea is weak. I want research environments where failure is treated as information rather than embarrassment.
+
+I believe that environment will help me become a better engineer.
+
+My long-term goal is to work in artificial intelligence and software engineering, particularly on systems that solve practical problems. I am interested in building intelligent applications, reliable AI systems, and technologies that can be useful outside controlled demonstrations.
+
+But I do not want my career to be defined simply by the technologies I use.
+
+Technologies change.
+
+Programming languages change.
+
+Frameworks become obsolete.
+
+Models that are considered groundbreaking today may be replaced by something completely different tomorrow.
+
+The ability to learn, however, remains valuable.
+
+That is why I care so much about the process of building.
+
+Every project teaches me something different.
+
+A successful project teaches me what is possible.
+
+A failed project teaches me what I misunderstood.
+
+A difficult project teaches me what I need to learn.
+
+A collaborative project teaches me what I cannot learn alone.
+
+Together, these experiences have shaped my understanding of engineering.
+
+Engineering is not about avoiding failure.
+
+It is about creating systems where failure can be discovered, understood, and corrected before it becomes catastrophic.
+
+It is about testing assumptions.
+
+It is about measuring results.
+
+It is about listening to users.
+
+It is about knowing when to simplify.
+
+It is about accepting that the first version is rarely the final version.
+
+Most importantly, it is about continuing to improve.
+
+When I look back at the projects that once frustrated me, I no longer see a collection of mistakes.
+
+I see a record of how I learned.
+
+The broken application taught me to debug systematically.
+
+The inaccurate machine learning model taught me to question data and evaluation.
+
+The confusing interface taught me to design for users rather than for myself.
+
+The overambitious hackathon project taught me to prioritize.
+
+The difficult technical problems taught me how to learn independently.
+
+None of these lessons would have existed without something going wrong.
+
+That is why I no longer want to eliminate failure from my education.
+
+I want to become better at using it.
+
+The person I hope to become in college is not someone who always knows the answer.
+
+It is someone who knows how to find the answer.
+
+Not someone who never makes mistakes.
+
+Someone who notices mistakes early and learns from them.
+
+Not someone who always has the best idea.
+
+Someone willing to replace an idea when evidence shows that a better one exists.
+
+And not someone who builds technology simply because they can.
+
+Someone who asks whether it should be built, who it should serve, and how it can be made genuinely useful.
+
+The most important lesson my projects have taught me is simple:
+
+A failed experiment is not the opposite of progress.
+
+Sometimes, it is progress in its most useful form.
+
+Every error has the potential to reveal an assumption.
+
+Every unsuccessful experiment can produce a better question.
+
+Every difficult project can expose a skill that still needs to be developed.
+
+That is how I want to approach college.
+
+I want to experiment.
+
+I want to build.
+
+I want to fail.
+
+I want to understand why.
+
+And then I want to build again—better than before.

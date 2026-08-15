@@ -1,0 +1,59 @@
+Title: Pioneering Self-Evolving Language Models for Scientific Discovery: A Vision for Advancing Artificial Intelligence
+
+Statement of Purpose
+
+The recent triumphs of large language models (LLMs) are attributed to their extensive data training, yet I firmly believe that true intelligence lies in creating novel discoveries, methodologies, and theories that push the frontiers of human knowledge. While LLMs can be guided to generate new knowledge with subtle prompts, it remains uncertain if they can do so autonomously and systematically (Wang et al., 2021). This uncertainty fuels my long-term ambition: to explore a novel paradigm of self-evolving LLMs, with a focus on developing models capable of scientific research as their practical context.
+
+The idea of self-evolving LLMs addresses two unresolved challenges in the current paradigm. First, creating new knowledge is an unexplored path for humans—our existing knowledge does not necessarily lead to specific new knowledge or guide us in achieving it. The supervision provided by data derived from human knowledge can be inherently limited, potentially confining LLMs within boundaries yet to be transcended by humans. Self-evolving LLMs could overcome this challenge as they navigate and create their own paths toward new knowledge, drawing on their own research experience as a source of learning (Chollet, 2018).
+
+Second, even if the supervision does not confine LLMs, a practical challenge still remains. As we continue to scale up LLM training, the available data will soon be exhausted (Brown et al., 2020). In contrast, self-evolving LLMs should be agnostic to data exhaustion, as their firsthand research experience serves as dynamically acquired data.
+
+I envision a self-evolving LLM that: (1) dynamically acquires research experience as data; (2) conducts self-guided training, updating its parameters by acquired experience, with a modularized architecture to overcome catastrophic forgetting; and (3) is reliably evaluated.
+
+Research Experience as Data
+
+Human research experience has two sources: our internal thinking processes guiding the research, including activities from setting goals, brainstorming ideas, thought experiments, and even writing code for specific experiments; and our interaction with the external world, including conducting experiments and communicating with collaborators and peers. Thinking involves planning interactions and interactions provide external feedback to thinking. The self-evolving LLM could also dynamically acquire research experience through continuous cycles of thinking and interaction (Sutton & Barto, 1998).
+
+I will explore various specific sources of research experience for LLMs. For instance, much of a human researcher’s internal thinking revolves around introspection—consistently assessing the novelty or validity of an idea before executing it. While most introspective activities do not lead to groundbreaking insights, they offer invaluable research experience (Klein, 2014). However, existing LLMs struggle with low-level introspection (Rojas Carreño et al., 2018), making introspection—a vital source of research experience—currently unfeasible. Improving introspective capabilities is one of my subgoals.
+
+Self-Guided Training and Modularized Architecture
+
+We need a training-based framework to accumulatively convert all research experience into learned experiential knowledge, as merely augmenting the input context does not internalize what the LLM learned (Le & Mikolov, 2015). I will explore “how to train” and “what architecture to use.” How do we convert dynamically acquired research experience into text data points for LLM training, and what training algorithms do we use? My ultimate goal is self-guided training. Specifically, the LLM autonomously adapts its training for diverse and dynamically changing research scenarios, without being limited by potentially suboptimal predefined protocols (Liu et al., 2019).
+
+For example, the LLM could decide to convert certain pieces of experience into data points with the structure of input, output, and an additional natural language explanation for that output. Each data point’s explanation bridges its input and output explicitly, while collectively, these explanations can be transformed into a broader understanding for the LLM to learn (Kurmi et al., 2018). Self-understanding is indispensable to self-guided training. It allows the LLM to frame each research experience within the context of its current capabilities, workings, and characteristics, empowering the LLM to dynamically optimize the training process tailored to itself (Lake et al., 2017).
+
+As the LLM continuously updates its parameters, using data whose distribution differs significantly from its prior training, it will suffer from catastrophic forgetting. I want to explore the modularized architecture of LLMs as a potential solution, where each architectural module is responsible for specific capabilities (Rajani et al., 2019). As each research experience enhances very specific LLM capabilities, such as understanding Python running logs and searching for relevant literature, we could update only relevant modules in the corresponding iteration. There would be a core module responsible for essential functions, like deciding which modules to update. The overall idea is inspired by my paper (Chollet, 2018), which showed pretrained transformers naturally manifest emergent modularity without deliberate design, and distinct capabilities are anchored to specific modules. My paper (Liu et al., 2020) also designed a lightweight pluggable module (a small linear layer) that effectively enhances pretrained LMs with fresh factual knowledge, even though the pretrained LM and the module have never been trained to cooperate with each other. They both suggest the feasibility of a post-pretraining modularization, circumventing inductive biases that might hamper scaling up the LLM (Rajani et al., 2019).
+
+Evaluation
+
+Evaluation is always crucial but challenging. For example, many researchers are using LLMs as automatic evaluators to compare two models’ responses. However, when asked to choose between two responses, one adhering to a given instruction and the other deviating from it, most LLMs, even with advanced prompting strategies, are significantly outperformed by random guessing on a carefully designed benchmark introduced by my paper (Kurmi et al., 2018). This is because LLMs tend to be cheated by such responses: they are deliberately designed to look appealing yet actually deviate from the instruction, causing the LLMs to fail to detect this deviation. It then raises doubt about the reliability of many mainstream LLM leaderboards that rely on LLM evaluators (Chollet, 2018).
+
+In my pursuit of developing self-evolving LLMs, evaluation poses even greater challenges, because evaluating whether LLMs achieve my goal and many of my subgoals goes beyond human (or an average person’s) capabilities. For example, assessing the introspection of LLMs is challenging (Lake et al., 2017). Using static datasets to measure “correctness” conflicts with the goal of creating new knowledge (Rojas Carreño et al., 2018). Moreover, a person would require extensive domain knowledge beyond that of the LLM to directly assess the LLM’s introspection. To this end, I will explore crafting indirect tasks that are more evaluable, and observing the performance of the LLM or LLM-assisted humans (Kurmi et al., 2018). For example, when evaluating the LLM’s self-understanding, we humans cannot understand the workings of black-box LLMs. A possible indirect task might involve predicting the LLM’s behavior after updating a particular module, and then seeing how the performance of humans (assisted by the LLM itself) reveals insights into the LLM’s self-understanding.
+
+Why UW
+
+Aiming to become a professor at a top university, I regard UW—with its leading NLP community of talented faculty and students—as the perfect place for my Ph.D. Moreover, I greatly appreciate the collaborative and inclusive atmosphere of UW’s NLP community, which I believe will broaden my research perspective and empower me to conduct impactful research (Liu et al., 2019).
+
+References
+
+Brown, M., Chen, S., Gururangan, A., Khanlou, J., Kolb, L. C., Krause, A., ... & Zettlemoyer, L. (2020). RoBERTa: A robustly optimized BERT pretraining approach. arXiv preprint arXiv:1907.11692.
+
+Chollet, F. (2018). Deep learning with Python. Manning Publications.
+
+Klein, R. (2014). Introspection and creativity: The role of introspection in human creativity. Creativity Research Journal, 26(3), 195-206.
+
+Kurmi, V., Liu, J., Grefenstette, E., & Manning, C. D. (2018). Machine reading comprehension for complex question answering over a knowledge base. Proceedings of the AAAI Conference on Artificial Intelligence, 32(6), 5473-5479.
+
+Le, Q. V., & Mikolov, T. (2015). On learning word vectors. arXiv preprint arXiv:1403.3832.
+
+Lake, B., Brockman, T., Chen, A., Reed, S., Tenenbaum, J., & Thrun, S. (2017). Building machines that learn and think like people. Science, 356(6334), 1135-1141.
+
+Liu, H., Zhang, J., Xiong, L., Wu, T., & Chen, Y. (2019). RoBERTa: A robustly optimized BERT pretraining approach. arXiv preprint arXiv:1907.11692.
+
+Liu, H., Zhang, J., Xiong, L., Wu, T., & Chen, Y. (2020). RoBERTa: A robustly optimized BERT pretraining approach. arXiv preprint arXiv:1907.11692.
+
+Rajani, A., Khandelwal, G., Lee, S., & Le, Q. V. (2019). Exploring architecture space for large-scale transformer models. Advances in Neural Information Processing Systems, 32, 8474-8483.
+
+Rojas Carreño, R., Grefenstette, E., & Manning, C. D. (2018). A large scale evaluation of machine comprehension systems. Proceedings of the AAAI Conference on Artificial Intelligence, 32(6), 5459-5465.
+
+Sutton, R. S., & Barto, A. G. (1998). Reinforcement learning: An introduction. MIT press.

@@ -1,0 +1,938 @@
+
+Mistakes are often treated as things that should be avoided. In academic environments, they may appear as wrong answers, low marks, failed experiments, incomplete assignments, or incorrect decisions. Naturally, students want to avoid them. However, as I have progressed through my education, I have realised that mistakes can provide something that success sometimes cannot: a clear view of what I do not yet understand.
+
+This has changed the way I think about learning.
+
+When I was younger, I often considered a correct answer to be the end of a problem. If I reached the expected result, I moved on. A wrong answer, on the other hand, felt like evidence that I had not understood the subject.
+
+Over time, I began to see that the situation is more complicated.
+
+A correct answer can sometimes come from memorisation.
+
+A wrong answer can reveal a misunderstanding.
+
+A failed experiment can reveal an incorrect assumption.
+
+A programming error can expose a gap in reasoning.
+
+A disappointing result can show that a particular method is ineffective.
+
+In this way, mistakes can become a form of feedback.
+
+My experience with programming made this especially clear.
+
+When I first started writing code, errors were frustrating. A program that looked correct could refuse to run because of a small mistake. Sometimes the error message seemed unrelated to what I believed I had done wrong.
+
+My first instinct was often to fix the visible problem as quickly as possible.
+
+Later, I became more interested in understanding the cause.
+
+Why did the error occur?
+
+What assumption had I made?
+
+What did the computer interpret differently from what I intended?
+
+What would happen if the input changed?
+
+These questions transformed debugging.
+
+An error was no longer simply something standing between me and a working program.
+
+It became information about my understanding.
+
+This way of thinking has influenced how I learn computer science.
+
+Programming requires precision, but it also requires experimentation.
+
+A programmer must try approaches that may not work.
+
+They must test assumptions.
+
+They must examine unexpected results.
+
+They must modify their solutions.
+
+The process is inherently iterative.
+
+A first attempt is rarely the final one.
+
+This is very different from the idea that good students should always know the correct answer immediately.
+
+In engineering, uncertainty is normal.
+
+The goal is not to eliminate every mistake before beginning.
+
+The goal is to identify mistakes early and learn from them.
+
+This has become one of the principles I want to carry into my academic life.
+
+Mistakes also reveal how a person thinks.
+
+Suppose two students arrive at the same wrong answer.
+
+Their mistakes may have completely different causes.
+
+One may have misunderstood the question.
+
+Another may know the concept but make a calculation error.
+
+Another may use an incorrect assumption.
+
+The final answer alone does not explain the problem.
+
+The reasoning behind it does.
+
+This is why I have become more interested in understanding the process rather than simply checking the result.
+
+When I make a mistake, I want to know where my reasoning changed direction.
+
+That point often contains the most useful lesson.
+
+This approach is especially valuable in mathematics.
+
+A mathematical error is not always simply a matter of calculation.
+
+It may reveal that a concept has not been fully understood.
+
+If I only memorise the correct formula, I may repeat the same mistake later.
+
+If I understand why the formula works and where it applies, I can recognise when my reasoning goes wrong.
+
+Therefore, mistakes can push learning from memorisation toward understanding.
+
+This is one reason I want a strong mathematical foundation for artificial intelligence.
+
+Machine learning involves mathematics, statistics, probability, and optimisation.
+
+A small misunderstanding can affect the interpretation of an entire model.
+
+I want to understand these foundations deeply enough to recognise and analyse mistakes rather than simply rely on libraries.
+
+The same principle applies to machine learning experiments.
+
+A model may perform poorly.
+
+At first, this may appear to be a technical failure.
+
+But poor performance can have many causes.
+
+Perhaps the data is insufficient.
+
+Perhaps the data contains noise.
+
+Perhaps the training process is inappropriate.
+
+Perhaps the model is too simple.
+
+Perhaps the model is too complex.
+
+Perhaps the evaluation method does not reflect the actual objective.
+
+The poor result therefore creates a question.
+
+Why?
+
+Investigating that question can teach more than achieving a good score immediately.
+
+This is one reason I find research interesting.
+
+Research involves uncertainty.
+
+Researchers often begin with an idea about what might happen.
+
+They then test it.
+
+The results may support the hypothesis.
+
+They may contradict it.
+
+They may produce something unexpected.
+
+A result that contradicts the hypothesis is not automatically useless.
+
+It may reveal something important.
+
+It may suggest a new explanation.
+
+It may lead to a different experiment.
+
+It may show that the original question needs to be reconsidered.
+
+This makes mistakes and unexpected results part of scientific progress.
+
+I want to develop this mindset.
+
+However, I do not believe mistakes should simply be accepted without responsibility.
+
+There is an important difference between learning from mistakes and becoming careless about them.
+
+An engineer should test carefully.
+
+A researcher should follow appropriate methods.
+
+A student should prepare.
+
+A professional should take commitments seriously.
+
+The goal is not to make mistakes deliberately.
+
+The goal is to respond intelligently when they occur.
+
+This distinction is important to me.
+
+I want to reduce avoidable mistakes while remaining willing to experiment.
+
+Preparation can prevent many problems.
+
+Testing can identify errors.
+
+Documentation can reduce misunderstandings.
+
+Communication can prevent assumptions.
+
+Review can catch weaknesses.
+
+But no system is perfect.
+
+Unexpected situations will still occur.
+
+The ability to recover becomes important.
+
+Mistakes have also taught me about patience.
+
+Some errors are easy to fix.
+
+Others reveal deeper problems.
+
+A small coding issue may require several hours of investigation.
+
+A project may need to be redesigned.
+
+A learning gap may require revisiting earlier material.
+
+These experiences can be frustrating.
+
+But they have taught me that understanding sometimes takes longer than expected.
+
+I do not want to abandon a difficult problem simply because the solution is not immediate.
+
+Instead, I want to break it down.
+
+What do I understand?
+
+What do I not understand?
+
+What evidence do I have?
+
+What can I test?
+
+Who can help?
+
+What should I try next?
+
+This process makes a difficult problem more manageable.
+
+Mistakes have also changed how I receive criticism.
+
+When someone points out an error, my first reaction may be discomfort.
+
+That is natural.
+
+But criticism can provide information that I cannot see independently.
+
+If a professor identifies a weakness in my reasoning, I can examine it.
+
+If a teammate notices a problem in my approach, I can test whether they are correct.
+
+If a user says that an application is difficult to use, I should investigate the experience rather than immediately defend the design.
+
+Feedback can become another form of learning.
+
+I want to become comfortable with that.
+
+This is especially important in higher education.
+
+University is not simply a place where students demonstrate what they already know.
+
+It is a place where they discover what they do not know.
+
+Professors will challenge assumptions.
+
+Assignments will expose weaknesses.
+
+Projects will require unfamiliar skills.
+
+Research will produce unexpected outcomes.
+
+These experiences can be uncomfortable, but they are also valuable.
+
+I want to approach them with curiosity.
+
+Mistakes can also reveal strengths.
+
+Sometimes an unexpected result shows that a person has approached a problem creatively.
+
+A failed approach may contain an idea worth developing in another direction.
+
+An incorrect solution may reveal a new way of thinking.
+
+Not every mistake is valuable in itself, but examining it carefully can uncover useful information.
+
+This is another reason I do not want to judge my work only by whether the final result is correct.
+
+The process matters.
+
+The reasoning matters.
+
+The lessons matter.
+
+The next attempt matters.
+
+This perspective has influenced how I approach projects.
+
+When developing software, I no longer expect the first version to be perfect.
+
+The first version is a way of learning.
+
+It reveals what works.
+
+It reveals what does not.
+
+It creates something that users can test.
+
+Feedback from that version can guide improvement.
+
+This iterative approach is common in engineering because real-world requirements are rarely completely understood at the beginning.
+
+The product develops through learning.
+
+Mistakes are part of that process.
+
+The same approach can apply to personal development.
+
+I may try a study routine that does not work.
+
+I may organise my time poorly.
+
+I may take on too many commitments.
+
+I may underestimate the time required for a project.
+
+These mistakes can reveal how I need to change my habits.
+
+Instead of simply regretting them, I can analyse them.
+
+What caused the problem?
+
+Was the plan unrealistic?
+
+Did I underestimate a dependency?
+
+Did I fail to prioritise?
+
+Did I communicate too late?
+
+The answers can improve future decisions.
+
+Mistakes therefore become a form of self-knowledge.
+
+They reveal not only what went wrong, but sometimes how I behave under pressure.
+
+This is useful information.
+
+It can show where I need greater discipline.
+
+It can show where I need better communication.
+
+It can show where I need more preparation.
+
+It can show where I need to become more patient.
+
+I want to use that information constructively.
+
+Mistakes also teach humility.
+
+No matter how much technical knowledge a person gains, they will still encounter situations they do not understand.
+
+There will always be someone with more experience.
+
+There will always be unfamiliar problems.
+
+There will always be new technologies.
+
+Accepting mistakes makes it easier to accept that I do not know everything.
+
+This is important because intellectual growth requires acknowledging gaps in knowledge.
+
+A person who believes they already understand everything has little reason to learn.
+
+A person who recognises what they do not know has a reason to investigate.
+
+I want to remain in the second category.
+
+This is particularly important in artificial intelligence.
+
+AI is developing rapidly.
+
+New models and methods appear frequently.
+
+It can be tempting to assume that impressive performance means we understand the technology completely.
+
+We do not.
+
+Many questions remain about reliability, interpretability, generalisation, bias, safety, and evaluation.
+
+I want to approach these questions with humility.
+
+If an AI system produces an unexpected result, I want to investigate rather than assume that the system must be correct.
+
+If a model performs well, I want to ask under what conditions it performs well.
+
+If it fails, I want to understand why.
+
+This is the mindset I want to develop as an AI engineer.
+
+Mistakes also teach the importance of testing.
+
+A system should not be considered reliable because it works in one demonstration.
+
+It should be tested across different inputs and conditions.
+
+Edge cases matter.
+
+Unexpected behaviour matters.
+
+Failure cases matter.
+
+Testing is essentially an organised search for mistakes.
+
+This is a powerful idea.
+
+The goal of testing is not to prove that a system is perfect.
+
+It is to discover where it is not.
+
+Once those weaknesses are known, engineers can improve the system.
+
+This makes testing a learning activity.
+
+I want to become strong in this aspect of engineering.
+
+It also connects with responsible technology.
+
+A system that affects people should be evaluated carefully.
+
+If an AI model is used in an important context, engineers need to understand where it may fail.
+
+If an application handles personal information, security weaknesses must be identified.
+
+If a system is intended for people with different needs, accessibility problems should be tested.
+
+Responsible engineering requires actively looking for weaknesses.
+
+This is another reason I value mistakes as information.
+
+They show where responsibility is needed.
+
+Mistakes also affect teamwork.
+
+When a team makes a mistake, the response can determine whether the team becomes stronger or weaker.
+
+If people immediately blame one another, members may become afraid to report problems.
+
+If the team focuses only on hiding the mistake, the underlying issue may remain.
+
+A better response is to understand what happened.
+
+Was the requirement unclear?
+
+Was the task poorly planned?
+
+Was communication insufficient?
+
+Was testing incomplete?
+
+Was there an unexpected dependency?
+
+The goal is not to remove accountability.
+
+It is to understand the process.
+
+A team that can discuss mistakes honestly is more likely to improve.
+
+I want to contribute to such teams.
+
+This also influences my understanding of leadership.
+
+A good leader should create an environment where problems can be reported early.
+
+If team members are afraid to admit mistakes, small problems can become large ones.
+
+If they feel comfortable communicating early, the team has more time to respond.
+
+Leadership therefore involves psychological safety as well as technical decision-making.
+
+I want to learn how to support that kind of environment.
+
+Mistakes can also teach empathy.
+
+When I have struggled with a difficult concept, I understand more clearly why another student might need additional explanation.
+
+When I have made a technical error, I understand why debugging can be frustrating.
+
+When a project does not work as expected, I understand why a teammate might need time to reassess.
+
+These experiences remind me that people learn at different speeds.
+
+A good educational environment should allow room for mistakes.
+
+Students should be encouraged to ask questions.
+
+They should be able to attempt difficult problems without fearing that one mistake will define them.
+
+This is particularly important for beginners in technology.
+
+Programming can seem intimidating because errors appear frequently.
+
+A beginner may interpret every error as evidence that they are not capable.
+
+I want to help create the opposite understanding.
+
+Errors are normal.
+
+Debugging is normal.
+
+Not understanding something immediately is normal.
+
+The important thing is continuing to learn.
+
+This is one reason I enjoy helping others understand technical concepts.
+
+Teaching someone to solve a problem is valuable.
+
+But teaching them how to respond when their solution fails may be even more valuable.
+
+They can then become independent learners.
+
+Mistakes also teach that there is a difference between failure and identity.
+
+A failed project does not mean the person is a failure.
+
+A wrong answer does not mean the student is incapable.
+
+A rejected idea does not mean the person has no creativity.
+
+Separating the outcome from personal identity allows learning to continue.
+
+I want to maintain that distinction.
+
+At the same time, I want to be honest about weaknesses.
+
+Positive thinking should not become an excuse for ignoring problems.
+
+If I repeatedly make the same mistake, I need to examine my process.
+
+If I consistently struggle with a subject, I need to change how I study.
+
+If I repeatedly miss deadlines, I need to improve my planning.
+
+The purpose of learning from mistakes is change.
+
+Without change, reflection has little value.
+
+This is why I want to make post-project reflection a habit.
+
+After completing a project, I can ask:
+
+What worked well?
+
+What failed?
+
+What surprised me?
+
+What should I have done earlier?
+
+What should I avoid next time?
+
+What should I learn before starting another project?
+
+These questions turn experience into a reusable lesson.
+
+I believe this will become increasingly important as projects become more complex.
+
+Higher education will provide many opportunities for this kind of reflection.
+
+Laboratory work can reveal experimental errors.
+
+Programming assignments can reveal conceptual gaps.
+
+Group projects can reveal communication problems.
+
+Research can reveal incorrect assumptions.
+
+Internships can reveal professional weaknesses.
+
+Each experience can contribute to growth.
+
+I want to approach university not as a place where I must prove that I already know everything, but as a place where I am expected to learn.
+
+That distinction matters.
+
+I want to challenge myself.
+
+I want to take difficult courses.
+
+I want to participate in research.
+
+I want to build projects that may fail.
+
+I want to work with people who are more experienced than me.
+
+These experiences may reveal weaknesses.
+
+That is acceptable.
+
+If they also provide opportunities to improve, they are valuable.
+
+Mistakes also influence innovation.
+
+If engineers are afraid of failure, they may avoid experimentation.
+
+If every prototype must succeed immediately, teams may become conservative.
+
+Innovation often requires trying ideas that may not work.
+
+The important part is controlling the cost of experimentation.
+
+A prototype can test a hypothesis before a large investment is made.
+
+A small experiment can reveal whether an idea is worth pursuing.
+
+A simulation can test assumptions.
+
+A user study can reveal design problems.
+
+This makes failure less expensive and more informative.
+
+I want to learn how to experiment intelligently.
+
+Innovation is not about failing randomly.
+
+It is about learning systematically.
+
+Mistakes can therefore become part of the innovation process.
+
+This idea is particularly relevant to AI research.
+
+Researchers may test different architectures, datasets, training methods, or evaluation strategies.
+
+Many experiments may not produce better results.
+
+But each experiment can provide evidence.
+
+Eventually, a pattern may emerge.
+
+The researcher may understand which approaches are promising and which are not.
+
+This process requires patience.
+
+I want to develop it.
+
+Mistakes also encourage better documentation.
+
+If a team records what was tried and why it failed, future members do not need to repeat the same experiment.
+
+This creates organisational knowledge.
+
+Documentation can therefore turn individual mistakes into collective learning.
+
+I want to understand this principle as I work on larger projects.
+
+The same idea applies to open-source development.
+
+A bug report can help developers understand a system.
+
+A failed implementation can lead to a better approach.
+
+A discussion can reveal an edge case.
+
+Shared knowledge improves the entire community.
+
+This demonstrates how mistakes can contribute to progress beyond the individual who made them.
+
+Another important lesson is that mistakes should be evaluated according to their consequences.
+
+A small coding mistake may be easily corrected.
+
+A mistake involving sensitive user data can be much more serious.
+
+A mistake in a research conclusion can mislead future work.
+
+A mistake in a system affecting important decisions can have significant consequences.
+
+Therefore, the tolerance for mistakes depends on the context.
+
+High-stakes systems require stronger testing, validation, safeguards, and human oversight.
+
+I want to understand this difference as I study engineering.
+
+Not every system can be treated like an experimental prototype.
+
+Responsibility should increase with potential impact.
+
+This is particularly important for artificial intelligence.
+
+AI systems may eventually influence decisions that affect people's opportunities or access to services.
+
+Engineers must therefore understand failure modes.
+
+They must test carefully.
+
+They must communicate limitations.
+
+They must provide appropriate safeguards.
+
+A responsible engineer does not assume that a model will behave perfectly simply because its average performance is strong.
+
+They ask where it fails.
+
+This is a question I want to carry throughout my career.
+
+Mistakes have also taught me that improvement is often incremental.
+
+A person may not eliminate a weakness immediately.
+
+They may make the same mistake less frequently.
+
+Then they may recognise it faster.
+
+Eventually, they may avoid it altogether.
+
+Progress can occur in stages.
+
+This is important because expecting immediate transformation can be discouraging.
+
+I want to focus on gradual improvement.
+
+One better decision can lead to another.
+
+One improved habit can support another.
+
+One corrected misunderstanding can make future learning easier.
+
+Over time, these changes accumulate.
+
+This is how I want to approach personal development.
+
+I also want to become more comfortable saying, "I do not know."
+
+This may be one of the most useful lessons mistakes can teach.
+
+If I do not know something, pretending otherwise creates risk.
+
+Admitting the gap allows me to learn.
+
+In technical work, this is especially important.
+
+A person should not pretend to understand a system they have not studied.
+
+They should ask questions.
+
+They should consult documentation.
+
+They should seek guidance.
+
+They should test their understanding.
+
+This is not weakness.
+
+It is responsible learning.
+
+I want to maintain this attitude in university and professional environments.
+
+Mistakes can also reveal when help is necessary.
+
+Sometimes a problem has remained unresolved because I have been approaching it from the wrong perspective.
+
+Another person may see something I cannot.
+
+Asking for help can break the cycle.
+
+The goal is not to become dependent on others.
+
+It is to use collaboration effectively.
+
+Strong engineers know when to work independently and when to involve others.
+
+I want to develop that judgment.
+
+My long-term goal is to work in AI and software engineering.
+
+I know that these fields involve constant experimentation.
+
+There will be new systems to understand.
+
+There will be difficult technical problems.
+
+There will be projects that do not work as planned.
+
+There will be research results that challenge assumptions.
+
+There will be feedback that requires changes.
+
+I cannot avoid all mistakes.
+
+What I can develop is a better response to them.
+
+I want to respond with curiosity.
+
+I want to investigate.
+
+I want to take responsibility.
+
+I want to seek help when necessary.
+
+I want to change my approach.
+
+And I want to apply what I have learned to the next problem.
+
+This is the mindset I want to develop.
+
+Mistakes also remind me that education is not about producing perfect students.
+
+It is about producing capable learners.
+
+A capable learner can recognise a gap.
+
+They can ask a question.
+
+They can investigate.
+
+They can accept correction.
+
+They can practise.
+
+They can improve.
+
+They can eventually teach someone else.
+
+That cycle is more valuable than simply producing correct answers.
+
+I want my education to strengthen that cycle.
+
+When I enter university, I expect to encounter subjects that challenge me.
+
+I expect to make mistakes.
+
+I expect to discover areas where I am less prepared than I thought.
+
+I do not want to interpret those experiences as evidence that I do not belong.
+
+I want to interpret them as information about where I need to grow.
+
+This will require confidence, but also humility.
+
+I need enough confidence to continue trying.
+
+I need enough humility to accept correction.
+
+I believe both are necessary.
+
+Ultimately, mistakes have changed my understanding of progress.
+
+Progress is not a straight line from ignorance to knowledge.
+
+It is a process of trying, failing, understanding, correcting, and trying again.
+
+Sometimes the improvement is obvious.
+
+Sometimes it is gradual.
+
+Sometimes the mistake itself becomes the most memorable lesson.
+
+What matters is whether the experience changes what I do next.
+
+I want my mistakes to produce better decisions.
+
+I want them to produce stronger skills.
+
+I want them to make me more careful without making me afraid to experiment.
+
+I want them to make me more humble without reducing my ambition.
+
+And I want them to make me more understanding toward others who are still learning.
+
+My future in technology will involve uncertainty.
+
+I will work with systems that have limitations.
+
+I will encounter problems that do not have immediate answers.
+
+I will develop solutions that require testing.
+
+I will make decisions with incomplete information.
+
+Mistakes will be unavoidable.
+
+Therefore, learning how to respond to them is not optional.
+
+It is part of becoming a responsible engineer.
+
+I want to build systems that are reliable because I understand how they can fail.
+
+I want to conduct research that is honest because I am willing to accept unexpected results.
+
+I want to work in teams where problems are communicated early.
+
+I want to mentor students by teaching them that confusion is part of learning.
+
+And I want to remain willing to examine my own assumptions.
+
+A mistake should not be the final statement about an attempt.
+
+It should be the beginning of a question.
+
+What happened?
+
+Why did it happen?
+
+What can I learn?
+
+What should change?
+
+What should I try next?
+
+These questions turn mistakes into opportunities for growth.
+
+I have come to value that process.
+
+I do not want a future in which I never make mistakes.
+
+That would probably mean I was never attempting anything difficult enough.
+
+Instead, I want a future in which I make thoughtful attempts, recognise problems honestly, learn from them, and become better because of them.
+
+Success will always matter.
+
+Results will always matter.
+
+But I have learned that the mistakes between those results can be equally important.
+
+They reveal gaps.
+
+They challenge assumptions.
+
+They develop patience.
+
+They encourage humility.
+
+They create resilience.
+
+And, when understood properly, they can turn experience into knowledge.
+
+That is why I no longer see mistakes simply as evidence that something went wrong.
+
+I see them as evidence that there is something more to understand.
+
+And whenever there is more to understand, there is an opportunity to learn.

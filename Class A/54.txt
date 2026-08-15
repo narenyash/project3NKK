@@ -1,0 +1,962 @@
+
+My strongest academic habit did not begin with a textbook, a classroom, or an examination. It began with a question.
+
+Why?
+
+Why does a system behave in a particular way?
+
+Why does a program produce one result instead of another?
+
+Why does a technology that works well for one person fail for someone else?
+
+Why does a simple idea sometimes require a complicated solution?
+
+Why does an apparently successful system fail under different conditions?
+
+I have gradually realised that my habit of asking "why" has influenced almost every important part of my education. It has shaped my interest in computer science, artificial intelligence, research, and engineering. More importantly, it has changed the way I approach learning. I no longer want to learn only what something does. I want to understand why it works.
+
+This distinction became clear when I first started learning programming.
+
+At the beginning, programming seemed like a collection of instructions. I learned syntax, wrote small programs, and tried to reproduce examples from tutorials. When a program worked, I was satisfied.
+
+But eventually I began encountering situations where simply following examples was not enough.
+
+A program could produce an unexpected output.
+
+A small change could cause a different behaviour.
+
+Two approaches could solve the same problem but perform differently.
+
+I began asking why.
+
+Why did one approach require more time?
+
+Why did one solution use more memory?
+
+Why did a particular error occur?
+
+Why did changing one part of the program affect another?
+
+These questions pushed me beyond memorisation.
+
+I began looking for underlying principles.
+
+This made learning slower in some situations, but deeper.
+
+Instead of remembering one solution, I could understand the reasoning behind it.
+
+If I understood the principle, I could apply it to a new problem.
+
+That became one of the most valuable lessons of my education.
+
+Knowledge becomes more useful when it can be transferred.
+
+A student who memorises one algorithm can solve one familiar problem.
+
+A student who understands why the algorithm works can recognise situations where the same idea may apply.
+
+This is why I value conceptual understanding.
+
+Computer science is particularly suited to this way of thinking.
+
+Algorithms are not simply collections of steps.
+
+They represent ways of approaching problems.
+
+Data structures are not simply programming features.
+
+They provide different ways of organising information depending on what operations are important.
+
+Programming languages are not merely collections of syntax.
+
+They provide different abstractions for expressing computation.
+
+Understanding these ideas allows a student to move beyond individual tools.
+
+This matters because technology changes rapidly.
+
+A programming framework learned today may be replaced by another tomorrow.
+
+A particular library may become obsolete.
+
+An AI model may be replaced by a newer architecture.
+
+But the underlying ability to understand problems remains valuable.
+
+If I understand principles, I can learn new tools.
+
+That is why I want my education to focus strongly on fundamentals.
+
+My curiosity became even stronger when I encountered artificial intelligence.
+
+AI systems can produce outputs that sometimes seem surprising.
+
+A model can recognise patterns that are difficult for humans to describe explicitly.
+
+It can make predictions from large amounts of data.
+
+But this raises questions.
+
+Why does the model make this prediction?
+
+What information influenced it?
+
+How reliable is the prediction?
+
+What happens when the input changes?
+
+What kinds of data were used to train it?
+
+What does the model fail to understand?
+
+These questions make AI intellectually fascinating to me.
+
+The more I learn, the more questions appear.
+
+That is one of the characteristics I value most about the field.
+
+Learning does not eliminate curiosity.
+
+It creates better questions.
+
+When I knew little about machine learning, I was mostly interested in making models work.
+
+After learning more, I became interested in how models generalise.
+
+Then I became interested in data quality.
+
+Then evaluation.
+
+Then bias.
+
+Then interpretability.
+
+Then efficiency.
+
+Each answer created another question.
+
+I do not see this as a sign that learning is incomplete.
+
+I see it as evidence that knowledge has expanded.
+
+This is how I want to approach higher education.
+
+I do not expect university to provide every answer.
+
+I want it to teach me how to ask better questions.
+
+A good professor may answer a student's question.
+
+An excellent professor may help the student discover a deeper question behind it.
+
+I want to experience that kind of learning.
+
+Research particularly appeals to me for this reason.
+
+Research begins where certainty ends.
+
+There is something we do not fully understand.
+
+The researcher asks a question.
+
+They examine existing knowledge.
+
+They develop a hypothesis or research direction.
+
+They design experiments.
+
+They analyse evidence.
+
+They revise their understanding.
+
+The process is driven by curiosity.
+
+I want to participate in that process.
+
+I want to experience the difference between learning an established concept and investigating something that is not yet fully understood.
+
+This requires patience.
+
+Research questions rarely have immediate answers.
+
+Experiments may fail.
+
+Data may be noisy.
+
+Results may be inconclusive.
+
+A hypothesis may be wrong.
+
+But each outcome can provide information.
+
+The researcher continues asking questions.
+
+This is similar to debugging.
+
+When a program fails, the useful question is not simply, "How do I make the error disappear?"
+
+It is, "Why did this happen?"
+
+The same mindset can be applied to research.
+
+Why did the experiment produce this result?
+
+Why did the model perform differently on another dataset?
+
+Why did the expected relationship not appear?
+
+Curiosity turns failure into investigation.
+
+I want to maintain that habit.
+
+Curiosity also changes how I learn outside formal education.
+
+When I encounter a new technology, I want to understand how it works.
+
+When I read about a new AI system, I want to know what makes it different.
+
+When I see an interesting product, I wonder how its architecture might be designed.
+
+When I encounter a difficult problem, I want to understand its underlying structure.
+
+The internet provides enormous opportunities for this kind of independent learning.
+
+Documentation, research papers, tutorials, lectures, technical communities, and open-source projects allow students to explore beyond classroom material.
+
+I want to use these resources actively.
+
+However, independent learning also requires judgment.
+
+Not every source is equally reliable.
+
+A tutorial may simplify a concept too much.
+
+A social media post may contain incorrect information.
+
+A code example may work without explaining why.
+
+A research claim may require closer examination.
+
+Curiosity must therefore be combined with critical thinking.
+
+I want to learn how to distinguish evidence from opinion.
+
+I want to compare sources.
+
+I want to verify technical claims.
+
+I want to understand the assumptions behind conclusions.
+
+This will be especially important in artificial intelligence.
+
+The field changes quickly, and new claims appear constantly.
+
+A model may be described as revolutionary.
+
+A benchmark may show impressive results.
+
+A new technique may receive significant attention.
+
+But I want to ask what the evidence actually demonstrates.
+
+What dataset was used?
+
+What was the baseline?
+
+How was the evaluation conducted?
+
+What are the limitations?
+
+Does the result generalise?
+
+These questions help separate genuine progress from excitement.
+
+Curiosity therefore protects against passive acceptance.
+
+It encourages investigation.
+
+This is one reason I believe curiosity is an academic strength.
+
+It makes a student less satisfied with incomplete explanations.
+
+However, curiosity must also be disciplined.
+
+It is possible to ask endless questions without completing anything.
+
+A student can move from one interesting topic to another without developing depth.
+
+I have learned that curiosity needs direction.
+
+When I encounter an interesting question, I want to determine whether it is worth investigating deeply.
+
+What would I learn?
+
+What resources are available?
+
+Can I test the idea?
+
+Does it connect to my goals?
+
+Can I complete the investigation within my available time?
+
+These questions help turn curiosity into productive learning.
+
+This balance between exploration and focus will be important in university.
+
+I want to explore new areas without losing sight of my main academic direction.
+
+Computer science and artificial intelligence will remain my foundation.
+
+Within that foundation, I want to explore research areas that interest me.
+
+I may investigate machine learning.
+
+I may explore natural language processing.
+
+I may work with computer vision.
+
+I may study intelligent systems.
+
+I may discover an area I have not yet considered.
+
+I want to remain open.
+
+Curiosity also influences how I approach mathematics.
+
+Mathematics can sometimes seem difficult when it is taught only as a set of procedures.
+
+But when I understand why a mathematical relationship exists, the subject becomes more meaningful.
+
+For example, probability is not simply a collection of formulas.
+
+It provides a framework for reasoning about uncertainty.
+
+Statistics is not simply calculation.
+
+It provides tools for understanding data.
+
+Linear algebra is not merely matrix manipulation.
+
+It provides mathematical structures that appear throughout machine learning.
+
+Optimisation is not simply an algorithmic technique.
+
+It provides methods for finding better solutions under constraints.
+
+Understanding these connections makes mathematics more interesting.
+
+I want to develop stronger mathematical foundations because they will help me understand AI more deeply.
+
+Rather than treating mathematics as something separate from computer science, I want to understand how the two interact.
+
+This is another example of why I ask questions.
+
+Why is this equation useful?
+
+Why does this method converge?
+
+Why does changing this parameter affect the result?
+
+Why does this representation make the problem easier?
+
+Questions transform formulas into concepts.
+
+Curiosity also helps me understand people.
+
+Technology is ultimately created for people, so understanding their experiences matters.
+
+When someone struggles with an application, I want to know why.
+
+Is the interface confusing?
+
+Is the language unclear?
+
+Is the process too long?
+
+Is the user unfamiliar with the technology?
+
+Is the system failing to meet their actual need?
+
+These questions can lead to better design.
+
+This is why human-centred engineering interests me.
+
+A developer should not assume that the user's experience is obvious.
+
+They should investigate it.
+
+Ask questions.
+
+Observe behaviour.
+
+Collect feedback.
+
+Test alternatives.
+
+Improve.
+
+Curiosity therefore supports empathy.
+
+It encourages us to ask what another person is experiencing rather than assuming we already know.
+
+This is especially important when designing technology for diverse communities.
+
+Different users may interact with the same system differently.
+
+A feature that is convenient for one group may be difficult for another.
+
+A language assumption may exclude users.
+
+A hardware requirement may create an access barrier.
+
+A complex interface may discourage beginners.
+
+Curiosity encourages engineers to notice these differences.
+
+Why is this user struggling?
+
+What assumption did we make?
+
+How could the system adapt?
+
+I want to develop this perspective.
+
+Curiosity also supports creativity.
+
+When a person asks whether something can be done differently, they create the possibility of innovation.
+
+Many technological improvements begin with questions that challenge existing assumptions.
+
+Can this process be faster?
+
+Can this device use less energy?
+
+Can this system be more accessible?
+
+Can this model require less data?
+
+Can this interface be simpler?
+
+Can this repetitive task be automated?
+
+These questions do not guarantee useful innovations.
+
+But without questions, existing systems remain unchallenged.
+
+I want to develop the courage to ask them.
+
+At the same time, curiosity should not mean rejecting existing knowledge simply because it is established.
+
+Established methods often exist for good reasons.
+
+A mature learner asks why something is done a certain way before deciding whether it should change.
+
+They examine the evidence.
+
+They understand the constraints.
+
+They compare alternatives.
+
+Only then do they propose improvements.
+
+This is another reason I value fundamentals.
+
+Understanding existing methods makes meaningful innovation more likely.
+
+Curiosity also influences collaboration.
+
+When working with someone from another discipline, I may not understand their terminology or assumptions.
+
+Instead of pretending to understand, I can ask.
+
+Why is this constraint important?
+
+What does this measurement mean?
+
+Why does this process exist?
+
+What problem are you trying to solve?
+
+These questions can improve communication.
+
+They can also reveal connections between disciplines.
+
+An engineer may learn something from a scientist.
+
+A developer may learn something from a designer.
+
+A computer scientist may learn something from an educator.
+
+Curiosity creates these exchanges.
+
+I want to become comfortable asking questions even when I am not the expert in the room.
+
+This requires humility.
+
+A person who is afraid of appearing uninformed may avoid asking questions.
+
+But avoiding the question does not create understanding.
+
+I would rather admit that I do not know something and learn it.
+
+This attitude will be important in higher education.
+
+University will place me in situations where others know more than I do.
+
+That is one of the reasons I want to be there.
+
+If everyone around me already knew exactly what I know, there would be little opportunity for growth.
+
+I want to be challenged.
+
+I want professors to introduce ideas I have not encountered.
+
+I want classmates to approach problems differently.
+
+I want research to expose gaps in my understanding.
+
+I want those experiences to create new questions.
+
+Curiosity also makes lifelong learning possible.
+
+Formal education eventually ends.
+
+A degree has a defined duration.
+
+But technology does not stop changing when graduation arrives.
+
+Professionals must continue learning.
+
+New programming languages appear.
+
+New frameworks emerge.
+
+New AI methods are developed.
+
+Industry requirements change.
+
+Research advances.
+
+A person who stops learning may eventually become outdated.
+
+I want to develop a mindset in which learning continues naturally.
+
+When I encounter something unfamiliar, I do not want my first response to be avoidance.
+
+I want to ask:
+
+How does this work?
+
+Why is it useful?
+
+What should I learn first?
+
+Where can I find reliable information?
+
+How can I practise it?
+
+This mindset can make change less intimidating.
+
+Curiosity turns uncertainty into an invitation to learn.
+
+This will be important throughout my career.
+
+I also believe curiosity contributes to adaptability.
+
+If I understand principles rather than memorising tools, I can adapt when tools change.
+
+If I know how to investigate, I can learn unfamiliar systems.
+
+If I know how to evaluate evidence, I can make better decisions about new technologies.
+
+Therefore, curiosity and technical resilience are connected.
+
+I want to develop both.
+
+Curiosity also encourages reflection.
+
+After completing a project, I want to ask:
+
+What worked?
+
+What did not?
+
+What surprised me?
+
+What assumptions were wrong?
+
+What would I change?
+
+What did I learn?
+
+These questions turn experience into knowledge.
+
+Without reflection, experiences can pass without producing significant growth.
+
+I want to make reflection a regular part of my learning.
+
+This is especially important when projects fail.
+
+Failure can be frustrating, but curiosity changes the response.
+
+Instead of asking, "Why did I fail?" in a purely negative sense, I can ask, "What caused this outcome?"
+
+That question is more useful.
+
+It turns emotion into investigation.
+
+The answer may reveal a technical weakness, a planning problem, a misunderstanding, or an unrealistic assumption.
+
+Once the cause is understood, improvement becomes possible.
+
+This is why curiosity and resilience reinforce each other.
+
+Curiosity keeps me engaged when the answer is not obvious.
+
+I also want to bring curiosity into leadership.
+
+A good leader should not assume that they understand everything happening within a team.
+
+They should ask.
+
+What is blocking you?
+
+What could be improved?
+
+What information are we missing?
+
+What concerns have not been discussed?
+
+What ideas have we not considered?
+
+These questions can reveal problems early.
+
+They can also make team members feel heard.
+
+I want to become a leader who remains curious about both problems and people.
+
+Curiosity also supports responsible technology.
+
+Before deploying a system, an engineer should ask what could go wrong.
+
+Who could be affected?
+
+What happens under unusual conditions?
+
+What data is being collected?
+
+How will it be used?
+
+What assumptions are built into the system?
+
+What happens when the system fails?
+
+These questions help identify risks.
+
+A person who stops asking questions too early may miss important problems.
+
+I want to maintain that habit throughout my career.
+
+Artificial intelligence makes this particularly important.
+
+AI systems can influence decisions in areas such as education, healthcare, employment, finance, and public services.
+
+The more consequential the system, the more carefully it should be questioned.
+
+How accurate is it?
+
+How does it behave for different groups?
+
+What data was used?
+
+What are the failure cases?
+
+Can users challenge its decisions?
+
+Who is responsible when something goes wrong?
+
+These questions are not obstacles to innovation.
+
+They are part of responsible innovation.
+
+I want to explore them.
+
+Curiosity also influences my long-term career goals.
+
+I do not want to choose a career only because a field is popular.
+
+I want to understand the problems within that field.
+
+I want to know what researchers are discovering.
+
+I want to know what challenges remain.
+
+I want to understand where my abilities could contribute.
+
+This may lead me toward a specific research area in the future.
+
+I do not need to know that area with complete certainty today.
+
+What matters is developing the ability to explore intelligently.
+
+Higher education will provide the environment for that exploration.
+
+I want to participate in research laboratories.
+
+I want to attend seminars.
+
+I want to read papers.
+
+I want to work on technical projects.
+
+I want to discuss ideas with professors and students.
+
+Each experience can introduce new questions.
+
+I want to follow those questions far enough to discover where my interests become strongest.
+
+Curiosity also makes education more enjoyable.
+
+Learning becomes less about completing requirements and more about discovering possibilities.
+
+A difficult subject can become interesting when I understand why it matters.
+
+A complicated concept can become satisfying when its underlying structure becomes clear.
+
+A failed experiment can become valuable when it reveals something unexpected.
+
+This mindset can make challenging academic work more meaningful.
+
+I want to carry it with me.
+
+I also understand that curiosity can sometimes lead to uncomfortable answers.
+
+A question may reveal that my assumption was wrong.
+
+Research may contradict what I expected.
+
+A project may show that my preferred approach is ineffective.
+
+A person may challenge my perspective.
+
+I want to remain open in those situations.
+
+Curiosity is valuable only when the person asking the question is willing to accept the answer.
+
+Otherwise, questions become a way of defending existing beliefs.
+
+I want my curiosity to be genuine.
+
+If evidence contradicts my expectation, I should change my understanding.
+
+That is intellectual growth.
+
+This is particularly important in research.
+
+A researcher cannot choose conclusions first and then search for evidence to support them.
+
+The evidence must influence the conclusion.
+
+Curiosity should therefore be accompanied by intellectual honesty.
+
+I want to develop both.
+
+Another aspect of curiosity is noticing connections.
+
+A concept learned in one subject may help explain another.
+
+A software design principle may resemble a systems concept.
+
+A mathematical idea may appear in machine learning.
+
+A biological process may inspire an algorithm.
+
+A social problem may reveal a technical opportunity.
+
+These connections can create new ideas.
+
+I want to train myself to look for them.
+
+Interdisciplinary education can encourage this.
+
+If I study only one subject, I may become technically deep but miss useful connections.
+
+If I study too many subjects without depth, I may lack the expertise to contribute meaningfully.
+
+I want to balance both.
+
+Computer science and AI will provide depth.
+
+Exposure to other disciplines will provide context.
+
+Curiosity can connect them.
+
+Ultimately, I believe curiosity is one of the strongest foundations for innovation.
+
+Skills can be taught.
+
+Tools can be learned.
+
+Knowledge can be acquired.
+
+But the desire to understand can drive all three.
+
+A curious person does not stop at the first explanation.
+
+They investigate.
+
+They compare.
+
+They experiment.
+
+They ask.
+
+They reflect.
+
+They learn.
+
+I want to preserve this quality throughout my education.
+
+My goal is not to become someone who knows every answer.
+
+That would be impossible.
+
+I want to become someone who knows how to find answers and, more importantly, how to recognise when a better question needs to be asked.
+
+This distinction will guide my academic journey.
+
+I want to study computer science because I enjoy understanding systems.
+
+I want to study artificial intelligence because it raises difficult questions about learning, reasoning, and decision-making.
+
+I want to participate in research because it allows me to explore questions that do not yet have complete answers.
+
+I want to work on practical projects because they reveal how theories behave in real environments.
+
+I want to collaborate because other people can reveal perspectives I would not discover alone.
+
+And I want to continue learning because I know that technology will keep changing.
+
+The habit of asking "why" will remain useful throughout all of this.
+
+Why does the algorithm work?
+
+Why does the model fail?
+
+Why does the user behave differently?
+
+Why does the system need this feature?
+
+Why does this result matter?
+
+Why might this approach be better?
+
+Why might it be wrong?
+
+These questions create a continuous cycle of learning.
+
+They prevent complacency.
+
+They encourage investigation.
+
+They create opportunities for improvement.
+
+I want that cycle to become part of my professional identity.
+
+When I eventually work as an engineer, I want to remain curious even when I become experienced.
+
+Experience should not eliminate questions.
+
+It should make the questions better.
+
+A junior engineer may ask how a system works.
+
+An experienced engineer may ask why it was designed that way.
+
+A senior engineer may ask whether the system should exist in its current form at all.
+
+Each level requires deeper questioning.
+
+I want to continue developing that depth.
+
+Curiosity will also help me remain humble.
+
+There will always be subjects I do not understand.
+
+There will always be people who know more.
+
+There will always be new technologies.
+
+There will always be unanswered questions.
+
+Instead of seeing this as intimidating, I want to see it as a reason to keep learning.
+
+Knowledge is not a destination.
+
+It is a process.
+
+The more I learn, the more clearly I can see what remains unknown.
+
+That is not discouraging.
+
+It is motivating.
+
+It means there will always be something new to investigate.
+
+Ultimately, I believe the most important thing education can preserve in a student is not the ability to remember everything they have been taught.
+
+It is the desire to keep asking questions after the course ends.
+
+I want to graduate with strong technical foundations.
+
+But I also want to graduate with stronger curiosity than I have today.
+
+I want to be comfortable entering unfamiliar territory.
+
+I want to ask questions without fear.
+
+I want to investigate before assuming.
+
+I want to challenge my own conclusions.
+
+I want to remain open to evidence.
+
+And I want to continue learning long after formal education is complete.
+
+My future career may take me into areas of technology that I cannot currently predict.
+
+That uncertainty does not concern me.
+
+It excites me.
+
+There will be new problems.
+
+New systems.
+
+New research.
+
+New challenges.
+
+New opportunities.
+
+And new questions.
+
+I want to be ready for them.
+
+Not because I will already know the answers, but because I will know how to begin looking.
+
+That is the value of curiosity.
+
+It turns uncertainty into possibility.
+
+It turns difficulty into investigation.
+
+It turns knowledge into further questions.
+
+And it turns education from a period of study into a lifelong habit.
+
+For me, learning begins with a simple question.
+
+**Why?**
+
+I intend to keep asking it.

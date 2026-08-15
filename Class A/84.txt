@@ -1,0 +1,536 @@
+
+I am a student with a strong interest in computer science, artificial intelligence, and software development. Among the different areas of artificial intelligence that I have explored, computer vision is one of the areas that interests me the most. I find it interesting because it allows computers to process images and videos and extract useful information from visual data.
+
+My interest in computer vision developed when I started learning about machine learning. Initially, I was mainly interested in how computers could learn patterns from numerical and textual data. When I learned that similar techniques could be used to understand images, I became curious about how a computer could identify objects, recognise patterns, and interpret visual information.
+
+An image looks simple to a person, but for a computer it is represented as numerical information.
+
+A digital image contains pixels, and each pixel contains values that represent characteristics such as colour and intensity.
+
+Machine learning models can process these values and learn patterns from large collections of images.
+
+I found this process interesting because it shows how something that humans understand naturally can require complex computation for a machine.
+
+One of the first computer vision concepts I explored was image classification.
+
+In image classification, a model learns to assign an image to a particular category.
+
+For example, a model could be trained to distinguish between different types of objects.
+
+The model learns patterns from training examples and then attempts to classify images it has not seen before.
+
+This introduced me to the importance of training data.
+
+If the dataset is too small or does not contain enough variation, the model may not perform well on new images.
+
+This taught me that machine learning performance depends heavily on the quality of the data.
+
+Another concept that interested me was object detection.
+
+Classification can tell us what an image contains, but object detection can also identify where an object is located within the image.
+
+This makes the problem more complex.
+
+The model needs to identify both the object and its position.
+
+I found this useful for understanding how computer vision can be applied to real-world environments.
+
+For example, cameras can be used to monitor roads, factories, agricultural fields, or other locations.
+
+I have also become interested in image segmentation.
+
+Segmentation involves identifying specific regions or pixels within an image.
+
+This can be useful when the exact shape or location of an object is important.
+
+Medical imaging is one example where segmentation can be useful.
+
+Agricultural applications can also use segmentation to identify parts of plants or areas of crops.
+
+Learning about these different computer vision tasks helped me understand that visual AI is not limited to simply identifying objects.
+
+Different problems require different approaches.
+
+Another area I find interesting is convolutional neural networks.
+
+CNNs became an important part of my understanding of computer vision because they are designed to learn patterns from images.
+
+They can identify simple visual features and gradually combine them into more complex representations.
+
+This process helped me understand how deep learning models can learn useful features from images instead of requiring every feature to be manually defined.
+
+I want to study the mathematical and technical foundations of these models more deeply.
+
+My interest in computer vision has also encouraged me to learn about data augmentation.
+
+When training image models, it can be useful to create variations of existing images through transformations such as rotation, cropping, or changes in brightness.
+
+This can help a model become more robust to different conditions.
+
+I find this important because real-world images are rarely identical to training images.
+
+A camera may capture an object from a different angle.
+
+Lighting may change.
+
+The background may be different.
+
+The object itself may vary.
+
+A useful computer vision system needs to handle such differences.
+
+This is one of the main challenges I want to understand better.
+
+Another important issue is generalisation.
+
+A model may achieve high accuracy on a particular dataset but perform poorly when used with images from a different source.
+
+For example, a model trained using high-quality laboratory images may struggle with photographs taken in natural environments.
+
+This has taught me that testing should reflect the conditions in which a system will actually be used.
+
+I want to learn more about designing realistic evaluations.
+
+Computer vision is also closely connected to my interest in healthcare technology.
+
+Medical images contain valuable information that can potentially be analysed using AI.
+
+Computer vision models can be used to classify images, detect patterns, or segment regions of interest.
+
+I have explored medical image-related projects and found this area interesting because it combines machine learning with a practical application.
+
+However, healthcare applications require careful validation.
+
+A model should not be treated as a replacement for a medical professional.
+
+It can potentially provide additional information or support analysis.
+
+This distinction is important to me.
+
+Another application of computer vision that interests me is agriculture.
+
+Images of crops and leaves can provide information about plant health.
+
+AI models can potentially identify disease patterns, monitor crop conditions, and analyse agricultural fields.
+
+Drones and satellites can also capture images over large areas.
+
+These images can then be processed using computer vision and remote sensing techniques.
+
+I find this application interesting because it combines AI with an important real-world problem.
+
+Environmental monitoring is another area where computer vision can be useful.
+
+Satellite images can provide information about forests, water bodies, agricultural areas, and urban development.
+
+Computer vision models can potentially identify changes over time.
+
+This could support monitoring of environmental conditions.
+
+I am interested in learning more about geospatial data and remote sensing because of this connection.
+
+Another application I find interesting is traffic monitoring.
+
+Cameras can capture information about vehicles and road conditions.
+
+Computer vision systems can potentially detect vehicles, estimate traffic density, and identify unusual events.
+
+This can support intelligent transportation systems.
+
+However, systems operating in real environments need to handle changing weather, lighting, camera positions, and traffic conditions.
+
+This again highlights the importance of robust models.
+
+I want to understand how computer vision systems can be designed for such environments.
+
+Computer vision is also important in robotics.
+
+A robot needs to understand its surroundings to navigate and interact with objects.
+
+Cameras can provide visual information.
+
+Computer vision models can process that information.
+
+The resulting information can then be used by a decision-making or control system.
+
+This connects my interests in robotics and computer vision.
+
+I find this particularly interesting because the output of the model can influence physical actions.
+
+That also means the system needs to be reliable.
+
+An incorrect visual prediction could result in an incorrect robotic action.
+
+I want to study how perception and control can work together.
+
+Another area I am interested in is facial recognition.
+
+Computer vision can be used to identify or verify people based on facial features.
+
+I have explored face recognition in some of my projects, which helped me understand both the technical possibilities and the concerns associated with the technology.
+
+Facial recognition involves sensitive information.
+
+Accuracy can also vary across different groups and conditions.
+
+Therefore, such systems need careful testing and responsible use.
+
+This has made me more interested in the ethical side of computer vision.
+
+Another area I find interesting is gesture recognition.
+
+Cameras can potentially be used to identify hand movements or body gestures.
+
+This can provide an alternative method of interacting with computers.
+
+It could be useful for accessibility applications or other human-computer interaction systems.
+
+This connects my interest in computer vision with my interest in HCI.
+
+I want to explore how visual information can be used to create more natural interfaces.
+
+Another application is sign language recognition.
+
+Computer vision models can potentially analyse hand movements and gestures to support communication.
+
+Such systems would require datasets that accurately represent different signs, users, backgrounds, and movements.
+
+I find this application meaningful because it demonstrates how AI can potentially support accessibility.
+
+At the same time, I understand that recognising sign language is a complex problem.
+
+Hand position, movement, facial expressions, and context can all be important.
+
+I would like to learn more about this area.
+
+Another interesting problem is image generation.
+
+Modern AI systems can generate images based on text or other inputs.
+
+Although this is different from traditional computer vision, it is related to the broader field of visual AI.
+
+Learning about generative models has helped me understand how AI can not only analyse images but also create new visual content.
+
+I want to understand the technical principles behind these systems.
+
+I am also interested in image restoration and enhancement.
+
+AI models can potentially improve low-quality images, remove noise, or reconstruct missing information.
+
+Such systems can be useful in photography, medical imaging, remote sensing, and other applications.
+
+However, generated details may not always represent the original information accurately.
+
+This is particularly important when accuracy matters.
+
+Therefore, I want to understand the difference between improving an image and generating information that was not actually present.
+
+Another area I want to explore is video analysis.
+
+A video contains a sequence of images, but analysing it requires understanding changes over time.
+
+AI systems can potentially identify activities, track objects, or detect events.
+
+This creates additional challenges compared with processing a single image.
+
+The system needs to understand both spatial and temporal information.
+
+I find this interesting because it combines computer vision with time-series reasoning.
+
+Object tracking is another topic that interests me.
+
+A system may need to identify an object in one frame and continue following it across subsequent frames.
+
+This can be useful in traffic monitoring, robotics, sports analysis, and surveillance applications.
+
+However, objects can become temporarily hidden or change appearance.
+
+The system needs to handle these situations.
+
+I want to learn more about tracking algorithms and their applications.
+
+Another important topic is edge AI.
+
+Computer vision systems often need to process images quickly.
+
+Sending every image to a remote server may create latency and require significant bandwidth.
+
+Running a model locally on a device can provide faster responses.
+
+However, edge devices usually have limited computing resources.
+
+This creates a need for smaller and more efficient models.
+
+I find this area particularly interesting because it combines computer vision with cloud and edge computing.
+
+I want to explore how models can be optimised for devices with limited resources.
+
+Another challenge is computational cost.
+
+Deep learning models can require significant processing power.
+
+Training large models may require GPUs.
+
+Inference can also be expensive when processing large numbers of images.
+
+Model optimisation techniques can help reduce these requirements.
+
+I want to understand techniques such as model compression and efficient architectures.
+
+This can make computer vision systems more practical.
+
+My experience with machine learning has also taught me about overfitting.
+
+A model can perform very well on training data but fail on new images.
+
+This can happen when the model learns specific details of the training examples rather than general patterns.
+
+Regularisation, data augmentation, appropriate model design, and careful evaluation can help.
+
+I want to develop a deeper understanding of these techniques.
+
+Another important concept is transfer learning.
+
+Instead of training a large vision model entirely from the beginning, a model that has already learned general visual features can be adapted to a specific task.
+
+This can be useful when the available dataset is relatively small.
+
+I have found transfer learning useful in machine learning projects and want to understand it more deeply.
+
+It also demonstrates how research in one area can support applications in another.
+
+Another topic I want to explore is multimodal AI.
+
+Modern AI systems can process different types of information such as images and text together.
+
+For example, a system may receive an image and answer a question about it.
+
+This combines computer vision with natural language processing.
+
+I find multimodal AI interesting because it creates more natural ways for people to interact with intelligent systems.
+
+It also introduces new challenges involving data alignment and model evaluation.
+
+I want to explore these systems further.
+
+My interest in full-stack development has also influenced how I think about computer vision applications.
+
+A vision model alone is not necessarily a complete product.
+
+Users may need an application where they can upload an image.
+
+The backend may process the image.
+
+The model may generate a prediction.
+
+The result needs to be displayed clearly.
+
+The system may also need to store information in a database.
+
+This requires frontend, backend, AI, and infrastructure skills.
+
+I enjoy working across these different components.
+
+I want to continue developing complete computer vision applications rather than focusing only on isolated models.
+
+Another important area is model deployment.
+
+A model developed in a research environment needs to be integrated into a production system if it is going to be used by real users.
+
+The model needs an API or service.
+
+The system needs to handle different inputs.
+
+Errors need to be managed.
+
+Performance needs to be monitored.
+
+The model may also need to be updated over time.
+
+I want to learn more about this production side of computer vision.
+
+My interest in cloud computing is useful here.
+
+Cloud infrastructure can provide the resources needed to deploy AI models.
+
+However, cloud deployment may introduce latency and cost.
+
+For some applications, edge deployment may be more appropriate.
+
+Choosing between cloud and edge processing depends on the requirements of the system.
+
+I want to understand these trade-offs.
+
+Another area I want to study is dataset creation.
+
+High-quality computer vision models require good datasets.
+
+Images need appropriate labels.
+
+The dataset should contain enough variation.
+
+The data should represent the intended environment.
+
+Labelling can be time-consuming.
+
+I want to learn how researchers and organisations create and manage large image datasets.
+
+I also want to understand data quality checks.
+
+Incorrect labels can affect model performance.
+
+Duplicates can create problems during evaluation.
+
+Unbalanced datasets can create biased results.
+
+These issues make dataset design an important part of computer vision.
+
+Another area that interests me is synthetic data.
+
+When real-world data is difficult or expensive to collect, synthetic images can potentially supplement the training dataset.
+
+This can be useful in robotics, autonomous systems, and other specialised applications.
+
+However, synthetic data may not perfectly represent real-world conditions.
+
+Therefore, models trained on synthetic data still need to be tested with real data.
+
+I find this balance interesting.
+
+My long-term goal is to work in artificial intelligence and software engineering, with computer vision as one of the areas I would like to explore further.
+
+I am interested in building systems that can understand visual information and use that information to support practical tasks.
+
+Healthcare, agriculture, robotics, accessibility, environmental monitoring, and intelligent transportation are some of the areas that interest me.
+
+I want to explore different applications before choosing a specific specialisation.
+
+Higher education will provide an opportunity to study machine learning, computer vision, mathematics, algorithms, and data science more deeply.
+
+I also want to learn about robotics, image processing, remote sensing, and multimodal AI.
+
+Working on research projects would help me understand how computer vision methods are developed and evaluated.
+
+I want to learn how to read research papers, reproduce experiments, and develop new ideas.
+
+I also want to gain practical experience through internships.
+
+Working with real computer vision systems would help me understand the challenges involved in deployment.
+
+A model that performs well in a controlled research environment may behave differently in a real product.
+
+I want to understand how engineering teams handle these differences.
+
+Another goal is to continue participating in hackathons and technical projects.
+
+Computer vision is well suited to rapid prototyping because cameras and image datasets can be used to build demonstrations quickly.
+
+However, I want to move beyond prototypes and understand how these systems can become reliable applications.
+
+I want to improve my testing, deployment, and monitoring skills.
+
+I also want to learn from failed experiments.
+
+If a model performs poorly, I want to investigate the reason.
+
+The problem may be the dataset.
+
+It may be the model architecture.
+
+It may be preprocessing.
+
+It may be the evaluation method.
+
+It may even be that AI is not the right solution for the problem.
+
+Understanding these possibilities is an important part of becoming a better engineer.
+
+My interest in computer vision has also made me more interested in mathematics.
+
+Image processing and machine learning involve concepts from linear algebra, probability, statistics, and optimisation.
+
+I want to strengthen my mathematical foundation so that I can understand these methods rather than simply using existing libraries.
+
+I believe this will help me work on more advanced problems.
+
+Another important area is responsible use of visual data.
+
+Images can contain personal information.
+
+Facial images, location information, and other visual data may be sensitive.
+
+Systems that collect and process images therefore need appropriate privacy and security measures.
+
+I want to understand how computer vision applications can be designed responsibly.
+
+This is particularly important for systems used in public environments.
+
+I also want to learn more about fairness in computer vision.
+
+A model may perform differently for different groups depending on the training data.
+
+This can create unfair outcomes.
+
+Therefore, datasets and evaluation methods should consider diversity.
+
+I want to understand how researchers identify and reduce such problems.
+
+My interest in computer vision is therefore not only technical.
+
+I also want to understand the practical and ethical considerations involved in deploying visual AI.
+
+For me, good AI should be useful, reliable, and responsibly designed.
+
+I know that there is still a lot I need to learn.
+
+I want to improve my understanding of deep learning.
+
+I want to study advanced computer vision architectures.
+
+I want to learn more about video analysis.
+
+I want to explore multimodal AI.
+
+I want to understand efficient models for edge devices.
+
+I also want to improve my knowledge of mathematics and statistics.
+
+These are areas I hope to develop through higher education and practical projects.
+
+My goal is to become a technology professional who can build intelligent systems that solve practical problems.
+
+Computer vision is one of the areas where I would like to apply my skills.
+
+I want to understand visual AI from the fundamental algorithms to complete production applications.
+
+I also want to collaborate with people from other fields because computer vision problems often require domain knowledge.
+
+A healthcare expert may help define a medical imaging problem.
+
+An agricultural expert may explain crop conditions.
+
+A robotics engineer may help design a perception system.
+
+Working with such people would help me create better solutions.
+
+I believe this interdisciplinary approach is important.
+
+My interest in computer vision has shown me how much information can be obtained from images and videos.
+
+It has also shown me how difficult it can be for a computer to interpret information that humans often understand naturally.
+
+This combination of complexity and practical usefulness is what attracts me to the field.
+
+I want to continue learning about how machines can process visual information.
+
+Ultimately, I hope to use computer vision as part of intelligent systems that can assist people and solve real-world problems.
+
+I want to continue building projects, studying research, participating in technical activities, and gaining practical experience.
+
+I also want to remain open to new applications because AI is developing rapidly.
+
+For me, computer vision is not simply about recognising objects in images.
+
+It is about teaching computers to extract useful information from the visual world and use that information responsibly.
+
+That is why I am interested in computer vision and why I want to continue exploring it as part of my education and future career.

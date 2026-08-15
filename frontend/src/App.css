@@ -1,0 +1,745 @@
+.app {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: var(--space-6) var(--space-4) var(--space-7);
+}
+
+.app-header {
+  margin-bottom: var(--space-6);
+}
+
+.app-header h1 {
+  font-size: 1.75rem;
+  margin: 0 0 var(--space-2);
+  letter-spacing: -0.01em;
+}
+
+.app-tagline {
+  color: var(--color-text-muted);
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+/* ---------- Card base ---------- */
+
+.card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: var(--space-5);
+  margin-bottom: var(--space-4);
+}
+
+.card-title {
+  margin: 0 0 var(--space-2);
+  font-size: 1.15rem;
+}
+
+.card-subtitle {
+  margin: 0 0 var(--space-4);
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+/* ---------- Input card ---------- */
+
+.essay-textarea {
+  width: 100%;
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: 1.6;
+  padding: var(--space-4);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  resize: vertical;
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+.essay-textarea:focus {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 1px;
+}
+
+.input-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: var(--space-3);
+}
+
+.word-count {
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+.word-count-warn {
+  color: var(--color-red-border);
+}
+
+.btn-primary,
+.btn-secondary {
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  padding: var(--space-3) var(--space-5);
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.btn-primary {
+  background: var(--color-primary);
+  color: white;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background: var(--color-primary-hover);
+}
+
+.btn-primary:disabled {
+  background: var(--color-border);
+  color: var(--color-text-faint);
+  cursor: not-allowed;
+}
+
+.btn-secondary {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+}
+
+.btn-secondary:hover {
+  background: var(--color-bg);
+}
+
+/* ---------- Loading ---------- */
+
+.loading-card {
+  text-align: center;
+  padding: var(--space-7) var(--space-5);
+}
+
+.spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--color-border);
+  border-top-color: var(--color-primary);
+  border-radius: 50%;
+  margin: 0 auto var(--space-4);
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loading-title {
+  font-weight: 600;
+  margin: 0 0 var(--space-2);
+}
+
+.loading-detail {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  max-width: 420px;
+  margin: 0 auto var(--space-3);
+}
+
+.loading-elapsed {
+  color: var(--color-text-faint);
+  font-size: 0.8rem;
+  margin: 0;
+}
+
+/* ---------- Error ---------- */
+
+.error-card {
+  background: var(--color-error-bg);
+  border-color: var(--color-error-border);
+}
+
+.error-card p {
+  margin: 0 0 var(--space-3);
+  color: var(--color-text);
+}
+
+/* ---------- Fairness banner ---------- */
+
+.fairness-banner {
+  display: flex;
+  gap: var(--space-3);
+  align-items: flex-start;
+  background: var(--color-orange-bg);
+  border: 1px solid var(--color-orange-border);
+  border-radius: var(--radius);
+  padding: var(--space-4);
+  margin-bottom: var(--space-4);
+}
+
+.fairness-icon {
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.fairness-banner p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--color-text);
+}
+
+/* ---------- Summary card ---------- */
+
+.summary-score-row {
+  display: flex;
+  gap: var(--space-5);
+  align-items: center;
+  margin-bottom: var(--space-4);
+}
+
+.summary-score-value {
+  font-size: 2.75rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  min-width: 110px;
+}
+
+.summary-score-description {
+  margin: 0 0 var(--space-2);
+  font-weight: 600;
+}
+
+.summary-confidence-note {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+.legend {
+  border-top: 1px solid var(--color-border);
+  padding-top: var(--space-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.legend-item {
+  display: flex;
+  gap: var(--space-3);
+  align-items: flex-start;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
+.legend-swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+.legend-swatch-red {
+  background: var(--color-red-bg);
+  border: 2px solid var(--color-red-border);
+}
+
+.legend-swatch-orange {
+  background: var(--color-orange-bg);
+  border: 2px dashed var(--color-orange-border);
+}
+
+/* ---------- Highlighted essay text ---------- */
+
+.essay-card {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.essay-text {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  line-height: 1.85;
+}
+
+.paragraph-block {
+  padding: var(--space-3) 0 var(--space-3) var(--space-3);
+  border-left: 3px solid transparent;
+  margin-bottom: var(--space-2);
+}
+
+.paragraph-block-notable {
+  border-left-color: var(--color-red-border);
+}
+
+.paragraph-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--space-2);
+  margin-bottom: var(--space-1, 4px);
+}
+
+.paragraph-label {
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-text-faint);
+}
+
+.paragraph-score {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-text-muted);
+}
+
+.paragraph-block-notable .paragraph-score {
+  color: var(--color-red-border);
+  font-weight: 700;
+}
+
+.paragraph-sentences {
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.outlier-badge {
+  font-family: var(--font-ui);
+  font-size: 0.68rem;
+  font-weight: 700;
+  background: var(--color-orange-bg);
+  color: var(--color-orange-text);
+  border: 1px solid var(--color-orange-border);
+  border-radius: 12px;
+  padding: 2px 8px;
+  cursor: pointer;
+}
+
+.outlier-badge:hover,
+.outlier-badge:focus {
+  filter: brightness(0.95);
+  outline: none;
+}
+
+.outlier-note {
+  background: var(--color-orange-bg);
+  border: 1px solid var(--color-orange-border);
+  border-radius: 6px;
+  padding: var(--space-3);
+  margin-bottom: var(--space-2);
+  font-size: 0.78rem;
+}
+
+.outlier-deviation-list {
+  margin: 0 0 var(--space-2);
+  padding-left: 1.1em;
+  color: var(--color-text);
+  font-variant-numeric: tabular-nums;
+}
+
+.outlier-caveat {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+.sentence-wrap {
+  display: inline;
+}
+
+.sentence-span {
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 0.1em 0;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  transition: filter 0.1s ease;
+}
+
+.sentence-span:hover,
+.sentence-span:focus {
+  outline: none;
+  filter: brightness(0.97);
+}
+
+.sentence-active {
+  box-shadow: 0 0 0 2px var(--color-primary);
+}
+
+.inline-pct {
+  font-size: 0.65rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-red-border);
+  vertical-align: super;
+  margin-left: 1px;
+}
+
+.info-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  background: var(--color-bg);
+  border: 1.5px solid var(--color-primary);
+  border-radius: 50%;
+  padding: 0;
+  margin: 0 2px;
+  font-size: 0.85rem;
+  line-height: 1;
+  color: var(--color-primary);
+  cursor: pointer;
+  vertical-align: middle;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.info-icon:hover,
+.info-icon:focus {
+  background: var(--color-primary);
+  color: white;
+  outline: none;
+}
+
+.info-icon-pop {
+  animation: info-icon-pop 0.32s ease;
+}
+
+@keyframes info-icon-pop {
+  0% {
+    transform: scale(1);
+  }
+  45% {
+    transform: scale(1.6);
+    background: var(--color-primary);
+    color: white;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* ---------- Results layout ---------- */
+
+.results-layout {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: var(--space-5);
+  align-items: start;
+}
+
+.results-side {
+  position: sticky;
+  top: var(--space-5);
+}
+
+@media (max-width: 800px) {
+  .results-layout {
+    grid-template-columns: 1fr;
+  }
+  .results-side {
+    position: static;
+  }
+}
+
+/* ---------- Detail panel ---------- */
+
+.detail-card {
+  position: relative;
+}
+
+.detail-empty {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.detail-close {
+  position: absolute;
+  top: var(--space-3);
+  right: var(--space-3);
+  background: none;
+  border: none;
+  font-size: 1.3rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--color-text-faint);
+}
+
+.detail-sentence-text {
+  font-family: var(--font-serif);
+  font-style: italic;
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+  margin: 0 0 var(--space-4);
+  padding-bottom: var(--space-4);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.detail-section {
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-4);
+}
+
+.detail-section:not(:last-child) {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.detail-section-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-weight: 600;
+  margin-bottom: var(--space-2);
+}
+
+.detail-score {
+  margin-left: auto;
+  font-variant-numeric: tabular-nums;
+  font-size: 1rem;
+}
+
+/* Primary section (essay-level, 7-feature score) - the main number and reasoning the
+   reader's eye should land on first. */
+.detail-section-primary .detail-section-header {
+  font-size: 1rem;
+}
+
+.detail-score-primary {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--color-red-border);
+}
+
+/* Secondary section (sentence-only, 2-feature score) - deliberately smaller/lower
+   contrast so it doesn't compete with the primary explanation above it. */
+.detail-section-secondary {
+  opacity: 0.85;
+}
+
+.detail-section-secondary .detail-section-header {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.detail-section-secondary .detail-score {
+  font-size: 0.85rem;
+}
+
+.detail-note {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin: 0 0 var(--space-3);
+}
+
+.detail-note-near-half {
+  font-style: italic;
+}
+
+.detail-metrics-summary {
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  margin: 0 0 var(--space-3);
+  padding: var(--space-2) var(--space-3);
+  background: var(--color-bg);
+  border-radius: 6px;
+}
+
+.feature-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.feature-card {
+  border: 1px solid var(--color-border);
+  border-left-width: 3px;
+  border-radius: 6px;
+  padding: var(--space-3);
+  background: var(--color-surface);
+}
+
+.feature-card-toward_ai {
+  border-left-color: var(--color-red-border);
+}
+
+.feature-card-toward_human {
+  border-left-color: var(--color-primary);
+}
+
+.feature-card-neutral {
+  border-left-color: var(--color-border);
+}
+
+.feature-card-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 var(--space-2);
+  margin-bottom: var(--space-1, 4px);
+}
+
+.feature-card-prefix {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--color-text-faint);
+}
+
+.feature-card-name {
+  font-weight: 700;
+  font-size: 0.85rem;
+  flex: 1;
+}
+
+.feature-card-badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  padding: 2px 6px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.feature-card-badge-toward_ai {
+  background: var(--color-red-bg);
+  color: var(--color-red-border);
+}
+
+.feature-card-badge-toward_human {
+  background: rgba(47, 75, 60, 0.12);
+  color: var(--color-primary);
+}
+
+.feature-card-badge-neutral {
+  background: var(--color-bg);
+  color: var(--color-text-faint);
+}
+
+.feature-card-desc {
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  margin: 0 0 var(--space-2);
+}
+
+.feature-card-meta {
+  font-size: 0.78rem;
+  color: var(--color-text);
+  margin: 0;
+}
+
+.feature-card-score {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.feature-card-raw {
+  display: inline-block;
+  margin-top: var(--space-1, 4px);
+  font-size: 0.72rem;
+  color: var(--color-text-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.feature-card-raw-missing {
+  font-style: italic;
+}
+
+/* ---------- How it works explainer ---------- */
+
+.howitworks-card {
+  padding: var(--space-4) var(--space-5);
+}
+
+.howitworks-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-family: var(--font-ui);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.howitworks-toggle:hover,
+.howitworks-toggle:focus {
+  color: var(--color-primary);
+  outline: none;
+}
+
+.howitworks-chevron {
+  color: var(--color-text-faint);
+  font-size: 0.9rem;
+  margin-left: var(--space-3);
+}
+
+.howitworks-body {
+  margin-top: var(--space-4);
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--color-border);
+  max-width: 68ch;
+}
+
+.howitworks-lede {
+  font-size: 0.95rem;
+  margin: 0 0 var(--space-4);
+}
+
+.howitworks-h {
+  font-size: 1rem;
+  margin: var(--space-5) 0 var(--space-2);
+}
+
+.howitworks-h:first-of-type {
+  margin-top: 0;
+}
+
+.howitworks-body p {
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--color-text);
+  margin: 0 0 var(--space-3);
+}
+
+.howitworks-list {
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--color-text);
+  margin: 0 0 var(--space-3);
+  padding-left: 1.3em;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.howitworks-footer {
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  border-top: 1px solid var(--color-border);
+  padding-top: var(--space-3);
+  margin-top: var(--space-4);
+}
+
+.howitworks-footer code {
+  font-family: monospace;
+  background: var(--color-bg);
+  padding: 1px 5px;
+  border-radius: 4px;
+  font-size: 0.8em;
+}

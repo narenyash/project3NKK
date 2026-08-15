@@ -1,0 +1,636 @@
+
+The first instinct when a program fails is to look for the bug.
+
+I open the code.
+
+I check the error message.
+
+I trace the execution.
+
+I change something.
+
+I run it again.
+
+Sometimes the problem disappears.
+
+Sometimes it becomes worse.
+
+And sometimes I discover that the line I thought was responsible had nothing to do with the actual problem.
+
+Over time, I realized that debugging software taught me something about myself.
+
+I often make the same mistake when dealing with personal challenges.
+
+I look for the most obvious explanation.
+
+I assume I know what went wrong.
+
+I try to fix the visible problem.
+
+Then I discover that the real cause is somewhere deeper.
+
+That realization has changed the way I think about failure.
+
+I used to see failure as evidence that something had gone wrong.
+
+Now I increasingly see it as information.
+
+A failed program tells me something about my assumptions.
+
+A failed experiment tells me something about my hypothesis.
+
+A difficult academic subject tells me something about what I have not yet understood.
+
+A project that does not work as expected tells me that my original model of the problem was incomplete.
+
+Failure does not automatically tell me the solution.
+
+But it gives me evidence.
+
+And evidence is useful.
+
+My relationship with failure changed gradually through programming.
+
+When I first started coding, errors were frustrating.
+
+I would see a long message on the screen and immediately feel that I had done something fundamentally wrong.
+
+Sometimes I would search for the exact error online and copy a solution without fully understanding it.
+
+The immediate problem would disappear.
+
+But the next time I encountered something similar, I would be stuck again.
+
+Eventually, I realized that fixing an error and understanding an error were different things.
+
+The first solves the immediate problem.
+
+The second improves me.
+
+That distinction became important.
+
+I started reading error messages more carefully.
+
+Instead of asking only, "How do I remove this error?" I began asking:
+
+"What is the program actually telling me?"
+
+"What assumption did I make?"
+
+"At what point did the behavior change?"
+
+"What information can I gather before changing anything?"
+
+This made debugging slower at first.
+
+It also made me better.
+
+I began learning that the first visible symptom is not necessarily the cause.
+
+A screen may fail to load because of a backend problem.
+
+The backend problem may come from a database query.
+
+The query may fail because the input is malformed.
+
+The input may be malformed because the frontend and backend disagree about the data format.
+
+The problem is not where the user sees it.
+
+It is somewhere earlier in the chain.
+
+This idea became a useful metaphor for life.
+
+Sometimes the visible problem is not the real problem.
+
+If I am struggling with a subject, the issue may not be that the subject is too difficult.
+
+I may be missing a prerequisite.
+
+If I am struggling to complete a project, the issue may not be a lack of motivation.
+
+The scope may be unrealistic.
+
+If I am frustrated with a result, the issue may not be the result itself.
+
+My expectations may have been wrong.
+
+Learning to search for root causes has made me more honest with myself.
+
+It is easy to blame circumstances.
+
+Sometimes circumstances really are responsible.
+
+But sometimes the more uncomfortable explanation is that I approached the problem incorrectly.
+
+Accepting that possibility is useful because it gives me something I can change.
+
+This became especially clear when I started working on more ambitious technical projects.
+
+An idea can look simple when described in one sentence.
+
+"Build an AI system."
+
+"Create a mobile application."
+
+"Automate this process."
+
+"Develop a recommendation system."
+
+The sentence hides the complexity.
+
+Once development begins, dozens of smaller problems appear.
+
+Data must be collected.
+
+Requirements must be defined.
+
+Interfaces must be designed.
+
+APIs must communicate.
+
+Errors must be handled.
+
+Models must be evaluated.
+
+Security must be considered.
+
+The system must be tested.
+
+The first version almost never works exactly as imagined.
+
+Earlier, I interpreted that as failure.
+
+Now I see it as the normal beginning of engineering.
+
+The first version is a hypothesis.
+
+The second version is a response to evidence.
+
+The third version reflects what I learned from the second.
+
+The process continues.
+
+This has made me less emotionally attached to my first ideas.
+
+That is an important change.
+
+An idea can feel personal when you have spent time developing it.
+
+Criticism can therefore feel like criticism of you.
+
+But a project is not your identity.
+
+An idea is not your worth.
+
+A design can be changed without invalidating the effort that created it.
+
+I have learned to separate myself from my work enough to improve it honestly.
+
+This is particularly important when working with other people.
+
+A teammate may point out a problem in something I built.
+
+My first reaction may be defensive.
+
+Why did they not understand what I intended?
+
+Then I remind myself that the user will not see my intentions either.
+
+If the design is confusing, explaining what I meant does not solve the problem.
+
+The design needs to change.
+
+That realization has helped me become more receptive to feedback.
+
+Feedback is not always comfortable.
+
+But discomfort can be useful.
+
+It often points toward something I need to examine.
+
+I have also learned that not every failure should be fixed in the same way.
+
+Sometimes the problem is a small bug.
+
+Fix the bug.
+
+Sometimes the architecture is wrong.
+
+Redesign the system.
+
+Sometimes the requirements are wrong.
+
+Return to the problem.
+
+Sometimes the entire idea is not useful.
+
+Stop.
+
+That last possibility is difficult.
+
+People naturally want their work to have been worthwhile.
+
+But continuing a bad idea simply because time has already been invested creates an even larger cost.
+
+I have learned that stopping can be a form of progress.
+
+If an experiment demonstrates that an approach does not work, the result is still useful.
+
+It narrows the search.
+
+It prevents repeating the same mistake.
+
+It gives information for the next attempt.
+
+This is one of the reasons I enjoy scientific and technical experimentation.
+
+Failure can be structured.
+
+You can change one variable.
+
+Observe the result.
+
+Compare outcomes.
+
+Build a better hypothesis.
+
+The process transforms uncertainty into learning.
+
+That approach has influenced my interest in machine learning.
+
+Training a model is not simply a matter of selecting an architecture and pressing a button.
+
+A model can fail for many reasons.
+
+The dataset may be too small.
+
+The labels may be inconsistent.
+
+The features may be inadequate.
+
+The model may overfit.
+
+The evaluation may be misleading.
+
+The problem itself may be poorly defined.
+
+When a model performs badly, the solution is not always "use a bigger model."
+
+Sometimes the correct response is to examine the data.
+
+Sometimes the evaluation metric is wrong.
+
+Sometimes the task needs to be reformulated.
+
+This reinforced a principle I now try to remember:
+
+Do not make the solution more complicated before understanding the problem.
+
+A larger model is not automatically a better solution.
+
+More features are not automatically better.
+
+More code is not automatically better.
+
+More technology is not automatically better.
+
+Sometimes improvement comes from removing something.
+
+Simplifying a workflow.
+
+Cleaning a dataset.
+
+Changing a requirement.
+
+Improving an explanation.
+
+Removing an unnecessary dependency.
+
+This lesson extends beyond engineering.
+
+When something in my life is not working, I try to ask whether I am adding complexity instead of addressing the actual issue.
+
+Sometimes the answer is yes.
+
+This way of thinking has made me more reflective.
+
+I have started treating mistakes as opportunities to inspect my assumptions.
+
+Why did I expect this result?
+
+What information did I ignore?
+
+What did I misunderstand?
+
+What would I do differently if I started again?
+
+The last question is particularly valuable.
+
+It turns regret into planning.
+
+I cannot change what happened.
+
+I can change what I learn from it.
+
+That perspective has helped me recover from disappointments.
+
+There have been projects that did not work.
+
+There have been ideas that looked better on paper than they did in reality.
+
+There have been times when I underestimated the difficulty of something.
+
+There have been moments when I wished I had prepared more.
+
+It would be easy to remember these experiences only as failures.
+
+Instead, I try to remember the lesson each one produced.
+
+A project taught me to define scope.
+
+A technical problem taught me to read documentation carefully.
+
+A team challenge taught me to communicate earlier.
+
+A failed experiment taught me to question my assumptions.
+
+A difficult subject taught me to return to fundamentals.
+
+The pattern is clear.
+
+The mistake is temporary.
+
+The lesson can remain.
+
+This has changed the way I think about confidence.
+
+I used to believe confidence meant feeling certain.
+
+Now I think real confidence can mean knowing that you can recover when you are uncertain.
+
+If I encounter a technology I do not understand, I do not need to pretend that I know it.
+
+I can learn.
+
+If a project fails, I do not need to conclude that I cannot build it.
+
+I can investigate why.
+
+If someone gives me criticism, I do not need to defend every decision.
+
+I can determine whether they are right.
+
+This kind of confidence is quieter.
+
+It is not based on always being correct.
+
+It is based on being willing to learn.
+
+That is the kind of confidence I want to bring into college.
+
+University will expose me to problems that are harder than the ones I have encountered so far.
+
+I will probably fail at things.
+
+I will encounter mathematical concepts that take time to understand.
+
+I will build systems that do not work.
+
+I will make incorrect assumptions.
+
+I may conduct experiments that produce disappointing results.
+
+I may pursue ideas that turn out not to be useful.
+
+I do not want to interpret these experiences as evidence that I do not belong.
+
+I want to interpret them as part of becoming better.
+
+The most important skill I can develop is not avoiding every mistake.
+
+It is becoming better at responding to mistakes.
+
+That means learning how to diagnose problems.
+
+It means asking for help when necessary.
+
+It means accepting criticism.
+
+It means changing direction when evidence demands it.
+
+It means trying again without repeating the same mistake.
+
+These are engineering skills.
+
+They are also life skills.
+
+My interest in artificial intelligence has made this even more relevant.
+
+AI systems can fail in ways that are difficult to predict.
+
+A model can generate an incorrect answer.
+
+A vision system can misclassify an image.
+
+An automated agent can take an unintended action.
+
+A recommendation system can learn an undesirable pattern.
+
+The response should not simply be to hope that the system never fails.
+
+We need systems designed to handle failure.
+
+They need monitoring.
+
+They need validation.
+
+They need constraints.
+
+They need recovery mechanisms.
+
+They need human oversight when appropriate.
+
+This has influenced the kind of systems I want to build.
+
+I am interested not only in what a system can do when everything goes right.
+
+I am interested in what happens when something goes wrong.
+
+That question often reveals more about the quality of an architecture than a successful demonstration does.
+
+A robust system is not one that never encounters errors.
+
+It is one that can detect, contain, and recover from them.
+
+I want to develop that mindset as an engineer.
+
+I also want to apply it to research.
+
+A research project should not be designed only to produce a desired result.
+
+It should be designed so that unexpected results can teach us something.
+
+That requires careful experimental design.
+
+It requires documenting assumptions.
+
+It requires reproducibility.
+
+It requires honesty about limitations.
+
+Most importantly, it requires resisting the temptation to hide inconvenient results.
+
+If the evidence contradicts my hypothesis, I want to know.
+
+The goal is not to prove myself right.
+
+The goal is to understand what is true.
+
+That principle has become increasingly important to me.
+
+I want my work to be guided by evidence rather than ego.
+
+I know this is easier to say than to practice.
+
+People naturally become attached to their ideas.
+
+I do too.
+
+But recognizing that tendency makes it easier to question it.
+
+When I feel strongly about a solution, I can deliberately ask:
+
+"What evidence would convince me that I am wrong?"
+
+That question is uncomfortable.
+
+It is also powerful.
+
+It creates room for learning.
+
+This is the attitude I want to carry into college classrooms, laboratories, and research groups.
+
+I want to be willing to ask questions that reveal what I do not understand.
+
+I want to be willing to submit ideas to criticism.
+
+I want to be willing to rebuild something from the beginning if the evidence shows that the original approach was wrong.
+
+And I want to become comfortable with the fact that progress can look messy.
+
+The finished application hides the bugs that came before it.
+
+The successful research paper hides the experiments that failed.
+
+The polished presentation hides the prototypes that were discarded.
+
+The final result is clean.
+
+The process is not.
+
+I have learned to value the process.
+
+That is perhaps what debugging has taught me most.
+
+The goal is not to write code that never needs debugging.
+
+The goal is to become good at debugging.
+
+The same principle applies to learning.
+
+The goal is not to become someone who never makes mistakes.
+
+The goal is to become someone who can examine mistakes honestly and improve.
+
+I still get frustrated when something fails.
+
+I still wish some problems would solve themselves.
+
+I still sometimes make the same mistake twice.
+
+But I recover faster.
+
+I ask better questions.
+
+I look for causes instead of symptoms.
+
+And I try to remember that failure is information.
+
+A bug tells me something.
+
+A wrong answer tells me something.
+
+A failed experiment tells me something.
+
+A difficult conversation tells me something.
+
+A rejected idea tells me something.
+
+The important question is whether I am willing to listen.
+
+My future in computer science will involve increasingly complex systems.
+
+I want to work in artificial intelligence and software engineering.
+
+I want to build systems that are useful, reliable, and responsible.
+
+To do that, I will need technical knowledge.
+
+But I will also need resilience.
+
+I will need patience.
+
+I will need humility.
+
+And I will need the willingness to admit when something is not working.
+
+That is why I no longer think of debugging as simply a programming task.
+
+It is a way of thinking.
+
+Observe the behavior.
+
+Identify the symptom.
+
+Question the assumptions.
+
+Trace the cause.
+
+Test a hypothesis.
+
+Change one thing.
+
+Run the experiment again.
+
+Learn from the result.
+
+Repeat.
+
+That process has helped me become a better programmer.
+
+More importantly, it is helping me become a better learner.
+
+I am still debugging myself.
+
+There are assumptions I have not discovered yet.
+
+There are habits I need to improve.
+
+There are weaknesses I have not fully understood.
+
+There are problems I will only recognize after encountering them.
+
+I do not expect that process to end.
+
+And perhaps I should not want it to.
+
+Because every time I discover something that needs improvement, I also discover an opportunity to become better.
+
+The best engineers are not people whose systems never fail.
+
+They are people who know how to find the failure, understand its cause, and build something stronger afterward.
+
+I want to become that kind of engineer.
+
+And, beyond engineering, that is the kind of person I want to become.

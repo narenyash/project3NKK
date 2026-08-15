@@ -1,0 +1,48 @@
+Tab 64
+STATEMENT OF PURPOSE
+CHENGLEI SI
+
+
+I had the fortune of starting natural language processing (NLP) research at a young age even before college. Over the past few years, I have witnessed the rapid advancement of large language models (LLMs) firsthand. While new models keep coming out every few weeks, I have learned to focus on high-level research questions that stay relevant in the long term. I am particularly concerned with two high-level questions: (i) As LLMs achieve impressive empirical performance on a wide range of downstream tasks, leading to many real-world applications built on top of them, how do we ensure they are reliable to human users? (ii) As a linguistics and CS dual major, I keep asking myself: can linguistics provide insights for the modeling and evaluation of language models? And what about the other way around?
+
+
+1. Reliable Language Models
+
+
+I deeply care about the impact of LLMs on actual human users. This motivated me to work on reliability - making sure LLMs will not cause harm to humans, and helping humans calibrate their trust and collaborate with AI effectively on complex real-world tasks.
+
+
+User-centric calibration: In our recent EMNLP Findings paper [2], I studied how to calibrate model confidence in order to help users avoid trusting the wrong predictions. I found that existing calibration metrics do not consider distinguishing correct and wrong predictions, and post-hoc calibration methods like temperature scaling produce similar and ambiguous confidence scores for all predictions, making it hard for humans to differentiate correct and wrong ones. To remedy this, I proposed an improved calibration metric MacroCE and a new calibration method ConsCal which leverages the consistency of training trajectory for calibrating model confidence. Our human study verified that confidence scores calibrated by ConsCal significantly improve user decision-making in identifying correct and wrong predictions, as compared to all other baselines; and our metric MacroCE aligns better with human preference.
+
+
+Prompting GPT-3 to be reliable: In another paper under review [5], I focused on the state-of-the-art GPT-3 model which is deployed in many real-life applications. I developed effective prompting strategies that make GPT-3 robust to out-of-distribution examples, reduce social biases against minority groups, produce calibrated confidence scores, and update outdated factual knowledge or erroneous reasoning chains. Our methods not only serve as a practical guideline for all users of GPT-3, but the results also shed new insights on the reliability of the rising prompting paradigm with billion-scale LLMs.
+
+
+Next steps: The rise of ever-larger LLMs and the in-context learning paradigm present many new challenges. For example, how do we stress-test or identify failure cases of hundred-billion-scale LLMs without expensive searches? How can we teach them to recognize and ignore malicious or misleading prompts; to identify, prevent or rectify harmful and hallucinated generations? Apart from targeted fixes for specific reliability problems and models, I am also interested in general and principled approaches that align language models with prosocial values and objectives. Additionally, inspired by Prof. Hal Daumé III in his human-AI interaction seminar, I am particularly excited to explore efficient and effective human-LLM collaboration strategies (e.g., how to elicit feedback from humans and how to incorporate human feedback to improve models) on important real-world tasks.
+
+
+2. Connecting Linguistics and NLP
+
+
+Despite much debate among the NLP community, I believe linguistics still has an important role to play in helping us understand capabilities of language models, and possibly building LLMs with better inductive biases. I am also actively thinking about how computational methods can contribute to psycholinguistics, such as reverse engineering human language intelligence.
+
+
+Analyzing linguistic inductive biases of LLMs: In my other paper under submission [3], I studied the linguistic biases of LLMs through the angle of spurious correlation. I constructed a comprehensive benchmark to measure to what extent LLMs exploit different linguistic features (e.g., punctuation, lexicon, n-gram, phrase structure rules, and lexical overlap). For both supervised finetuning (on BERT) and few-shot prompting (on GPT-3), we found consistent patterns that certain linguistic features are always preferred than others, for example, both models exploit content word features, n-gram features and lexical overlap features much more than function word features and syntactic features. Moreover, training a randomly initialized Transformer exploits all these features to a similar and large extent, suggesting that pretraining imposed these inductive biases to favor certain linguistic features over others.
+
+
+Linguistic insights for better modeling: While most LLMs use sub-word units for language representation, which mostly aligns with the linguistic concept of morphemes (e.g., stem, suffix, and affix). However, there is no such morphological inflection for the ideographic Chinese language, rendering this sub-word paradigm inapplicable. In our TACL paper [7], for the first time in Chinese NLP, I proposed to decompose Chinese characters into smaller sub-character units via their shape (radicals and strokes) and pronunciation, and compose the meaning of complex characters with the representations of these sub-character units. LLMs trained with our method achieve strong empirical results on downstream tasks with significantly better efficiency and robustness than existing baselines.
+
+
+Next steps: I have always been concerned with the construct validity of current benchmarks: many language datasets may not even require true language understanding, models may exploit shallows statistical cues in the datasets as suggested by our analysis [4]). For next steps, I want to understand how much and what types of linguistic knowledge is truly needed for our NLP benchmarks, and construct new probing sets that avoid spurious biases if existing benchmarks fail this purpose. These can then facilitate the development of better modeling design or training objectives of LLMs to improve their language understanding capabilities. Additionally, inspired by Prof. Philip Resnik and Prof. Naomi Feldman in their computational psycholinguistics seminars, I am also interested in computational modeling that explains human behaviour or neural data as a way to reverse engineer the mechanisms of human language processing.
+
+
+3. Research Style and Goals
+
+
+Research Style: Working closely with my advisor Prof. Jordan Boyd-Graber over the past three years has shaped my research style and taste. For instance, I believe evaluation matters: many of my works focus on improving existing evaluation practices and metrics (e.g., remedy the flaws of popular calibration metrics [2], advocate for incorporating equivalent answer sets for QA evaluation [1], clarify the often-confused adversarial attack evaluation paradigms [6], construct targeted stress tests [9], and when we find existing benchmarks unrealistic - we crowdsource our own [8]). I try my best to ensure our evaluation methods align with what we truly want to measure (e.g., by carefully examining the data and predictions). Moreover, I come from an interdisciplinary background and enjoyed initiating and leading collaborative projects with researchers from diverse backgrounds. This makes me open-minded and appreciate diverse perspectives. For example, I value linguistic insights as much as modern statistical approaches, I also read widely in human-computer interaction and cognitive science. I enjoyed giving talks to audiences outside of AI (e.g., at UMD’s Language Science Center) and discussing the broader impact and connections of my work. I hope to continue such collaboration and interdisciplinary discussion in my PhD.
+
+
+Career Goals: My long-term career goal is to become a professor. I have truly enjoyed collaborating with different people on topics that I’m passionate about. Such academic freedom attracts me to stay in academia. I enjoy the feeling of staying up-to-date about the latest research advancements and making real-world impact through my research. Moreover, I have benefitted tremendously from the mentorship of many faculty advisors. I hope to pay it forward by helping the next generation of aspiring researchers.
+
+
+Why NYU: Many professors at the NYU CILVR lab and in particular the ML2 group are a great fit for my research interests. Among them, Prof. He He’s research on robustness and human-AI collaboration aligns exactly with my interest on reliable language models. In fact, many of my recent projects are heavily inspired by her work. I am also excited about the new AI safety group lead by Prof. Sam Bowman. Their vision on aligning AI models with human values is deeply connected with my research on reliability and I am excited to explore this direction further. On the linguistics side, I have long been fascinated by Prof. Tal Linzen’s work on computational psycholinguistics. I am interested in further exploring the connections between human language processing and computational models. Given my interdisciplinary background and interests, I believe it would be especially constructive to have a co-advising setup.

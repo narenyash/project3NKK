@@ -1,0 +1,552 @@
+
+One of the most exciting questions in technology is:
+
+**Can we build it?**
+
+It is the question that starts projects.
+
+It motivates engineers.
+
+It leads to experiments.
+
+It turns ideas into products.
+
+But the more I learned about technology, the more I realized that another question can be even more important:
+
+**Should we build it?**
+
+I did not always think this way.
+
+When I first became interested in programming, I was fascinated by possibility. If I could make something work, I considered that a success. I wanted to learn new tools, build applications, experiment with artificial intelligence, and see what computers could accomplish.
+
+The excitement came from making an idea real.
+
+But artificial intelligence changed the way I thought about that excitement.
+
+AI systems can generate text, recognize images, make predictions, recommend information, automate tasks, and interact with people. The capabilities are impressive.
+
+They are also powerful.
+
+And power creates responsibility.
+
+I began realizing that the most difficult part of building technology is not always making it work.
+
+Sometimes the difficult part is deciding how it should be used.
+
+That question has become increasingly important to me.
+
+A technology can be technically successful and still create problems.
+
+A recommendation system can optimize engagement while encouraging unhealthy behavior.
+
+A facial recognition system can identify people accurately while raising serious privacy concerns.
+
+An automated decision system can be efficient while reproducing biases in its data.
+
+A language model can produce fluent answers while confidently giving incorrect information.
+
+None of these problems can be solved simply by writing more code.
+
+They require judgment.
+
+That realization changed what I think it means to be an engineer.
+
+Engineering is not only about creating capabilities.
+
+It is also about understanding consequences.
+
+This does not mean that every technology should be rejected because it might be misused.
+
+Almost every useful technology can be misused.
+
+The challenge is learning how to identify risks, reduce them, and make responsible decisions about deployment.
+
+That requires technical knowledge.
+
+But it also requires something beyond technical knowledge.
+
+It requires asking questions about people.
+
+Who will use the system?
+
+Who could be affected by it?
+
+What happens when it makes a mistake?
+
+Who is responsible for correcting that mistake?
+
+What information does it need?
+
+What information should it never collect?
+
+How should users know when they are interacting with an automated system?
+
+These questions became especially meaningful to me when I began working with AI.
+
+At first, I was primarily interested in performance.
+
+How accurate is the model?
+
+How quickly does it respond?
+
+How large is the dataset?
+
+Can the model handle more complex inputs?
+
+These are useful questions.
+
+But they are incomplete.
+
+Suppose a model achieves very high accuracy.
+
+If the dataset does not represent the people who will use the system, is that accuracy enough?
+
+Suppose an AI assistant produces answers quickly.
+
+If users cannot distinguish reliable answers from uncertain ones, is speed actually an advantage?
+
+Suppose an automated system reduces costs.
+
+If the reduction comes from making it impossible for users to challenge a decision, is the system genuinely better?
+
+These questions made me understand that metrics need context.
+
+Numbers describe performance.
+
+They do not automatically describe value.
+
+This is one reason I became interested in responsible AI.
+
+I want to understand how technical systems can be designed to account for uncertainty, bias, privacy, and human oversight.
+
+I also want to understand where responsibility belongs.
+
+It is easy to say that users are responsible for how they use a technology.
+
+It is also easy to say that developers are responsible for everything that happens after deployment.
+
+Reality is more complicated.
+
+Responsibility is often distributed across developers, organizations, users, policymakers, and institutions.
+
+Understanding those relationships is important because technology rarely operates in isolation.
+
+An AI model exists inside a larger system.
+
+That system exists inside an organization.
+
+The organization operates inside a society.
+
+A technical decision can therefore have consequences far beyond the code itself.
+
+This became clearer to me as I learned about data.
+
+Data is often treated as a resource.
+
+Collect more data.
+
+Train the model.
+
+Improve performance.
+
+But data represents people, behavior, decisions, and experiences.
+
+It is not simply a collection of numbers.
+
+If information about people is collected without adequate safeguards, privacy can be compromised.
+
+If historical data contains unfair patterns, a model trained on it may reproduce those patterns.
+
+If users do not understand how their data is being used, consent becomes complicated.
+
+These issues made me more careful about the datasets I work with.
+
+I began asking where the data came from.
+
+What does it represent?
+
+What does it fail to represent?
+
+What assumptions are embedded in it?
+
+How should it be stored?
+
+Who should have access?
+
+These questions do not always have simple answers.
+
+That is precisely why they are important.
+
+I have also become more aware of how easily technology can create an illusion of objectivity.
+
+A computer produces a number.
+
+A model produces a prediction.
+
+An algorithm produces a ranking.
+
+Because the output is numerical, it can appear neutral.
+
+But the system behind the output was created by people.
+
+People selected the data.
+
+People chose the objective.
+
+People decided what should be measured.
+
+People decided what counted as success.
+
+The final number may therefore contain human assumptions even when no person directly made the final decision.
+
+Understanding this has changed how I interpret automated systems.
+
+I no longer assume that an algorithm is neutral simply because it is mathematical.
+
+Mathematics can describe a process precisely.
+
+It does not decide whether the objective of that process is fair.
+
+That decision requires human judgment.
+
+This distinction is one of the reasons I want an interdisciplinary education.
+
+Computer science can teach me how systems work.
+
+Mathematics can teach me how models are constructed.
+
+But ethics, philosophy, social science, and law can help me understand the broader consequences of deploying those systems.
+
+I do not want to study these subjects as separate worlds.
+
+I want to understand where they intersect.
+
+The future of AI will not be determined only by better models.
+
+It will also be determined by the choices people make about how those models are used.
+
+This perspective has influenced my approach to projects.
+
+When I build an application, I now think about security earlier.
+
+I consider what information the system actually needs.
+
+I think about what happens if a user enters unexpected information.
+
+I consider whether an automated process should be allowed to make a decision without human review.
+
+I think about how errors should be communicated.
+
+These may seem like ordinary engineering practices.
+
+But they reflect a larger principle:
+
+The safest system is not necessarily the one with the most features.
+
+Sometimes safety comes from limiting what a system is allowed to do.
+
+This idea is particularly interesting to me in the context of autonomous AI systems.
+
+As AI agents become more capable, they may be able to plan tasks, call tools, interact with software, and take actions with less direct human involvement.
+
+That creates enormous possibilities.
+
+It also changes the risk.
+
+A chatbot that gives an incorrect answer is one problem.
+
+An autonomous system that takes an incorrect action is another.
+
+The difference is agency.
+
+When a system can act, developers need to think carefully about permissions, constraints, verification, and recovery.
+
+This has made me interested in the architecture of trustworthy AI systems.
+
+How should an agent know what it is allowed to do?
+
+When should it ask for approval?
+
+How can actions be verified?
+
+How can systems recover from mistakes?
+
+How can users understand why an action occurred?
+
+These are engineering questions with ethical consequences.
+
+I find that intersection particularly compelling.
+
+It shows that ethics is not something that should be added at the end of a project.
+
+It can be built into the architecture.
+
+Permissions can be designed.
+
+Logs can be created.
+
+Human approval can be required.
+
+Sensitive information can be protected.
+
+Models can be evaluated under different conditions.
+
+Failure modes can be tested before deployment.
+
+Responsible design is therefore not simply a philosophical idea.
+
+It can become an engineering practice.
+
+That is an important lesson I want to carry into college.
+
+I want to learn how to build systems that are not only capable but dependable.
+
+I want to understand security.
+
+I want to understand privacy.
+
+I want to understand model evaluation.
+
+I want to study how intelligent systems fail.
+
+And I want to understand how technical choices influence human outcomes.
+
+This does not mean I expect technology to be perfect.
+
+I do not think perfection is realistic.
+
+Complex systems will always have limitations.
+
+The goal should be to understand those limitations well enough to manage them responsibly.
+
+That requires humility.
+
+Engineers can become deeply familiar with the systems they create, but familiarity can also create blind spots.
+
+A developer knows how an application is supposed to work.
+
+A user experiences how it actually works.
+
+Those perspectives can be very different.
+
+This is why I value testing with people rather than relying only on technical tests.
+
+A system may pass every automated test and still confuse users.
+
+An AI model may achieve excellent benchmark results and still fail in an unexpected environment.
+
+A security mechanism may be technically strong but unusable.
+
+Testing should therefore include the environment in which the system will actually operate.
+
+This is another connection between engineering and responsibility.
+
+We cannot evaluate a system only under the conditions that make it look good.
+
+We need to understand how it behaves under realistic conditions.
+
+That principle has influenced the way I approach machine learning.
+
+I have become more interested in failure cases.
+
+Which examples does the model classify incorrectly?
+
+Are the errors concentrated in particular categories?
+
+Does performance change when the input changes?
+
+What happens when the data is noisy?
+
+How confident is the model when it is wrong?
+
+These questions tell me more than a single accuracy number.
+
+They also make me think about how systems should communicate uncertainty.
+
+A person can say, "I am not sure."
+
+AI systems should be able to communicate uncertainty appropriately as well.
+
+Sometimes the best answer is not an answer.
+
+Sometimes it is a request for more information.
+
+Sometimes it is a recommendation to consult a human.
+
+Sometimes it is simply an acknowledgment that the system does not know.
+
+This may seem less impressive than a confident response.
+
+But responsible technology is not about appearing impressive.
+
+It is about being useful without creating false confidence.
+
+That principle has become important to me.
+
+I want to build systems that people can trust for the right reasons.
+
+Not because the interface looks sophisticated.
+
+Not because the model speaks confidently.
+
+But because the system has been tested, its limitations are understood, and its behavior is transparent enough for people to make informed decisions.
+
+This is the standard I want to hold myself to as I continue learning.
+
+My long-term goal is to work in artificial intelligence and software engineering.
+
+I want to develop intelligent systems that solve meaningful problems.
+
+But I also want to participate in conversations about how those systems should be designed and deployed.
+
+I want to contribute to technology that improves people's capabilities without unnecessarily reducing their control.
+
+I want to explore AI systems that support humans rather than simply replacing human judgment.
+
+I want to understand when automation is appropriate and when human involvement is essential.
+
+Most importantly, I want to remember that technical ability gives an engineer power.
+
+Power should come with responsibility.
+
+That is why I no longer think the most exciting question in technology is simply:
+
+"Can we build it?"
+
+The better sequence is:
+
+Can we build it?
+
+Why should we?
+
+Who benefits?
+
+Who could be harmed?
+
+What could go wrong?
+
+How would we know?
+
+And what safeguards should exist before we allow the system to operate?
+
+These questions do not make technology less exciting.
+
+They make it more meaningful.
+
+They force us to think beyond the demonstration.
+
+They force us to consider the world in which the technology will actually exist.
+
+That is where engineering becomes more than technical problem solving.
+
+It becomes a form of responsibility.
+
+I want my education to prepare me for that responsibility.
+
+I want rigorous training in computer science, artificial intelligence, algorithms, and systems.
+
+I also want opportunities to study ethics, human-computer interaction, privacy, and the social consequences of technology.
+
+I want to work on projects where technical excellence and responsible design are treated as connected goals.
+
+And I want to learn from people who disagree with me.
+
+Because ethical questions rarely have one simple answer.
+
+Different people can reasonably value different things.
+
+One person may prioritize efficiency.
+
+Another may prioritize privacy.
+
+Another may prioritize accessibility.
+
+Another may prioritize safety.
+
+Good engineering requires understanding those perspectives and making decisions consciously rather than pretending that trade-offs do not exist.
+
+This is another reason I value interdisciplinary learning.
+
+Technology does not belong exclusively to technologists.
+
+The people affected by a system should have a voice in how that system is designed.
+
+Engineers need to listen.
+
+They need to ask questions.
+
+They need to understand consequences outside their area of expertise.
+
+That is the kind of engineer I want to become.
+
+Not someone who simply asks whether a system works.
+
+Someone who asks what "working" actually means.
+
+If a system is fast but unsafe, is it working?
+
+If it is accurate but inaccessible, is it working?
+
+If it is efficient but impossible to challenge, is it working?
+
+If it produces impressive outputs but creates misleading confidence, is it working?
+
+These questions have changed my definition of success.
+
+I no longer think successful technology is simply technology that functions.
+
+Successful technology should function **for a reason**.
+
+It should solve a meaningful problem.
+
+It should respect the people affected by it.
+
+It should acknowledge its limitations.
+
+And when the consequences are significant, it should include appropriate safeguards.
+
+I know I still have much to learn.
+
+I do not expect to have perfect answers to these questions when I enter college.
+
+In fact, I hope college gives me harder questions.
+
+I want to encounter perspectives that challenge my assumptions.
+
+I want to learn about ethical problems I have not considered.
+
+I want to study technical systems deeply enough to understand where responsibility enters their design.
+
+And I want to develop the judgment necessary to make decisions when there is no perfect solution.
+
+The technology I build in the future may be very different from what I build today.
+
+The tools will change.
+
+The models will change.
+
+The applications will change.
+
+But one principle I want to keep constant is this:
+
+Every capability creates a choice.
+
+And every choice deserves consideration.
+
+Technology gives us the ability to do more.
+
+Education should teach us how to decide what is worth doing.
+
+That is the kind of education I am seeking.
+
+I want to become technically capable enough to build powerful systems.
+
+But I also want to become thoughtful enough to question those systems.
+
+Because the future of technology will not depend only on what engineers are capable of creating.
+
+It will depend on what they choose to create, how they choose to use it, and whether they remember the people who will live with the consequences.
+
+For me, that is the question after "Can we?"
+
+It is the question that makes engineering worth doing.

@@ -1,0 +1,33 @@
+**Inspiration:**
+
+The realm of computing propels scientific breakthroughs and commercial innovations, spanning disciplines as diverse as biology to aerospace transportation. As our computational power expands, so does the potential to unravel some of the world's most pressing challenges in science, engineering, and business. My ambition lies in accelerating this scientific revolution by designing advanced, energy-efficient computing systems, particularly focusing on Hardware Software Co-design for general-purpose applications as well as specialized domains such as Artificial Intelligence (AI) and Biology. Pursuing a Ph.D. program will be instrumental in realizing my aspirations.
+
+To set the stage, I embarked upon my journey by studying Physics - Energy Engineering during college, where my fascination with renewable energy sources like solar, wind, water, and geothermal took root. Post-graduation, I found myself drawn to Computer Science, for it was programming—the one assignment that truly captivated me throughout my university career—that ignited my passion for this field. Leveraging online resources, I fortified my foundation in Computer Science, delving into Machine Learning, Computer Architecture, Operating Systems, and other vital domains. Simultaneously, I sought a research opportunity in Computer Science, which materialized when my professor introduced me to international faculty in the United States.
+
+**Background:**
+
+My journey in Computer Science research began with an opportunity to collaborate with Prof. Haryadi Gunawi from the University of Chicago. Our mission: to investigate the latency predictability of unpredictable flash storage, a challenge that had eluded researchers due to vendors' unwillingness to modify device interfaces and the high cost associated with "black-box" approaches involving extra I/Os. Our group pioneered a novel technique—letting the device act as a "black box," learning its patterns without altering file systems or applications, thereby minimizing overhead and enhancing accuracy using a lightweight neural network, which I designed and implemented.
+
+**LinnOS Project:**
+
+In the LinnOS project, my role was pivotal in creating a neural network model to predict incoming I/O speeds for SSD applications. This task proved daunting due to the need for high accuracy without compromising on inference speed or incurring excessive costs. Through meticulous design iterations, I constructed a 3-layer light neural network and focused on crucial input features, ultimately uncovering that features commonly considered significant, such as block offsets, read/write flags, or the long history of writes, played minimal roles. Instead, I discovered that the most critical input features were the latencies of recently completed I/Os and the number of pending I/Os when those I/Os and the current, to-be-inferred I/O arrived. This model surpassed state-of-the-art techniques employed by leading tech companies with minimal inference costs, reducing average I/O latencies by 9.6–79.6% while maintaining 87–97% accuracy and a 4–6 microsecond inference overhead for each I/O. Our work was published on OSDI 2020, marking a significant stride forward in the field of storage systems research.
+
+**Transition:**
+
+Propelled by this success, I decided to venture into AI-related research, joining Prof. Derry Wijaya from Boston University for my next project—a multimodal analysis of news framing. Our goal was to develop a web-based system, OpenFraming, for analyzing and classifying news frames in text documents, making it accessible to researchers from diverse disciplines with or without computational backgrounds. I derived immense satisfaction during the development of this demonstration, envisioning future projects involving online demos for select research outcomes. This demo was published on EMNLP 2021.
+
+**Multimodal News Framing Analysis:**
+
+In collaboration with Prof. Derry Wijaya, I proceeded to utilize BERT and ResNet to predict news frames from a Gun Violence dataset. Our work represented the first foray into computational multimodal framing analysis. Initially, the ResNet-50 model struggled, yielding only 42.8% accuracy when trained and tested on images from our dataset. To enhance its performance, I extracted information from the images using Google Visual API and combined these features with fully connected layers derived from ResNet. The resulting model outperformed the original ResNet model by achieving an 87% accuracy on articles containing relevant images, underscoring the importance of background knowledge in building smarter AI agents. This work was also accepted at EMNLP 2021.
+
+**Return to Systems Research:**
+
+Currently, I collaborate with Prof. Huaicheng Li from Virginia Tech to explore Memory Disaggregation. My initial task involved analyzing Google memory traces using DynamoRIO, which required determination and creativity to decipher patterns within the workloads. To gain insights, I devised my own analysis tools—plotting bandwidth, creating heatmaps of memory usage, providing important ranges of memory addresses, and more—and found joy in converting raw text into visualizations. Moreover, I relish documenting these analysis tools on Github, aspiring to create simple, straightforward, and easy-to-understand documentation for future users.
+
+**Future Plan:**
+
+Modern computing devices are plagued by data movement bottlenecks, which consume a significant portion of total energy consumption and negatively impact workloads such as machine learning, computational biology, and more due to low cache utilization and large datasets. I envision adopting a new paradigm of near-memory processing as the key to improving the performance and efficiency of future computer systems. While my focus lies in exploring near-memory processing, memory disaggregation, and MLSys interaction, I remain open to other exciting research problems in Computer Science.
+
+**At UW:**
+
+I firmly believe that working with University of Washington faculty will help me actualize my aspirations, particularly under the guidance of Prof. Ming Liu, Prof. Andrea Arpaci-Dusseau, or Prof. Remzi Arpaci-Dusseau. I would also welcome the opportunity to collaborate with Prof. Matt Sinclair, Prof. Michael Swift, and Prof. Joshua San Miguel. I am confident that my experiences and determination will enable me to contribute significantly to your research group and hope to grow together within it.

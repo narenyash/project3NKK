@@ -1,0 +1,438 @@
+
+I used to think that knowing something meant being able to explain it.
+
+If I understood a programming concept, I assumed I could teach it. If I could solve a problem, I believed I could show someone else how to solve it. It seemed straightforward: understand the concept, explain the steps, and the other person should understand.
+
+Then I tried teaching programming.
+
+I discovered that knowing and teaching are very different skills.
+
+The experience began when I started helping younger students who were interested in learning how to code. Some had never written a program before. Others had experimented with tutorials but did not understand what they were actually doing.
+
+I expected the experience to be simple.
+
+It was not.
+
+My first explanation of a programming concept was technically correct. I used the proper terminology and walked through the syntax carefully. When the students looked confused, I assumed I had not explained it clearly enough.
+
+So I explained it again.
+
+They were still confused.
+
+I changed the words but kept the same structure.
+
+Still confused.
+
+That was when I realized the problem was not the explanation.
+
+It was me.
+
+I was explaining the concept from the perspective of someone who already understood it.
+
+To me, a variable was obvious. To a beginner, the word itself could be meaningless. I was starting from step five and expecting them to already understand steps one through four.
+
+I needed to change the way I taught.
+
+Instead of beginning with technical definitions, I began with familiar situations.
+
+I explained variables using scores in a game. I explained conditions using everyday decisions. I explained loops through repetitive tasks. Rather than immediately asking students to memorize syntax, I asked them to predict what a program would do.
+
+The difference was surprisingly large.
+
+Students who had struggled with the original explanation began participating.
+
+One student who had barely touched the keyboard started experimenting with the code independently.
+
+That moment stayed with me.
+
+It was the first time I understood that teaching is not about transferring information from one person to another.
+
+It is about building a bridge between what someone already understands and what they are trying to learn.
+
+That realization changed the way I viewed education.
+
+It also changed the way I viewed myself.
+
+Until then, much of my learning had been individual. I would find a tutorial, solve a problem, build a project, or study a concept on my own.
+
+Teaching forced me to slow down.
+
+When I learned something myself, I could move past confusing parts because I could search for another explanation or simply spend more time figuring them out.
+
+When teaching someone else, I could not assume they would make the same mental connections I had made.
+
+I had to understand the concept deeply enough to explain it in several different ways.
+
+That made me a better learner.
+
+It also made me more patient.
+
+Programming had trained me to be persistent with computers.
+
+Teaching trained me to be patient with people.
+
+The difference is important.
+
+A computer will execute instructions exactly as written.
+
+A student will not.
+
+A student brings previous experiences, misconceptions, fears, interests, confidence, and different ways of thinking.
+
+Two students can hear exactly the same explanation and understand completely different things.
+
+Once I recognized this, I became much more interested in the human side of technology.
+
+Technology is often described as a tool for efficiency.
+
+But education reminded me that efficiency is not always the most important objective.
+
+Sometimes the slower process produces deeper understanding.
+
+Sometimes allowing someone to make a mistake is more valuable than immediately giving them the correct answer.
+
+Sometimes asking a question is more useful than providing an explanation.
+
+I began changing how I helped people.
+
+Instead of immediately fixing someone's code, I would ask what they expected the program to do.
+
+Then I would ask what it actually did.
+
+The difference between those two answers often revealed the problem.
+
+This approach had an unexpected benefit: students began solving more problems themselves.
+
+If I gave them the answer, the immediate problem disappeared.
+
+If I helped them discover the answer, they gained a method they could use again.
+
+That distinction became central to my understanding of leadership.
+
+I had previously associated leadership with taking responsibility, making decisions, and guiding a team.
+
+Now I saw another form of leadership: making other people more capable.
+
+A leader does not always need to be the person with the most knowledge.
+
+Sometimes the best leader is the person who helps everyone else contribute their knowledge.
+
+This became especially important during team projects.
+
+When working with others, I noticed that people often had different strengths.
+
+One person might understand the technical architecture extremely well.
+
+Another might be better at design.
+
+Someone else might communicate naturally with users.
+
+Another person might be good at organizing the work.
+
+If one person tried to control every part of the project, the team became less effective.
+
+When responsibilities were shared according to strengths, the result improved.
+
+This taught me that collaboration is not about making everyone work in the same way.
+
+It is about creating an environment where different abilities can work together.
+
+My experiences teaching also changed the way I communicate.
+
+Technical knowledge can sometimes make communication harder.
+
+When someone becomes familiar with specialized terminology, it is easy to forget that those words are not universal.
+
+I learned to ask myself:
+
+"Would someone who has never seen this before understand what I am saying?"
+
+That question has become useful far beyond teaching.
+
+It helps when explaining projects to teammates.
+
+It helps when presenting technical ideas.
+
+It helps when talking to people who are not programmers.
+
+And it helps when designing software.
+
+If an interface requires a user to understand technical terminology before they can use it, perhaps the interface is asking too much from the user.
+
+This connection between teaching and software design became particularly interesting to me.
+
+A good teacher and a good interface have something in common.
+
+Both should reduce unnecessary confusion.
+
+A teacher should not make a concept harder than it needs to be.
+
+A software application should not make a task harder than it needs to be.
+
+Both need to understand the person on the other side.
+
+This became one of the reasons I became interested in human-centered technology.
+
+As I continued learning artificial intelligence, I became increasingly aware that powerful technology is not automatically accessible technology.
+
+An AI system may be technically sophisticated, but if ordinary users cannot understand how to interact with it, its usefulness is limited.
+
+This is especially important in education.
+
+Artificial intelligence has the potential to provide personalized explanations, generate practice problems, identify learning gaps, and assist students with different learning needs.
+
+But personalization is not simply a matter of giving everyone more information.
+
+Students need explanations that match their current understanding.
+
+They need feedback that helps them improve rather than simply telling them whether they are right or wrong.
+
+They need tools that encourage independent thinking rather than replacing it.
+
+My experience teaching programming gave me a different perspective on these possibilities.
+
+If I were designing an AI tutor, I would not want it to immediately provide the solution to every problem.
+
+I would want it to understand where the student is struggling.
+
+I would want it to ask questions.
+
+I would want it to provide hints.
+
+I would want it to change its explanation when the first explanation did not work.
+
+In other words, I would want the system to behave less like an answer generator and more like a teacher.
+
+This idea has become one of my interests within artificial intelligence.
+
+How can technology support learning without removing the process of learning?
+
+How can intelligent systems recognize when a student needs an explanation, a hint, an example, or simply more time?
+
+How can we design educational technology that strengthens curiosity rather than encouraging dependence?
+
+I do not have complete answers to these questions.
+
+That is exactly why I want to study them.
+
+My experience with teaching also changed my attitude toward knowledge itself.
+
+Knowledge can feel like something personal.
+
+You study something difficult, understand it, and feel that you have gained something valuable.
+
+But when you teach someone else, the knowledge changes.
+
+It becomes useful beyond you.
+
+A programming concept that exists only in my memory has limited impact.
+
+The same concept understood by ten other students can become the foundation for ten different projects.
+
+This made me realize that education has a multiplier effect.
+
+One person's learning can influence many other people.
+
+That idea motivates me.
+
+I want my education to have that kind of effect.
+
+I do not want to learn only for grades, certificates, or personal achievement.
+
+Those things can matter, but they are not the entire purpose of learning.
+
+I want the knowledge I gain to eventually become useful to other people.
+
+Sometimes that may happen through software.
+
+Sometimes through research.
+
+Sometimes through teaching.
+
+Sometimes through mentoring.
+
+The form may change, but the principle remains the same: knowledge becomes more valuable when it creates opportunities for others.
+
+This philosophy has influenced how I participate in technical communities.
+
+When I discover something useful, I am more likely to document it, explain it, or share it with someone who may need it.
+
+When I encounter a difficult problem, I try to remember how confusing it felt before I understood it.
+
+That memory helps me explain it more patiently to someone else.
+
+I have also learned to appreciate the people who taught me.
+
+Before teaching others, I underestimated how much effort good teaching requires.
+
+A good teacher notices when students are confused even when they do not say anything.
+
+A good teacher changes the explanation rather than blaming the learner.
+
+A good teacher knows when to step in and when to let someone struggle productively.
+
+A good teacher remembers that confidence is part of learning.
+
+These are qualities I now value deeply.
+
+They have influenced the kind of person I want to become in college.
+
+I want to be a student who contributes to the learning environment rather than simply benefiting from it.
+
+I want to participate in technical communities, help peers when I can, and learn from people who know more than I do.
+
+I want to be comfortable being both the person asking the question and the person helping answer it.
+
+Those roles are not opposites.
+
+They are part of the same cycle.
+
+You learn.
+
+You practice.
+
+You understand.
+
+You teach.
+
+Someone asks a question you cannot answer.
+
+You learn again.
+
+That cycle is one of the things I enjoy most about technology.
+
+There is always another question.
+
+There is always another perspective.
+
+There is always something that can be explained more clearly.
+
+This is also why I value humility.
+
+Teaching showed me that knowing more than someone else in one area does not make me better than them.
+
+A student I was helping might know something about design, mathematics, electronics, or another subject that I had never studied.
+
+The role could easily reverse.
+
+Today I might explain programming.
+
+Tomorrow I might be the person asking for help.
+
+Recognizing this makes collaboration easier.
+
+It allows me to learn without worrying about appearing inexperienced.
+
+I believe this mindset will be important in college.
+
+University will place me in environments where I will often be surrounded by people who are extremely capable.
+
+Some will know more about algorithms.
+
+Others will be stronger mathematicians.
+
+Some will have research experience I do not have.
+
+Others will have built products I have never imagined.
+
+I do not want to compete with every person around me.
+
+I want to learn from them.
+
+At the same time, I hope to contribute what I know.
+
+That exchange is what makes a community valuable.
+
+My long-term goal is to work in artificial intelligence and software engineering, particularly on technology that can have practical human impact.
+
+Education is one area that continues to interest me because it combines several of my interests: technology, problem solving, communication, and human behavior.
+
+I am interested in the possibility of building intelligent systems that make high-quality learning more accessible.
+
+But I also want to approach that problem carefully.
+
+The goal should not be to replace teachers.
+
+It should be to give teachers better tools and give students additional ways to learn.
+
+Technology should expand human capability rather than simply remove humans from the process.
+
+My experience teaching programming has made me believe this strongly.
+
+The most rewarding moments were not when I gave a student the correct answer.
+
+They were when the student stopped needing my answer.
+
+That was the real measure of success.
+
+Someone who initially asked, "What should I type?" eventually asked, "What do you think is wrong with my code?"
+
+That change represented progress.
+
+The student had moved from dependence to investigation.
+
+That is what I want technology to encourage.
+
+Curiosity.
+
+Confidence.
+
+Independence.
+
+The willingness to try.
+
+The willingness to fail.
+
+And the ability to keep learning.
+
+When I think about what I want from college, I therefore think beyond courses and degrees.
+
+I want to become a better learner and a better contributor.
+
+I want to deepen my understanding of computer science and artificial intelligence.
+
+I want to conduct research.
+
+I want to build meaningful projects.
+
+I want to work with people whose experiences are different from mine.
+
+And I want to share what I learn.
+
+Because one of the most unexpected lessons technology has given me is that knowledge becomes more powerful when it moves.
+
+An idea can begin with one person.
+
+It can be explained to another.
+
+That person can improve it.
+
+Someone else can apply it to a different problem.
+
+Eventually, the original idea can become something neither person could have created alone.
+
+That is the kind of impact I hope to have.
+
+I began teaching because I knew something about programming.
+
+I continued because I discovered something about learning.
+
+And I now see teaching as part of my own education.
+
+Every time I explain something to someone else, I am forced to understand it more deeply.
+
+Every question I cannot answer reminds me that there is still more to learn.
+
+Every student who becomes more confident reminds me why knowledge should not be kept to oneself.
+
+I entered the experience thinking I was going to teach programming.
+
+Instead, I learned how to communicate, how to listen, how to collaborate, and how to help someone become independent.
+
+That may be the most important lesson I have learned so far:
+
+The value of knowing something is not only that you can use it yourself.
+
+It is that you can use it to help someone else move forward.
+
+That is the kind of student, engineer, and person I hope to become.

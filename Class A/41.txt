@@ -1,0 +1,816 @@
+
+My interest in technology did not begin with a particular programming language or a specific career goal. It began with a simple habit: noticing problems and wondering whether they could be solved differently.
+
+Sometimes the problems were small. Information was difficult to organise. A repetitive task consumed unnecessary time. A digital system was confusing to use. A process required several steps when fewer might have been possible. None of these problems seemed extraordinary individually, but they gradually changed the way I looked at the world around me.
+
+I began to realise that engineering is not primarily about creating technology.
+
+It is about understanding problems well enough to create something useful.
+
+This distinction has become one of the most important principles in my academic journey.
+
+When I first became interested in programming, I was fascinated by the ability to make a computer perform an action through instructions. Writing a small program and seeing it work created a sense of accomplishment. I began exploring different programming concepts and experimenting with simple applications.
+
+At that stage, I was primarily focused on what I could build.
+
+Over time, my attention shifted toward why I should build it.
+
+A technically impressive application is not necessarily useful.
+
+A sophisticated algorithm may solve a problem that nobody actually has.
+
+A system with dozens of features may be less effective than a simple system that performs one important task well.
+
+This realisation changed how I approach projects.
+
+Instead of starting with a technology, I increasingly try to start with a problem.
+
+Who experiences it?
+
+Why does it exist?
+
+How is it currently being handled?
+
+What makes the existing process difficult?
+
+What would improvement look like?
+
+Only after understanding these questions should technology become part of the discussion.
+
+This way of thinking has made software development more meaningful to me.
+
+For example, when designing an application, it is tempting to immediately think about screens, buttons, databases, and programming frameworks.
+
+But these technical components are only tools.
+
+The real question is what the user needs.
+
+If the user wants to complete a task quickly, a complicated interface may be a poor solution even if it is technically sophisticated.
+
+If the user has limited connectivity, an application that requires constant internet access may not be appropriate.
+
+If the user is unfamiliar with technology, complicated terminology may create unnecessary barriers.
+
+These considerations demonstrate why understanding the problem must come before implementation.
+
+This principle has also influenced my interest in artificial intelligence.
+
+AI is an exceptionally powerful technology, but its existence does not automatically justify its use.
+
+It is possible to add AI to a system simply because AI is currently popular.
+
+However, a responsible engineer should ask whether AI actually improves the outcome.
+
+If a simple rule can solve the problem reliably, a complex model may be unnecessary.
+
+If the available data is poor, machine learning may produce unreliable results.
+
+If a decision requires human judgment, full automation may be inappropriate.
+
+Therefore, choosing not to use AI can sometimes be a better engineering decision than using it.
+
+This perspective has made me more interested in understanding the fundamentals behind technology.
+
+I want to know not only how to implement an algorithm, but also when that algorithm is appropriate.
+
+I want to know not only how to train a model, but also whether the data is sufficient.
+
+I want to know not only how to deploy software, but also whether users can realistically use it.
+
+Engineering decisions should be based on requirements rather than excitement alone.
+
+This approach is especially important in India.
+
+The country contains enormous diversity in geography, language, infrastructure, income, education, and access to technology.
+
+A solution designed for a major metropolitan environment may not work equally well in a smaller town or rural setting.
+
+A platform requiring high-speed connectivity may be inconvenient for users with limited internet access.
+
+An application available only in one language may exclude large groups of people.
+
+A system requiring expensive hardware may be inaccessible to the communities that need it most.
+
+Therefore, solving problems in India often requires thinking about constraints from the beginning.
+
+This is one of the aspects of engineering that interests me most.
+
+How can we create solutions that are not only technically possible but also practical?
+
+A practical solution must consider cost.
+
+It must consider infrastructure.
+
+It must consider maintenance.
+
+It must consider user behaviour.
+
+It must consider scalability.
+
+And it must consider accessibility.
+
+These factors may not appear in a programming textbook, but they determine whether technology succeeds in the real world.
+
+Education is one area where I believe this approach can have significant value.
+
+Students have different learning styles, educational backgrounds, and levels of access to resources.
+
+Technology can provide additional support through digital learning platforms, adaptive systems, intelligent tutoring tools, and personalised educational content.
+
+But the objective should not simply be to make education more technological.
+
+The objective should be to make learning more effective and accessible.
+
+If an AI system gives students immediate answers without encouraging them to understand the reasoning, it may reduce learning.
+
+A better system might provide hints, explanations, examples, and feedback.
+
+The technology should support the learning process rather than replace it.
+
+This is an example of how starting with the problem changes the design.
+
+The problem is not that students lack access to answers.
+
+The problem may be that they lack understanding, guidance, practice, or feedback.
+
+Once the problem is defined correctly, the appropriate technological solution becomes clearer.
+
+Agriculture provides another example.
+
+Farmers face challenges involving weather, water, soil, crop health, market conditions, and resource availability.
+
+Technology can potentially help through sensors, satellite imagery, weather information, machine learning, and digital platforms.
+
+However, an agricultural application should not be designed simply because these technologies are available.
+
+The system must answer a practical question.
+
+What decision will the farmer make using this information?
+
+How frequently is the information needed?
+
+Can the farmer access the system?
+
+Is the cost reasonable?
+
+Can the information be trusted?
+
+Will the system work under local conditions?
+
+These questions determine whether the technology is useful.
+
+The same principle applies to healthcare.
+
+Artificial intelligence can assist with medical imaging, data management, monitoring, and decision support.
+
+But healthcare decisions can have serious consequences.
+
+Therefore, accuracy alone is not enough.
+
+A system must be evaluated carefully.
+
+Its limitations must be understood.
+
+Medical professionals must be involved.
+
+Patient information must be protected.
+
+The technology should support clinical expertise rather than create unjustified confidence in automated predictions.
+
+This illustrates a broader principle I want to follow throughout my career.
+
+The importance of a technology depends on the importance of the problem it solves and the quality of the solution.
+
+Technology should be a means rather than the final objective.
+
+Environmental challenges provide another example.
+
+India faces issues involving air pollution, water management, waste, biodiversity, and climate-related risks.
+
+Software and AI can help analyse environmental data, monitor changes, optimise resources, and support decision-making.
+
+However, environmental problems are not simply data problems.
+
+They involve behaviour, infrastructure, economics, policy, and communities.
+
+Technology can contribute to these systems, but it cannot replace them.
+
+Understanding this prevents unrealistic expectations.
+
+I want to become an engineer who understands both the capabilities and limitations of technology.
+
+This is why I am increasingly interested in systems thinking.
+
+A system is rarely isolated.
+
+Changing one component can influence another.
+
+A new application may change user behaviour.
+
+A new automated process may affect employment.
+
+A new data-collection system may create privacy concerns.
+
+A new energy technology may affect resource consumption.
+
+Therefore, engineers need to think beyond the immediate function of a product.
+
+They need to consider the larger environment in which it operates.
+
+This broader perspective is something I hope to develop through higher education.
+
+I want to study computer science deeply.
+
+Algorithms and data structures will help me solve computational problems efficiently.
+
+Software engineering will help me build reliable systems.
+
+Database technologies will help me manage information.
+
+Artificial intelligence will allow me to develop systems that learn from data.
+
+Mathematics and statistics will help me evaluate those systems.
+
+But I also want to understand the human context surrounding these technologies.
+
+This requires interdisciplinary learning.
+
+I want to interact with students from different fields.
+
+I want to learn from domain experts.
+
+I want to work on projects where technical and non-technical perspectives meet.
+
+These experiences can teach me how to translate real-world needs into technical requirements.
+
+I believe that ability will be one of the most important skills in my future career.
+
+A person may be an excellent programmer but still struggle to identify the right problem.
+
+Another person may understand a social problem deeply but lack the technical knowledge required to develop a solution.
+
+The most effective teams combine both perspectives.
+
+I want to become someone who can contribute to that connection.
+
+This is also why communication matters.
+
+Before building a solution, an engineer must communicate with users and stakeholders.
+
+They must ask questions.
+
+They must listen.
+
+They must clarify expectations.
+
+They must identify constraints.
+
+They must understand what success means to the people who will use the system.
+
+Only then can development begin with confidence.
+
+I want to develop this ability through practical projects and research.
+
+I also want to learn from failure.
+
+Sometimes a project may appear useful during development but fail when tested by actual users.
+
+That failure can be valuable.
+
+It may reveal that the original problem was misunderstood.
+
+It may show that a feature is unnecessary.
+
+It may reveal an unexpected user behaviour.
+
+It may demonstrate that the proposed solution is too expensive or complicated.
+
+Rather than treating such results as wasted effort, I want to treat them as information.
+
+The purpose of engineering is not to defend an idea.
+
+It is to improve the solution.
+
+This mindset encourages iteration.
+
+Identify the problem.
+
+Design a possible solution.
+
+Build a prototype.
+
+Test it.
+
+Collect feedback.
+
+Analyse the results.
+
+Improve the design.
+
+Repeat.
+
+This cycle is at the heart of many successful technological products.
+
+I want to develop comfort with this process.
+
+My interest in artificial intelligence has made iteration particularly important.
+
+Machine learning models often require experimentation.
+
+A first model may not perform well.
+
+Changing the dataset may improve results.
+
+Changing the features may produce a different outcome.
+
+Another architecture may perform better.
+
+A different evaluation method may reveal weaknesses.
+
+This process requires patience.
+
+It also requires intellectual honesty.
+
+If an approach does not work, I should not try to hide the result.
+
+I should understand why.
+
+Research progresses when unsuccessful approaches are analysed rather than ignored.
+
+This is one reason I am interested in research-oriented education.
+
+I want to work on questions where the answer is uncertain.
+
+I want to investigate possible solutions.
+
+I want to test assumptions.
+
+I want to learn how evidence changes conclusions.
+
+And I want to develop the ability to turn observations into better questions.
+
+I believe research and practical engineering complement each other.
+
+Research can reveal new possibilities.
+
+Engineering can turn those possibilities into usable systems.
+
+Users can then provide feedback that creates new research questions.
+
+This cycle can produce meaningful innovation.
+
+My long-term goal is to work at this intersection.
+
+I want to develop intelligent software systems that address real problems.
+
+I am interested in applications of AI, but I want the application to determine the technology rather than the reverse.
+
+If AI provides a genuine advantage, I want to use it.
+
+If a simpler approach is better, I want to choose simplicity.
+
+If human judgment is necessary, I want to preserve it.
+
+This philosophy can help prevent unnecessary complexity.
+
+Simplicity is often underestimated in engineering.
+
+A system does not become better simply because it contains more features.
+
+Every additional component can introduce complexity.
+
+Complexity can create maintenance problems.
+
+It can increase costs.
+
+It can create new failure points.
+
+It can make systems harder to understand.
+
+Therefore, the best solution may sometimes be the simplest one that reliably addresses the problem.
+
+I want to develop this judgment.
+
+I also want to consider scalability.
+
+A solution may work perfectly for ten users and fail for ten million.
+
+As systems grow, databases, infrastructure, security, performance, and cost become important.
+
+This is another reason I want to study software architecture and system design.
+
+I want to understand how useful ideas can become reliable systems at larger scales.
+
+India's large population creates particularly interesting opportunities for this kind of engineering.
+
+A successful digital solution can potentially reach millions of users.
+
+This creates enormous potential for impact.
+
+But it also increases responsibility.
+
+A small error can affect many people.
+
+A poorly designed interface can exclude large groups.
+
+A security vulnerability can have serious consequences.
+
+Therefore, scale requires careful engineering.
+
+I want to learn how to build systems that are reliable not only in demonstrations but also under real-world conditions.
+
+Accessibility is another part of this responsibility.
+
+Technology should not assume that every user has the same abilities or resources.
+
+Some users may have disabilities.
+
+Some may use older devices.
+
+Some may have limited digital literacy.
+
+Some may prefer regional languages.
+
+Some may have intermittent connectivity.
+
+These factors should influence design.
+
+I want to develop technology that considers such differences rather than treating them as unusual exceptions.
+
+This is one reason human-centred design interests me.
+
+A good system should adapt to people rather than forcing everyone to adapt to the system.
+
+Artificial intelligence may eventually provide more personalised interfaces and services.
+
+But personalisation should be designed responsibly.
+
+The system needs appropriate data.
+
+Users should understand important aspects of how their information is used.
+
+Privacy must be considered.
+
+Bias must be evaluated.
+
+The benefits should justify the complexity.
+
+Again, the problem must guide the solution.
+
+This principle also applies to sustainability.
+
+Technology itself consumes resources.
+
+Data centres require energy.
+
+Hardware requires materials.
+
+Electronic devices eventually become waste.
+
+Therefore, engineers should consider environmental consequences.
+
+A computationally expensive solution may not always be preferable to a smaller and more efficient one.
+
+An AI system should be evaluated not only for accuracy but, where relevant, for computational cost and energy use.
+
+This is another example of why engineering requires trade-offs.
+
+A solution must balance performance, cost, efficiency, reliability, and user needs.
+
+There is rarely one perfect answer.
+
+The engineer's role is to understand the requirements and make informed decisions.
+
+I want to develop that ability.
+
+My academic journey has also taught me that solving problems requires curiosity.
+
+When I encounter an unfamiliar issue, I want to understand it before immediately proposing a solution.
+
+Why does the problem exist?
+
+Has someone already solved it?
+
+What approaches have been attempted?
+
+Why have they succeeded or failed?
+
+What constraints exist?
+
+What assumptions are being made?
+
+These questions can prevent unnecessary work.
+
+They can also reveal opportunities for improvement.
+
+I want curiosity to become a permanent part of my engineering process.
+
+At the same time, I want to remain practical.
+
+Not every problem needs months of research.
+
+Sometimes the best solution is straightforward.
+
+Engineering requires knowing when to investigate deeply and when to implement a simple solution.
+
+Experience will help develop this judgment.
+
+University will provide opportunities to practise it.
+
+I want to participate in technical clubs, research projects, competitions, internships, and collaborative projects.
+
+Each environment can expose me to different types of problems.
+
+Competitions can teach rapid problem solving.
+
+Research can teach patience and experimentation.
+
+Internships can teach practical constraints.
+
+Group projects can teach communication.
+
+Personal projects can teach independence.
+
+Together, these experiences can prepare me for professional engineering.
+
+I also want to contribute to my community through technology.
+
+I believe students should not wait until they become senior professionals before attempting to solve meaningful problems.
+
+Even small projects can create useful learning.
+
+A student can build a tool for classmates.
+
+A group can create educational resources.
+
+A developer can automate a repetitive task for an organisation.
+
+A researcher can investigate a local environmental issue.
+
+These contributions may not immediately transform society, but they develop the habit of connecting knowledge with action.
+
+I want to develop that habit.
+
+My long-term career goals involve artificial intelligence and software engineering.
+
+I want to work on complex technical systems.
+
+I want to explore research.
+
+I want to develop products.
+
+Eventually, I may want to build or lead technology initiatives.
+
+But regardless of the specific role, I want to retain the same principle:
+
+Start with the problem.
+
+Understand the people.
+
+Study the constraints.
+
+Choose the appropriate technology.
+
+Build carefully.
+
+Test honestly.
+
+Learn from feedback.
+
+Improve continuously.
+
+This process can transform technology from an abstract capability into a meaningful solution.
+
+I believe this approach is particularly important in a rapidly changing technological environment.
+
+New tools appear constantly.
+
+Artificial intelligence is becoming increasingly powerful.
+
+Cloud computing allows systems to scale rapidly.
+
+Automation is changing industries.
+
+New software platforms are being developed every year.
+
+It is easy to become distracted by the technology itself.
+
+I want to remain focused on purpose.
+
+The most interesting question is not always, "What can this technology do?"
+
+Sometimes the more important question is, "What problem is worth solving with it?"
+
+That question can guide innovation toward meaningful outcomes.
+
+I also want to remember that not every important problem is technical.
+
+Some problems require education.
+
+Some require policy.
+
+Some require changes in behaviour.
+
+Some require investment in infrastructure.
+
+Some require community participation.
+
+An engineer should recognise these boundaries.
+
+Technology can support broader efforts, but it should not pretend to replace them.
+
+This understanding will help me work more effectively with people from other disciplines.
+
+I want to become comfortable discussing problems with educators, scientists, business professionals, policymakers, and community members.
+
+Their knowledge can improve technical solutions.
+
+I believe this interdisciplinary approach will become increasingly important as technology influences more areas of life.
+
+The engineer of the future will need to understand both systems and people.
+
+That is the kind of professional I want to become.
+
+My interest in problem solving has also changed how I view innovation.
+
+Innovation is not always about inventing something completely new.
+
+It can be about removing friction.
+
+It can be about making a process faster.
+
+It can be about making information easier to access.
+
+It can be about reducing cost.
+
+It can be about improving reliability.
+
+It can be about making a service available to people who previously could not access it.
+
+These improvements may appear ordinary, but their impact can be significant when implemented at scale.
+
+I want to pursue this kind of practical innovation.
+
+I want to build technology that people can actually use.
+
+I want to measure success through outcomes rather than novelty alone.
+
+If a system solves a problem effectively, it has value.
+
+If users adopt it, it has value.
+
+If it saves time or resources, it has value.
+
+If it improves access, it has value.
+
+If it helps people make better decisions, it has value.
+
+These are the outcomes I want to focus on.
+
+My education will provide the technical foundation necessary to pursue them.
+
+I want to strengthen my understanding of algorithms, machine learning, databases, software architecture, and computer systems.
+
+I want to learn research methodology.
+
+I want to improve my mathematics.
+
+I want to understand how large-scale systems are designed.
+
+I want to learn how AI models are evaluated and deployed.
+
+But I also want to develop the ability to identify worthwhile problems.
+
+Technical skills can tell me how to build.
+
+Critical thinking can help me decide what to build.
+
+Communication can help me understand whom to build for.
+
+Ethics can help me consider how the system should be used.
+
+Together, these abilities can create responsible engineering.
+
+I know that I still have much to learn.
+
+There are many areas of computer science I have not explored deeply.
+
+There are technical problems I cannot currently solve.
+
+There are real-world constraints I have not yet experienced.
+
+But that is precisely why I want higher education.
+
+I want to challenge myself.
+
+I want to work with people who know more than I do.
+
+I want to encounter unfamiliar problems.
+
+I want to learn from failure.
+
+I want to conduct experiments.
+
+I want to develop stronger technical judgment.
+
+Most importantly, I want to become better at turning problems into possibilities.
+
+My definition of engineering can now be expressed simply.
+
+Observe.
+
+Question.
+
+Understand.
+
+Design.
+
+Build.
+
+Test.
+
+Improve.
+
+Repeat.
+
+The process may begin with a small inconvenience, a social challenge, a scientific question, or an unexplained pattern.
+
+The engineer's role is to investigate whether a useful solution is possible.
+
+Sometimes the answer will be yes.
+
+Sometimes it will be no.
+
+Both outcomes can create knowledge.
+
+I want to approach both with the same curiosity.
+
+I do not want to build technology simply to say that I built it.
+
+I want to build because there is a reason.
+
+I want to understand that reason before beginning.
+
+I want to involve the people affected by the problem.
+
+I want to consider the limitations.
+
+I want to test whether the solution actually works.
+
+And I want to be willing to change it when evidence shows that it can be better.
+
+This philosophy will guide the way I approach my education and future career.
+
+I want to become a technically strong engineer, but I also want to become a thoughtful problem solver.
+
+I want to understand algorithms, but I also want to understand people.
+
+I want to build intelligent systems, but I also want to understand when intelligence is actually needed.
+
+I want to pursue innovation, but I also want to consider consequences.
+
+I want to create technology, but I want its purpose to remain clear.
+
+Ultimately, I believe the greatest value of engineering lies not in the complexity of what we build but in the problems we choose to solve.
+
+A simple solution to an important problem can be more valuable than a sophisticated solution to an insignificant one.
+
+This principle has shaped my interest in computer science and artificial intelligence.
+
+It is also the principle I want to carry into higher education.
+
+I want to learn deeply.
+
+I want to experiment.
+
+I want to research.
+
+I want to collaborate.
+
+And I want to develop the ability to recognise meaningful problems when I encounter them.
+
+The world will continue to present new challenges.
+
+Some will involve technology.
+
+Others will require technology to work alongside human knowledge, policy, science, and community action.
+
+I want to be prepared for both.
+
+My goal is not simply to become someone who knows how to use technology.
+
+It is to become someone who understands when technology can make a difference and has the skills to turn that understanding into action.
+
+For me, that is the essence of engineering.
+
+A problem creates a question.
+
+A question creates curiosity.
+
+Curiosity leads to understanding.
+
+Understanding creates the possibility of a solution.
+
+And a carefully designed solution can turn that possibility into meaningful change.
+
+That is the journey I want my education to prepare me for.

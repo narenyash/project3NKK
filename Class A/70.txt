@@ -1,0 +1,396 @@
+
+I am a student with a strong interest in computer science, and one of the areas I enjoy is full-stack development. I like the process of building a complete application and understanding how different parts of the system work together. My interest in full-stack development developed as I started learning programming and working on personal projects outside my regular academic studies.
+
+When I first started learning programming, I mainly focused on individual concepts. I learned basic programming, HTML, CSS, and JavaScript and used them to create simple web pages. As I gained more experience, I became interested in building applications that could do more than display information.
+
+I wanted to understand what happens when a user interacts with an application.
+
+For example, when a user submits a form, where does the information go?
+
+How is it stored?
+
+How does the application retrieve it later?
+
+How does the frontend communicate with the backend?
+
+These questions encouraged me to explore backend development and databases.
+
+This is how I became interested in full-stack development.
+
+I started learning technologies such as React, Node.js, Express, MongoDB, and SQL. Each technology helped me understand a different part of a software application.
+
+React helped me understand how interactive user interfaces are created.
+
+Node.js and Express helped me understand backend development and APIs.
+
+MongoDB and SQL helped me understand how information can be stored and retrieved.
+
+Working with these technologies together gave me a better understanding of how complete applications are developed.
+
+One thing I enjoy about full-stack development is that it allows me to work on different parts of a project.
+
+I can design the user interface.
+
+I can develop the backend.
+
+I can work with the database.
+
+I can connect the different components.
+
+I can test the application.
+
+This gives me a broader understanding of software development.
+
+At the same time, working across different parts of an application has shown me that each component affects the others.
+
+A problem in the backend can affect the frontend.
+
+A database structure can influence how APIs are designed.
+
+A change in the API can require changes in the user interface.
+
+This has taught me to think about the application as a complete system rather than as separate pieces of code.
+
+One of the first things I learned while working on full-stack projects was the importance of planning.
+
+When an application is small, it may be possible to start coding immediately.
+
+However, as the project becomes larger, it becomes important to understand the requirements and decide how the different components will interact.
+
+I usually try to identify the main features, the data that needs to be stored, the API requirements, and the main screens before starting implementation.
+
+This helps reduce confusion later.
+
+I have also learned the importance of choosing appropriate technologies.
+
+There are many frameworks and tools available, but using more technologies does not necessarily make a project better.
+
+The technology should match the requirements of the project.
+
+For example, a simple application may not require a complicated architecture.
+
+A larger application may need more structured development practices.
+
+I want to improve my ability to make these decisions as I gain more experience.
+
+Another important part of full-stack development is API design.
+
+APIs provide communication between different parts of an application.
+
+When the frontend sends a request to the backend, the backend needs to process it and return the appropriate response.
+
+Understanding this communication helped me see how different components can work together.
+
+It also introduced me to concepts such as HTTP methods, authentication, request validation, error handling, and data formatting.
+
+These concepts are important for building reliable applications.
+
+Working with databases has also been an important part of my learning.
+
+I have used MongoDB and SQL and explored how information can be stored, queried, updated, and organised.
+
+I learned that database design affects application performance and maintainability.
+
+A poorly designed database can make an application difficult to manage as the amount of information grows.
+
+This encouraged me to learn more about database structures and queries.
+
+I also became interested in authentication and security.
+
+Applications that allow users to create accounts or store personal information need to protect that information.
+
+This means that authentication, authorisation, password handling, input validation, and secure API design are important.
+
+I want to learn more about application security because I understand that building an application is not only about making it functional.
+
+It also needs to be reliable and secure.
+
+Another area I have explored is deployment.
+
+Building an application locally is different from making it available to users.
+
+Deployment introduces additional considerations such as environment variables, hosting, domains, databases, server configuration, and monitoring.
+
+Working through these challenges helped me understand that software development continues after the code is written.
+
+A complete application needs to be deployed, tested, maintained, and updated.
+
+This is one of the reasons I enjoy full-stack development.
+
+It gives me exposure to the complete development process.
+
+I have also learned the importance of error handling.
+
+Applications do not always receive valid input.
+
+Users may enter unexpected information.
+
+Servers may become unavailable.
+
+Databases may fail to respond.
+
+External APIs may return errors.
+
+A good application should handle such situations properly rather than simply crashing.
+
+This has encouraged me to think about different possible failure cases while developing.
+
+I also use testing to identify problems before deployment.
+
+Even simple testing can reveal issues that are not obvious during normal development.
+
+As projects become larger, I want to learn more about automated testing and software quality.
+
+My interest in full-stack development is also connected to my interest in artificial intelligence.
+
+I have worked on AI and machine learning projects, and I find it interesting to integrate AI models into complete applications.
+
+An AI model may generate a prediction or classification, but users usually need an application to interact with it.
+
+The model can be connected to a backend API, which can then be connected to a web interface.
+
+This creates a complete AI application.
+
+I enjoy this combination of AI and full-stack development because it allows me to work on both the intelligence of the system and the way users interact with it.
+
+For example, a computer vision model could be integrated into a web application where users upload an image and receive the model's result.
+
+The frontend would handle the user interaction.
+
+The backend would process the request.
+
+The model would analyse the image.
+
+The database could store relevant information.
+
+The final result would be presented to the user.
+
+Developing such a system requires knowledge from several areas.
+
+This is the type of project I enjoy working on.
+
+Another reason I like full-stack development is that it encourages practical problem-solving.
+
+When building an application, I often encounter problems that do not have a single obvious answer.
+
+I may need to decide how information should be stored, how the API should be structured, or how a particular feature should work.
+
+These decisions require understanding the requirements and considering different options.
+
+I enjoy this process because it allows me to think about both technical and practical aspects.
+
+I have also learned that user experience is important.
+
+An application can have good backend architecture but still be difficult to use.
+
+Users should be able to understand the interface and complete tasks without unnecessary complexity.
+
+This has encouraged me to think about the application from the user's perspective.
+
+I want to improve my understanding of user interface design and human-computer interaction as I continue learning.
+
+Hackathons have also helped me develop my full-stack skills.
+
+During a hackathon, teams often need to build a working application quickly.
+
+This requires connecting the frontend, backend, database, and other services within a short period.
+
+The experience has taught me how to prioritise the core features and create a working version before adding additional functionality.
+
+It has also taught me how important integration is.
+
+Each component may work individually, but the final system needs to work as a whole.
+
+This has improved my understanding of software architecture.
+
+I also enjoy the fact that full-stack development provides immediate feedback.
+
+When I create a feature and see it working in the application, I can understand the result directly.
+
+If something does not work, I can investigate the issue and try to fix it.
+
+This makes learning practical.
+
+I often learn new concepts because I need them for a particular project.
+
+For example, I may learn a new API method because my application requires it, or I may learn a database concept because I need to store information more efficiently.
+
+This project-driven learning method works well for me.
+
+At the same time, I understand that practical development should be supported by strong fundamentals.
+
+I want to study data structures, algorithms, operating systems, computer networks, databases, and software engineering in greater depth.
+
+These subjects will help me understand the principles behind the systems I build.
+
+I do not want to depend only on frameworks.
+
+Frameworks can change over time.
+
+Strong fundamentals will remain useful.
+
+This is one of the main reasons I want to pursue higher education in computer science.
+
+I want to combine my existing practical experience with deeper theoretical knowledge.
+
+I also want to learn about system design.
+
+As applications grow, the architecture becomes more important.
+
+A system may need to handle more users, more data, and more requests.
+
+It may require caching, load balancing, message queues, monitoring, and other infrastructure.
+
+I have only explored some of these areas so far, and I want to learn more.
+
+Understanding how large-scale systems are designed will be important for my future career.
+
+Another area I want to explore is cloud computing.
+
+Modern applications are often deployed using cloud infrastructure.
+
+Cloud platforms provide services for computing, storage, databases, networking, and deployment.
+
+I want to understand how these services can be used to build scalable applications.
+
+This would complement my existing full-stack and AI interests.
+
+I also want to improve my DevOps knowledge.
+
+Continuous integration, deployment, monitoring, logging, and automated testing are important for maintaining software.
+
+Learning these practices will help me move from building projects for learning purposes to developing applications using more professional processes.
+
+I am interested in gaining this experience through internships and larger projects.
+
+My long-term goal is to work as a software engineer or AI engineer.
+
+I want to be able to develop complete systems rather than focusing on only one small component.
+
+At the same time, I understand that professional software development often involves specialisation.
+
+As I gain more experience, I may decide to specialise more deeply in AI, backend development, distributed systems, or another area.
+
+For now, I want to maintain a broad foundation.
+
+This will help me understand how different parts of modern software systems connect.
+
+I also want to continue developing my problem-solving skills.
+
+Full-stack development provides many opportunities to solve practical problems.
+
+Sometimes the problem is technical.
+
+Sometimes it is related to usability.
+
+Sometimes it involves performance.
+
+Sometimes it involves understanding requirements.
+
+I want to become better at identifying the actual problem before choosing a solution.
+
+This is an important engineering skill.
+
+I also want to improve my documentation and code organisation.
+
+As projects become larger, clean code and good documentation become more important.
+
+Another developer should be able to understand how the system works.
+
+This is especially important in professional teams where several people work on the same codebase.
+
+I want to develop these practices during college and internships.
+
+My experience with full-stack development has also taught me the importance of continuous learning.
+
+There are many frameworks and tools available, and new ones appear regularly.
+
+I do not want to focus on learning every new technology.
+
+Instead, I want to understand the fundamentals well enough to learn new tools when necessary.
+
+If I understand how web applications, APIs, databases, and software architecture work, I can adapt to different frameworks more easily.
+
+This is the type of flexibility I want to develop.
+
+I also want to explore how full-stack systems can be used in different fields.
+
+Applications can support education, healthcare, business, accessibility, agriculture, and many other areas.
+
+I am particularly interested in combining full-stack development with AI to create practical systems.
+
+For example, an intelligent application could analyse information, provide recommendations, automate a repetitive task, or help users access information more easily.
+
+The possibilities are broad.
+
+I want to explore them through projects and research.
+
+I believe full-stack development has also improved my understanding of users.
+
+When I work on the frontend, I have to think about how the application looks and behaves.
+
+When I work on the backend, I need to think about how information is processed.
+
+When I work with the database, I need to think about how information is stored.
+
+Considering all these parts helps me understand the complete user experience.
+
+I want to continue developing this perspective.
+
+Higher education will give me opportunities to work on larger projects and learn more advanced concepts.
+
+I want to participate in group projects, technical clubs, hackathons, internships, and research activities.
+
+Working with other students will also help me understand how professional development teams operate.
+
+I want to learn how large projects are planned, how code is reviewed, and how teams maintain software over time.
+
+I know that my current full-stack experience is only a starting point.
+
+There are many areas I have not explored deeply.
+
+I want to learn more about distributed systems, cloud architecture, security, testing, performance optimisation, and system design.
+
+I also want to strengthen my knowledge of algorithms and computer science fundamentals.
+
+These areas will help me become a stronger developer.
+
+For me, full-stack development is interesting because it connects different areas of computer science.
+
+It combines programming, databases, networking, design, software engineering, and increasingly artificial intelligence.
+
+I enjoy understanding how these components work together to create a complete application.
+
+I also enjoy the practical nature of the work.
+
+I can start with an idea and gradually turn it into a working system.
+
+The process may involve problems and revisions, but the final result provides a clear example of what I have learned.
+
+This motivates me to continue building.
+
+My goal is to become a technology professional who can understand a problem, design an appropriate system, develop it, test it, and improve it.
+
+I want to build applications that are reliable and useful.
+
+I also want to continue exploring artificial intelligence and understand how intelligent features can be integrated into software products.
+
+I believe that combining software engineering with AI will give me many opportunities to work on practical problems in the future.
+
+I am looking forward to learning more about these areas through higher education.
+
+I want to strengthen my fundamentals, gain more practical experience, participate in research, and work with other students on challenging projects.
+
+I also want to learn from professionals through internships and industry experience.
+
+My interest in full-stack development has given me a practical understanding of software development, but I know there is much more to learn.
+
+I want to continue improving my technical skills and become more comfortable with larger and more complex systems.
+
+I believe that the combination of academic knowledge, practical projects, teamwork, and continuous learning will help me achieve my career goals.
+
+For me, full-stack development is not simply about learning frontend and backend technologies.
+
+It is about understanding how a complete software system works and how different components can be combined to solve a problem.
+
+That is what I enjoy about the field, and I hope to continue developing this interest throughout my education and future career.

@@ -1,0 +1,456 @@
+
+Some of the most interesting problems are the ones nobody talks about.
+
+I began noticing this while paying attention to ordinary routines around me. A shopkeeper writing an order in a notebook. A student searching through several messaging groups to find an assignment. A small business owner keeping track of payments manually. A customer waiting while someone searches through a stack of papers for information.
+
+None of these situations seemed important enough to become headlines.
+
+Yet they consumed time every day.
+
+That made me curious.
+
+Why do some problems become so familiar that people stop thinking of them as problems?
+
+And could technology help solve them without making their lives more complicated?
+
+This question has influenced the way I approach computer science.
+
+When I first became interested in programming, I was fascinated by what computers could do. I wanted to learn programming languages, build applications, experiment with artificial intelligence, and understand how software worked.
+
+Over time, however, my focus shifted.
+
+I became less interested in building technology simply because it was possible and more interested in identifying situations where technology could genuinely help.
+
+That change began with observation.
+
+I started paying attention to how people around me actually used technology.
+
+I noticed that access to technology does not necessarily mean effective use of technology.
+
+A person may own a smartphone but still manage their business through handwritten records.
+
+A student may have access to online learning but still struggle to organize information.
+
+A small organization may have internet access but rely on disconnected spreadsheets because professional software is too expensive or complicated.
+
+These situations made me realize that the digital divide is not only about whether someone owns a device.
+
+It can also be about whether technology fits the person's circumstances.
+
+This became particularly important to me as I started developing software.
+
+As a developer, it is easy to think about what a system can do.
+
+Users think about something else.
+
+They think about whether it saves time.
+
+Whether it is understandable.
+
+Whether it works on their device.
+
+Whether they can afford it.
+
+Whether they can trust it.
+
+Whether they need to learn something new just to use it.
+
+These questions changed the way I evaluated my own projects.
+
+Earlier, I considered a project successful when the code worked.
+
+Later, I began asking whether the person using it would actually benefit.
+
+That difference seems small.
+
+It is not.
+
+A technically impressive application can still be useless if it solves a problem nobody has.
+
+A simple application can be extremely valuable if it removes a frustrating task that people perform every day.
+
+This realization made me interested in small businesses.
+
+Large companies often have access to specialized software, technical teams, consultants, and infrastructure.
+
+Small businesses may not.
+
+Yet small businesses handle complicated processes every day.
+
+They manage customers, inventory, payments, orders, employees, suppliers, and records.
+
+Many of these tasks involve repetitive work that software could simplify.
+
+I became interested in building technology for these environments because the impact is easier to understand.
+
+If an application saves someone several hours each week, the benefit is tangible.
+
+If it reduces an error in an order, the benefit is tangible.
+
+If it allows a business owner to find information in seconds instead of searching through notebooks, the benefit is tangible.
+
+This perspective influenced one of my full-stack projects.
+
+Rather than beginning with a technology stack, I began by thinking about the workflow.
+
+What information enters the system?
+
+Who needs it?
+
+Where is it stored?
+
+Who changes it?
+
+What happens when something goes wrong?
+
+What should the user see?
+
+These questions led naturally to decisions about the frontend, backend, database, authentication, and APIs.
+
+The technical architecture became a consequence of understanding the problem.
+
+That was an important shift in my development as a programmer.
+
+I learned that good engineering begins before the first line of code.
+
+It begins with observation.
+
+It begins with asking questions.
+
+It begins with understanding constraints.
+
+This lesson also influenced my interest in artificial intelligence.
+
+AI is often presented as something capable of solving extremely complex problems.
+
+But I became more interested in its quieter applications.
+
+Could AI help a small business organize information?
+
+Could it help a student understand difficult material?
+
+Could it help someone interact with software without learning complicated interfaces?
+
+Could it make information more accessible to someone who is not comfortable with technology?
+
+These questions interested me because they connected advanced technology with ordinary situations.
+
+I began to see AI not merely as a field of research but as an interface between people and complexity.
+
+Modern software systems can be incredibly powerful, but that power often comes with complexity.
+
+Users may need to navigate menus, understand settings, fill out forms, remember passwords, and learn unfamiliar workflows.
+
+An intelligent system could potentially simplify some of these interactions.
+
+Instead of forcing users to understand how a system is organized, perhaps the system could understand what the user is trying to accomplish.
+
+That possibility fascinates me.
+
+But it also raises an important question:
+
+How much should technology adapt to people, and how much should people adapt to technology?
+
+I believe good technology should do more of the adapting.
+
+A system should not assume that every user is technically experienced.
+
+It should not punish people for having limited digital knowledge.
+
+It should not make simple tasks complicated merely because its internal architecture is complicated.
+
+This is why accessibility has become an important part of how I think about software.
+
+Accessibility is sometimes treated as a specialized feature.
+
+I see it more broadly.
+
+A system is more accessible when it communicates clearly.
+
+It is more accessible when it works on ordinary devices.
+
+It is more accessible when users do not need technical knowledge to understand it.
+
+It is more accessible when errors are explained rather than simply displayed.
+
+It is more accessible when the system considers different ways people interact with technology.
+
+These principles benefit everyone.
+
+A confusing application is not only difficult for a person with a disability.
+
+It is difficult for anyone who is using it for the first time.
+
+A slow website is not only inconvenient for someone with limited connectivity.
+
+It is inconvenient for everyone.
+
+Designing for constraints often creates better technology for all users.
+
+This idea has also influenced my interest in India.
+
+India presents an unusual technological environment.
+
+It contains highly advanced technology alongside very traditional systems.
+
+People can use digital payments while still keeping handwritten records.
+
+A small business can communicate with customers through messaging applications while managing inventory manually.
+
+Students can access sophisticated online resources while learning through very different educational environments.
+
+These combinations create interesting engineering problems.
+
+Technology cannot simply be copied from one environment and assumed to work everywhere.
+
+It has to fit the people who use it.
+
+That means understanding local habits, languages, connectivity, affordability, infrastructure, and trust.
+
+I find these constraints exciting rather than limiting.
+
+Constraints force creativity.
+
+If a system cannot assume fast internet, it must be designed differently.
+
+If users cannot afford expensive hardware, the software must work on devices they already have.
+
+If users are uncomfortable with complex interfaces, the interaction must become simpler.
+
+If people speak different languages, communication must become more flexible.
+
+These are not merely technical challenges.
+
+They are design challenges.
+
+They are human challenges.
+
+And solving them requires both engineering and empathy.
+
+This is one reason I want to continue studying computer science.
+
+I want stronger technical foundations so that I can build systems capable of operating under real-world constraints.
+
+I want to understand distributed systems so that applications can remain reliable as they grow.
+
+I want to study databases so that information can be stored and retrieved efficiently.
+
+I want to study artificial intelligence so that systems can become more adaptive.
+
+I want to study human-computer interaction so that those systems remain understandable.
+
+And I want to learn from disciplines outside computer science because real-world problems rarely fit neatly inside one academic department.
+
+My interest in technology has therefore become broader over time.
+
+I still enjoy writing code.
+
+I still enjoy the satisfaction of seeing an application work.
+
+I still become absorbed in difficult technical problems.
+
+But now I also enjoy asking whether the problem itself is worth solving.
+
+That question has become one of my favorite parts of engineering.
+
+There are thousands of things we could build.
+
+We cannot build all of them.
+
+So we have to decide which ones matter.
+
+This requires judgment.
+
+It requires listening.
+
+It requires understanding people who may not have the same technical background as the developer.
+
+It requires accepting that a developer's idea of an ideal product may not match the user's needs.
+
+I have experienced this in my own projects.
+
+Sometimes I have spent considerable time building a feature that seemed useful to me, only to realize that users cared more about something much simpler.
+
+Those experiences taught me to pay attention.
+
+Instead of asking people whether they like an idea, I try to understand what they actually do.
+
+There is a difference.
+
+Someone may say that an application is useful because the concept sounds good.
+
+But their behavior may reveal that they rarely use it.
+
+Understanding that difference is essential.
+
+It is also one of the reasons I enjoy building prototypes.
+
+A prototype turns an assumption into something that can be tested.
+
+Before building, I can imagine that a feature will work.
+
+After building, I can observe what actually happens.
+
+Reality becomes feedback.
+
+This process reminds me of scientific experimentation.
+
+You start with a hypothesis.
+
+You test it.
+
+You examine the result.
+
+Then you modify your understanding.
+
+That cycle has become central to the way I learn.
+
+It has also made me more comfortable with changing my mind.
+
+I once believed that a good engineer should have strong opinions about how a system should be designed.
+
+Now I think a good engineer should have strong principles but flexible solutions.
+
+The principle might be that software should be reliable.
+
+The implementation can change.
+
+The principle might be that a system should be accessible.
+
+The design can evolve.
+
+The principle might be that technology should solve a real problem.
+
+The specific technology can change completely.
+
+This flexibility will be important in my future career.
+
+The technologies I am learning today will not remain unchanged.
+
+New programming frameworks will emerge.
+
+AI models will become more capable.
+
+New interfaces will appear.
+
+Entire categories of software may disappear.
+
+But the underlying need to understand problems will remain.
+
+That is the skill I want to develop most deeply.
+
+I want to become someone who can enter an unfamiliar environment, observe how people work, identify inefficiencies, understand the constraints, and determine whether technology can help.
+
+I want to be able to move from a conversation to a problem statement, from a problem statement to a prototype, and from a prototype to a reliable system.
+
+That process requires more than programming.
+
+It requires communication.
+
+It requires research.
+
+It requires design.
+
+It requires persistence.
+
+It requires the willingness to listen when someone says, "This doesn't actually help me."
+
+That sentence can be more valuable than praise.
+
+It tells you where your assumptions were wrong.
+
+It gives you a chance to improve.
+
+This mindset has also influenced the kind of impact I hope to have.
+
+I do not necessarily want to build the largest application.
+
+I want to build something useful.
+
+The scale can come later.
+
+A system that helps one person may not seem revolutionary.
+
+But if the same idea can eventually help thousands or millions of people, the initial simplicity becomes a strength rather than a weakness.
+
+Many important technologies began by solving a specific problem.
+
+The challenge is recognizing which small problems contain larger possibilities.
+
+That is what I want to learn to do.
+
+My long-term interests lie in artificial intelligence, software engineering, and technology for practical applications.
+
+I am particularly interested in building systems that make complex processes easier for ordinary users.
+
+I want to explore intelligent interfaces, automation, and AI-powered tools that can adapt to different users and environments.
+
+But I also want to remain grounded in the problems themselves.
+
+I do not want to start with the question, "Where can I use AI?"
+
+I want to start with:
+
+"What is difficult here?"
+
+Then:
+
+"Why is it difficult?"
+
+Then:
+
+"Who experiences the problem?"
+
+And only after that:
+
+"Could technology make it better?"
+
+That sequence has become my philosophy of engineering.
+
+Technology should be a means, not the starting point.
+
+The starting point should be people.
+
+The problems we learn to ignore are often the ones that deserve another look.
+
+A repetitive task.
+
+A confusing process.
+
+A wasted hour.
+
+An inaccessible service.
+
+A system that works for experts but excludes beginners.
+
+These problems may seem ordinary.
+
+But ordinary problems affect millions of people precisely because they occur every day.
+
+I want to learn how to notice them.
+
+I want to learn how to investigate them.
+
+And eventually, I want to learn how to build solutions that make them less difficult.
+
+That is what computer science means to me now.
+
+It is not simply the study of computers.
+
+It is a way of thinking about problems.
+
+It teaches me to break complexity into smaller pieces, identify patterns, design systems, test assumptions, and improve solutions.
+
+But the most important lesson is one I learned outside the code:
+
+Technology has value only when it improves something that matters.
+
+That is the kind of engineer I want to become.
+
+Someone who does not only ask, "Can we build it?"
+
+Someone who also asks, "Will it help?"
+
+And, most importantly:
+
+"Who will it help?"

@@ -1,0 +1,15 @@
+{
+  "features": [
+    "perplexity_z",
+    "logprob_variance_z"
+  ],
+  "coefficients": {
+    "perplexity_z": -0.13171759888582546,
+    "logprob_variance_z": -0.057012824837042855
+  },
+  "intercept": -0.01061235909503771,
+  "class_weight": "balanced",
+  "target_framing": "human=0, ai/ai_edited=1 (sentence-level scorer, use alongside the essay-level model)",
+  "seed": 42,
+  "purpose": "Sentence-level-only AI-touch flag, decoupled from essay-wide features per the Step 7 diagnosis that essay-wide coefficients swamp sentence-level signal for ai_edited detection."
+}

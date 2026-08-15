@@ -1,0 +1,878 @@
+
+Failure is usually described as the opposite of success. A test score that falls below expectations, a project that does not work, or an opportunity that does not materialise can initially feel like evidence that something has gone wrong. Over time, however, I have begun to see failure differently. Failure is not automatically a measure of ability. It is information. It reveals weaknesses, challenges assumptions, and often forces us to develop qualities that success alone cannot teach.
+
+My interest in computer science has given me many opportunities to experience this lesson.
+
+When I first began programming, I expected progress to be relatively straightforward. I imagined that learning a programming language would mainly involve understanding its syntax and applying the correct commands. I soon discovered that programming is much less predictable.
+
+A program can fail because of a single character.
+
+A correct idea can produce an incorrect result.
+
+A solution that works for one input can fail for another.
+
+A program can work on one computer and behave differently in another environment.
+
+These experiences were frustrating at first.
+
+But they gradually changed my approach to problems.
+
+Instead of seeing an error message simply as an obstacle, I began seeing it as evidence.
+
+Something had happened that I did not understand.
+
+The question became: why?
+
+That question transformed debugging into a learning process.
+
+Every error contained information.
+
+A syntax error taught me about the language.
+
+A logical error taught me about my assumptions.
+
+A runtime error taught me about the system.
+
+A failed test taught me about edge cases.
+
+A deployment problem taught me that software does not exist only inside a development environment.
+
+Failure became part of education.
+
+This lesson became more important as my projects became more complicated.
+
+A small application can sometimes be completed through trial and error.
+
+A larger project requires planning.
+
+Different components interact.
+
+Changing one part can affect another.
+
+Requirements may be misunderstood.
+
+Users may behave differently from what the developer expects.
+
+The larger the system becomes, the more important testing and iteration become.
+
+I learned that a project failing at one stage does not necessarily mean the project itself is a failure.
+
+It may simply mean that the current approach is inadequate.
+
+That distinction is important.
+
+If I treat every unsuccessful attempt as proof that the goal is impossible, I may abandon valuable ideas too early.
+
+If I treat every failure as proof that my original approach was correct and the circumstances were wrong, I may refuse to learn.
+
+The productive response lies between these extremes.
+
+Examine the evidence.
+
+Understand what failed.
+
+Determine what can be changed.
+
+Try again.
+
+This process has influenced how I approach technical work.
+
+Artificial intelligence has reinforced the same lesson.
+
+Machine learning models do not always perform as expected.
+
+A model may achieve good results on training data but perform poorly on unfamiliar examples.
+
+A dataset may contain patterns that do not generalise.
+
+A model may be too complex.
+
+The evaluation method may be inappropriate.
+
+The data may not represent the real environment.
+
+When this happens, the correct response is not simply to label the model as unsuccessful.
+
+The failure must be investigated.
+
+What is the source of the problem?
+
+Is it the data?
+
+The architecture?
+
+The training process?
+
+The evaluation?
+
+The assumptions?
+
+Each possibility leads to another experiment.
+
+This process is very similar to scientific research.
+
+A hypothesis may be wrong.
+
+That does not make the experiment useless.
+
+The result provides information.
+
+It may eliminate one explanation.
+
+It may suggest another.
+
+It may lead to a better question.
+
+Failure therefore contributes to knowledge.
+
+I find this idea particularly meaningful.
+
+In ordinary life, people often want to hide failure.
+
+In science, a failed experiment can be valuable if it is properly understood.
+
+The difference is not whether something worked.
+
+The difference is whether we learned from the outcome.
+
+I want to develop that mindset.
+
+One of the most important things failure has taught me is humility.
+
+When a project succeeds, it is tempting to believe that the approach was correct from the beginning.
+
+When a project fails, assumptions become visible.
+
+Perhaps I misunderstood the user.
+
+Perhaps I underestimated the complexity.
+
+Perhaps I did not test enough.
+
+Perhaps I chose the wrong technology.
+
+Perhaps I did not ask for help soon enough.
+
+Recognising these possibilities can be uncomfortable.
+
+But it is also valuable.
+
+It forces honest self-evaluation.
+
+I want to become comfortable with that process.
+
+Humility does not mean lacking confidence.
+
+It means understanding that confidence should remain open to evidence.
+
+I can believe that I am capable while accepting that my current solution may be wrong.
+
+That distinction allows improvement.
+
+Failure has also taught me patience.
+
+Some technical problems cannot be solved immediately.
+
+A bug may take hours to identify.
+
+A research problem may take weeks to understand.
+
+A difficult mathematical concept may require repeated study.
+
+A project may need several redesigns.
+
+The desire for immediate results can make these situations frustrating.
+
+I have learned that persistence is often more valuable than speed.
+
+The goal is not always to solve the problem quickly.
+
+Sometimes the goal is to understand it deeply enough that the eventual solution is reliable.
+
+This is especially important in higher education.
+
+University-level subjects may be significantly more challenging than earlier coursework.
+
+I expect to encounter topics that initially seem difficult.
+
+Instead of interpreting difficulty as evidence that I cannot learn the subject, I want to interpret it as evidence that I need a different approach.
+
+Perhaps I need more practice.
+
+Perhaps I need another explanation.
+
+Perhaps I need to study the prerequisite concepts.
+
+Perhaps I need to discuss the problem with someone.
+
+Failure can therefore guide learning strategies.
+
+It can show where the gap exists.
+
+This perspective also changes how I view examination results.
+
+An academic result is important, but it is not a complete measure of intellectual ability.
+
+A disappointing score can reveal insufficient preparation, misunderstanding, ineffective study methods, or simply an unfamiliar type of problem.
+
+The useful response is analysis.
+
+What did I know?
+
+What did I not know?
+
+Which mistakes were avoidable?
+
+Which concepts require more work?
+
+What should I change before the next assessment?
+
+This turns a result into feedback.
+
+I want to approach academic challenges this way.
+
+Failure also teaches responsibility.
+
+It is easy to blame circumstances.
+
+Sometimes circumstances genuinely contribute to an unsuccessful outcome.
+
+But blaming them does not necessarily create improvement.
+
+I want to ask what was within my control.
+
+Could I have prepared better?
+
+Could I have communicated earlier?
+
+Could I have tested more thoroughly?
+
+Could I have asked for help?
+
+Could I have planned differently?
+
+Taking responsibility does not mean blaming myself for everything.
+
+It means identifying the part I can influence.
+
+That is where improvement begins.
+
+This principle is particularly important in teamwork.
+
+A failed group project can create an urge to blame one person.
+
+Perhaps someone missed a deadline.
+
+Perhaps someone misunderstood their task.
+
+Perhaps a technical component failed.
+
+But a stronger team response examines the process.
+
+Were responsibilities clear?
+
+Were dependencies understood?
+
+Was progress reviewed?
+
+Were problems communicated early?
+
+Was there enough testing?
+
+Leadership and teamwork become stronger when failure is analysed collectively rather than used primarily for blame.
+
+I want to contribute to teams that respond this way.
+
+Failure has also taught me the value of preparation.
+
+Sometimes problems happen because of unexpected circumstances.
+
+But many failures are preventable.
+
+Testing can catch bugs.
+
+Planning can identify dependencies.
+
+Documentation can prevent misunderstandings.
+
+Research can prevent unnecessary development.
+
+User feedback can reveal incorrect assumptions.
+
+Preparation does not eliminate failure.
+
+It reduces avoidable failure.
+
+I want to become more systematic in my preparation.
+
+Before building a project, I want to understand the requirements.
+
+Before deploying software, I want to test it.
+
+Before trusting a model, I want to evaluate it.
+
+Before making an important decision, I want to examine the available evidence.
+
+These habits can reduce unnecessary mistakes.
+
+At the same time, I do not want fear of failure to prevent experimentation.
+
+If I demand certainty before trying anything, I will never explore new ideas.
+
+Innovation requires uncertainty.
+
+Research requires uncertainty.
+
+Learning requires uncertainty.
+
+Therefore, there must be room for controlled failure.
+
+A prototype can fail.
+
+An experiment can fail.
+
+A first version can be imperfect.
+
+The important thing is that the failure should provide useful information.
+
+This is one reason I value iterative development.
+
+Build a version.
+
+Test it.
+
+Observe what happens.
+
+Identify weaknesses.
+
+Improve it.
+
+Repeat.
+
+The first version does not need to be perfect.
+
+It needs to teach us something.
+
+This approach has changed how I think about projects.
+
+Instead of asking whether the first attempt will be successful, I ask what I can learn from it.
+
+That reduces unnecessary fear.
+
+It also encourages experimentation.
+
+Failure has taught me that progress is rarely linear.
+
+There can be periods of rapid improvement.
+
+There can also be periods where nothing seems to work.
+
+A person may spend considerable effort without seeing immediate results.
+
+This does not necessarily mean that progress has stopped.
+
+Sometimes understanding is developing beneath the surface.
+
+A difficult concept may eventually become clear after enough exposure.
+
+A technical problem may suddenly make sense after several unsuccessful attempts.
+
+A research question may become clearer after reading more literature.
+
+This is why patience matters.
+
+I want to remain committed to long-term progress rather than judging myself by every individual outcome.
+
+Failure has also changed how I receive criticism.
+
+Feedback can feel uncomfortable, particularly when it identifies a weakness in something I have worked hard on.
+
+But constructive criticism can reveal problems that are difficult to see independently.
+
+If someone points out that an interface is confusing, I should investigate.
+
+If a mentor says that my approach is inefficient, I should understand why.
+
+If a teammate says that communication was unclear, I should reflect on it.
+
+The goal is not to defend the work simply because I created it.
+
+The goal is to improve it.
+
+I want to develop this attitude.
+
+This will be important in university.
+
+Professors may challenge my assumptions.
+
+Peers may disagree with my approach.
+
+Reviewers may identify weaknesses in research.
+
+Mentors may suggest changes.
+
+These experiences should make my work stronger.
+
+I want to learn how to separate criticism of an idea from criticism of myself.
+
+An idea can be wrong without the person being incapable.
+
+A design can be improved without making the original effort worthless.
+
+Understanding this distinction creates intellectual resilience.
+
+Failure has also taught me that asking for help is not a weakness.
+
+When I first encountered difficult technical problems, I sometimes tried to solve everything independently.
+
+Persistence is valuable, but unnecessary isolation is not.
+
+There are situations where another person's experience can provide a useful perspective.
+
+A mentor may have encountered the same problem before.
+
+A teammate may understand a different component.
+
+Documentation may explain an unfamiliar concept.
+
+A professor may provide a deeper theoretical explanation.
+
+Seeking help can accelerate learning.
+
+The important thing is to remain engaged with the problem rather than simply asking someone else to solve it.
+
+I want to develop that balance between independence and collaboration.
+
+Another lesson failure has taught me is the importance of adaptability.
+
+When an approach does not work, repeating it without modification is unlikely to produce a different result.
+
+Sometimes persistence means continuing toward the same goal.
+
+Sometimes it means changing the method.
+
+I want to become better at distinguishing between the two.
+
+If the goal remains meaningful but the approach is weak, I should change the approach.
+
+If the goal itself is no longer valuable, I should reconsider it.
+
+This requires reflection.
+
+It also requires the courage to abandon work that no longer makes sense.
+
+There is a temptation to continue simply because time has already been invested.
+
+But past effort should not determine future decisions.
+
+If new evidence suggests a different direction, changing course can be rational.
+
+Failure can therefore create clarity.
+
+It can show what does not work.
+
+Knowing what does not work can narrow the search for what might.
+
+This is particularly important in research.
+
+Scientific knowledge advances partly through eliminating incorrect explanations.
+
+An unsuccessful experiment can prevent researchers from spending additional time on a weak hypothesis.
+
+This makes failure part of progress.
+
+I want to experience research in this way.
+
+I want to work on questions where the answer is not guaranteed.
+
+I want to learn how to design experiments.
+
+I want to analyse unexpected results.
+
+I want to understand uncertainty.
+
+And I want to become comfortable reporting findings honestly, even when they do not support my original expectations.
+
+Scientific integrity requires this.
+
+A researcher should not change evidence simply because the desired result was different.
+
+Failure can therefore teach ethics.
+
+Honest reporting is more valuable than impressive but misleading results.
+
+This principle also applies to engineering.
+
+A developer should not hide a known defect simply because a deadline is approaching.
+
+A model's limitations should not be ignored simply because its average performance looks impressive.
+
+A product should not be described as solving a problem if testing does not support that claim.
+
+Responsible engineering requires honesty about limitations.
+
+Failure makes these limitations visible.
+
+I want to develop the integrity to acknowledge them.
+
+My interest in artificial intelligence makes this especially important.
+
+AI systems can produce outputs that appear convincing even when they are incorrect.
+
+If engineers treat successful demonstrations as sufficient evidence, they may overlook important failure cases.
+
+Testing must include situations where the system may fail.
+
+Developers need to understand limitations.
+
+Users need appropriate expectations.
+
+Failure analysis becomes part of responsible AI development.
+
+I want to contribute to systems that are evaluated honestly.
+
+Failure has also influenced my definition of success.
+
+I no longer think success means avoiding mistakes.
+
+A person who never attempts difficult things may avoid many failures.
+
+But they may also avoid significant learning.
+
+I believe a better definition is making meaningful progress while learning from setbacks.
+
+A project that fails but teaches valuable lessons can be more educational than a project that succeeds easily.
+
+A difficult course that strengthens problem-solving ability can be more valuable than an easy course with a high score.
+
+A research experiment that disproves an assumption can create important knowledge.
+
+Therefore, outcomes need context.
+
+The question is not simply, "Did it work?"
+
+It is also, "What did it teach me?"
+
+This perspective helps me remain motivated.
+
+It makes difficult experiences less discouraging.
+
+Instead of seeing every setback as a closed door, I can ask whether it reveals another direction.
+
+This does not mean pretending failure is always positive.
+
+Failure can hurt.
+
+It can be disappointing.
+
+It can create financial, academic, or emotional consequences.
+
+It should not be romanticised.
+
+The value comes from how we respond afterward.
+
+Acknowledging disappointment is part of the process.
+
+Then comes reflection.
+
+Then action.
+
+Then improvement.
+
+I want to develop that sequence.
+
+Failure also teaches empathy.
+
+When I have struggled with something myself, I become more understanding when another person struggles.
+
+I know that difficulty does not necessarily indicate lack of effort.
+
+Someone may need a different explanation.
+
+Someone may need more practice.
+
+Someone may be dealing with circumstances I do not know about.
+
+This awareness can make me a better teammate and mentor.
+
+I want to help create environments where people can learn without being defined by their mistakes.
+
+This is especially important in education.
+
+Students should be encouraged to attempt challenging problems.
+
+If every mistake is treated as evidence of incompetence, students may become afraid to experiment.
+
+A healthy learning environment treats mistakes as opportunities for correction.
+
+I want to contribute to such environments.
+
+In the future, if I mentor students, I want to encourage them to debug rather than give up.
+
+If a program fails, identify the error.
+
+If an answer is wrong, examine the reasoning.
+
+If a project does not work, understand the failure.
+
+If an idea is criticised, evaluate the evidence.
+
+These habits can build resilience.
+
+Failure can also strengthen perseverance.
+
+There are moments when the easiest response is to stop.
+
+Continuing is not always the correct answer, but the decision to continue should be based on purpose rather than discomfort.
+
+If the objective remains worthwhile, difficulty alone should not be a reason to abandon it.
+
+This is particularly important for long-term goals.
+
+Becoming a strong engineer will require years of learning.
+
+Developing research expertise will require patience.
+
+Building meaningful systems will involve repeated iteration.
+
+There will be failures along the way.
+
+I want to be prepared for them.
+
+I do not expect my future to be free from mistakes.
+
+I expect to make them.
+
+My goal is to make better mistakes.
+
+To make them while experimenting.
+
+To recognise them quickly.
+
+To learn from them honestly.
+
+And to avoid repeating them unnecessarily.
+
+This is a more realistic approach to growth.
+
+Failure also teaches that improvement is often collaborative.
+
+When a problem is difficult, different perspectives can help.
+
+One person may identify the technical issue.
+
+Another may understand the user requirement.
+
+Another may notice a design problem.
+
+Another may suggest an alternative.
+
+A team can sometimes turn an individual failure into collective learning.
+
+This is another reason I value collaboration.
+
+I do not want to treat every challenge as something I must solve alone.
+
+Strong teams can learn from each other's mistakes.
+
+This can make organisations more resilient.
+
+My future career will likely involve complex systems and teams.
+
+I want to contribute to a culture where problems are surfaced early.
+
+A team should not hide a problem until the deadline because it fears blame.
+
+A leader should want to know about risks.
+
+A developer should feel comfortable reporting a bug.
+
+A researcher should be able to report an unexpected result.
+
+A student should be able to say that they do not understand something.
+
+These behaviours make learning possible.
+
+Failure therefore connects with psychological safety, communication, and leadership.
+
+It is not simply an individual experience.
+
+It can shape entire organisations.
+
+I want to develop the ability to respond constructively when things go wrong.
+
+This will help me become a better professional.
+
+It will also help me become a better person.
+
+No one can control every outcome.
+
+But we can control our response.
+
+We can choose whether to learn.
+
+We can choose whether to take responsibility.
+
+We can choose whether to seek help.
+
+We can choose whether to try again.
+
+We can choose whether to change direction.
+
+These choices determine what failure ultimately means.
+
+For me, failure has become less of a final judgment and more of a checkpoint.
+
+It tells me to stop.
+
+Look at what happened.
+
+Understand it.
+
+Decide what comes next.
+
+Sometimes the next step is another attempt.
+
+Sometimes it is a different method.
+
+Sometimes it is asking for help.
+
+Sometimes it is moving in a new direction.
+
+The important part is making that decision consciously.
+
+This mindset will be important as I pursue higher education.
+
+University will challenge me academically and personally.
+
+There may be subjects I struggle with.
+
+There may be projects that fail.
+
+There may be research questions that do not produce the expected results.
+
+There may be opportunities I do not receive.
+
+I want to approach these experiences with resilience.
+
+I want to learn from them rather than allowing them to define me.
+
+I also want to remain ambitious.
+
+Learning from failure should not mean lowering standards.
+
+It should mean becoming better equipped to meet those standards.
+
+If a project fails, I should improve the project.
+
+If my skills are insufficient, I should develop them.
+
+If my preparation is inadequate, I should change my preparation.
+
+If my assumptions are wrong, I should revise them.
+
+Failure should create action.
+
+This is the relationship between failure and growth that I want to maintain.
+
+My long-term goal is to work in artificial intelligence and software engineering.
+
+These fields require experimentation.
+
+They involve uncertain problems.
+
+They demand continuous learning.
+
+They involve systems that can fail in unexpected ways.
+
+I therefore know that failure will be part of my professional life.
+
+I do not want to fear it.
+
+I want to understand it.
+
+I want to design systems that fail safely.
+
+I want to test them thoroughly.
+
+I want to learn from incidents.
+
+I want to improve processes.
+
+And I want to create technology that becomes more reliable through honest evaluation.
+
+This approach can turn failure into an engineering resource.
+
+Every bug can reveal a weakness.
+
+Every failed test can reveal an edge case.
+
+Every unexpected result can reveal a missing assumption.
+
+Every user complaint can reveal a design problem.
+
+The goal is not to eliminate all failure.
+
+The goal is to reduce preventable failure and respond effectively to unavoidable failure.
+
+This is a practical definition of resilience.
+
+I want to develop it.
+
+Ultimately, failure has taught me that growth is rarely comfortable.
+
+Learning requires confronting what I do not know.
+
+Improvement requires acknowledging what I do poorly.
+
+Innovation requires accepting uncertainty.
+
+Leadership requires accepting responsibility.
+
+Research requires accepting unexpected results.
+
+All of these experiences involve forms of failure.
+
+But they also create opportunities for development.
+
+I want to approach those opportunities with honesty.
+
+I do not want to pretend that failure does not matter.
+
+It does.
+
+But I also do not want to believe that failure is the end.
+
+It is often information about what comes next.
+
+That is the lesson I want to carry into higher education.
+
+I want to become a student who is willing to attempt difficult problems.
+
+I want to become an engineer who tests assumptions.
+
+I want to become a researcher who reports results honestly.
+
+I want to become a teammate who learns from mistakes.
+
+I want to become a mentor who helps others recover from setbacks.
+
+And I want to become a professional who does not measure progress only by the number of successful outcomes, but also by the quality of learning that occurs along the way.
+
+Success may show what worked.
+
+Failure can show what needs to change.
+
+Both are valuable.
+
+The difference is that failure often demands deeper reflection.
+
+That reflection is what turns a setback into education.
+
+I want to keep learning from it.
+
+Because the ability to succeed matters.
+
+But the ability to recover, learn, adapt, and try again may matter even more.
+
+That is the lesson failure has given me, and it is one I intend to carry throughout my education, career, and life.

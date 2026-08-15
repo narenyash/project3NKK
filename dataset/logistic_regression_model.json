@@ -1,0 +1,25 @@
+{
+  "features": [
+    "perplexity_z",
+    "logprob_variance_z",
+    "sentence_length_variance_z",
+    "syntactic_depth_variance_z",
+    "perplexity_variance_z",
+    "ngram_repeat_rate_z",
+    "transition_repetition_rate_z"
+  ],
+  "coefficients": {
+    "perplexity_z": -0.24030908189975944,
+    "logprob_variance_z": -0.1295244396106889,
+    "sentence_length_variance_z": -1.844081670658045,
+    "syntactic_depth_variance_z": -0.3384626663858498,
+    "perplexity_variance_z": 0.04453135934490515,
+    "ngram_repeat_rate_z": 0.016771040231117414,
+    "transition_repetition_rate_z": -0.18953292985728123
+  },
+  "intercept": -1.8550945413999498,
+  "class_weight": "balanced",
+  "target_framing": "human=0, ai/ai_edited=1",
+  "trained_on": "train split only (essay-stratified 80/20 sub-split, val held out within train)",
+  "seed": 42
+}

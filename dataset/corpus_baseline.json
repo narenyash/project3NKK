@@ -1,0 +1,42 @@
+{
+  "perplexity": {
+    "mean": 112.09585525720392,
+    "std": 358.9756011791725
+  },
+  "logprob_variance": {
+    "mean": 11.001627791799585,
+    "std": 3.8465778015410534
+  },
+  "sentence_length_variance": {
+    "mean": 91.9481846241074,
+    "std": 37.71855961445932
+  },
+  "syntactic_depth_variance": {
+    "mean": 5.7473238679876895,
+    "std": 2.4476210619283862
+  },
+  "perplexity_variance": {
+    "mean": 103891.03180078184,
+    "std": 269691.3343429182
+  },
+  "ngram_repeat_rate": {
+    "mean": 0.024357226120811218,
+    "std": 0.0188618429148803
+  },
+  "transition_repetition_rate": {
+    "mean": 0.03423087171735925,
+    "std": 0.024249276867439575
+  },
+  "local_perplexity_deviation": {
+    "mean": 0.47183123018355855,
+    "std": 5.447217396898947
+  },
+  "local_length_deviation": {
+    "mean": 0.08543792878557392,
+    "std": 2.8610521273290135
+  },
+  "local_depth_deviation": {
+    "mean": 0.037471328056148084,
+    "std": 2.2257357929892603
+  }
+}

@@ -1,0 +1,522 @@
+
+When I was younger, I thought being intelligent meant knowing the answer.
+
+If someone asked a question in class, I admired the student who raised their hand immediately.
+
+If I solved a difficult problem before everyone else, I felt successful.
+
+If I knew something that another person did not, I felt confident.
+
+Over time, however, my understanding of intelligence changed.
+
+I began to realize that some of the most important questions do not have immediate answers.
+
+Some do not even have known answers.
+
+And sometimes, asking the right question is more valuable than knowing a quick answer.
+
+This realization has shaped the way I learn.
+
+My interest in computer science began with questions.
+
+How does a computer know what to do?
+
+How can information travel across a network?
+
+How can a machine recognize an image?
+
+How can software understand language?
+
+How can a system learn from examples?
+
+At first, I searched for answers.
+
+But every answer created another question.
+
+That pattern became addictive.
+
+I learned how a program communicates with a database, then wondered how databases handle enormous amounts of information.
+
+I learned how machine learning models classify images, then wondered how they behave when the image looks different from anything in the training data.
+
+I learned how language models generate text, then wondered what it actually means for a machine to "understand" language.
+
+The questions became more interesting than the original answers.
+
+That changed my relationship with learning.
+
+Instead of seeing knowledge as a destination, I began seeing it as a map.
+
+Every new concept revealed another part of the map.
+
+The more I learned, the larger the unknown became.
+
+At first, this could feel discouraging.
+
+If learning more meant realizing how much I did not know, perhaps I was not making progress.
+
+Eventually, I understood the opposite was true.
+
+Recognizing what I do not know is evidence that my understanding is becoming more sophisticated.
+
+A beginner may not know that a problem is complicated.
+
+An experienced person can see the complexity.
+
+That difference matters.
+
+I experienced it most strongly when I began learning artificial intelligence.
+
+At first, AI seemed straightforward.
+
+Give a model data.
+
+Train it.
+
+Evaluate it.
+
+Improve it.
+
+But the deeper I went, the more questions appeared.
+
+What exactly is the model learning?
+
+Why does it make one prediction instead of another?
+
+What happens when the training data is biased?
+
+How does the model behave outside its training distribution?
+
+Can a model produce a correct answer without understanding the underlying concept?
+
+How should uncertainty be represented?
+
+These questions made AI more interesting to me than simply achieving a high benchmark score.
+
+I wanted to understand the system rather than merely operate it.
+
+That curiosity influenced the way I approached my projects.
+
+When something worked, I began asking why.
+
+When something failed, I asked why.
+
+Both questions were equally valuable.
+
+Success can hide assumptions.
+
+Failure can expose them.
+
+Suppose a machine learning model performs extremely well.
+
+The obvious reaction is to celebrate the accuracy.
+
+My reaction increasingly became:
+
+"What caused this performance?"
+
+Maybe the dataset is genuinely representative.
+
+Maybe the model learned a useful pattern.
+
+Or maybe the dataset contains an unintended shortcut.
+
+The number alone cannot tell me.
+
+I need to investigate.
+
+That habit of questioning results has become an important part of how I work.
+
+I have learned not to trust a result simply because it looks good.
+
+I want to understand the conditions under which it was produced.
+
+This applies to software as well.
+
+A program that works once is not necessarily reliable.
+
+An application that looks good on my computer may behave differently on another device.
+
+An API that succeeds with one input may fail with another.
+
+A system that works for a few users may behave differently at scale.
+
+Each successful test therefore creates another question:
+
+"Under what conditions does this continue to work?"
+
+That question is one of the foundations of good engineering.
+
+It is also one of the reasons I enjoy testing.
+
+Testing is a structured way of asking questions.
+
+What happens if the input is empty?
+
+What happens if the input is much larger?
+
+What happens if the network fails?
+
+What happens if the user does something unexpected?
+
+What happens if a dependency becomes unavailable?
+
+Instead of assuming the system will behave correctly, testing asks it to prove itself.
+
+I find that mindset valuable.
+
+It turns uncertainty into something that can be investigated.
+
+This way of thinking has also changed how I approach academic subjects.
+
+When I encounter a difficult mathematical concept, I no longer immediately search for a shortcut.
+
+I try to understand what the concept is describing.
+
+What problem was it created to solve?
+
+Why does the formula have this structure?
+
+What happens if one assumption changes?
+
+Can I construct a simple example?
+
+Can I explain the idea without using the formal notation?
+
+These questions often help me understand the subject more deeply than memorization would.
+
+The same approach works in computer science.
+
+If I learn an algorithm, I want to know why it is useful.
+
+If I learn a data structure, I want to know what trade-off it provides.
+
+If I learn an optimization technique, I want to understand what problem it is solving.
+
+If I learn a machine learning architecture, I want to know why it was designed that way.
+
+The questions give the knowledge context.
+
+Without context, information can become a collection of disconnected facts.
+
+With context, it becomes a system.
+
+This is one reason I am attracted to research.
+
+Research is essentially structured uncertainty.
+
+You begin with something you do not fully understand.
+
+You examine what is already known.
+
+You identify a gap.
+
+You formulate a question.
+
+You design an experiment or analysis.
+
+Then you discover what happens.
+
+The result may support your hypothesis.
+
+It may contradict it.
+
+It may reveal an entirely new problem.
+
+I like that uncertainty.
+
+In a normal assignment, the teacher knows the answer.
+
+In research, nobody may know.
+
+That changes the role of the student.
+
+You are no longer simply demonstrating that you understand existing knowledge.
+
+You are participating in the process of creating new knowledge.
+
+That is something I want to experience.
+
+I want to work on questions where the answer is not available in a textbook.
+
+I want to read research papers and ask what remains unresolved.
+
+I want to build experiments that can distinguish between competing explanations.
+
+I want to become comfortable with results that do not match my expectations.
+
+This last part is particularly important.
+
+It is easy to become attached to an idea.
+
+When I have spent time developing a project, I naturally want the result to support my original assumption.
+
+But science and engineering require something more important than attachment.
+
+They require honesty.
+
+If the evidence contradicts my idea, I need to change the idea.
+
+That can be difficult.
+
+It can also be liberating.
+
+I do not have to protect an assumption simply because it was mine.
+
+I can replace it with a better one.
+
+That is one of the reasons I value feedback.
+
+A good criticism can save weeks of work.
+
+Someone may notice an assumption I never questioned.
+
+Someone may identify a simpler approach.
+
+Someone may show that my proposed solution does not actually address the problem.
+
+My first reaction may be disappointment.
+
+My second reaction should be curiosity.
+
+Why did they see something I did not?
+
+What can I learn from their perspective?
+
+This mindset has improved the way I collaborate.
+
+Instead of treating disagreement as a threat, I try to treat it as information.
+
+Different people have different mental models.
+
+When those models conflict, the disagreement can reveal something worth examining.
+
+This is particularly useful in technical teams.
+
+One person may focus on performance.
+
+Another may focus on usability.
+
+Another may focus on security.
+
+Another may focus on reliability.
+
+A solution that satisfies only one of these perspectives may be incomplete.
+
+The strongest designs often emerge from asking questions across all of them.
+
+My interest in questions has also influenced how I think about artificial intelligence.
+
+Modern AI systems can answer an enormous range of questions.
+
+That capability is impressive.
+
+But it also creates an interesting paradox.
+
+If machines become increasingly good at answering questions, humans may need to become better at deciding which questions are worth asking.
+
+An AI system can generate ten possible solutions.
+
+A human still needs to decide which problem actually matters.
+
+A model can summarize thousands of documents.
+
+A researcher still needs to determine what conclusion is justified.
+
+A system can produce code.
+
+An engineer still needs to decide whether the code should exist.
+
+As AI becomes better at producing answers, human judgment may become more important, not less.
+
+This is one of the areas I want to explore.
+
+I am interested in building AI systems that support human reasoning rather than simply replacing it.
+
+A useful AI assistant should not always answer immediately.
+
+Sometimes it should ask for clarification.
+
+Sometimes it should identify an assumption.
+
+Sometimes it should show competing possibilities.
+
+Sometimes it should explain why it is uncertain.
+
+That kind of system would help people think rather than simply consume outputs.
+
+I find that possibility exciting.
+
+It also connects to education.
+
+A student who receives every answer instantly may finish assignments faster without necessarily learning more.
+
+An AI tutor that asks the right question at the right time could be more valuable.
+
+Instead of giving the solution, it might provide a hint.
+
+Instead of correcting an error immediately, it might ask the student to examine a particular step.
+
+Instead of explaining everything, it might determine what the student already understands.
+
+This approach reflects something I have learned from my own experiences.
+
+Sometimes the most useful help is not an answer.
+
+It is a better question.
+
+If someone tells me exactly what to do, I may complete the task.
+
+If someone asks me the right question, I may understand the problem.
+
+The second experience stays with me longer.
+
+That is why I value teachers and mentors who do not always solve problems for me.
+
+They force me to think.
+
+They allow me to struggle.
+
+They ask questions that expose gaps in my understanding.
+
+That process can be uncomfortable.
+
+But it creates independence.
+
+I want to become that kind of learner.
+
+Someone who does not need an answer immediately.
+
+Someone who can remain with a difficult problem long enough to understand it.
+
+This is particularly important because many of the problems I want to work on do not have simple solutions.
+
+Artificial intelligence raises technical and ethical questions.
+
+Climate change involves scientific, economic, and social systems.
+
+Education involves technology, psychology, culture, and access.
+
+Large-scale software involves reliability, security, performance, and human behavior.
+
+These problems cannot be solved by one formula.
+
+They require questions.
+
+What is actually happening?
+
+What assumptions are we making?
+
+What information are we missing?
+
+Who is affected?
+
+What alternatives exist?
+
+How can we test them?
+
+These questions create a path through complexity.
+
+That is the kind of thinking I want to develop in college.
+
+I want to study computer science deeply.
+
+I want to learn algorithms, artificial intelligence, machine learning, systems, and mathematics.
+
+But I also want to develop the ability to formulate research questions.
+
+I want to understand how scientists identify gaps in knowledge.
+
+I want to learn how engineers translate vague problems into measurable objectives.
+
+I want to explore how interdisciplinary teams approach questions from different perspectives.
+
+Most importantly, I want to remain curious.
+
+Curiosity is easy to lose when education becomes focused entirely on answers.
+
+A student learns what will appear on the exam.
+
+A professional learns what is necessary for the current task.
+
+Eventually, it can become easy to stop asking why.
+
+I do not want that to happen to me.
+
+I want to preserve the habit that started my journey in technology:
+
+"What happens if I try this?"
+
+That question has led me to programming.
+
+It has led me to artificial intelligence.
+
+It has led me to projects.
+
+It has led me to research ideas.
+
+And it continues to lead me toward subjects I have not yet explored.
+
+The future will bring questions I cannot currently predict.
+
+That is exciting.
+
+I do not need to know every answer today.
+
+I need to become capable of investigating tomorrow's questions.
+
+That requires technical knowledge.
+
+It requires patience.
+
+It requires critical thinking.
+
+It requires humility.
+
+And it requires the willingness to admit:
+
+"I don't know yet."
+
+Those two words are not a weakness.
+
+They are an invitation.
+
+They mean there is something left to discover.
+
+I want my college education to give me the tools to accept that invitation.
+
+I want to encounter problems that initially seem too difficult.
+
+I want to ask questions that lead to more questions.
+
+I want to work with people who challenge my assumptions.
+
+I want to conduct experiments whose results surprise me.
+
+I want to build systems that make me reconsider what I thought I understood.
+
+And I want to leave college with more questions than I entered with—not because I failed to learn the answers, but because I learned enough to recognize deeper problems.
+
+Perhaps that is the clearest way I can describe what I want from education.
+
+I do not want to become a person who knows everything.
+
+I want to become a person who knows how to keep learning.
+
+The answers I know today will eventually become foundations for new questions.
+
+The technologies I use today will eventually be replaced.
+
+The projects I build today will eventually become stepping stones.
+
+But the habit of questioning can remain.
+
+That habit is what brought me here.
+
+It is what keeps me learning.
+
+And it is what I hope will guide me wherever I go next.
+
+I used to think intelligence meant having the answer.
+
+Now I think intelligence begins with knowing which question to ask.

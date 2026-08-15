@@ -1,0 +1,564 @@
+
+For a long time, I thought mathematics was something that existed mostly inside classrooms.
+
+There were equations to solve, formulas to remember, graphs to draw, and examinations to complete. I understood that mathematics was important, but I did not always understand why.
+
+Then I started studying computer science.
+
+Suddenly, mathematics began appearing everywhere.
+
+It was inside algorithms.
+
+It was behind probability.
+
+It shaped machine learning.
+
+It described relationships between data.
+
+It helped explain optimization.
+
+It provided the language through which computers could model problems that seemed impossible to express otherwise.
+
+I began realizing that the mathematics I had treated as a collection of academic exercises was actually one of the foundations of the technology I was becoming interested in.
+
+That realization changed the way I learned.
+
+Before programming, I often approached mathematics by asking, "What formula should I use?"
+
+After programming, I increasingly began asking, "What is this formula actually describing?"
+
+That difference may seem small, but it transformed mathematics from something I needed to complete into something I wanted to understand.
+
+One of the first areas where I noticed this change was probability.
+
+Probability initially seemed abstract.
+
+Why should I care about the likelihood of an event?
+
+Why should I calculate conditional probability?
+
+Why should uncertainty need mathematics?
+
+Machine learning gave me an answer.
+
+A computer often does not have complete certainty.
+
+An image may resemble several categories.
+
+A language model may assign different probabilities to possible words.
+
+A prediction may be more likely than another without being guaranteed.
+
+Instead of demanding certainty, machine learning often works with probabilities.
+
+This made probability feel much more concrete.
+
+The concepts were no longer isolated formulas.
+
+They were tools for reasoning under uncertainty.
+
+That idea fascinated me.
+
+Human beings constantly make decisions without complete information.
+
+We estimate.
+
+We compare possibilities.
+
+We update our beliefs when new evidence appears.
+
+We rarely know everything.
+
+Yet we still need to act.
+
+Mathematics provides ways to represent that uncertainty.
+
+This connection made me want to understand the subject more deeply.
+
+I began paying attention to the mathematical ideas underneath the technologies I was learning.
+
+Linear algebra was another example.
+
+At first, vectors and matrices seemed like abstract objects.
+
+Then I encountered machine learning.
+
+Data could be represented as vectors.
+
+Images could be represented numerically.
+
+Transformations could be expressed through matrices.
+
+Large datasets could be manipulated using mathematical operations.
+
+The abstract objects suddenly had a purpose.
+
+A matrix was no longer just an arrangement of numbers.
+
+It could represent a transformation.
+
+A vector was not simply a list of values.
+
+It could represent information.
+
+This was one of the moments when I understood that mathematics often becomes more interesting when you know what it is capable of describing.
+
+The same happened with optimization.
+
+When I first encountered the idea of minimizing a function, it seemed like another mathematical exercise.
+
+Machine learning changed the context.
+
+Training a model often involves finding parameters that minimize some measure of error.
+
+The process becomes an optimization problem.
+
+A model begins with one set of parameters.
+
+It produces predictions.
+
+The predictions are compared with expected results.
+
+The error is measured.
+
+The parameters are adjusted.
+
+The process repeats.
+
+Suddenly, an abstract mathematical concept became part of a system that could learn from data.
+
+That connection fascinated me.
+
+It also changed how I approached programming.
+
+I began realizing that code is often the implementation of an idea that exists at a more abstract level.
+
+A programmer writes instructions, but behind those instructions are mathematical structures, logical relationships, and assumptions about the problem.
+
+Understanding the abstraction can make the implementation easier.
+
+This became particularly useful when I encountered algorithms.
+
+Instead of memorizing how an algorithm worked, I became more interested in why it worked.
+
+Why does a particular sorting algorithm require a certain amount of time?
+
+Why does a particular search strategy become inefficient as the dataset grows?
+
+Why does a graph representation make some problems easier to solve?
+
+Why does a particular optimization strategy converge?
+
+These questions made computer science feel less like programming syntax and more like applied mathematics and logic.
+
+That is one of the reasons I became increasingly interested in algorithms.
+
+An algorithm is not simply a sequence of instructions.
+
+It is a structured way of thinking about a problem.
+
+The same problem can often be approached through several algorithms, each with different trade-offs.
+
+One may use more memory but run faster.
+
+Another may use less memory but require more computation.
+
+One may work well for small datasets but become inefficient at scale.
+
+These trade-offs taught me that there is rarely one universally perfect solution.
+
+Good problem solving requires understanding the conditions under which a solution operates.
+
+That lesson extends far beyond mathematics.
+
+It has influenced how I approach software projects.
+
+When I build an application, I increasingly think about how the system will behave as the amount of data grows.
+
+A solution that works for ten users may not work for ten thousand.
+
+A database query that feels instantaneous on a small dataset may become expensive at scale.
+
+An algorithm that is acceptable for a small input may become impractical for a large one.
+
+Mathematical thinking helps reveal these differences before they become problems.
+
+This is why I have come to value fundamentals.
+
+Technology changes quickly.
+
+Frameworks change.
+
+Programming languages evolve.
+
+AI models become more capable.
+
+Development tools improve.
+
+But algorithms, mathematics, and logical reasoning remain relevant.
+
+They provide a foundation beneath the changing tools.
+
+I want to build my education on that foundation.
+
+My interest in mathematics has also changed the way I respond to difficult problems.
+
+Earlier, if I could not immediately solve a problem, I often assumed that I was missing a particular formula or trick.
+
+Now I am more likely to ask whether I understand the structure of the problem.
+
+What information is given?
+
+What is unknown?
+
+What relationships exist between the variables?
+
+What assumptions can I make?
+
+Can the problem be divided into smaller pieces?
+
+Can I represent it differently?
+
+This approach has become useful in programming as well.
+
+A difficult software problem can become easier when represented differently.
+
+A complex dataset can become understandable after visualization.
+
+A large task can become manageable when decomposed.
+
+A confusing system can become clearer when its dependencies are mapped.
+
+Mathematics taught me to look for structure.
+
+Computer science gave me tools for using that structure.
+
+The combination has become one of the strongest influences on the way I think.
+
+My interest in artificial intelligence has made this relationship even stronger.
+
+AI can sometimes appear almost magical from the outside.
+
+A model receives an image and identifies an object.
+
+A language model generates an answer.
+
+A system predicts a pattern.
+
+But underneath those impressive results are mathematical operations.
+
+There are vectors, matrices, probability distributions, optimization procedures, functions, parameters, and transformations.
+
+The more I learn, the less mysterious AI becomes.
+
+It does not become less impressive.
+
+It becomes more impressive.
+
+Understanding even a small part of what happens underneath the surface makes the achievement feel more meaningful.
+
+It also makes me more aware of the limitations.
+
+Mathematical models are representations of reality.
+
+They are not reality itself.
+
+A model simplifies.
+
+It makes assumptions.
+
+It focuses on certain variables and ignores others.
+
+That means a model can be useful while still being incomplete.
+
+This idea has become important to me because AI systems increasingly influence real-world decisions.
+
+If we use a mathematical model to make predictions, we need to understand what the model represents and what it leaves out.
+
+A high-performing model can still fail in situations that differ from the data used to build it.
+
+Understanding the mathematics does not eliminate these risks, but it helps us recognize them.
+
+This is one reason I want deeper academic training.
+
+I do not want to treat AI models as black boxes that I simply call through a library.
+
+I want to understand the principles behind them.
+
+I want to understand why particular algorithms work.
+
+I want to understand how optimization changes model behavior.
+
+I want to understand how probability represents uncertainty.
+
+I want to understand the mathematics that allows complex systems to learn from data.
+
+This curiosity is not limited to AI.
+
+I am also interested in how mathematics describes physical systems.
+
+Physics uses mathematical models to describe motion, energy, waves, forces, and countless other phenomena.
+
+Computer simulations can then use those models to explore situations that are difficult or impossible to reproduce physically.
+
+This creates another connection that fascinates me.
+
+Mathematics can describe an idea.
+
+Computer science can implement that description.
+
+Computing can then allow us to experiment with the model.
+
+The cycle between mathematics, computation, and observation is powerful.
+
+It allows us to investigate problems at scales that would otherwise be inaccessible.
+
+This is one of the reasons I am interested in scientific computing and computational research.
+
+A computer is not simply a machine that performs arithmetic quickly.
+
+It can become a laboratory for ideas.
+
+We can simulate systems.
+
+We can test hypotheses.
+
+We can analyze large datasets.
+
+We can explore possibilities.
+
+We can compare models.
+
+We can identify patterns.
+
+And mathematics provides much of the language that makes this possible.
+
+The more I learn, the more I appreciate the elegance of that relationship.
+
+There is another lesson mathematics has taught me: precision matters.
+
+In everyday conversation, ambiguity is often acceptable.
+
+In mathematics, a small change in notation can change the meaning of an expression.
+
+A wrong assumption can produce a completely different result.
+
+A proof requires every important step to be justified.
+
+Programming has a similar characteristic.
+
+A computer does not interpret what I intended.
+
+It executes what I actually wrote.
+
+This has made me more careful.
+
+I have learned to distinguish between what I think a system does and what I can demonstrate that it does.
+
+That difference is important in engineering.
+
+It is easy to assume that a program is correct because it worked once.
+
+It is harder—and more useful—to test the assumptions systematically.
+
+Mathematics trained me to value proof.
+
+Programming trained me to value testing.
+
+Together, they have taught me to seek evidence.
+
+This mindset is particularly important in research.
+
+Research is not about defending an idea simply because you like it.
+
+It is about determining whether the evidence supports it.
+
+Sometimes the result confirms your hypothesis.
+
+Sometimes it does not.
+
+Both outcomes are valuable.
+
+A negative result can eliminate an incorrect explanation.
+
+A surprising result can reveal an assumption that needs examination.
+
+I want to experience that process more deeply in college.
+
+I want to work on problems where the answer is not already known.
+
+I want to read research papers and understand the mathematical reasoning behind them.
+
+I want to implement algorithms and compare their behavior experimentally.
+
+I want to explore machine learning beyond simply training existing models.
+
+And I want to develop the mathematical maturity necessary to understand research rather than merely reproduce it.
+
+This is one reason I see college as an opportunity to move from application toward understanding.
+
+So far, much of my learning has involved taking existing tools and using them to build projects.
+
+That has been valuable.
+
+It has taught me how to develop applications, experiment with AI, work with data, and solve practical problems.
+
+But I now want to go deeper.
+
+I want to understand what happens beneath the tools.
+
+I want to know why algorithms have the properties they do.
+
+I want to understand how mathematical assumptions influence computational systems.
+
+I want to learn how new algorithms are designed rather than only how existing ones are implemented.
+
+That transition—from user of knowledge to investigator of knowledge—is something I am looking forward to.
+
+I also recognize that mathematics can be difficult.
+
+There have been concepts I did not understand immediately.
+
+There have been problems where I tried several approaches before finding one that worked.
+
+Sometimes I have had to return to fundamentals before I could understand a more advanced topic.
+
+But I no longer see that difficulty as a reason to avoid the subject.
+
+In fact, it is part of what makes mathematics valuable.
+
+It forces me to slow down.
+
+It prevents me from relying entirely on intuition.
+
+It makes me justify my reasoning.
+
+It teaches me to remain with a problem even when the answer is not obvious.
+
+Those habits are valuable in every technical field.
+
+They are valuable in life as well.
+
+One of the most important changes in my thinking has been learning that being stuck is not the same as being incapable.
+
+Sometimes being stuck means that I need a different representation.
+
+Sometimes I need more information.
+
+Sometimes I need to revisit an earlier concept.
+
+Sometimes I need someone else's perspective.
+
+Sometimes I simply need more time.
+
+That realization has made difficult problems less intimidating.
+
+I do not expect myself to immediately understand everything.
+
+I expect myself to investigate.
+
+That is how I want to approach university.
+
+I want to be challenged by mathematics that initially seems beyond my ability.
+
+I want to encounter algorithms that require careful reasoning.
+
+I want to study machine learning at a deeper level.
+
+I want to explore the relationship between mathematical models and real-world systems.
+
+I want to work with students who enjoy asking difficult questions.
+
+And I want to discover areas of mathematics that I have not yet encountered.
+
+My long-term interests lie in artificial intelligence, software engineering, and computational research.
+
+I want to build systems that are useful, but I also want to understand the principles that make them possible.
+
+I want to be capable of moving between theory and implementation.
+
+I want to be able to read a mathematical idea and think about how it could become an algorithm.
+
+I want to be able to examine an algorithm and understand its mathematical structure.
+
+I want to be able to build a system and recognize when its underlying assumptions are too weak.
+
+That combination of theoretical understanding and practical ability is the kind of education I am seeking.
+
+When I look back at the way I once viewed mathematics, I am surprised by how much my perspective has changed.
+
+I used to see equations as problems I had to solve.
+
+Now I often see them as descriptions of relationships.
+
+I used to see formulas as things to remember.
+
+Now I ask what they represent.
+
+I used to see mathematics as a subject separate from programming.
+
+Now I see it as one of the languages through which computing becomes possible.
+
+And I used to think that understanding mathematics meant reaching the correct answer.
+
+Now I think it also means understanding why the answer is correct.
+
+That distinction captures how I want to learn in the future.
+
+I do not want to memorize my way through difficult subjects.
+
+I want to understand them deeply enough that I can use the ideas in unfamiliar situations.
+
+I want to develop the ability to recognize patterns, construct arguments, challenge assumptions, and create new approaches.
+
+Those are skills that will remain valuable regardless of how technology changes.
+
+The technologies of tomorrow may be completely different from the tools I use today.
+
+But mathematics will continue to describe relationships.
+
+Algorithms will continue to require reasoning.
+
+Uncertainty will continue to exist.
+
+Optimization will continue to matter.
+
+And people will continue to need ways to turn complex problems into understandable structures.
+
+That is why I now see mathematics differently.
+
+It is not merely a subject I study.
+
+It is a way of seeing.
+
+It teaches me to look beneath the surface.
+
+It teaches me to search for structure.
+
+It teaches me to question assumptions.
+
+It teaches me that complexity can sometimes be understood by finding the right representation.
+
+And it reminds me that a difficult problem is not necessarily an impossible one.
+
+Sometimes the problem simply needs to be expressed differently.
+
+That lesson has followed me from the classroom into programming, artificial intelligence, research, and everyday problem solving.
+
+I began by trying to solve mathematical problems.
+
+Eventually, I realized that mathematics was teaching me how to solve problems themselves.
+
+That is the lesson I want to carry into college.
+
+Not simply the ability to calculate.
+
+Not simply the ability to code.
+
+But the ability to look at something complicated and ask:
+
+What is really happening here?
+
+What structure am I missing?
+
+And how can I understand it well enough to build something new?

@@ -1,0 +1,25 @@
+Title: Bridging Human Interaction and Technology: A Journey of Innovation and Empowerment
+
+Tab 11
+The joyful exclamation, "Dog!" resonated through the psychiatrist's child practice as a six-year-old boy confidently unveiled his mastery of the Chinese character for "犬." Amidst the applause, I felt immense pride, not just because my serious game had been flawlessly navigated by a learning-disabled child, but because it served as a testament to the power of technology in facilitating human potential. This was merely the beginning of my journey into the realm of Human-Computer Interaction (HCI).
+
+While I was initially unaware of the complexities behind designing software for humans, my passion propelled me to delve deeper. Over the course of my Computer Science degree at TUM, I immersed myself in every class related to HCI, eagerly absorbing lessons on human computer interaction, information visualization, and user interfaces. Today, while I am well-versed in many theories, rules, and models that formalize this process, witnessing a design's success, observing it empower users to accomplish the seemingly impossible—that remains my driving force.
+
+Past Research & Coursework
+My academic journey led me to courses such as Software Engineering, 2D User Interface Design, and a Mobile Applications Programming Lab, where I contributed to the development of the game "weMakeWords." The success of this project was celebrated at our partner's child psychology practice, multiple fairs, and eventually published in a paper, which I proudly presented during OOPSLA at SPLASH in Portland. [Demmel2011]
+
+The project introduced me to the Chair for Applied Software Engineering, where I later became a tutor for the seminar. In collaboration with a friend, I led a self-contained 2 ECTS seminar on this topic and have since conducted similar seminars professionally, including at Germany's second-largest bank, Commerzbank AG. Additionally, I was admitted to CDTM, an entrepreneurial master level honors degree in technology management, where I thrived amidst d.school inspired courses like Sketching With Hardware and Design Thinking.
+
+In search of compelling thesis topics in HCI, I sought opportunities beyond TUM. I was fortunate enough to become a Visiting Student Researcher at Stanford University under the guidance of Professor Scott R. Klemmer, whom I had previously encountered through his Coursera HCI MOOC. My work with him, Prof. Michael Bernstein, and Nicolas Kokkalis focused on EmailValet [Kokkalis2013], a crowdsourced email & task manager, and my own bachelor thesis project, Myriad—a web app designed to simplify conversational remixing in email. Myriad aims to produce personalized communication at scale while reducing user effort. My bachelor thesis on Myriad was awarded the highest grade possible and featured among ten distinguished theses statewide by ENB. I aim to publish this work with the Stanford research group at a UI or CSCW conference in 2015.
+
+Proposed Research & Coursework at Stanford
+Stanford's HCI group is currently engaged in groundbreaking research, including refinements to crowd worker management [Retelny2014] and codifying emergent practices [Fast2014]. This work sparks a concrete research idea: an extension of Myriad could allow normalized templates to be reused, such as polite rejections or statements of regret. A text formality analysis, like a PCA-based approach [e.g. Sigley1997], might then enable tailoring the formality of the response to match the sender's.
+
+I plan to specialize in HCI and will focus on courses such as Prof. Forssell’s “Technology for Learners” to strengthen my theoretical foundation in topics I have already worked on. Additionally, I will explore fundamental courses like Software Theory and CS242 Programming Languages to ensure a solid foundation for future research projects.
+
+During my exchange semester at Stanford, I was captivated by the university's inspiring community, exceptional education, challenging weekly department meetings, and unique blend of location, alumni networks, and renowned speakers. No lecture on graph theory has remained as vivid in my memory as Donald Knuth’s musings on Chordal Graphs.
+
+Life after the M.Sc.
+I am driven by the thrill of solving complex problems—problems that may not even appear to be problems at first glance. Problems that I believe I will encounter and overcome at a future startup or in industrial R&D. I am eager to bring my work experience, motivation, entrepreneurial spirit, and soon-to-be graduate level computer science expertise to tackle real-world challenges in the realm of HCI.
+
+I firmly believe that Stanford's Computer Science graduate program is the ideal place for me to grow and excel as a researcher in this dynamic field. I am excited about the problems I will face, the solutions I will find, and the impact I can make on human interaction with technology.

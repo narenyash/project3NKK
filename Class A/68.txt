@@ -1,0 +1,392 @@
+
+I am a student who enjoys participating in technical competitions because they give me an opportunity to apply what I learn in a practical environment. My interest in computer science has grown through academics and personal projects, but hackathons have provided a different type of learning experience. They have taught me how to work under time constraints, collaborate with others, learn new technologies quickly, and turn an idea into a working prototype.
+
+My first experiences with technical competitions made me realise that they are different from regular academic assignments. In academics, the problem and the expected method are often clearly defined. In a hackathon, the problem may be open-ended, and the team has to decide what solution to develop.
+
+This gives the participants more freedom, but it also creates more responsibility.
+
+The first step is usually understanding the problem statement. Before deciding which technology to use, I try to understand what the actual problem is, who is affected by it, and what kind of solution could be useful. This has helped me realise that a technically advanced project is not necessarily a good project if it does not address the problem properly.
+
+Once the problem is understood, the team needs to decide what can realistically be built within the available time.
+
+This is one of the biggest lessons I have learned from hackathons.
+
+There can be many ideas for a project, but it is not possible to implement everything within a limited period. The team needs to identify the most important features and focus on building them first.
+
+I have learned to think about the core functionality before adding additional features.
+
+For example, if we are building an AI-based application, the first priority should be to make sure that the main AI functionality works and can be connected to a basic interface. Additional features can be added later if time is available.
+
+This approach helps prevent a project from becoming too complicated.
+
+Hackathons have also improved my ability to learn new technologies quickly.
+
+Sometimes a project requires a framework, library, API, or cloud service that I have not used before. There may not be enough time to learn everything in depth before starting the implementation.
+
+In such situations, I focus on understanding the parts that are directly required for the project.
+
+I use documentation, examples, tutorials, and experimentation to learn the basics and then apply them.
+
+This has made me more comfortable with unfamiliar technologies.
+
+It has also taught me that I do not need to know everything before starting a project.
+
+I can learn while building.
+
+This is an important skill in computer science because technologies change frequently.
+
+Hackathons have also given me experience working in teams.
+
+A team may include people with different technical skills. Some may be stronger in frontend development, while others may have experience with backend development, AI, databases, or design.
+
+Dividing responsibilities based on these strengths can help the team work more efficiently.
+
+However, I have learned that team members still need to understand the overall project.
+
+If I am responsible for the frontend, I need to understand how the backend works well enough to integrate the APIs.
+
+If another member is working on an AI model, they need to understand how the model will be used by the application.
+
+This shared understanding makes collaboration easier.
+
+Communication is therefore an important part of hackathons.
+
+Team members need to provide updates, discuss technical decisions, and communicate problems quickly.
+
+If someone is stuck for several hours without informing the team, the entire project can be affected.
+
+I have learned that it is better to communicate a problem early.
+
+Another team member may already know the solution, or the team may be able to change the plan.
+
+This can save valuable time.
+
+Hackathons have also taught me how to work under pressure.
+
+When the deadline is approaching, there may be several things that still need to be completed.
+
+The team may need to fix bugs, integrate different components, prepare the presentation, and test the application.
+
+It becomes important to decide what needs to be done immediately and what can be left for later.
+
+This has improved my ability to prioritise tasks.
+
+I have also learned that a working prototype is more important than a large number of unfinished features.
+
+A project that demonstrates its main idea clearly is stronger than a project with many features that do not work properly.
+
+This has changed the way I approach development outside hackathons as well.
+
+Another useful part of technical competitions is receiving feedback.
+
+During presentations, judges may ask questions about the problem, technology, implementation, limitations, or future possibilities.
+
+These questions can reveal areas that the team had not considered.
+
+For example, a judge may ask how the system would work with a larger number of users or what would happen if the AI model produced an incorrect result.
+
+Such questions encourage us to think beyond the prototype.
+
+I find this useful because it helps me understand the difference between demonstrating an idea and developing a complete product.
+
+A prototype may show that something is possible.
+
+A production system needs to consider reliability, scalability, security, usability, and maintenance.
+
+Hackathons have given me an introduction to these considerations.
+
+My participation in technical competitions has also helped me become more confident in presenting technical ideas.
+
+A team may develop a good project, but it still needs to explain the project clearly.
+
+The presentation should describe the problem, the proposed solution, the technology used, and the expected impact.
+
+It should also demonstrate the working system.
+
+This has helped me understand that technical knowledge needs to be combined with communication skills.
+
+I have also learned to explain technical concepts in a simpler way.
+
+Not everyone in the audience will have the same technical background.
+
+A good presentation should therefore focus on the important idea rather than using technical terms unnecessarily.
+
+This is a skill I want to improve further.
+
+Another important lesson from hackathons is that ideas often change during development.
+
+The original approach may not work as expected.
+
+A particular technology may create problems.
+
+The team may discover that a feature is not necessary.
+
+The problem statement may turn out to require a different solution.
+
+Instead of continuing with an approach simply because it was the original plan, I have learned to consider alternatives.
+
+This flexibility is important when working with technology.
+
+I believe that good engineers should be comfortable changing their approach when evidence shows that another method is better.
+
+Hackathons have also taught me the importance of planning.
+
+It may seem that starting development immediately is the fastest approach, especially when time is limited.
+
+However, spending some time planning the architecture, features, and responsibilities can save time later.
+
+A simple plan can help the team avoid duplicate work and integration problems.
+
+I now try to think about the structure of a project before beginning implementation.
+
+This has also improved my understanding of software architecture.
+
+When building a project quickly, it is still important to keep the code organised enough to make changes later.
+
+A poorly structured project can become difficult to debug as more features are added.
+
+I want to continue improving my software engineering practices so that I can build projects efficiently without sacrificing maintainability.
+
+My interest in artificial intelligence has also influenced the types of hackathon projects I enjoy.
+
+I am interested in using AI to address practical problems.
+
+This could involve computer vision, natural language processing, intelligent automation, or other AI-based systems.
+
+I enjoy exploring how an AI model can be integrated into a complete application.
+
+For example, a model may process an input, while a backend service handles the request and a frontend provides the user interface.
+
+This combination allows an AI concept to become a usable application.
+
+Working on such projects has helped me understand that AI development requires knowledge from several areas.
+
+A model alone is not always enough.
+
+It needs suitable data.
+
+It needs an evaluation method.
+
+It may need an API.
+
+It needs an interface.
+
+It may need cloud infrastructure.
+
+It needs testing.
+
+This has encouraged me to continue learning full-stack development alongside AI.
+
+Another thing I value about hackathons is exposure to different ideas.
+
+Teams often work on completely different problems.
+
+One team may focus on healthcare.
+
+Another may work on agriculture.
+
+Another may develop an educational application.
+
+Another may work on sustainability.
+
+Seeing these ideas can help me understand how the same technology can be applied in different areas.
+
+It also gives me new ideas for future projects.
+
+I enjoy learning from other participants.
+
+Technical competitions have also helped me understand the importance of teamwork beyond technical tasks.
+
+Different team members may have different opinions about the project direction.
+
+The team needs to discuss these differences and reach a decision.
+
+This has helped me become more comfortable listening to other perspectives.
+
+I have learned that the best idea is more important than who suggested it.
+
+If another team member proposes a better approach, I should be willing to consider it.
+
+This is an important quality for collaborative work.
+
+Hackathons have also helped me understand the importance of time management.
+
+A limited deadline means that every hour matters.
+
+The team needs to divide time between development, testing, debugging, and presentation preparation.
+
+Leaving the presentation or testing until the last few minutes can create unnecessary problems.
+
+I have learned to keep some time available for testing and fixing unexpected issues.
+
+This is especially important because a project that works on one computer may behave differently when deployed or demonstrated in another environment.
+
+Testing is therefore an important part of the process.
+
+I have also learned that technical problems are often unavoidable.
+
+During a competition, there may be dependency issues, deployment problems, API errors, or unexpected behaviour.
+
+The important thing is not to panic.
+
+The problem needs to be isolated and investigated.
+
+Sometimes a quick solution is available.
+
+Sometimes the team needs to change its approach.
+
+This has improved my debugging skills and my ability to remain focused when something goes wrong.
+
+I believe these skills will be useful in my future career.
+
+Software development and AI engineering involve many situations where things do not work as expected.
+
+Being able to investigate problems calmly is important.
+
+Another benefit of hackathons is that they encourage experimentation.
+
+Since the objective is to create a prototype, teams can try ideas that may be difficult to explore in a normal academic assignment.
+
+This encourages creativity.
+
+At the same time, the limited time forces teams to remain practical.
+
+I think this balance between creativity and feasibility is valuable.
+
+An idea should be interesting, but it should also have a reasonable path toward implementation.
+
+I want to develop this way of thinking further.
+
+My participation in hackathons has also encouraged me to explore areas outside my main interests.
+
+For example, a project may require knowledge of a cloud platform, an unfamiliar API, a new database, or a different AI model.
+
+Learning these technologies for a specific project can provide a useful introduction.
+
+Some of these areas may eventually become new interests.
+
+This is one of the reasons I enjoy technical competitions.
+
+They expose me to technologies and problems that I may not encounter through my normal coursework.
+
+I also value the opportunity to meet other students.
+
+Technical competitions bring together people with different interests and skill levels.
+
+Talking to them can provide new perspectives on projects and careers.
+
+Some students may be interested in research.
+
+Others may want to build startups.
+
+Some may focus on software engineering.
+
+Others may be interested in AI, cybersecurity, cloud computing, or hardware.
+
+These interactions have helped me understand that computer science offers many possible career paths.
+
+I want to continue exploring these possibilities during higher education.
+
+My academic goal is to build stronger foundations in computer science and artificial intelligence.
+
+I want to study algorithms, data structures, mathematics, machine learning, software engineering, and computer systems in greater depth.
+
+At the same time, I want to continue participating in practical competitions.
+
+I believe the combination of academic knowledge and practical experience will help me become a stronger engineer.
+
+Hackathons can show what can be built quickly.
+
+Academic study can help explain why a particular approach works.
+
+Research can help explore what has not yet been solved.
+
+I want to experience all three.
+
+I also want to improve my ability to develop projects beyond the prototype stage.
+
+Many hackathon projects are built within a short period and are not necessarily designed for long-term use.
+
+In the future, I want to take some of these ideas further.
+
+I want to learn about testing, deployment, scalability, monitoring, security, and maintenance.
+
+These skills are necessary to turn a prototype into a reliable product.
+
+This is one of the areas I hope to develop through internships and industry experience.
+
+Another goal is to become better at evaluating ideas before implementation.
+
+During a hackathon, there may be pressure to start coding quickly.
+
+However, spending some time researching existing solutions can prevent unnecessary work.
+
+If a similar solution already exists, the team may be able to improve it instead of starting from zero.
+
+This is an important part of innovation.
+
+I want to develop the habit of researching before building.
+
+I also want to understand the users of the solution.
+
+A project can be technically successful but still not be useful if it does not address the user's actual needs.
+
+This is why I want to include user feedback whenever possible.
+
+My hackathon experiences have gradually changed the way I think about projects.
+
+Earlier, I was mainly focused on whether I could build something.
+
+Now I also think about why I am building it, who will use it, how it can be evaluated, and what would be required to develop it further.
+
+This is a useful change in my approach.
+
+I believe technical competitions have helped me develop a more practical understanding of engineering.
+
+They have taught me that successful development requires more than writing code.
+
+It requires understanding the problem, choosing appropriate technologies, planning the work, communicating with teammates, testing the solution, and presenting the result.
+
+I want to continue improving all of these skills.
+
+My long-term goal is to work in software engineering and artificial intelligence.
+
+I want to develop systems that solve practical problems and have useful applications.
+
+I believe my experience with hackathons has given me a good starting point because it has allowed me to experiment with different technologies and work on different types of problems.
+
+However, I also know that hackathons are only one part of my learning.
+
+I want to gain deeper theoretical knowledge, more research experience, and greater exposure to professional software development.
+
+Higher education will give me the opportunity to develop these areas.
+
+I hope to participate in research projects, technical clubs, internships, and other collaborative activities.
+
+I also want to continue taking part in competitions because I enjoy the process of building something under constraints.
+
+Most importantly, I want to continue learning from every project.
+
+A successful project can teach me what works.
+
+A failed project can teach me what needs to change.
+
+A difficult team experience can teach me how to communicate better.
+
+A technical problem can teach me a new concept.
+
+I want to use all of these experiences to improve.
+
+For me, hackathons are not only competitions.
+
+They are opportunities to apply knowledge, explore ideas, work with others, and learn new technologies.
+
+They have helped me become more comfortable with uncertainty and more confident in starting unfamiliar projects.
+
+I want to carry these lessons into higher education and my future career.
+
+My goal is to become a technology professional who can understand a problem, develop a practical solution, work effectively with a team, and continue improving the solution based on feedback and experience.
+
+I believe the skills I have developed through hackathons will help me move toward that goal.
+
+I am looking forward to participating in more technical projects, learning from new challenges, and using these experiences to become a stronger computer science student and future engineer.

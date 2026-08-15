@@ -1,0 +1,576 @@
+
+The first user I designed for was myself.
+
+That was my first mistake.
+
+When I started building software, I naturally imagined how I would use it. I knew what each button meant. I knew why each screen existed. I understood the sequence of actions because I had created it.
+
+So when something seemed obvious to me, I assumed it would be obvious to everyone else.
+
+Then I built something for someone who was not me.
+
+It was a small project, but it changed how I think about engineering.
+
+The person I was building for did not care which programming language I used.
+
+They did not care how elegant my code was.
+
+They did not care how many hours I had spent designing the architecture.
+
+They cared about one thing:
+
+Could the software make their task easier?
+
+That question was simple.
+
+My answer was not.
+
+I had spent so much time thinking about the system that I had forgotten to think about the person.
+
+That experience introduced me to a lesson that has stayed with me:
+
+A product is experienced from the outside, even though it is built from the inside.
+
+As a developer, I naturally see the inside.
+
+I see components.
+
+I see functions.
+
+I see APIs.
+
+I see databases.
+
+I see requests moving through a system.
+
+The user sees none of that.
+
+The user sees a screen.
+
+They see a button.
+
+They see a message.
+
+They see whether something works.
+
+They see whether it makes sense.
+
+That difference between the developer's perspective and the user's perspective became one of the most important things I have learned.
+
+The project itself began with a straightforward goal.
+
+I wanted to create a digital system that would simplify a repetitive process. I had already imagined the basic architecture before speaking to the person who would use it.
+
+I had chosen the technologies.
+
+I had thought about the interface.
+
+I had already decided how the workflow should operate.
+
+Then I asked the user to try it.
+
+Almost immediately, I saw problems.
+
+They paused at a screen that I thought was obvious.
+
+They looked for information in a place I had not expected.
+
+They ignored a feature I considered important.
+
+They asked why they needed to complete a particular step.
+
+None of these things were programming bugs.
+
+The application was doing exactly what I had designed it to do.
+
+That was the problem.
+
+I had designed it according to my understanding of the task rather than theirs.
+
+My first reaction was to explain the interface.
+
+I told them where to click.
+
+I explained why the steps existed.
+
+Then I realized what I was doing.
+
+I was teaching the user how to use my software instead of asking why the software required teaching.
+
+That was the moment I started changing the design.
+
+I removed unnecessary steps.
+
+I simplified labels.
+
+I reorganized information.
+
+I changed the order of actions.
+
+I watched again.
+
+The second version was better.
+
+Not because I had written better code.
+
+Because I had listened better.
+
+That distinction became important to me.
+
+I began understanding empathy as an engineering skill.
+
+Before this experience, I thought empathy belonged mostly to interpersonal relationships.
+
+I did not think of it as part of programming.
+
+But software is an interaction between people and systems.
+
+If I do not understand the person using the system, I cannot fully understand the problem I am trying to solve.
+
+Empathy therefore becomes practical.
+
+It affects design decisions.
+
+It affects language.
+
+It affects accessibility.
+
+It affects error messages.
+
+It affects how much information a user should be expected to remember.
+
+It affects what happens when someone makes a mistake.
+
+It affects whether a system feels supportive or frustrating.
+
+This realization changed how I approached every project afterward.
+
+I began asking different questions.
+
+Who will use this?
+
+What do they already know?
+
+What do they expect to happen?
+
+What will confuse them?
+
+What will they do when something goes wrong?
+
+What information do they actually need?
+
+What can the system do automatically?
+
+The questions often led to better designs.
+
+They also made me more interested in human-computer interaction.
+
+Computers are incredibly precise.
+
+People are not.
+
+People forget.
+
+They make assumptions.
+
+They misunderstand instructions.
+
+They change their minds.
+
+They use systems in ways developers did not anticipate.
+
+Good software has to accommodate this reality.
+
+It cannot assume that every user will behave exactly as the developer expected.
+
+This became particularly clear when I worked with applications that involved forms and data.
+
+From the developer's perspective, a form can look simple.
+
+A few fields.
+
+A submit button.
+
+Some validation.
+
+From the user's perspective, however, each field creates a question.
+
+What should I enter?
+
+Why do you need this?
+
+What format should I use?
+
+What happens if I leave it blank?
+
+What does this term mean?
+
+If the interface does not answer those questions, the user is forced to guess.
+
+I began realizing that every interface communicates assumptions.
+
+A label assumes the user understands a term.
+
+A menu assumes the user knows where to look.
+
+A warning assumes the user understands the consequence.
+
+A button assumes the user knows what will happen after clicking it.
+
+Good design makes those assumptions visible or removes them.
+
+This idea has influenced the way I write software.
+
+I try to make error messages useful rather than merely technically accurate.
+
+I try to avoid unnecessary terminology.
+
+I try to make important actions obvious.
+
+I try to think about what a first-time user would experience.
+
+These changes may appear small.
+
+But small changes can determine whether someone trusts a system.
+
+That became especially important when I started thinking about artificial intelligence.
+
+AI systems introduce a new layer of complexity.
+
+Traditional software usually behaves according to rules written by developers.
+
+AI systems can produce outputs that are difficult for users to predict.
+
+A person may not know exactly why a model produced a particular answer.
+
+That creates a new responsibility.
+
+The system needs to communicate uncertainty.
+
+It needs to provide useful feedback.
+
+It needs to make clear when an output may require verification.
+
+The user should not have to understand the model's internal architecture to use the system safely.
+
+This is where human-centered design becomes essential.
+
+An AI system can be technically sophisticated and still be poorly designed.
+
+It may generate excellent outputs but provide them in a confusing interface.
+
+It may answer questions without explaining its limitations.
+
+It may perform well for experienced users but frustrate beginners.
+
+The technology can be powerful while the experience remains poor.
+
+I want to work on the other side of that problem.
+
+I want to understand how intelligent systems can become easier to use without becoming less capable.
+
+This interest has led me toward questions about conversational interfaces.
+
+Natural language can make technology more accessible because people do not need to learn complicated commands.
+
+They can simply describe what they want.
+
+But natural language also introduces ambiguity.
+
+A user may say something that could mean several things.
+
+An intelligent system should not always guess.
+
+Sometimes it should ask.
+
+That sounds simple, but deciding when to ask a clarification question is an interesting engineering problem.
+
+Ask too often, and the system becomes frustrating.
+
+Ask too rarely, and it may perform the wrong action.
+
+The ideal system needs to balance confidence, convenience, and safety.
+
+This is an example of the kind of problem I enjoy.
+
+It has a technical side.
+
+It has a design side.
+
+It has a human side.
+
+And it has no single perfect answer.
+
+The same principle applies to accessibility.
+
+If I build an application for someone who has different needs from mine, I cannot assume that my preferred interaction is universal.
+
+People may use keyboards differently.
+
+They may have different levels of technical experience.
+
+They may rely on screen readers.
+
+They may have limited connectivity.
+
+They may use different languages.
+
+They may interact with technology primarily through mobile devices.
+
+Designing for these differences does not make a product weaker.
+
+It often makes the product stronger.
+
+A clear interface benefits everyone.
+
+A responsive application benefits everyone.
+
+Simple language benefits everyone.
+
+Good error handling benefits everyone.
+
+Accessibility therefore changed my understanding of what "good design" means.
+
+It is not about making technology look sophisticated.
+
+It is about reducing unnecessary barriers.
+
+This lesson has also influenced my interest in technology for education.
+
+Students are not identical users.
+
+They learn at different speeds.
+
+They have different prior knowledge.
+
+They become confused by different concepts.
+
+They ask different questions.
+
+A traditional digital learning platform may provide the same material to everyone.
+
+AI creates the possibility of something more adaptive.
+
+An intelligent educational system could potentially identify where a student is struggling and adjust its explanation.
+
+But to do this well, the system must understand the learner.
+
+It cannot simply provide more information.
+
+Sometimes the student needs less information.
+
+Sometimes they need a different example.
+
+Sometimes they need a hint.
+
+Sometimes they need to try the problem themselves.
+
+Sometimes they need encouragement.
+
+This is why I am interested in AI systems that support people rather than simply giving them answers.
+
+The goal should be to increase capability.
+
+Not dependence.
+
+That principle comes partly from my own experiences helping other students learn programming.
+
+When someone asks me how to solve a problem, I can give them the solution.
+
+That is the fastest approach.
+
+But it may not be the most useful.
+
+If I instead ask them what they think is happening and help them trace the problem, they may learn a method they can use again.
+
+The same principle could apply to AI.
+
+An intelligent system should sometimes guide rather than simply solve.
+
+This is one of the reasons I am interested in the future of human-AI collaboration.
+
+I do not want to think of AI only as a replacement for human work.
+
+I am more interested in how humans and intelligent systems can complement each other.
+
+A person may provide judgment, context, creativity, and values.
+
+An AI system may provide rapid analysis, pattern recognition, summarization, or computation.
+
+The combination can be more powerful than either alone.
+
+But the interface between them matters.
+
+If the human does not understand what the AI is doing, collaboration becomes difficult.
+
+If the AI cannot understand what the human needs, its capabilities become irrelevant.
+
+The quality of the relationship depends on communication.
+
+That is why I keep returning to the user.
+
+Behind every technical system is a person with a goal.
+
+The system exists because someone wants something done.
+
+Remembering that prevents technology from becoming an end in itself.
+
+I have sometimes been tempted by technology for its own sake.
+
+A new framework looks exciting.
+
+A new AI model seems powerful.
+
+A new architecture appears elegant.
+
+But the question I now try to ask is:
+
+"Who needs this?"
+
+If I cannot answer that question, I become skeptical about whether the technology belongs in the project.
+
+This does not mean every project needs an immediate social impact.
+
+Sometimes learning is the purpose.
+
+Sometimes experimentation is the purpose.
+
+Sometimes building something simply because it is interesting is worthwhile.
+
+Curiosity matters.
+
+But when I claim that a project is meant to solve a real problem, I want to make sure there is a real person behind that claim.
+
+This mindset has changed my definition of innovation.
+
+Innovation is not simply using newer technology.
+
+It is creating a better way of doing something that matters.
+
+Sometimes that requires advanced AI.
+
+Sometimes it requires a simple interface.
+
+Sometimes it requires removing a feature.
+
+Sometimes the most innovative decision is realizing that the original problem was misunderstood.
+
+That realization has made me more patient when designing systems.
+
+I no longer want to rush into implementation.
+
+I want to observe first.
+
+Ask questions.
+
+Build a small version.
+
+Watch someone use it.
+
+Listen.
+
+Then improve it.
+
+This cycle feels natural to me now.
+
+It combines my interest in technology with my interest in people.
+
+It also gives me a way to evaluate my own work.
+
+Instead of asking only whether the code is correct, I ask whether the user succeeds.
+
+Instead of asking only whether the model performs well, I ask whether the output helps.
+
+Instead of asking only whether the interface looks good, I ask whether someone can understand it without explanation.
+
+These questions are harder than technical tests.
+
+They are also more meaningful.
+
+I want college to help me develop this way of thinking further.
+
+I want to study computer science deeply.
+
+I want to learn algorithms, artificial intelligence, machine learning, databases, and systems.
+
+But I also want to explore human-computer interaction, design, accessibility, and responsible technology.
+
+I want to work on interdisciplinary projects where engineers have to understand people rather than simply specifications.
+
+I want to participate in research that asks how intelligent systems can support human goals.
+
+And I want to learn from people who approach technology from perspectives different from mine.
+
+My long-term goal is to become an engineer capable of building intelligent systems that are genuinely useful.
+
+Not merely powerful.
+
+Not merely impressive.
+
+Useful.
+
+That distinction matters to me.
+
+A powerful system that creates confusion is not successful.
+
+A technically elegant system that nobody wants to use is not successful.
+
+An accurate AI model that cannot be trusted in real-world conditions is not successful.
+
+Success requires connecting technical capability to human need.
+
+That connection is what I want to spend my career exploring.
+
+The user who struggled with my first interface taught me something I could not have learned from a programming tutorial.
+
+They showed me that the person using the system does not see the architecture behind it.
+
+They experience the consequences.
+
+That realization made me a different kind of developer.
+
+I became more willing to question my own decisions.
+
+More willing to observe.
+
+More willing to simplify.
+
+More willing to ask for feedback.
+
+And more aware that good technology requires understanding people.
+
+I still care about algorithms.
+
+I still enjoy programming.
+
+I still get excited about new AI models and technical possibilities.
+
+But now, when I build something, I try to imagine the person on the other side of the screen.
+
+What are they trying to accomplish?
+
+What do they know?
+
+What are they worried about?
+
+What might confuse them?
+
+What could make their experience easier?
+
+The user is often invisible in the code.
+
+But they are the reason the code exists.
+
+That is the lesson I want to carry into college and eventually into my career.
+
+I want to build from the inside with the perspective of someone standing outside.
+
+I want to understand systems deeply without forgetting the people who use them.
+
+And I want every technical decision I make to answer a simple question:
+
+Does this make someone's life better?
+
+Because the best software is not the software that makes the developer feel clever.
+
+It is the software that makes the user feel capable.

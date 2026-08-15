@@ -1,0 +1,678 @@
+
+I am a student with a strong interest in computer science, artificial intelligence, and software development. As I have worked with websites, applications, APIs, databases, and cloud platforms, I have also become interested in cybersecurity. I find cybersecurity important because almost every part of modern life depends on digital systems, and protecting these systems is becoming increasingly necessary.
+
+My interest in cybersecurity developed as I started building software applications. Initially, I was mainly focused on making my applications work correctly. I would think about the frontend, backend, database, and features that I wanted to include.
+
+As I learned more about software development, I realised that functionality is only one part of a good application.
+
+An application also needs to protect user information.
+
+It needs to control who can access different features.
+
+It needs to handle unexpected input safely.
+
+It needs to protect communication between different components.
+
+It also needs to recover appropriately when something goes wrong.
+
+This made me understand that security should be considered from the beginning of development.
+
+One of the first cybersecurity concepts I became interested in was authentication.
+
+Authentication is used to verify the identity of a user.
+
+Most applications use some form of login system.
+
+However, a login page alone does not make an application secure.
+
+Passwords need to be stored safely.
+
+Authentication tokens need to be protected.
+
+Sessions need to be managed correctly.
+
+Account recovery also needs to be secure.
+
+Learning about these requirements made me realise that even a simple login system involves several security considerations.
+
+Another concept I find important is authorisation.
+
+Authentication answers the question of who a user is.
+
+Authorisation determines what that user is allowed to do.
+
+This distinction is especially important in applications with different types of users.
+
+For example, an ordinary user should not automatically have access to administrative functions.
+
+A system needs to check permissions before allowing sensitive actions.
+
+I have seen how important role-based access can be while working on applications with different user roles.
+
+This has increased my interest in access control.
+
+Another area I want to understand is the principle of least privilege.
+
+A user or application should generally have only the permissions required to perform its task.
+
+Giving unnecessary permissions increases the potential impact of a security problem.
+
+This principle can apply to users, databases, APIs, cloud services, and other components.
+
+I find it useful because it is a relatively simple idea that can improve the security of an entire system.
+
+Another important area is password security.
+
+Passwords are still widely used, but users often choose weak or repeated passwords.
+
+Applications should therefore protect stored passwords properly rather than storing them as plain text.
+
+Password hashing and appropriate security practices can reduce the risk associated with a database breach.
+
+I want to understand the technical principles behind secure password storage.
+
+Another area I find interesting is multi-factor authentication.
+
+A password is one type of authentication factor.
+
+Additional factors can provide another layer of protection.
+
+For example, a system may require a verification code or another form of confirmation.
+
+This can make account compromise more difficult when a password is exposed.
+
+I find multi-factor authentication useful because it demonstrates how multiple security mechanisms can work together.
+
+Another area I want to explore is secure communication.
+
+Applications frequently send information between users, servers, databases, and external services.
+
+If this communication is not protected, sensitive information may be exposed.
+
+Encryption can help protect data while it is being transmitted.
+
+Understanding how secure communication works has made me more interested in networking and cryptography.
+
+Another concept I find interesting is encryption.
+
+Encryption transforms information into a form that cannot easily be understood without the appropriate key.
+
+It is widely used to protect data.
+
+There are different approaches to encryption depending on the problem.
+
+Some methods use shared keys.
+
+Others use pairs of related keys.
+
+I want to study the mathematical foundations behind these methods rather than only using encryption libraries.
+
+Another area I want to understand is digital signatures.
+
+Digital signatures can help verify the authenticity and integrity of information.
+
+They are useful in many security systems.
+
+Learning about them showed me that cryptography is not only about hiding information.
+
+It can also help prove who created or approved something and whether the information has been modified.
+
+I find this distinction interesting.
+
+Another important area is web application security.
+
+Modern websites and applications often involve browsers communicating with backend servers.
+
+There are many points where security problems can occur.
+
+User input needs to be handled carefully.
+
+Authentication needs to be implemented correctly.
+
+APIs need appropriate permissions.
+
+Sensitive information needs to be protected.
+
+I want to understand common web security problems and how developers can prevent them.
+
+One area I became particularly interested in is injection attacks.
+
+Applications often accept input from users.
+
+If that input is handled incorrectly, an attacker may be able to influence how a system processes a request.
+
+This can lead to serious security problems.
+
+Understanding input validation, parameterisation, and other defensive techniques has made me more careful when developing applications.
+
+Another area is cross-site scripting.
+
+Web applications may display information that comes from users or other sources.
+
+If this information is inserted into a page without appropriate protection, malicious scripts may potentially be executed in another user's browser.
+
+Understanding this problem showed me that frontend development also has important security considerations.
+
+Security is not only a backend responsibility.
+
+Another topic I want to explore is cross-site request forgery.
+
+Applications need to make sure that important actions are intentionally requested by the user.
+
+Security mechanisms can help prevent malicious websites from causing unintended actions in another application.
+
+Learning about these issues has made me think more carefully about how browsers and web applications communicate.
+
+Another important area is API security.
+
+Modern applications often depend on APIs.
+
+The frontend may communicate with a backend through APIs.
+
+External services may also provide APIs.
+
+These interfaces need authentication, authorisation, validation, rate limits, and other protections.
+
+An API that exposes sensitive information without proper access control can become a major security risk.
+
+I want to learn how secure APIs are designed and maintained.
+
+Another area I find interesting is rate limiting.
+
+A public endpoint may receive a large number of requests.
+
+Without appropriate limits, an attacker may attempt to overload the system or repeatedly guess information.
+
+Rate limiting can help control how frequently certain operations can be performed.
+
+This is a simple example of how software engineering and security overlap.
+
+Another area I want to understand is input validation.
+
+Applications should not assume that user input will always be correct or safe.
+
+Users may accidentally enter invalid information.
+
+Attackers may intentionally send unexpected input.
+
+Validating input according to the expected format can reduce the risk of certain problems.
+
+I have learned that validation should happen at appropriate points in the application rather than relying only on the frontend.
+
+Another important concept is secure database access.
+
+Applications often store user information, transactions, settings, and other data in databases.
+
+The database should not be directly exposed to untrusted users.
+
+Queries should be constructed safely.
+
+Access permissions should be restricted.
+
+Sensitive information should be protected.
+
+I want to understand how database security fits into overall application security.
+
+Another area I find interesting is cloud security.
+
+Many modern applications run on cloud platforms.
+
+Cloud services can provide computing, storage, databases, networking, and other resources.
+
+However, moving an application to the cloud does not automatically make it secure.
+
+Access permissions need to be configured correctly.
+
+Storage should not be exposed unnecessarily.
+
+Secrets and credentials need to be protected.
+
+Networks need appropriate controls.
+
+I want to learn more about cloud security because I am interested in cloud computing as part of my broader technical background.
+
+Another area I want to explore is secrets management.
+
+Applications often need credentials for databases, APIs, cloud services, and other systems.
+
+Putting these credentials directly inside source code can create security risks.
+
+They need to be stored and accessed securely.
+
+This made me more interested in how production applications manage sensitive configuration.
+
+Another topic I find important is software dependency security.
+
+Modern applications often depend on external libraries and packages.
+
+These dependencies make development faster, but they can also introduce security risks.
+
+A vulnerable package may affect the application that uses it.
+
+Developers therefore need to monitor dependencies and update them appropriately.
+
+I want to understand how organisations manage software supply-chain security.
+
+Another area I find interesting is secure software development.
+
+Security should ideally be considered throughout the software development lifecycle.
+
+Requirements should include security considerations.
+
+Code should be reviewed.
+
+Dependencies should be checked.
+
+Applications should be tested.
+
+Vulnerabilities should be monitored after deployment.
+
+This approach is more effective than waiting until the end of development to think about security.
+
+I want to develop this mindset in my future projects.
+
+Another important topic is security testing.
+
+Testing can help identify vulnerabilities before an application is deployed.
+
+Different approaches can be used to test applications.
+
+Automated tools can identify certain common problems.
+
+Manual testing can help discover issues that automated tools may miss.
+
+I want to learn how professional security teams combine different testing methods.
+
+Another area I find interesting is penetration testing.
+
+Penetration testing involves assessing a system to identify security weaknesses.
+
+The purpose is to find problems so that they can be fixed.
+
+I am interested in learning the principles of ethical security testing in controlled environments.
+
+Understanding how systems can be attacked can help developers build better defences.
+
+Another important area is threat modelling.
+
+Before building a system, developers can consider what could go wrong, who might attack it, what assets need protection, and what security controls are required.
+
+I find threat modelling useful because it encourages developers to think about security before vulnerabilities appear.
+
+It is also a structured way to analyse risk.
+
+Another concept I want to study is attack surfaces.
+
+An application can have many possible entry points.
+
+These may include login systems, APIs, file uploads, external services, administrative interfaces, and other components.
+
+Reducing unnecessary entry points can reduce the potential attack surface.
+
+I find this useful because it connects architecture with security.
+
+Another area I want to understand is secure file handling.
+
+Applications may allow users to upload images, documents, or other files.
+
+File uploads can create security risks if the application does not validate them properly.
+
+The system may need to check file types, sizes, storage locations, and other properties.
+
+This is particularly relevant to applications that I have worked on.
+
+It has made me more careful about handling user-provided files.
+
+Another important area is account security.
+
+User accounts can contain valuable information.
+
+Applications should provide secure login, password recovery, session management, and account protection.
+
+They should also provide ways for users to detect suspicious activity where appropriate.
+
+I want to understand how complete account security systems are designed.
+
+Another topic I find interesting is session management.
+
+After logging in, users often receive a session or token that allows the application to recognise them.
+
+These credentials need to be protected.
+
+If an attacker obtains a valid session credential, they may be able to act as the user.
+
+This makes token storage, expiration, and revocation important.
+
+I want to learn more about secure session management.
+
+Another area I want to explore is security logging.
+
+When a security-related event occurs, applications may need to record appropriate information.
+
+Logs can help identify suspicious behaviour and investigate incidents.
+
+However, logs themselves can contain sensitive information.
+
+Therefore, they need to be protected and managed carefully.
+
+I find this balance between monitoring and privacy interesting.
+
+Another important concept is security monitoring.
+
+Security does not end when an application is deployed.
+
+Systems need to be monitored for unusual activity, errors, and potential attacks.
+
+Automated alerts can help security teams respond to important events.
+
+This has made me interested in the relationship between software systems and security operations.
+
+Another area I want to understand is incident response.
+
+No security system is perfect.
+
+If an incident occurs, organisations need a process for identifying the problem, containing it, investigating it, and recovering.
+
+The organisation may also need to understand how the problem occurred and how to prevent it from happening again.
+
+I find this process interesting because it requires both technical and organisational skills.
+
+Another area I want to explore is malware.
+
+Malware is software designed to perform harmful or unauthorised actions.
+
+Different types of malware can have different behaviours.
+
+Understanding how malware works can help security professionals design better detection and prevention methods.
+
+I am interested in studying this area from a defensive and academic perspective.
+
+Another important topic is phishing.
+
+Phishing attacks attempt to trick users into revealing information or performing an unsafe action.
+
+Technical security controls are important, but users also play a role in security.
+
+Clear communication and security awareness can reduce some risks.
+
+This has shown me that cybersecurity is not only a technical problem.
+
+Human behaviour is also important.
+
+Another area I find interesting is social engineering.
+
+Attackers may exploit human trust rather than relying only on technical vulnerabilities.
+
+For example, they may pretend to be a legitimate person or organisation.
+
+Understanding these techniques can help organisations train users and design better security processes.
+
+I find this area interesting because it connects cybersecurity with human behaviour.
+
+Another topic I want to explore is identity management.
+
+Large organisations may have many users, devices, applications, and services.
+
+Managing their identities and permissions can become complicated.
+
+Identity and access management systems help control who can access what.
+
+I want to understand how these systems work in large organisations.
+
+Another area I find interesting is zero-trust security.
+
+Traditional approaches may assume that users inside a network are trustworthy.
+
+Zero-trust approaches are based more on continuously verifying identity and access.
+
+This can be useful in modern environments where employees, devices, and applications may operate from different locations.
+
+I want to learn more about this approach.
+
+Another important area is mobile security.
+
+Mobile applications store personal information and communicate with remote servers.
+
+They may also access device features such as cameras, location, contacts, or storage.
+
+Permissions therefore need to be handled carefully.
+
+Developers should request only the access that is actually required.
+
+I want to understand how mobile applications can be designed securely.
+
+Another area I want to explore is IoT security.
+
+Connected devices can contain sensors, communication systems, and software.
+
+A vulnerable device may provide an entry point into a larger system.
+
+IoT devices also have limited resources, which can make security more challenging.
+
+This connects my interest in cybersecurity with my interest in connected systems.
+
+Another important area is AI security.
+
+As artificial intelligence becomes more common, AI systems themselves can become targets.
+
+Attackers may attempt to manipulate inputs, steal information, or exploit weaknesses in AI applications.
+
+For example, language-model applications can face risks involving malicious instructions or unsafe tool access.
+
+I want to understand how AI systems can be designed with security in mind.
+
+Another area I find particularly interesting is prompt injection.
+
+AI applications may accept natural-language instructions and sometimes connect to external tools or data.
+
+A malicious instruction may attempt to change the intended behaviour of the system.
+
+This creates security challenges that are different from traditional web vulnerabilities.
+
+I want to explore how AI applications can separate trusted instructions from untrusted content.
+
+Another topic I want to study is privacy in AI systems.
+
+AI applications may process large amounts of user information.
+
+This information can include messages, documents, images, or other personal data.
+
+Developers need to consider what data is collected, where it is stored, and who can access it.
+
+Privacy should be considered during system design.
+
+I want to learn about privacy-preserving approaches to AI.
+
+Another area I find interesting is cybersecurity for cloud-based AI.
+
+AI systems may use cloud storage, APIs, databases, model services, and computing infrastructure.
+
+Each component introduces potential security considerations.
+
+A secure system needs appropriate controls across the entire architecture.
+
+I want to understand how security can be maintained across complex AI systems.
+
+Another important area is security automation.
+
+Modern systems generate large amounts of security information.
+
+AI and automation can potentially help identify suspicious patterns and prioritise alerts.
+
+However, automated systems can also produce false positives.
+
+Security professionals need to understand the limitations of automated detection.
+
+I find this combination of AI and cybersecurity particularly interesting.
+
+My interest in artificial intelligence has therefore expanded my interest in cybersecurity.
+
+AI can be used to improve security.
+
+At the same time, AI systems themselves need to be protected.
+
+This creates a relationship between the two fields that I want to explore further.
+
+Another area I want to study is anomaly detection for cybersecurity.
+
+A system may normally receive a particular pattern of network traffic or user activity.
+
+If the behaviour changes significantly, it may indicate a problem.
+
+Machine learning can potentially help identify such changes.
+
+However, unusual behaviour does not always mean an attack.
+
+Models need to be evaluated carefully to avoid producing too many false alerts.
+
+I find this problem similar to other anomaly detection applications I have studied.
+
+Another area I want to explore is network security.
+
+Computers communicate through networks, and these networks need protection.
+
+Firewalls, secure protocols, monitoring systems, and access controls can help protect network traffic.
+
+I want to strengthen my understanding of networking because it provides an important foundation for cybersecurity.
+
+Another topic I find interesting is secure system architecture.
+
+Security is influenced by how different components are connected.
+
+A system with clear boundaries and restricted access can be easier to protect.
+
+Sensitive services can be isolated.
+
+Permissions can be limited.
+
+External access can be controlled.
+
+I want to learn how architects make these decisions in large systems.
+
+My software development experience has helped me understand why security needs to be included during architecture and design.
+
+It is much easier to build appropriate controls into a system from the beginning than to completely redesign an insecure system later.
+
+This is one of the main lessons I have taken from learning about cybersecurity.
+
+Another lesson is that security is a continuous process.
+
+New vulnerabilities are discovered regularly.
+
+Software changes.
+
+Dependencies are updated.
+
+Attack methods evolve.
+
+Organisations therefore need to keep monitoring and improving their systems.
+
+A secure application today may need additional protection in the future.
+
+I want to develop this mindset in my career.
+
+Another important lesson is that security involves trade-offs.
+
+Strong security controls can sometimes make systems more complicated.
+
+If a process is too difficult, users may try to bypass it.
+
+Therefore, security mechanisms should be designed in a way that users can realistically follow.
+
+This connects cybersecurity with my interest in human-computer interaction.
+
+A secure system should also be usable.
+
+I want to understand how these two goals can be balanced.
+
+Another area I want to explore is security education.
+
+Developers need to understand common vulnerabilities.
+
+Users need to understand common threats.
+
+Organisations need appropriate security policies.
+
+I believe cybersecurity awareness should be part of general digital education.
+
+As more services move online, basic security knowledge becomes increasingly important.
+
+My long-term goal is to work in artificial intelligence and software engineering, while developing strong knowledge of cybersecurity.
+
+I want to build applications that are secure by design.
+
+I am particularly interested in application security, cloud security, AI security, and secure software development.
+
+I also want to understand cybersecurity from both the developer and security perspectives.
+
+Higher education will give me opportunities to study computer networks, operating systems, cryptography, secure programming, cloud computing, and cybersecurity.
+
+I want to build a strong technical foundation in these areas.
+
+I also want to work on practical projects where security is an important requirement.
+
+Another goal is to participate in cybersecurity competitions and technical events.
+
+These can provide opportunities to learn how vulnerabilities occur and how they can be prevented.
+
+I want to approach such activities as a way of improving my understanding rather than simply focusing on competition results.
+
+I also want to gain industry experience.
+
+Professional security environments would allow me to understand how organisations manage risks across large systems.
+
+I want to learn about security reviews, monitoring, incident response, access management, and secure development processes.
+
+This experience would complement my academic learning.
+
+Another area I want to explore is research.
+
+Cybersecurity is constantly changing because technology and attack methods continue to develop.
+
+AI security is also creating new research problems.
+
+I would like to explore how intelligent systems can be made more secure, reliable, and privacy-preserving.
+
+I believe research would help me understand these problems more deeply.
+
+I know there is still a lot for me to learn.
+
+I want to strengthen my knowledge of networking.
+
+I want to study cryptography.
+
+I want to understand secure cloud architecture.
+
+I want to learn more about application security.
+
+I also want to explore AI security and privacy.
+
+These are areas I hope to develop through education, projects, research, and practical experience.
+
+For me, cybersecurity is interesting because it combines programming, networking, mathematics, systems thinking, and human behaviour.
+
+It is not limited to one technology.
+
+Almost every modern system needs some form of security.
+
+This makes cybersecurity relevant to my broader interests in software engineering and artificial intelligence.
+
+I want to develop the ability to identify risks before they become serious problems.
+
+I also want to understand how security decisions affect users and organisations.
+
+Ultimately, I want to become a technology professional who builds systems that are not only functional and intelligent but also secure and reliable.
+
+I want users to be able to trust the applications I develop.
+
+I believe that trust is an important part of modern technology.
+
+As more personal information, financial activity, communication, and essential services move online, protecting digital systems will become increasingly important.
+
+I want to contribute to that effort through my technical education and future work.
+
+My interest in cybersecurity has shown me that building software responsibly means thinking beyond features and performance.
+
+It also means considering privacy, access, security, reliability, and the possible ways a system could fail.
+
+That is why I am interested in cybersecurity and digital safety and why I want to continue developing my knowledge of this field throughout my education and future career.

@@ -1,0 +1,328 @@
+
+I am a student with a strong interest in computer science, and one of the areas I have found particularly interesting is computer vision. I became interested in computer vision because it allows computers to process and understand information from images and videos. I find it interesting because it combines programming, artificial intelligence, mathematics, and practical applications.
+
+My interest in computer vision developed after I started learning about artificial intelligence and machine learning. Initially, I was mainly interested in how computers could learn patterns from data. When I explored image-based data, I became curious about how a computer could identify objects, classify images, and extract useful information from visual input.
+
+I started by learning the basic concepts of image processing and machine learning. I learned about images as numerical data, preprocessing, training datasets, testing datasets, classification, and model evaluation. These concepts helped me understand that a computer does not see an image in the same way a person does. It processes numerical information and learns patterns from examples.
+
+This made computer vision more interesting to me.
+
+I explored convolutional neural networks because they are commonly used for image-related machine learning tasks. Learning about convolution, filters, feature extraction, pooling, and classification helped me understand how models can identify different patterns within images.
+
+Initially, these concepts were difficult because they involved both programming and mathematical ideas. I found that implementing small examples made them easier to understand. When I could see how changing the data or model affected the output, I was able to connect the theory with practical results.
+
+I have worked on different projects involving computer vision and image-based machine learning. These projects gave me experience with the basic workflow of an AI application.
+
+The first step is usually collecting or obtaining suitable data.
+
+The next step is preparing the data.
+
+Images may need to be resized, normalised, or converted into a suitable format. The dataset may also need to be divided into training, validation, and testing sets.
+
+After that, the model can be trained and evaluated.
+
+I learned that the quality of the dataset can have a major effect on the final result. If the data is too limited or does not represent the conditions in which the system will be used, the model may not perform reliably.
+
+This was one of the most important lessons I learned from computer vision projects.
+
+A model can produce good results in a controlled environment but behave differently when the input changes.
+
+For example, changes in lighting, image quality, background, camera angle, or object position can affect performance.
+
+This made me understand why testing is important.
+
+I became interested in improving models not simply by changing the architecture but also by improving the data and evaluation process.
+
+I also learned about data augmentation. Techniques such as rotation, cropping, flipping, and other transformations can help create more varied training examples. These methods helped me understand how models can be prepared for different types of input.
+
+Another important part of my learning was understanding evaluation.
+
+A model should not be judged only by how well it performs on the training data. It needs to be tested on data that it has not seen before.
+
+This helped me understand concepts such as overfitting and generalisation.
+
+A model that memorises the training examples may appear successful but may not work well on new images.
+
+This showed me why proper evaluation is important in machine learning.
+
+My interest in computer vision also comes from its wide range of applications.
+
+Computer vision can be used in healthcare, agriculture, manufacturing, transportation, security, accessibility, and environmental monitoring.
+
+I find these applications interesting because they show how a technical concept can be connected to a real-world problem.
+
+Healthcare is one example.
+
+Image-based systems can assist in analysing medical images and identifying patterns that may require further attention. Such systems need to be developed carefully because incorrect results can have serious consequences.
+
+This made me more interested in the importance of accuracy, testing, and human oversight.
+
+I am also interested in agricultural applications.
+
+Images can be used to identify crop conditions, detect certain plant diseases, or monitor fields. In areas where manual monitoring is difficult, computer vision could potentially provide useful information.
+
+However, environmental conditions can vary significantly, so models need to be trained and tested using appropriate data.
+
+These examples have shown me that developing a computer vision system requires understanding the application area as well as the technology.
+
+Another area that interests me is accessibility.
+
+Computer vision can potentially help people interact with digital systems in alternative ways. For example, visual information can be processed and converted into information that can be presented through other forms of interaction.
+
+I find this area particularly meaningful because it shows how computer vision can be used to improve access to technology.
+
+I would like to explore accessibility-related applications during higher education.
+
+Apart from AI, I have experience with full-stack development. I have worked with technologies such as React, Node.js, Express, MongoDB, and SQL.
+
+This experience has helped me understand how an AI model can be integrated into a complete software application.
+
+A model alone is usually not enough for an end user.
+
+It may need an interface.
+
+It may need a backend service.
+
+It may need data storage.
+
+It may need authentication.
+
+It may need deployment.
+
+It may also need monitoring and error handling.
+
+Understanding these components has increased my interest in building complete AI applications.
+
+For example, a computer vision model could be integrated into a web application where users upload an image and receive the model's result.
+
+Developing such an application requires both AI knowledge and software engineering skills.
+
+I enjoy working at this intersection.
+
+It allows me to apply different areas of computer science to the same project.
+
+My experience with projects has also taught me that computer vision systems need to be designed around users.
+
+A technically accurate model may still be difficult to use if the interface is confusing.
+
+The output should also be presented in a way that users can understand.
+
+This is why I believe user experience is important even in AI projects.
+
+I want to learn more about human-centred AI and how intelligent systems can be made easier to use.
+
+Hackathons have also provided opportunities for me to explore computer vision.
+
+Working within a limited amount of time encourages teams to focus on the main purpose of a system.
+
+Instead of trying to develop a complete research-level model, the goal may be to build a working prototype that demonstrates the idea.
+
+This taught me how to prioritise.
+
+It also helped me become comfortable learning unfamiliar libraries and tools quickly.
+
+I believe this experience will be useful in future research and projects.
+
+Another aspect of computer vision that interests me is the relationship between data and model performance.
+
+Different datasets can produce different results.
+
+A model trained on images from one environment may not generalise well to another.
+
+This can be particularly important in applications intended for diverse populations or environments.
+
+For example, lighting conditions, camera quality, backgrounds, and image sources may vary.
+
+Therefore, collecting representative data is an important part of developing a reliable system.
+
+I want to understand more about dataset design and evaluation.
+
+I am also interested in how modern computer vision models are becoming more capable.
+
+Advances in deep learning have made it possible to develop systems that can perform tasks such as object detection, segmentation, image classification, image generation, and multimodal understanding.
+
+I find these developments interesting because they show how quickly the field is evolving.
+
+At the same time, I understand that new models often require significant computing resources and large datasets.
+
+This creates engineering challenges related to efficiency and deployment.
+
+I want to learn more about these challenges.
+
+Another area I want to explore is edge AI.
+
+Some computer vision applications need to work directly on devices rather than sending every image to a remote server.
+
+This can reduce latency and may provide benefits related to privacy and connectivity.
+
+However, devices have limited processing power and memory.
+
+Developing efficient models for such environments is therefore an interesting engineering problem.
+
+I would like to study this area further.
+
+My interest in computer vision has also encouraged me to learn more mathematics.
+
+Topics such as linear algebra, probability, statistics, and optimisation are important for understanding machine learning.
+
+I want to strengthen my mathematical foundation because I believe that understanding the underlying principles will help me become better at developing and evaluating models.
+
+I do not want to depend only on pre-built libraries.
+
+I want to understand what happens behind them.
+
+This is one of my main academic goals.
+
+I also want to learn more about research.
+
+Computer vision is an active research field, and new methods are continuously being developed.
+
+I would like to learn how researchers identify problems, design experiments, compare approaches, and communicate results.
+
+Reading research papers can help me understand the current state of the field and identify areas where I may want to work in the future.
+
+I hope to gain research experience during college.
+
+Another important skill I want to develop is responsible AI development.
+
+Computer vision systems can process information about people and their surroundings, so privacy and security can become important considerations.
+
+Developers need to think about how images are collected, stored, processed, and used.
+
+I want to understand these issues as I continue learning.
+
+I also believe that AI systems should communicate their limitations clearly.
+
+A model's prediction should not automatically be treated as a fact.
+
+Depending on the application, human review may still be necessary.
+
+This is especially important in sensitive areas such as healthcare or security.
+
+Understanding these limitations is part of responsible engineering.
+
+My long-term goal is to work in artificial intelligence and software development, with computer vision as one of the areas I would like to explore further.
+
+I am interested in developing practical systems rather than focusing only on theoretical models.
+
+I want to understand how computer vision models can be integrated into applications that solve real problems.
+
+At the same time, I want to remain open to other areas of AI.
+
+As I continue learning, I may discover other fields that interest me.
+
+I do not want to restrict my education too early.
+
+I want to build a strong foundation and then develop deeper expertise based on my experiences.
+
+Higher education will provide an important opportunity for this.
+
+I want to learn advanced computer vision and machine learning concepts.
+
+I want to study algorithms and mathematics.
+
+I want to participate in research.
+
+I want to work on projects with other students.
+
+I want to learn from faculty members.
+
+I also want to gain practical experience through internships and technical competitions.
+
+These experiences will help me understand both the academic and practical sides of AI.
+
+I believe computer vision is a good example of why I enjoy computer science.
+
+It combines several areas that interest me.
+
+There is programming.
+
+There is mathematics.
+
+There is data.
+
+There is experimentation.
+
+There is software engineering.
+
+There are also many practical applications.
+
+This combination keeps me interested in the field.
+
+I also like that computer vision provides visible results.
+
+When a model identifies an object or classifies an image, it is possible to see the output directly. This makes experimentation interesting because changes to the model or data can produce observable differences.
+
+At the same time, I understand that impressive results should not automatically be considered reliable.
+
+A system needs proper testing.
+
+This balance between experimentation and evaluation is something I want to maintain.
+
+My experience with computer vision has also improved my patience.
+
+AI projects do not always produce good results immediately.
+
+Sometimes a model performs poorly.
+
+Sometimes the dataset needs improvement.
+
+Sometimes the implementation contains an error.
+
+Sometimes the chosen approach is simply not appropriate.
+
+In these situations, I have learned to investigate rather than immediately change everything.
+
+I try to understand the cause first.
+
+This has improved my approach to technical problems.
+
+I also want to become better at presenting AI results.
+
+A model's output needs to be explained clearly.
+
+Users should understand what the prediction means and, where relevant, what its limitations are.
+
+This connects computer vision with communication and user experience.
+
+I want to develop these skills alongside my technical knowledge.
+
+I believe my current experience provides a useful foundation, but there is still a lot I want to learn.
+
+I want to explore advanced neural networks, multimodal systems, model optimisation, edge deployment, and responsible computer vision.
+
+I also want to understand how research ideas are transformed into practical systems.
+
+These are areas I hope to explore during higher education.
+
+My goal is to become a skilled AI engineer who can understand the fundamentals of machine learning, build practical applications, and work effectively with other people.
+
+I want to use computer vision and other AI technologies to solve useful problems.
+
+I am particularly interested in applications where technology can improve accessibility, education, healthcare, agriculture, or other areas where image-based information can provide value.
+
+I know that developing such systems will require more than knowledge of machine learning.
+
+I will need to understand the problem, work with users, collect appropriate data, build reliable software, evaluate the system, and improve it based on results.
+
+This is why I want to continue developing both my AI and software engineering skills.
+
+My interest in computer vision has given me a clearer understanding of what I enjoy about technology.
+
+I like working with data.
+
+I like experimenting with models.
+
+I like understanding why a system performs well or poorly.
+
+I like integrating AI into software.
+
+I also like thinking about how these technologies can be applied to practical problems.
+
+I want to continue developing these interests through higher education and future projects.
+
+For me, computer vision is not simply another area of artificial intelligence.
+
+It is an opportunity to combine my interests in programming, machine learning, mathematics, and practical problem-solving.
+
+I want to learn more about the field, work on meaningful projects, and eventually contribute to AI systems that are useful, reliable, and responsible.

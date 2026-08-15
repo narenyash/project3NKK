@@ -1,0 +1,438 @@
+
+I am a student who believes that mistakes and failures are a normal part of learning. During my academic journey and while working on technical projects, I have faced situations where my first approach did not work as expected. These experiences have taught me to be more patient, analyse problems carefully, and use mistakes as opportunities to improve.
+
+When I started learning programming, I initially expected that writing code would be a straightforward process. I thought that if I understood the syntax and followed the examples correctly, the program would work. However, as I started building my own projects, I realised that errors are a regular part of software development.
+
+Sometimes a program does not run because of a small syntax error.
+
+Sometimes the code runs but produces the wrong result.
+
+Sometimes the problem is not in the code itself but in the way different components interact.
+
+These situations initially frustrated me, but over time I learned to approach them differently.
+
+Instead of immediately trying random solutions, I started looking at the error carefully and trying to understand what was actually happening.
+
+This changed my approach to debugging.
+
+I learned that solving a technical problem requires identifying its cause before deciding on a solution.
+
+For example, if an application is not displaying the expected information, the problem could be in the frontend, backend, API, database, or even the data itself. Simply changing the user interface may not solve the actual issue.
+
+I therefore started breaking problems into smaller parts.
+
+I check whether the input is correct.
+
+I check whether the backend receives the request.
+
+I check whether the database returns the expected information.
+
+I check whether the response is being sent correctly.
+
+I then check whether the frontend is handling the response properly.
+
+This process has made debugging more systematic.
+
+My experience with artificial intelligence projects has taught me a similar lesson.
+
+Machine learning models do not always produce the expected results.
+
+A model may have good performance during training but perform poorly on new data. Sometimes the dataset may not be large enough. Sometimes the data may contain inconsistencies. Sometimes the model may not be suitable for the problem.
+
+Initially, I thought that improving an AI model mainly meant changing the model architecture.
+
+Later, I understood that there are many other factors involved.
+
+The quality of the data is important.
+
+The preprocessing method is important.
+
+The training process is important.
+
+The evaluation method is important.
+
+The choice of metrics is important.
+
+This helped me understand that failure in a machine learning project can provide useful information.
+
+If a model performs poorly, the result can help identify where the problem is.
+
+Perhaps the data needs to be improved.
+
+Perhaps the model is overfitting.
+
+Perhaps the problem needs to be defined differently.
+
+Perhaps more testing is required.
+
+Instead of treating the poor result as the end of the project, I try to understand what it is telling me.
+
+This approach has also influenced my academic learning.
+
+There are subjects and concepts that I do not understand immediately.
+
+When this happens, I try not to assume that I cannot learn the subject.
+
+I first identify what I am missing.
+
+Sometimes I need to review an earlier concept.
+
+Sometimes I need to solve more examples.
+
+Sometimes I need to find another explanation.
+
+Sometimes I need to ask someone for help.
+
+This has helped me become more comfortable with difficult topics.
+
+I have realised that understanding a subject can take time.
+
+Learning is not always a straight process.
+
+There may be periods where progress feels slow.
+
+However, consistent practice can gradually improve understanding.
+
+I also believe that mistakes can reveal weaknesses that would otherwise remain unnoticed.
+
+For example, if I repeatedly make mistakes in a particular programming concept, it indicates that I need to spend more time understanding that concept.
+
+Similarly, if I struggle with a particular type of problem, I can use that experience to decide what I should practise.
+
+This makes mistakes useful.
+
+I have also learned that it is important to distinguish between making a mistake and repeating the same mistake without learning from it.
+
+Making a mistake is normal.
+
+Ignoring the reason for the mistake is less useful.
+
+I try to understand what caused the problem and what I can do differently next time.
+
+This approach has helped me improve gradually.
+
+Another important lesson I have learned is that asking for feedback can help identify mistakes earlier.
+
+When working on a project, I may become familiar with my own approach and fail to notice a problem.
+
+A teammate or another student may look at the same project differently and identify something I missed.
+
+I have learned to value such feedback.
+
+Feedback does not always mean that the original idea was bad.
+
+It can simply show that there is another way to approach the problem.
+
+I try to consider feedback carefully and use it when it improves the project.
+
+This is particularly important when working in teams.
+
+A team project can involve disagreements about design, technology, features, or implementation.
+
+Sometimes one approach may fail after implementation.
+
+Instead of blaming the person who suggested it, the team can focus on understanding why it did not work and what should be done next.
+
+I believe this creates a better learning environment.
+
+My participation in hackathons has given me several opportunities to experience failure under time constraints.
+
+During a hackathon, there may not be enough time to completely redesign a project after discovering a problem.
+
+The team needs to decide whether to fix the existing approach, simplify the feature, or change the plan.
+
+This teaches practical decision-making.
+
+Sometimes the best solution is not to continue improving a difficult feature.
+
+It may be better to remove it and focus on the main functionality.
+
+I have learned that changing direction is sometimes necessary.
+
+This does not mean giving up.
+
+It means using the available time and resources more effectively.
+
+Another lesson from technical competitions is that not every idea will work.
+
+An idea may sound useful when discussed but become difficult when implemented.
+
+There may be technical limitations.
+
+The required data may not be available.
+
+The solution may take too much time.
+
+Users may not find the feature useful.
+
+These situations have taught me to evaluate ideas more realistically.
+
+I now try to think about feasibility before investing too much time in a particular approach.
+
+I also believe that failure can improve creativity.
+
+When the first solution does not work, I have to think about alternatives.
+
+This may lead to a simpler or more effective approach.
+
+For example, if a particular model is too complex to run efficiently, I may need to explore a smaller model or a different method.
+
+If an application has too many features, I may need to simplify the interface.
+
+The limitation can therefore encourage a different solution.
+
+This is one reason I do not want to avoid difficult projects.
+
+Difficult projects often teach more than projects that work immediately.
+
+I also want to develop a healthier attitude toward academic results.
+
+Grades are important, but one result does not completely define a student's ability.
+
+If I receive a lower result than expected, I want to understand why.
+
+Was my preparation insufficient?
+
+Did I misunderstand the questions?
+
+Did I manage my time poorly?
+
+Did I focus on the wrong topics?
+
+Once the reason is understood, I can improve.
+
+This is more useful than simply feeling disappointed.
+
+I believe this approach will be important in higher education.
+
+University-level courses may be more challenging than what I have experienced so far.
+
+There may be subjects that require significant effort.
+
+There may be assignments where my first attempt is not successful.
+
+There may be research projects where the expected result does not appear.
+
+I want to be prepared for this.
+
+I do not expect everything to be easy.
+
+Instead, I want to develop the ability to continue learning when something is difficult.
+
+This is especially important for research.
+
+Research often involves uncertainty.
+
+A hypothesis may not be supported.
+
+An experiment may produce unexpected results.
+
+A particular approach may not improve the system.
+
+These outcomes are still useful because they provide information.
+
+A researcher needs to understand what the result means and decide what to investigate next.
+
+I would like to develop this type of thinking through research experience.
+
+My interest in artificial intelligence makes this particularly relevant.
+
+AI research involves constant experimentation.
+
+Models are trained and evaluated.
+
+Different datasets are tested.
+
+Methods are compared.
+
+Results are analysed.
+
+Some experiments work.
+
+Others do not.
+
+I want to learn how researchers use both successful and unsuccessful experiments to make progress.
+
+I also want to become better at documenting failures.
+
+When working on a project, it can be tempting to remember only what finally worked.
+
+However, documenting unsuccessful approaches can prevent the same mistakes from being repeated.
+
+It can also help explain why a particular decision was made.
+
+I want to develop better documentation habits as my projects become larger.
+
+Another important part of learning from failure is knowing when to seek help.
+
+There are times when independent problem-solving is useful.
+
+There are also times when continuing alone is inefficient.
+
+If I have tried several reasonable approaches and still do not understand the problem, asking a professor, teammate, or experienced developer can provide a new perspective.
+
+I do not see asking for help as a weakness.
+
+The important part is making an effort to understand the explanation and become more independent afterward.
+
+This balance is something I want to maintain.
+
+I have also learned that failure should not become an excuse for avoiding responsibility.
+
+If I make a mistake in a project, I should acknowledge it and work toward fixing it.
+
+In a team, hiding a problem can make the situation worse.
+
+Communicating the issue early gives everyone a chance to respond.
+
+I believe accountability is an important part of professional behaviour.
+
+Another lesson I have learned is that improvement should be measured over time.
+
+One unsuccessful attempt does not necessarily show whether I am capable of learning something.
+
+If I practise consistently and improve gradually, the overall progress matters more than one mistake.
+
+This helps me stay focused.
+
+I also believe that failure can make success more meaningful.
+
+When a project works after several unsuccessful attempts, I understand the result better because I know what problems had to be solved.
+
+The process provides knowledge that a quick success might not provide.
+
+This is one of the reasons I value difficult projects.
+
+They require more effort, but they can produce deeper learning.
+
+My long-term goal is to work in artificial intelligence and software engineering.
+
+Both fields require continuous problem-solving.
+
+Software systems can fail in unexpected ways.
+
+AI models can produce incorrect results.
+
+Requirements can change.
+
+Projects can face technical limitations.
+
+Therefore, I believe learning how to handle failure is directly connected to my career goals.
+
+I want to become an engineer who does not panic when something goes wrong.
+
+I want to investigate the problem, communicate clearly, identify possible solutions, test them, and learn from the result.
+
+This is the type of problem-solving approach I want to develop.
+
+Higher education will provide many opportunities to practise this.
+
+I want to participate in challenging projects, research activities, internships, and technical competitions.
+
+I expect some of these experiences to be difficult.
+
+That is acceptable.
+
+I want to use them to improve.
+
+I also want to learn from other people's mistakes.
+
+Learning does not always require making every mistake personally.
+
+If a professor, teammate, or experienced engineer explains why a particular approach failed, I can use that information to avoid repeating it.
+
+This is another reason I value collaboration.
+
+Different experiences can provide useful knowledge.
+
+I believe a good learning environment should allow students to make mistakes without being afraid to ask questions.
+
+At the same time, students should take responsibility for learning from those mistakes.
+
+I want to contribute to such an environment.
+
+I also want to help other students when I can.
+
+If I understand a concept that someone else is struggling with, explaining it can also improve my own understanding.
+
+Teaching and learning can support each other.
+
+My approach to failure has therefore influenced more than my technical work.
+
+It has changed how I approach difficult subjects, projects, teamwork, and new opportunities.
+
+I am more willing to try something unfamiliar because I know that an unsuccessful result can still teach me something.
+
+I am also more willing to revise my approach when evidence shows that it is not working.
+
+This flexibility is important to me.
+
+I know that I still have many areas to improve.
+
+I need to strengthen my technical fundamentals.
+
+I need to gain more experience with complex systems.
+
+I want to improve my mathematical understanding of AI.
+
+I want to gain research experience.
+
+I also want to improve my communication and teamwork skills.
+
+I expect to face difficulties while working on these goals.
+
+Instead of trying to avoid every difficulty, I want to use it as part of my learning process.
+
+For me, failure is not the opposite of learning.
+
+It can be part of learning.
+
+A programming error can teach me how a system works.
+
+A poor model result can teach me about data and evaluation.
+
+A difficult team project can teach me communication.
+
+A disappointing academic result can show me where I need to improve.
+
+A rejected idea can lead to a better idea.
+
+These experiences can become useful if I take the time to understand them.
+
+My goal is therefore not to avoid mistakes completely.
+
+That would not be realistic.
+
+My goal is to become better at responding to them.
+
+I want to analyse problems instead of ignoring them.
+
+I want to accept feedback instead of taking it personally.
+
+I want to ask for help when necessary.
+
+I want to try different approaches.
+
+I want to learn from previous experiences.
+
+Most importantly, I want to continue moving forward.
+
+I believe this mindset will help me throughout my academic and professional journey.
+
+Computer science is a field where problems are unavoidable, but they are also opportunities to understand systems better.
+
+I want to approach those problems with patience and curiosity.
+
+I know that there will be projects that fail, concepts that take time to understand, and situations where my first approach is not correct.
+
+I see these experiences as part of becoming a better student and engineer.
+
+My goal is to continue learning, improving my skills, and becoming more comfortable with difficult problems.
+
+I believe that the ability to learn from failure will help me become a more capable and responsible technology professional.
+
+For me, success is not about getting everything right on the first attempt.
+
+It is about understanding what went wrong, improving the approach, and trying again with better knowledge.
+
+That is the mindset I want to carry with me into higher education and my future career.
